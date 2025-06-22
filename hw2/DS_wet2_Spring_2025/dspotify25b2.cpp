@@ -191,7 +191,7 @@ output_t<int> DSpotify::getNumberOfGenreChanges(int songId) {
             return output_t<int>(StatusType::FAILURE);
         }
 
-        int rank = genreUnionFind->rank(song->originalGenreId);
+        int rank = genreUnionFind->rank(song->originalGenreId);//should"v put howmanytimesmerged?
         return output_t<int>(rank);
     } catch (...) {
         return output_t<int>(StatusType::ALLOCATION_ERROR);
