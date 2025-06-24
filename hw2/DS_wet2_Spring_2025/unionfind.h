@@ -74,7 +74,7 @@ public:
     Node<T>* find(const int id);
     // given two ids, will union the sets that correspond to each value associated with the id. Returns true if there was a union, false otherwise
     bool unionSets(const int id1,const int id2);
-
+    int getAbsoluteRank(int gen) ;
     // used to speed implementation. Will return the top most parent of element ele
     // and update the parent of all nodes along the path
     Node<T>* find_root(Node<T>* ele);
@@ -102,14 +102,17 @@ int UnionFind<T>::rank(int fleetId) {
 
 }
 // Helper: Get the absolute "rank" (genre changes so far) from this node to the root.
-template<typename T>
-int getAbsoluteRank(Node<T>* node) {
+template<class T>
+int UnionFind<T>::getAbsoluteRank(int fleetId) {
+    Node<T>* flt = elements.find(fleetId);
     int sum = 0;
-    while (node->parent != node) {
-        sum += node->relRank;
-        node = node->parent;
+    // walk up to root, accumulating relRank
+    while (flt != flt->parent) {
+        sum += flt->relRank;
+        flt = flt->parent;
     }
-    sum += node->baseRank;
+    // finally add root’s baseRank
+    sum += flt->baseRank;
     return sum;
 }
 

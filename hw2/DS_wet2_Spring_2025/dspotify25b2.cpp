@@ -1,199 +1,170 @@
-// dspotify25b2.cpp - Implementation based on the union-find with ranks algorithm
+// dspotify25b2.cpp
 #include "dspotify25b2.h"
-#include <algorithm>
 
-DSpotify::DSpotify() : 
-    songs(make_shared<HashTable<int,shared_ptr<Song>>>(songHashKey)), 
-    genres(make_shared<HashTable<int,shared_ptr<Genre>>>(genreHashKey)), 
-    genreUnionFind(make_shared<UnionFind<shared_ptr<Genre>>>(genreHashKeyFunction))
+DSpotify::DSpotify()
+  : songs(make_shared<HashTable<int,shared_ptr<Song>>>(songHashKey)),
+    genres(make_shared<HashTable<int,shared_ptr<Genre>>>(genreHashKey)),
+    genreUnionFind(make_shared< UnionFind<shared_ptr<Genre>> >(genreHashKeyFunction)),
+    songGenreUF(make_shared<UnionFind<int>>(intKey)),               // for song↔genre grouping
+    initialSongRank(make_shared< HashTable<int,int> >(songHashKey))  // to snapshot merge-count
 {}
 
-DSpotify::~DSpotify() {
-    // Destructor - shared_ptr will handle cleanup automatically
-}
+DSpotify::~DSpotify() = default;
 
-StatusType DSpotify::addGenre(int genreId) {//V
-    if (genreId <= 0) {
+StatusType DSpotify::addGenre(int genreId) {
+    if (genreId <= 0) 
         return StatusType::INVALID_INPUT;
-    }
-    
-    if (genres->contains(genreId)) {
+    if (genres->contains(genreId)) 
         return StatusType::FAILURE;
-    }
-    
     try {
-        shared_ptr<Genre> newGenre = make_shared<Genre>(genreId);
-        genres->insert(genreId, newGenre);
+        // 1) create the Genre object
+        auto g = make_shared<Genre>(genreId);
+        genres->insert(genreId, g);
+
+        // 2) make a fresh UnionFind sentinel for this genre
+        songGenreUF->makeSet(genreId);
         return StatusType::SUCCESS;
-    } catch (...) {
+    } catch(...) {
         return StatusType::ALLOCATION_ERROR;
     }
 }
 
 StatusType DSpotify::addSong(int songId, int genreId) {
-    if (songId <= 0 || genreId <= 0) {
+    if (songId <= 0 || genreId <= 0) 
         return StatusType::INVALID_INPUT;
-    }
-    
-    if (songs->contains(songId) || !genres->contains(genreId)) {
+    if (songs->contains(songId) || !genres->contains(genreId)) 
         return StatusType::FAILURE;
-    }
-    
     try {
-        shared_ptr<Song> newSong = make_shared<Song>(songId, genreId);
-        songs->insert(songId, newSong);
-        
-        // Add genre to union-find if not already there
-        if (!genreUnionFind->elements.contains(genreId)) {
-            shared_ptr<Genre> genre = genres->find(genreId);
-            genreUnionFind->makeSet(genre);
+        // 1) record the song
+        auto s = make_shared<Song>(songId, genreId);
+        songs->insert(songId, s);
+
+        // 2) ensure its genre sentinel exists
+        if (!songGenreUF->elements.contains(genreId)) {
+            // (shouldn’t happen if addGenre is correct, but just in case)
+            songGenreUF->makeSet(genreId);
         }
-        
-        // Increment song count for the genre's representative
-        Node<shared_ptr<Genre>>* rep = genreUnionFind->find(genreId);
-        if (rep && rep->value) {
-            rep->value->songCount++;
-        }
-        
+
+        // 3) create the song’s own UF node, then hook it under its genre
+        songGenreUF->makeSet(songId);
+        songGenreUF->unionSets(songId, genreId);
+        songs->find(songId)->originalGenreId = genreId ; 
+
+        // 4) bump that genre’s songCount
+        auto g = genres->find(genreId);
+        g->songCount++;
+
+        // 5) snapshot how many merges this song’s set has already seen
+        int nowRank = songGenreUF->rank(songId);
+        initialSongRank->insert(songId, nowRank);
+
         return StatusType::SUCCESS;
-    } catch (...) {
+    } catch(...) {
         return StatusType::ALLOCATION_ERROR;
     }
 }
 
-/*StatusType DSpotify::mergeGenres(int genreId1, int genreId2, int genreId3) {
+StatusType DSpotify::mergeGenres(int g1, int g2, int g3) {
+    // … your input checks …
 
-    if (genreId1 <= 0 || genreId2 <= 0 || genreId3 <= 0 ||
-        genreId1 == genreId2 || genreId1 == genreId3 || genreId2 == genreId3)
-        return StatusType::INVALID_INPUT;
-    if (!genres->contains(genreId1) || !genres->contains(genreId2) || genres->contains(genreId3))
-        return StatusType::FAILURE;
+    // 1) create and insert the new Genre
+    auto ng = make_shared<Genre>(g3);
+    genres->insert(g3, ng);
 
-}*/
-StatusType DSpotify::mergeGenres(int genreId1, int genreId2, int genreId3) {//this is disaster
-    if (genreId1 <= 0 || genreId2 <= 0 || genreId3 <= 0 ||
-        genreId1 == genreId2 || genreId1 == genreId3 || genreId2 == genreId3)
-        return StatusType::INVALID_INPUT;
+    // 2) make sure all three IDs have UF‐nodes
+    songGenreUF->makeSet(g3);
+    if (!songGenreUF->elements.contains(g1)) songGenreUF->makeSet(g1);
+    if (!songGenreUF->elements.contains(g2)) songGenreUF->makeSet(g2);
 
-    if (!genres->contains(genreId1) || !genres->contains(genreId2) || genres->contains(genreId3))
-        return StatusType::FAILURE;
+    // 3) grab their current roots
+    auto *rep1 = songGenreUF->find(g1);
+    auto *rep2 = songGenreUF->find(g2);
+    auto *rep3 = songGenreUF->find(g3);
 
-    try {
-        // 1. Create and insert new genre node
-        shared_ptr<Genre> newGenre = make_shared<Genre>(genreId3);
-        genres->insert(genreId3, newGenre);
-        genreUnionFind->makeSet(newGenre);
+    // 4) move songCounts (unchanged)
+    int c1 = genres->find(g1)->songCount;
+    int c2 = genres->find(g2)->songCount;
+    ng->songCount = c1 + c2;
+    genres->find(g1)->songCount = 0;
+    genres->find(g2)->songCount = 0;
 
-        // 2. Make sure old genres are in Union-Find
-        if (!genreUnionFind->elements.contains(genreId1))
-            genreUnionFind->makeSet(genres->find(genreId1));
-        if (!genreUnionFind->elements.contains(genreId2))
-            genreUnionFind->makeSet(genres->find(genreId2));
+    // 5) attach rep1 and rep2 under rep3 *and* record the merge
+    auto attachUnder = [&](Node<int>* oldRoot){
+        if (oldRoot == rep3) return;
+        // 5a) link
+        oldRoot->parent   = rep3;
+        // 5b) shift old base into rel and add one merge event
+        oldRoot->relRank  = oldRoot->baseRank + 1;
+        oldRoot->baseRank = 0;
+        // 5c) sizes (optional—only matters for union-by-size, can skip)
+        rep3->size       += oldRoot->size;
+        oldRoot->size     = 0;
+    };
 
-        // 3. Get root nodes
-        auto* rep1 = genreUnionFind->find(genreId1);
-        auto* rep2 = genreUnionFind->find(genreId2);
-        auto* rep3 = genreUnionFind->find(genreId3);
+    attachUnder(rep1);
+    attachUnder(rep2);
 
-        if (!rep1 || !rep2 || !rep3) return StatusType::FAILURE;
+    // 6) bump rep3’s baseRank so that rank(g3)==1 after one merge
+    rep3->baseRank += 1;
 
-        // 4. Transfer song count to new genre
-        rep3->value->songCount = rep1->value->songCount + rep2->value->songCount;
-        rep1->value->songCount = 0;
-        rep2->value->songCount = 0;
+    // 7) reset g1, g2 for future songs
+    songGenreUF->makeSet(g1);
+    songGenreUF->makeSet(g2);
 
-        // 5. Manually attach rep1 and rep2 under rep3
-        auto attachUnder = [rep3](Node<shared_ptr<Genre>>* oldRoot) {
-            if (oldRoot == rep3) return; // prevent self-cycle
-            oldRoot->parent = rep3;
-            oldRoot->relRank = oldRoot->baseRank + 1; // account for one merge
-            oldRoot->baseRank = 0;
-            rep3->size += oldRoot->size;
-            oldRoot->size = 0;
-        };
-
-        attachUnder(rep1);
-        attachUnder(rep2);
-
-        return StatusType::SUCCESS;
-    } catch (...) {
-        return StatusType::ALLOCATION_ERROR;
-    }
+    return StatusType::SUCCESS;
 }
-
 
 output_t<int> DSpotify::getSongGenre(int songId) {
-    if(songId <= 0) {
+    if (songId <= 0) 
         return output_t<int>(StatusType::INVALID_INPUT);
-    }
-    if(!songs->contains(songId)) {
+    if (!songs->contains(songId)) 
         return output_t<int>(StatusType::FAILURE);
-    }
-    try{
-        shared_ptr<Song> song = songs->find(songId);
-        if (!song) {
-            return output_t<int>(StatusType::FAILURE);
-        }
-        
-        // Find the representative genre of the song's original genre
-        Node<shared_ptr<Genre>>* rep = genreUnionFind->find(song->originalGenreId);
-        if (rep && rep->value) {
-            return output_t<int>(rep->value->id);
-        } else {
-            return output_t<int>(StatusType::FAILURE);
-        }
-    } catch (...) {
-        return output_t<int>(StatusType::ALLOCATION_ERROR);
-    }
 
+    // 1) find the DSU node & the rank we recorded at insertion
+    
+    Node<int>* cur1 = songGenreUF->elements.find(songs->find(songId)->originalGenreId);
+    Node<int>* cur = songGenreUF->elements.find(songId);
+    int targetRank = initialSongRank->find(songId);
+
+    if(targetRank == cur1->relRank){
+         
+          return output_t<int>(songs->find(songId)->originalGenreId);
+    }
+    // 2) walk upward, accumulating relRank, until we hit that snapshot point
+    int acc = 0;
+    while (cur->parent != cur) {
+        int edge = cur->relRank;        // how many merges this edge represents
+        if (acc + edge > targetRank) {
+            // stepping one more edge would overshoot our insertion snapshot,
+            // so the *current* node is exactly the root at insertion time
+            break;
+        }
+        acc += edge;
+        cur = cur->parent;
+    }
+    
+
+    // 3) cur->value is the genre‐ID at the moment the song was added
+    return output_t<int>(cur->value);
 }
 
+
 output_t<int> DSpotify::getNumberOfSongsByGenre(int genreId) {
-    if (genreId <= 0) {
+    if (genreId <= 0) 
         return output_t<int>(StatusType::INVALID_INPUT);
-    }
-    if (!genres->contains(genreId)) {
+    if (!genres->contains(genreId)) 
         return output_t<int>(StatusType::FAILURE);
-    }
-    try{
-        shared_ptr<Genre> genre = genres->find(genreId);
-        if (!genre) {
-            return output_t<int>(StatusType::FAILURE);
-        }
-        
-        Node<shared_ptr<Genre>>* rep = genreUnionFind->find(genreId);
-        if (rep && rep->value) {
-            return output_t<int>(rep->value->songCount);
-        } else {
-            return output_t<int>(StatusType::FAILURE);
-        }
-    } catch (...) {
-        return output_t<int>(StatusType::ALLOCATION_ERROR);
-    }
+    return output_t<int>( genres->find(genreId)->songCount );
 }
 
 output_t<int> DSpotify::getNumberOfGenreChanges(int songId) {
-    if (songId <= 0) {
+    if (songId <= 0) 
         return output_t<int>(StatusType::INVALID_INPUT);
-    }
-
-    if (!songs->contains(songId)) {
+    if (!songs->contains(songId)) 
         return output_t<int>(StatusType::FAILURE);
-    }
 
-    try {
-        shared_ptr<Song> song = songs->find(songId);
-        if (!song) {
-            return output_t<int>(StatusType::FAILURE);
-        }
-
-        if (!genreUnionFind->elements.contains(song->originalGenreId)) {
-            return output_t<int>(StatusType::FAILURE);
-        }
-
-        int rank = genreUnionFind->rank(song->originalGenreId);//should"v put howmanytimesmerged?
-        return output_t<int>(rank);
-    } catch (...) {
-        return output_t<int>(StatusType::ALLOCATION_ERROR);
-    }
+    // how many merges has this song’s set seen *now* vs at insertion?
+    int now   = songGenreUF->rank(songId);
+    int then  = initialSongRank->find(songId);
+    return output_t<int>( now - then );
 }

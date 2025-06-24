@@ -11,3 +11,6 @@ int genreHashKey(const int& j){
 int  genreHashKeyFunction ( const shared_ptr <Genre>& t ) {
    return t->id ;     
 } 
+ int intKey(const int& t){
+    return  t; 
+ }

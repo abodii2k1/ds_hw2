@@ -27,8 +27,10 @@ int main()
     
     // Execute all commands in file
     string op;
+    int i = 0 ;
     while (cin >> op)
     {
+        i++;
         if (!op.compare("addGenre")) {
             cin >> d1;
             print(op, obj->addGenre(d1));
