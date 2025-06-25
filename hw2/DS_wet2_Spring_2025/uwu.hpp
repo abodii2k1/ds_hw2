@@ -5,23 +5,25 @@
 
 using namespace std;
 
+class Song ; 
+
 class Genre {
     public:
     int id;
+    weak_ptr<Song> root_in_songs ; 
     int songCount;
-    int howmanytimesmerged;
-    bool hasMergedSince ; 
     
-    Genre(int genreId) : id(genreId), songCount(0), howmanytimesmerged(0), hasMergedSince(false) {}
+    Genre(int genreId) : id(genreId),root_in_songs(shared_ptr<Song>()) ,songCount(0) {}
 };
 
 // Song structure
 class Song {
     public:
     int id;
-    int originalGenreId;  // The genre this song was originally added to
-    
-    Song(int songId, int genreId) : id(songId), originalGenreId(genreId)  {}
+    int merges;  // The genre this song was originally added to
+    shared_ptr<Song> parent ; 
+    shared_ptr<Genre> genre_root ; 
+    Song(int songId, int when_merged) : id(songId) ,merges(when_merged),parent(nullptr) , genre_root(nullptr)  {}
 };
 
 int songHashKey(const int & e) ; 

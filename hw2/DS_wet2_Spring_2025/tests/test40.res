@@ -5,16 +5,16 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 76139
-getSongGenre: SUCCESS, 76139
+getSongGenre: SUCCESS, 45470
+getSongGenre: SUCCESS, 45470
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 76139
+getSongGenre: SUCCESS, 45470
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 76139
+getSongGenre: SUCCESS, 45470
 addSong: SUCCESS
-getSongGenre: SUCCESS, 76139
+getSongGenre: SUCCESS, 45470
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -78,7 +78,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 8127
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -118,7 +118,7 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -126,7 +126,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 76139
+getSongGenre: SUCCESS, 45470
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -184,7 +184,7 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 10870
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -192,12 +192,12 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 76139
+getSongGenre: SUCCESS, 1071
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
-getNumberOfGenreChanges: SUCCESS, 0
-getSongGenre: SUCCESS, 53937
+getNumberOfGenreChanges: SUCCESS, 1
+getSongGenre: SUCCESS, 39410
 addGenre: INVALID_INPUT
 addSong: SUCCESS
 mergeGenres: SUCCESS
@@ -231,7 +231,7 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 44034
+getSongGenre: SUCCESS, 1071
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -255,7 +255,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 54295
+getSongGenre: SUCCESS, 91961
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getSongGenre: FAILURE
@@ -278,7 +278,7 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -287,7 +287,7 @@ getNumberOfSongsByGenre: SUCCESS, 1
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -316,21 +316,21 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 54295
+getSongGenre: SUCCESS, 91961
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 40235
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 8127
+getSongGenre: SUCCESS, 7826
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -358,7 +358,7 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 63507
 mergeGenres: SUCCESS
 addSong: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -381,7 +381,7 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addSong: SUCCESS
@@ -389,15 +389,15 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 94875
+getSongGenre: SUCCESS, 25581
 getNumberOfGenreChanges: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
@@ -416,17 +416,17 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 getSongGenre: SUCCESS, 46661
 addSong: SUCCESS
-getSongGenre: SUCCESS, 30468
+getSongGenre: SUCCESS, 77496
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 8127
+getSongGenre: SUCCESS, 7826
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -440,7 +440,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addSong: SUCCESS
-getSongGenre: SUCCESS, 60165
+getSongGenre: SUCCESS, 93094
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 91075
 addGenre: SUCCESS
@@ -450,14 +450,14 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 6285
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
-getSongGenre: SUCCESS, 82994
+getSongGenre: SUCCESS, 37152
 getNumberOfGenreChanges: FAILURE
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -475,16 +475,16 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 8127
+getSongGenre: SUCCESS, 49970
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addSong: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 66054
+getSongGenre: SUCCESS, 81434
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -495,8 +495,8 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
-getSongGenre: SUCCESS, 31176
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 64273
 addGenre: SUCCESS
 getNumberOfSongsByGenre: FAILURE
 addGenre: SUCCESS
@@ -524,7 +524,7 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 98003
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 80864
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -554,9 +554,9 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 56665
+getSongGenre: SUCCESS, 71439
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
@@ -573,7 +573,7 @@ getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 8127
+getSongGenre: SUCCESS, 16138
 addSong: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
@@ -604,10 +604,10 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 19904
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 10
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -616,14 +616,14 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 57820
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -655,7 +655,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -664,12 +664,12 @@ getSongGenre: SUCCESS, 49958
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -686,13 +686,13 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 3
 getSongGenre: SUCCESS, 46661
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 57820
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 19904
 mergeGenres: SUCCESS
@@ -700,22 +700,22 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: INVALID_INPUT
 getSongGenre: SUCCESS, 72438
-getNumberOfGenreChanges: SUCCESS, 8
-addGenre: SUCCESS
-addGenre: SUCCESS
-addSong: SUCCESS
-addSong: SUCCESS
-addSong: SUCCESS
-addGenre: SUCCESS
-addGenre: SUCCESS
-addGenre: SUCCESS
-addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 12
-mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 82994
-addGenre: SUCCESS
-addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 4
+addGenre: SUCCESS
+addGenre: SUCCESS
+addSong: SUCCESS
+addSong: SUCCESS
+addSong: SUCCESS
+addGenre: SUCCESS
+addGenre: SUCCESS
+addGenre: SUCCESS
+addGenre: SUCCESS
+getNumberOfGenreChanges: SUCCESS, 3
+mergeGenres: SUCCESS
+getSongGenre: SUCCESS, 37152
+addGenre: SUCCESS
+addGenre: SUCCESS
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: INVALID_INPUT
@@ -726,7 +726,7 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 58894
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
@@ -753,7 +753,7 @@ addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 10254
-getSongGenre: SUCCESS, 34014
+getSongGenre: SUCCESS, 64220
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
@@ -770,7 +770,7 @@ getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 30468
+getSongGenre: SUCCESS, 77496
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -798,7 +798,7 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 57499
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 getSongGenre: SUCCESS, 58894
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -810,11 +810,11 @@ mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 16
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
@@ -833,18 +833,18 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 12
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 93285
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
-getSongGenre: SUCCESS, 81529
+getSongGenre: SUCCESS, 62807
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 71673
@@ -872,7 +872,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 5178
+getSongGenre: SUCCESS, 64150
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -885,7 +885,7 @@ addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 18
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
@@ -912,14 +912,14 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 63507
+getSongGenre: SUCCESS, 39751
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 34014
+getSongGenre: SUCCESS, 64220
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -933,11 +933,11 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 91152
-getSongGenre: SUCCESS, 3402
+getSongGenre: SUCCESS, 71563
+getSongGenre: SUCCESS, 38686
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 12
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
@@ -951,15 +951,15 @@ getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 58894
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 5178
+getSongGenre: SUCCESS, 63507
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+mergeGenres: INVALID_INPUT
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 22118
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -968,7 +968,7 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -986,7 +986,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getSongGenre: SUCCESS, 80975
+getSongGenre: SUCCESS, 64150
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -997,7 +997,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 12
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -1026,7 +1026,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -1035,11 +1035,11 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 20
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -1061,10 +1061,10 @@ addSong: SUCCESS
 addSong: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 24
-getSongGenre: SUCCESS, 57820
+getNumberOfGenreChanges: SUCCESS, 3
+getSongGenre: SUCCESS, 1309
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 70874
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -1082,13 +1082,13 @@ getNumberOfGenreChanges: FAILURE
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 16
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 13530
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 12
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
@@ -1110,7 +1110,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 5178
+getSongGenre: SUCCESS, 64150
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
@@ -1127,7 +1127,7 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -1165,7 +1165,7 @@ addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
@@ -1194,41 +1194,41 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 6793
+getSongGenre: SUCCESS, 62754
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 37928
+getSongGenre: SUCCESS, 76139
 getNumberOfGenreChanges: FAILURE
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 16138
-getSongGenre: SUCCESS, 72438
+getSongGenre: SUCCESS, 53199
+getSongGenre: SUCCESS, 84633
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 72438
+getSongGenre: SUCCESS, 84633
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 45523
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 10
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 10
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 40456
+getSongGenre: SUCCESS, 10040
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 10
+getNumberOfGenreChanges: SUCCESS, 1
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -1239,7 +1239,7 @@ getSongGenre: SUCCESS, 98003
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 22
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -1248,7 +1248,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 6285
-getSongGenre: SUCCESS, 40823
+getSongGenre: SUCCESS, 12231
 addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
@@ -1269,7 +1269,7 @@ addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 40456
+getSongGenre: SUCCESS, 10040
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -1277,7 +1277,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 46661
+getSongGenre: SUCCESS, 1609
 getNumberOfSongsByGenre: FAILURE
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -1285,16 +1285,16 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 26
-getNumberOfGenreChanges: SUCCESS, 14
-getNumberOfGenreChanges: SUCCESS, 10
+getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 18
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -1306,7 +1306,7 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 72438
+getSongGenre: SUCCESS, 84633
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
@@ -1315,7 +1315,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
-getSongGenre: SUCCESS, 95210
+getSongGenre: SUCCESS, 20827
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: INVALID_INPUT
@@ -1324,8 +1324,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 10
-getSongGenre: SUCCESS, 72438
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 84633
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -1362,12 +1362,12 @@ getSongGenre: FAILURE
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 20
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 10254
-getSongGenre: SUCCESS, 39701
+getSongGenre: SUCCESS, 93094
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 2
@@ -1377,7 +1377,7 @@ addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 19425
+getSongGenre: SUCCESS, 48434
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -1386,7 +1386,7 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 1
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -1396,12 +1396,12 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 46661
+getSongGenre: SUCCESS, 1609
+addGenre: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-addGenre: SUCCESS
-mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 10
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 2
@@ -1424,10 +1424,10 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -1435,18 +1435,18 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 14
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 12
-getSongGenre: SUCCESS, 39701
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 93094
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 337
@@ -1461,14 +1461,14 @@ addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 22
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 22
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -1494,25 +1494,25 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 53937
+getSongGenre: SUCCESS, 8393
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: FAILURE
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 30
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 54891
+getSongGenre: SUCCESS, 77496
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 71120
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 26
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -1527,7 +1527,7 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 46661
+getSongGenre: SUCCESS, 1609
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -1546,15 +1546,15 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 54744
+getSongGenre: SUCCESS, 80545
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 22
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 56179
+getSongGenre: SUCCESS, 18119
 getSongGenre: SUCCESS, 25188
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -1565,8 +1565,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 98003
 getSongGenre: SUCCESS, 97872
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 12
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 1
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -1578,16 +1578,16 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 11
-addSong: SUCCESS
-addGenre: SUCCESS
-addGenre: SUCCESS
-addGenre: SUCCESS
+mergeGenres: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
+addGenre: SUCCESS
+addGenre: SUCCESS
+addGenre: SUCCESS
+getNumberOfGenreChanges: SUCCESS, 2
+addSong: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 852
+getSongGenre: SUCCESS, 20606
 mergeGenres: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
@@ -1601,7 +1601,7 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addSong: FAILURE
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 10870
+getSongGenre: SUCCESS, 84045
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -1613,7 +1613,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 26
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
@@ -1623,21 +1623,21 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 26038
+getSongGenre: SUCCESS, 34581
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 54744
+getSongGenre: SUCCESS, 80545
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 10870
+getSongGenre: SUCCESS, 84045
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -1646,7 +1646,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 46661
+getSongGenre: SUCCESS, 1609
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 96026
 getNumberOfGenreChanges: SUCCESS, 2
@@ -1673,19 +1673,19 @@ getSongGenre: SUCCESS, 86921
 mergeGenres: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
-getNumberOfGenreChanges: SUCCESS, 26
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 12
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 31176
+getSongGenre: SUCCESS, 17438
 mergeGenres: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 28
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 31350
@@ -1693,11 +1693,11 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 28
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: INVALID_INPUT
 addSong: SUCCESS
 mergeGenres: SUCCESS
@@ -1706,7 +1706,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -1729,7 +1729,7 @@ addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 3489
-getNumberOfGenreChanges: SUCCESS, 36
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 10254
 mergeGenres: SUCCESS
@@ -1742,18 +1742,18 @@ getNumberOfSongsByGenre: FAILURE
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 72757
+getSongGenre: SUCCESS, 58275
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 28
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 24
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
@@ -1762,7 +1762,7 @@ addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 31176
+getSongGenre: SUCCESS, 17438
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -1779,16 +1779,16 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: FAILURE
-getSongGenre: SUCCESS, 15304
+getSongGenre: SUCCESS, 82995
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 34
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 75884
+getSongGenre: SUCCESS, 26038
 getSongGenre: SUCCESS, 86534
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -1804,7 +1804,7 @@ getSongGenre: SUCCESS, 10254
 getSongGenre: SUCCESS, 59560
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 37917
+getSongGenre: SUCCESS, 7001
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -1820,7 +1820,7 @@ getSongGenre: SUCCESS, 90240
 getSongGenre: SUCCESS, 38914
 getNumberOfGenreChanges: FAILURE
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 24
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
@@ -1832,7 +1832,7 @@ mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 7
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
@@ -1861,13 +1861,13 @@ mergeGenres: SUCCESS
 getNumberOfGenreChanges: FAILURE
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 57820
+getSongGenre: SUCCESS, 43220
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 26
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -1881,8 +1881,8 @@ addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 36
-getNumberOfGenreChanges: SUCCESS, 16
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -1923,14 +1923,14 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 97515
+getSongGenre: SUCCESS, 20455
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
@@ -1942,7 +1942,7 @@ addGenre: INVALID_INPUT
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 7
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -1957,7 +1957,7 @@ getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 31799
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -1980,11 +1980,11 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 getSongGenre: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 4
 addSong: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 79000
 getSongGenre: SUCCESS, 96026
@@ -2002,17 +2002,17 @@ getNumberOfGenreChanges: FAILURE
 getSongGenre: SUCCESS, 76173
 getSongGenre: SUCCESS, 78720
 getSongGenre: SUCCESS, 38914
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 36
-getNumberOfGenreChanges: SUCCESS, 20
-getSongGenre: SUCCESS, 81467
-addGenre: SUCCESS
-addGenre: SUCCESS
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 71439
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 9862
+addGenre: SUCCESS
+addGenre: SUCCESS
+getSongGenre: SUCCESS, 82645
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 2
@@ -2034,7 +2034,7 @@ addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -2045,21 +2045,21 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 41610
-getSongGenre: SUCCESS, 66356
+getSongGenre: SUCCESS, 43220
+getSongGenre: SUCCESS, 32833
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 18
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 36
+mergeGenres: INVALID_INPUT
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -2070,16 +2070,16 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 31176
-getNumberOfGenreChanges: SUCCESS, 28
+getSongGenre: SUCCESS, 17438
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 16
-getNumberOfGenreChanges: SUCCESS, 12
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 56827
+getSongGenre: SUCCESS, 7999
 getSongGenre: SUCCESS, 39055
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -2089,8 +2089,8 @@ getSongGenre: SUCCESS, 337
 addSong: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 63507
-getNumberOfGenreChanges: SUCCESS, 33
+getSongGenre: SUCCESS, 68877
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -2098,7 +2098,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -2108,19 +2108,19 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 37985
+getSongGenre: SUCCESS, 15631
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: FAILURE
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 19425
+getSongGenre: SUCCESS, 48434
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -2141,7 +2141,7 @@ mergeGenres: SUCCESS
 getNumberOfGenreChanges: FAILURE
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 54744
+getSongGenre: SUCCESS, 15518
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -2150,28 +2150,28 @@ getSongGenre: SUCCESS, 79595
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 60165
+getSongGenre: SUCCESS, 93094
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 10
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addSong: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 66356
+getSongGenre: SUCCESS, 57815
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 35
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 1
-getNumberOfGenreChanges: SUCCESS, 6
-getSongGenre: SUCCESS, 15304
+getNumberOfGenreChanges: SUCCESS, 3
+getSongGenre: SUCCESS, 37847
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
@@ -2181,7 +2181,7 @@ addGenre: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 95210
+getSongGenre: SUCCESS, 20827
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -2196,7 +2196,7 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 28
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -2211,7 +2211,7 @@ getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 14
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
@@ -2223,24 +2223,24 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 10
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 78605
+getSongGenre: SUCCESS, 1609
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 41610
-getNumberOfGenreChanges: SUCCESS, 12
+getSongGenre: SUCCESS, 43220
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: FAILURE
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 9
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -2248,7 +2248,7 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
-getNumberOfGenreChanges: SUCCESS, 42
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -2257,7 +2257,7 @@ addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 67382
-getNumberOfGenreChanges: SUCCESS, 14
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: INVALID_INPUT
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -2270,18 +2270,18 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 60165
+getSongGenre: SUCCESS, 93094
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: FAILURE
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 44034
+getSongGenre: SUCCESS, 1071
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -2290,34 +2290,34 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 12
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 62754
+getSongGenre: SUCCESS, 16226
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 78605
+getSongGenre: SUCCESS, 1609
+mergeGenres: INVALID_INPUT
 mergeGenres: SUCCESS
-mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 26038
+getSongGenre: SUCCESS, 81529
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 17
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 16
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 36
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: FAILURE
 getSongGenre: SUCCESS, 37985
 addGenre: SUCCESS
@@ -2326,12 +2326,12 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 852
+getSongGenre: SUCCESS, 20606
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 43
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 30
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -2343,12 +2343,12 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 82282
-getNumberOfGenreChanges: SUCCESS, 43
+getSongGenre: SUCCESS, 50421
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 18
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 45235
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -2378,7 +2378,7 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 getSongGenre: SUCCESS, 93285
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -2391,17 +2391,17 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 10254
-getNumberOfGenreChanges: SUCCESS, 45
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 10
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: FAILURE
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 36
-getNumberOfGenreChanges: SUCCESS, 12
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -2416,7 +2416,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 87528
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 56628
+getSongGenre: SUCCESS, 48046
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
@@ -2426,7 +2426,7 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 36
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -2436,12 +2436,12 @@ mergeGenres: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 56827
+getSongGenre: SUCCESS, 39410
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: FAILURE
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 12
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -2483,26 +2483,26 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 25193
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 47
-getNumberOfGenreChanges: SUCCESS, 21
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 56628
+getSongGenre: SUCCESS, 61127
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 39
-getSongGenre: SUCCESS, 6793
+getNumberOfGenreChanges: SUCCESS, 3
+getSongGenre: SUCCESS, 62754
 addSong: SUCCESS
 addGenre: SUCCESS
 addSong: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 37987
+getSongGenre: SUCCESS, 57906
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -2512,21 +2512,21 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 24
+getNumberOfGenreChanges: SUCCESS, 3
 getSongGenre: SUCCESS, 15450
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 24
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 20
+getNumberOfGenreChanges: SUCCESS, 4
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 70046
+getSongGenre: SUCCESS, 75541
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 20
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -2542,15 +2542,15 @@ addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 26
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 72757
+getSongGenre: SUCCESS, 58275
 getSongGenre: SUCCESS, 57499
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -2560,23 +2560,23 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 22118
+getSongGenre: SUCCESS, 94955
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 31350
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 9862
+getSongGenre: SUCCESS, 82645
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 25
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 30
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addSong: INVALID_INPUT
 addGenre: SUCCESS
@@ -2590,31 +2590,31 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 45235
-getSongGenre: SUCCESS, 87355
-getNumberOfGenreChanges: SUCCESS, 30
+getSongGenre: SUCCESS, 12121
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 7375
 addSong: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 82994
+getSongGenre: SUCCESS, 37152
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 44
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 32
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 44
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 56827
+getSongGenre: SUCCESS, 37987
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -2635,7 +2635,7 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 22
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -2643,7 +2643,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
@@ -2674,12 +2674,12 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 24
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: FAILURE
-getSongGenre: SUCCESS, 87355
+getSongGenre: SUCCESS, 12121
 addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -2691,7 +2691,7 @@ mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 50528
 mergeGenres: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 61958
+getSongGenre: SUCCESS, 57906
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -2712,11 +2712,11 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 60165
-getNumberOfGenreChanges: SUCCESS, 31
+getSongGenre: SUCCESS, 93094
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 82282
+getSongGenre: SUCCESS, 13857
 addGenre: SUCCESS
 getNumberOfSongsByGenre: FAILURE
 addGenre: SUCCESS
@@ -2734,7 +2734,7 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 26
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -2745,13 +2745,13 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 10
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 48
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -2776,7 +2776,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 14
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -2786,18 +2786,18 @@ getSongGenre: SUCCESS, 1664
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 14
-getSongGenre: SUCCESS, 60471
+getNumberOfGenreChanges: SUCCESS, 4
+getSongGenre: SUCCESS, 76322
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addSong: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -2807,7 +2807,7 @@ getNumberOfSongsByGenre: SUCCESS, 1
 getSongGenre: SUCCESS, 47159
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 1
 addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -2822,15 +2822,15 @@ getNumberOfGenreChanges: FAILURE
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 48
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 12
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -2838,7 +2838,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 mergeGenres: SUCCESS
@@ -2855,13 +2855,13 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 38167
-getNumberOfGenreChanges: SUCCESS, 59
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 getSongGenre: SUCCESS, 81191
-getNumberOfGenreChanges: SUCCESS, 4
-getNumberOfGenreChanges: SUCCESS, 28
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -2870,11 +2870,11 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 10
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 56644
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 87355
+getSongGenre: SUCCESS, 12121
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -2885,12 +2885,12 @@ getSongGenre: SUCCESS, 33750
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 55
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 25885
 addSong: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
-getSongGenre: SUCCESS, 81529
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 62807
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -2915,7 +2915,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 1664
 mergeGenres: SUCCESS
 getNumberOfGenreChanges: FAILURE
@@ -2925,38 +2925,38 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 28
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 56644
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 29923
-getNumberOfGenreChanges: SUCCESS, 12
-getSongGenre: SUCCESS, 20962
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 84876
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 38
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 35
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 81061
+getSongGenre: SUCCESS, 96666
 getNumberOfSongsByGenre: SUCCESS, 1
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 12
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfGenreChanges: FAILURE
 addGenre: SUCCESS
@@ -2967,15 +2967,15 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 36
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 18029
+getSongGenre: SUCCESS, 42490
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -2983,20 +2983,20 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 60893
 getSongGenre: SUCCESS, 86431
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 35
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 6793
+getSongGenre: SUCCESS, 62754
 addSong: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
@@ -3006,7 +3006,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 12
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -3015,10 +3015,10 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 30
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
@@ -3036,10 +3036,10 @@ addSong: SUCCESS
 addSong: SUCCESS
 getSongGenre: SUCCESS, 27445
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 56827
-getNumberOfGenreChanges: SUCCESS, 46
-mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 56827
+getSongGenre: SUCCESS, 7999
+getNumberOfGenreChanges: SUCCESS, 2
+mergeGenres: INVALID_INPUT
+getSongGenre: SUCCESS, 95295
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -3052,14 +3052,14 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 11132
+getSongGenre: SUCCESS, 73756
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 5178
+getSongGenre: SUCCESS, 63507
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 getSongGenre: FAILURE
-getNumberOfGenreChanges: SUCCESS, 40
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -3077,8 +3077,8 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
-mergeGenres: SUCCESS
+getNumberOfGenreChanges: SUCCESS, 1
+mergeGenres: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -3086,90 +3086,90 @@ addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 17
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 77496
-getSongGenre: SUCCESS, 87355
+getSongGenre: SUCCESS, 95210
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: FAILURE
-getSongGenre: SUCCESS, 90437
+getSongGenre: SUCCESS, 59823
 addGenre: SUCCESS
 addSong: SUCCESS
 getSongGenre: SUCCESS, 34723
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 10
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 10254
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 60039
-getSongGenre: SUCCESS, 20962
+getSongGenre: SUCCESS, 5750
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 95599
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 56665
+getSongGenre: SUCCESS, 71439
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: FAILURE
-getSongGenre: SUCCESS, 41610
-getSongGenre: SUCCESS, 16138
-getSongGenre: SUCCESS, 64072
+getSongGenre: SUCCESS, 43220
+getSongGenre: SUCCESS, 49871
+getSongGenre: SUCCESS, 64934
 getSongGenre: SUCCESS, 58894
 getSongGenre: SUCCESS, 45523
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 34
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 50
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 31350
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 70874
 getSongGenre: SUCCESS, 58588
-getNumberOfGenreChanges: SUCCESS, 63
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 14
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 45235
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 34
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 99106
-getSongGenre: SUCCESS, 72090
+getSongGenre: SUCCESS, 50726
+getSongGenre: SUCCESS, 56827
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 36
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 88218
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 41
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 2840
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 67
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -3180,10 +3180,10 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 38666
+getSongGenre: SUCCESS, 4417
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 72090
+getSongGenre: SUCCESS, 56827
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -3201,17 +3201,17 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: FAILURE
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 16176
+getSongGenre: SUCCESS, 64072
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 48
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 14
+getNumberOfGenreChanges: SUCCESS, 4
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -3225,10 +3225,10 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 21
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 1
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 63
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
@@ -3239,25 +3239,25 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 48
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 78605
+getSongGenre: SUCCESS, 1609
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 68877
+getSongGenre: SUCCESS, 91152
 addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 5178
+getSongGenre: SUCCESS, 40161
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 56628
+getSongGenre: SUCCESS, 48046
 getSongGenre: FAILURE
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -3268,10 +3268,10 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
-getNumberOfGenreChanges: SUCCESS, 55
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 75
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -3279,24 +3279,24 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 41610
+getSongGenre: SUCCESS, 43220
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 58
-getNumberOfGenreChanges: SUCCESS, 44
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 26
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 1
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 39282
+getSongGenre: SUCCESS, 46661
 mergeGenres: SUCCESS
 getSongGenre: FAILURE
 mergeGenres: SUCCESS
@@ -3322,15 +3322,15 @@ addGenre: INVALID_INPUT
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 39282
-getNumberOfGenreChanges: SUCCESS, 77
+getSongGenre: SUCCESS, 46661
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -3339,24 +3339,24 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addSong: FAILURE
-getSongGenre: SUCCESS, 63507
-getNumberOfGenreChanges: SUCCESS, 0
+getSongGenre: SUCCESS, 39751
+getNumberOfGenreChanges: SUCCESS, 1
 getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 58806
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 46
-getNumberOfGenreChanges: SUCCESS, 44
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 1
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 28
 getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 1
 getSongGenre: SUCCESS, 86921
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 52
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
@@ -3377,23 +3377,23 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 79
+getNumberOfGenreChanges: SUCCESS, 4
 getNumberOfSongsByGenre: FAILURE
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 50
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 24
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 37985
+getSongGenre: SUCCESS, 16176
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -3410,7 +3410,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 74
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -3424,7 +3424,7 @@ addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 getSongGenre: SUCCESS, 3489
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -3440,18 +3440,18 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 62
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 62362
 addGenre: SUCCESS
 addSong: SUCCESS
 getSongGenre: SUCCESS, 19904
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 53819
+getSongGenre: SUCCESS, 96785
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
-getNumberOfGenreChanges: SUCCESS, 57
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -3469,7 +3469,7 @@ addSong: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 267
+getSongGenre: SUCCESS, 87913
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -3483,10 +3483,10 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 getSongGenre: SUCCESS, 74489
-getSongGenre: SUCCESS, 83084
+getSongGenre: SUCCESS, 99891
 getSongGenre: SUCCESS, 3489
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -3497,12 +3497,12 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 70046
-mergeGenres: SUCCESS
+getSongGenre: SUCCESS, 75541
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 32
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -3515,14 +3515,14 @@ addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 56118
-getSongGenre: SUCCESS, 56827
+getSongGenre: SUCCESS, 7999
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 getNumberOfGenreChanges: FAILURE
 getSongGenre: SUCCESS, 5078
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 84633
+getSongGenre: SUCCESS, 72642
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -3538,7 +3538,7 @@ getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -3547,9 +3547,9 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 25
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 64
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 31350
@@ -3559,9 +3559,9 @@ getSongGenre: SUCCESS, 59522
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: FAILURE
-getSongGenre: SUCCESS, 40823
-getNumberOfGenreChanges: SUCCESS, 86
-getNumberOfGenreChanges: SUCCESS, 63
+getSongGenre: SUCCESS, 12231
+getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -3582,7 +3582,7 @@ addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 86
+getNumberOfGenreChanges: SUCCESS, 3
 getSongGenre: SUCCESS, 64514
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -3600,7 +3600,7 @@ getSongGenre: SUCCESS, 55019
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 73
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 15629
@@ -3609,7 +3609,7 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 45672
+getSongGenre: SUCCESS, 15631
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -3623,11 +3623,11 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 61
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 35
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -3641,7 +3641,7 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: FAILURE
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 98633
+getSongGenre: SUCCESS, 26794
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 76278
@@ -3653,7 +3653,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 63
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -3667,7 +3667,7 @@ getSongGenre: SUCCESS, 36360
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 28461
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -3677,15 +3677,15 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 90
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 95145
-getNumberOfGenreChanges: SUCCESS, 29
+getSongGenre: SUCCESS, 10870
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 76989
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -3696,7 +3696,7 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 49999
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: FAILURE
 getSongGenre: SUCCESS, 77888
@@ -3705,9 +3705,9 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 getSongGenre: SUCCESS, 63217
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 55
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 61
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
@@ -3723,12 +3723,12 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 getSongGenre: SUCCESS, 96026
-getNumberOfGenreChanges: SUCCESS, 92
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 69013
-getNumberOfGenreChanges: SUCCESS, 29
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -3740,12 +3740,12 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 62754
-getNumberOfGenreChanges: SUCCESS, 19
+getSongGenre: SUCCESS, 16226
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 27381
 addGenre: SUCCESS
@@ -3763,7 +3763,7 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 61
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -3773,7 +3773,7 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -3781,8 +3781,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getSongGenre: SUCCESS, 70116
-getSongGenre: SUCCESS, 70116
+getSongGenre: SUCCESS, 17402
+getSongGenre: SUCCESS, 17402
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -3790,7 +3790,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 91
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -3805,14 +3805,14 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
-getSongGenre: SUCCESS, 41610
+getSongGenre: SUCCESS, 43220
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 54243
+getSongGenre: SUCCESS, 47663
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 25991
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 7549
+getSongGenre: SUCCESS, 25991
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -3820,24 +3820,24 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 102
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 94
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 16138
+getSongGenre: SUCCESS, 53199
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 97515
+getSongGenre: SUCCESS, 62705
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 72757
+getSongGenre: SUCCESS, 58275
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -3849,10 +3849,10 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 16138
+getSongGenre: SUCCESS, 49871
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 74397
-getNumberOfGenreChanges: SUCCESS, 27
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -3866,10 +3866,10 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 9066
+getSongGenre: SUCCESS, 7948
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -3889,7 +3889,7 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 852
+getSongGenre: SUCCESS, 20606
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -3900,21 +3900,21 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 58894
-getNumberOfGenreChanges: SUCCESS, 82
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 53
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 67
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -3928,18 +3928,18 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 77
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getSongGenre: SUCCESS, 54243
+getSongGenre: SUCCESS, 76159
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: FAILURE
-getSongGenre: SUCCESS, 5178
+getSongGenre: SUCCESS, 40161
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -3952,7 +3952,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 29
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 19904
@@ -3976,8 +3976,8 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 84639
-getSongGenre: SUCCESS, 37987
+getSongGenre: SUCCESS, 65339
+getSongGenre: SUCCESS, 57294
 addGenre: INVALID_INPUT
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
@@ -3996,13 +3996,13 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 25885
-getSongGenre: SUCCESS, 84639
+getSongGenre: SUCCESS, 65339
 mergeGenres: SUCCESS
 addGenre: INVALID_INPUT
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 69
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -4020,7 +4020,7 @@ addGenre: SUCCESS
 addSong: SUCCESS
 getSongGenre: FAILURE
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 110
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 79595
@@ -4031,7 +4031,7 @@ addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -4042,7 +4042,7 @@ addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 95599
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 56628
+getSongGenre: SUCCESS, 61127
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -4054,35 +4054,35 @@ getSongGenre: SUCCESS, 29467
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 71390
-getSongGenre: SUCCESS, 39282
+getSongGenre: SUCCESS, 46661
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 110
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 18
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 102
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 71
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 28
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: FAILURE
-getNumberOfGenreChanges: SUCCESS, 60
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 80975
+getSongGenre: SUCCESS, 40161
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -4093,16 +4093,16 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 16
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 getSongGenre: SUCCESS, 16151
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 34573
+getSongGenre: SUCCESS, 68643
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 41044
 addGenre: SUCCESS
@@ -4111,7 +4111,7 @@ getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 5495
+getSongGenre: SUCCESS, 50726
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 82485
@@ -4123,7 +4123,7 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 49948
+getSongGenre: SUCCESS, 17414
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -4137,32 +4137,32 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 84639
+getSongGenre: SUCCESS, 65339
 getNumberOfSongsByGenre: FAILURE
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 91
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 11194
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 108
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 98719
+getSongGenre: SUCCESS, 45636
 getSongGenre: SUCCESS, 81191
-getSongGenre: SUCCESS, 22517
+getSongGenre: SUCCESS, 37513
 addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 64
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 1
-getSongGenre: SUCCESS, 41610
+getSongGenre: SUCCESS, 43220
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -4177,12 +4177,12 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 82994
+getSongGenre: SUCCESS, 37152
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 100
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -4200,7 +4200,7 @@ addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 56023
+getSongGenre: SUCCESS, 17159
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -4217,35 +4217,35 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 98633
+getSongGenre: SUCCESS, 26794
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 103
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 68500
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 72438
-getSongGenre: SUCCESS, 49266
+getSongGenre: SUCCESS, 42137
+getSongGenre: SUCCESS, 28626
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 103
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 5708
+getSongGenre: SUCCESS, 46114
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
 getSongGenre: SUCCESS, 71813
-getNumberOfGenreChanges: SUCCESS, 111
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -4256,14 +4256,14 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 71377
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 99
-getSongGenre: SUCCESS, 91152
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 68877
 getSongGenre: FAILURE
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 97
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -4272,14 +4272,14 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 110
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfGenreChanges: FAILURE
-getNumberOfGenreChanges: SUCCESS, 10
+getNumberOfGenreChanges: SUCCESS, 5
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -4290,7 +4290,7 @@ getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 20
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -4311,7 +4311,7 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 73
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -4327,27 +4327,27 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 114
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 85
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 32599
+getSongGenre: SUCCESS, 56640
 addSong: SUCCESS
 getSongGenre: FAILURE
-getNumberOfGenreChanges: SUCCESS, 107
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 97
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 97
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 39282
-getNumberOfGenreChanges: SUCCESS, 122
+getSongGenre: SUCCESS, 61958
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -4359,7 +4359,7 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 100
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 28461
 addGenre: SUCCESS
@@ -4380,13 +4380,13 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 126
-getNumberOfGenreChanges: SUCCESS, 12
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 6
 addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -4394,7 +4394,7 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 103
+getNumberOfGenreChanges: SUCCESS, 3
 getSongGenre: SUCCESS, 35875
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -4402,25 +4402,25 @@ addGenre: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 68680
-getNumberOfGenreChanges: SUCCESS, 122
+getSongGenre: SUCCESS, 98497
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 120
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 67382
+getSongGenre: SUCCESS, 4863
 getSongGenre: SUCCESS, 21036
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 79
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: FAILURE
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 28805
+getSongGenre: SUCCESS, 84045
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -4431,18 +4431,18 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 14
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 mergeGenres: SUCCESS
 getSongGenre: FAILURE
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 60152
+getSongGenre: SUCCESS, 57294
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -4450,19 +4450,19 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 48052
-getSongGenre: SUCCESS, 95145
+getSongGenre: SUCCESS, 10870
 addSong: SUCCESS
 addGenre: INVALID_INPUT
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 17478
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 105
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -4479,17 +4479,17 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 131
+getNumberOfGenreChanges: SUCCESS, 3
 getSongGenre: SUCCESS, 82509
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 62754
+getSongGenre: SUCCESS, 16226
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -4504,25 +4504,25 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 46
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 119
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 67382
+getSongGenre: SUCCESS, 4863
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: FAILURE
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -4541,25 +4541,25 @@ getSongGenre: SUCCESS, 88731
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 21779
+getSongGenre: SUCCESS, 62498
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 17195
+getSongGenre: SUCCESS, 98601
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 8611
-getNumberOfGenreChanges: SUCCESS, 8
-addGenre: SUCCESS
-addGenre: SUCCESS
-addGenre: SUCCESS
-addGenre: SUCCESS
-addGenre: SUCCESS
-mergeGenres: SUCCESS
+getSongGenre: SUCCESS, 32746
 getNumberOfGenreChanges: SUCCESS, 4
+addGenre: SUCCESS
+addGenre: SUCCESS
+addGenre: SUCCESS
+addGenre: SUCCESS
+addGenre: SUCCESS
+mergeGenres: SUCCESS
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: FAILURE
-getNumberOfGenreChanges: SUCCESS, 136
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -4567,19 +4567,19 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 89107
+getSongGenre: SUCCESS, 72605
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
-getSongGenre: SUCCESS, 90437
+getNumberOfGenreChanges: SUCCESS, 3
+getSongGenre: SUCCESS, 8989
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: FAILURE
-getNumberOfGenreChanges: SUCCESS, 125
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -4588,7 +4588,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 64072
+getSongGenre: SUCCESS, 64312
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -4608,22 +4608,22 @@ mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 93
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 37483
-getSongGenre: SUCCESS, 27940
+mergeGenres: INVALID_INPUT
+getSongGenre: SUCCESS, 39019
+getSongGenre: SUCCESS, 98754
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 93285
+getSongGenre: SUCCESS, 56260
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 27445
@@ -4646,13 +4646,13 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 25239
 getSongGenre: SUCCESS, 64514
-getNumberOfGenreChanges: SUCCESS, 42
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 28
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
@@ -4664,15 +4664,15 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 76701
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 58588
+getSongGenre: SUCCESS, 2250
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -4683,7 +4683,7 @@ getSongGenre: SUCCESS, 98650
 addSong: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 71120
-getNumberOfGenreChanges: SUCCESS, 36
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 77496
 addGenre: SUCCESS
@@ -4695,8 +4695,8 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 95
-getSongGenre: SUCCESS, 37483
+getNumberOfGenreChanges: SUCCESS, 3
+getSongGenre: SUCCESS, 39019
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
@@ -4719,14 +4719,14 @@ getSongGenre: SUCCESS, 61828
 getSongGenre: SUCCESS, 81191
 addGenre: SUCCESS
 getNumberOfSongsByGenre: FAILURE
-getSongGenre: SUCCESS, 94032
+getSongGenre: SUCCESS, 70423
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 129
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 22517
+getSongGenre: SUCCESS, 37513
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 17
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -4734,13 +4734,13 @@ mergeGenres: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: FAILURE
-getNumberOfGenreChanges: SUCCESS, 152
-getNumberOfGenreChanges: SUCCESS, 143
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -4761,14 +4761,14 @@ getSongGenre: SUCCESS, 98099
 addGenre: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addSong: SUCCESS
-getSongGenre: SUCCESS, 82388
+getSongGenre: SUCCESS, 61127
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
@@ -4776,7 +4776,7 @@ getSongGenre: SUCCESS, 24341
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 73392
+getSongGenre: SUCCESS, 26256
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
@@ -4788,14 +4788,14 @@ getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 50528
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 15304
-getNumberOfGenreChanges: SUCCESS, 4
+getSongGenre: SUCCESS, 82995
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 56023
+getSongGenre: SUCCESS, 17159
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 9066
-getSongGenre: SUCCESS, 9418
+getSongGenre: SUCCESS, 44401
+getSongGenre: SUCCESS, 61246
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: FAILURE
@@ -4818,18 +4818,18 @@ addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 getSongGenre: SUCCESS, 79595
 getSongGenre: SUCCESS, 71120
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 852
+getSongGenre: SUCCESS, 20606
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -4844,23 +4844,23 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 37987
-getNumberOfGenreChanges: SUCCESS, 32
+getSongGenre: SUCCESS, 57294
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 56628
+getSongGenre: SUCCESS, 61127
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 47159
+getSongGenre: SUCCESS, 80693
 addSong: INVALID_INPUT
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 54843
+getSongGenre: SUCCESS, 45636
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -4908,17 +4908,17 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 75681
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 54
+getNumberOfGenreChanges: SUCCESS, 1
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 107
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -4926,7 +4926,7 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
-getSongGenre: SUCCESS, 77476
+getSongGenre: SUCCESS, 75553
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -4945,7 +4945,7 @@ getSongGenre: SUCCESS, 542
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 116
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -4982,7 +4982,7 @@ addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 168
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -5006,15 +5006,15 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 156
-getNumberOfGenreChanges: SUCCESS, 113
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 89
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -5023,7 +5023,7 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 60633
+getSongGenre: SUCCESS, 96785
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
@@ -5045,7 +5045,7 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 118
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -5060,7 +5060,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 10340
+getSongGenre: SUCCESS, 57139
 addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
@@ -5069,11 +5069,11 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 64072
+getSongGenre: SUCCESS, 64312
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
@@ -5083,17 +5083,17 @@ getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 32
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 149
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -5112,7 +5112,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 62754
+getSongGenre: SUCCESS, 16226
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -5120,8 +5120,8 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
-getSongGenre: SUCCESS, 94032
+getNumberOfGenreChanges: SUCCESS, 1
+getSongGenre: SUCCESS, 70423
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
@@ -5129,7 +5129,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -5143,22 +5143,22 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 2840
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 9504
+getSongGenre: SUCCESS, 69930
 getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 33399
-mergeGenres: SUCCESS
+getSongGenre: SUCCESS, 97966
+mergeGenres: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 addSong: SUCCESS
@@ -5177,7 +5177,7 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 63025
@@ -5189,7 +5189,7 @@ mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -5204,11 +5204,11 @@ addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 156
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 174
-getNumberOfGenreChanges: SUCCESS, 125
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 1
 getSongGenre: SUCCESS, 19285
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -5218,21 +5218,21 @@ getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
+mergeGenres: INVALID_INPUT
+addGenre: SUCCESS
+addGenre: SUCCESS
+addGenre: SUCCESS
+addGenre: SUCCESS
+getNumberOfGenreChanges: SUCCESS, 1
+addGenre: SUCCESS
+addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-addGenre: SUCCESS
-addGenre: SUCCESS
-addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
-addGenre: SUCCESS
-addGenre: SUCCESS
-mergeGenres: SUCCESS
-addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 63975
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 68
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 57819
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
@@ -5244,7 +5244,7 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 67382
+getSongGenre: SUCCESS, 4863
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 25885
 addGenre: SUCCESS
@@ -5254,7 +5254,7 @@ getNumberOfSongsByGenre: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 164
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
@@ -5267,7 +5267,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 78605
+getSongGenre: SUCCESS, 1609
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 getSongGenre: SUCCESS, 29816
@@ -5280,7 +5280,7 @@ getNumberOfSongsByGenre: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 60633
+getSongGenre: SUCCESS, 96785
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -5297,12 +5297,12 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 17195
+getSongGenre: SUCCESS, 98601
 getSongGenre: FAILURE
-getNumberOfGenreChanges: SUCCESS, 114
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 63891
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -5320,7 +5320,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: FAILURE
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 106
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -5333,10 +5333,10 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 63217
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 185
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 96512
 addSong: SUCCESS
-getSongGenre: SUCCESS, 93795
+getSongGenre: SUCCESS, 46958
 addGenre: SUCCESS
 getNumberOfGenreChanges: FAILURE
 addGenre: SUCCESS
@@ -5344,14 +5344,14 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 64312
+getSongGenre: SUCCESS, 59585
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 75
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -5367,7 +5367,7 @@ getNumberOfSongsByGenre: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 46786
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 76701
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
@@ -5375,8 +5375,8 @@ addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 27940
-getNumberOfGenreChanges: SUCCESS, 150
+getSongGenre: SUCCESS, 98754
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
@@ -5384,18 +5384,18 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 95
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 15
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 95
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 getSongGenre: FAILURE
@@ -5403,21 +5403,21 @@ getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 80975
+getSongGenre: SUCCESS, 21826
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
-getSongGenre: SUCCESS, 54891
+getSongGenre: SUCCESS, 77496
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
-getSongGenre: SUCCESS, 20962
+getSongGenre: SUCCESS, 84876
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 2
 addSong: SUCCESS
@@ -5429,7 +5429,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -5467,7 +5467,7 @@ mergeGenres: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 33111
 getSongGenre: SUCCESS, 75431
-getNumberOfGenreChanges: SUCCESS, 182
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -5487,8 +5487,8 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 127
-getNumberOfGenreChanges: SUCCESS, 64
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -5511,18 +5511,18 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 8393
+getSongGenre: SUCCESS, 59236
 getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 77496
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 56827
+getSongGenre: SUCCESS, 37987
 addGenre: SUCCESS
 getNumberOfGenreChanges: FAILURE
 addSong: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
-getSongGenre: SUCCESS, 94032
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 50187
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -5534,7 +5534,7 @@ addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 139
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -5546,14 +5546,14 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 32
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
 getSongGenre: SUCCESS, 78740
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
-getSongGenre: SUCCESS, 86185
+getSongGenre: SUCCESS, 99891
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -5566,11 +5566,11 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 60264
-getNumberOfGenreChanges: SUCCESS, 74
+getSongGenre: SUCCESS, 25625
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 17985
+getSongGenre: SUCCESS, 66356
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -5585,20 +5585,20 @@ getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 170
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 167
+getNumberOfGenreChanges: SUCCESS, 3
 getSongGenre: SUCCESS, 1393
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 8127
+getSongGenre: SUCCESS, 16138
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -5607,13 +5607,13 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 33799
 addSong: SUCCESS
-getSongGenre: SUCCESS, 9418
+getSongGenre: SUCCESS, 75884
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 76
-getSongGenre: SUCCESS, 26425
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 36095
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 143
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
@@ -5626,7 +5626,7 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 78386
+getSongGenre: SUCCESS, 47472
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -5635,17 +5635,17 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 104
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 94492
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 36
-getSongGenre: SUCCESS, 96688
+getNumberOfGenreChanges: SUCCESS, 4
+getSongGenre: SUCCESS, 46966
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 17195
+getSongGenre: SUCCESS, 98601
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -5653,11 +5653,11 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 96239
+getSongGenre: SUCCESS, 96593
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 169
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfGenreChanges: SUCCESS, 4
-getNumberOfGenreChanges: SUCCESS, 200
 addGenre: INVALID_INPUT
 addSong: SUCCESS
 addSong: SUCCESS
@@ -5673,7 +5673,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 8127
+getSongGenre: SUCCESS, 16138
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -5682,12 +5682,12 @@ getNumberOfSongsByGenre: FAILURE
 addSong: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 21036
-getSongGenre: SUCCESS, 91152
+getSongGenre: SUCCESS, 68877
 addSong: SUCCESS
-getSongGenre: SUCCESS, 22517
+getSongGenre: SUCCESS, 37513
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -5698,10 +5698,10 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 80864
 mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 mergeGenres: SUCCESS
-mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 56827
-getNumberOfGenreChanges: SUCCESS, 177
+getSongGenre: SUCCESS, 59236
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -5712,7 +5712,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 15304
+getSongGenre: SUCCESS, 37847
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -5734,13 +5734,13 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 63507
+getSongGenre: SUCCESS, 56500
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 getSongGenre: FAILURE
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 204
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 542
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -5750,16 +5750,16 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
+getNumberOfGenreChanges: SUCCESS, 2
+addGenre: SUCCESS
+addGenre: SUCCESS
+addGenre: SUCCESS
+addGenre: SUCCESS
+addGenre: SUCCESS
+getSongGenre: SUCCESS, 41387
 getNumberOfGenreChanges: SUCCESS, 4
-addGenre: SUCCESS
-addGenre: SUCCESS
-addGenre: SUCCESS
-addGenre: SUCCESS
-addGenre: SUCCESS
-getSongGenre: SUCCESS, 37889
-getNumberOfGenreChanges: SUCCESS, 206
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 196
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
@@ -5774,21 +5774,21 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 25
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 7500
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 36
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 96
+getNumberOfGenreChanges: SUCCESS, 4
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 90
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 30451
+getSongGenre: SUCCESS, 47663
 getSongGenre: SUCCESS, 57928
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
@@ -5803,7 +5803,7 @@ mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 27
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 57162
 addGenre: SUCCESS
@@ -5817,7 +5817,7 @@ getNumberOfSongsByGenre: SUCCESS, 2
 getSongGenre: SUCCESS, 58894
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 96
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -5827,7 +5827,7 @@ addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 62965
+getSongGenre: SUCCESS, 39019
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
@@ -5838,14 +5838,14 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 53502
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
-getSongGenre: SUCCESS, 14465
-getSongGenre: SUCCESS, 68877
+getNumberOfGenreChanges: SUCCESS, 1
+getSongGenre: SUCCESS, 68108
+getSongGenre: SUCCESS, 91152
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -5853,38 +5853,38 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 52
+getNumberOfGenreChanges: SUCCESS, 5
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 10
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 getSongGenre: SUCCESS, 28461
-getSongGenre: SUCCESS, 92714
-getNumberOfGenreChanges: SUCCESS, 4
-getNumberOfGenreChanges: SUCCESS, 183
-getSongGenre: SUCCESS, 86173
+getSongGenre: SUCCESS, 28640
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 1
+getSongGenre: SUCCESS, 79179
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 17195
+getSongGenre: SUCCESS, 98601
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 78205
-getNumberOfGenreChanges: SUCCESS, 181
+getSongGenre: SUCCESS, 15631
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: FAILURE
-getNumberOfGenreChanges: SUCCESS, 193
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 193
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 186
-getNumberOfGenreChanges: SUCCESS, 198
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -5907,7 +5907,7 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
-getSongGenre: SUCCESS, 9066
+getSongGenre: SUCCESS, 41515
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
@@ -5918,7 +5918,7 @@ getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -5926,18 +5926,18 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 86
-getNumberOfGenreChanges: SUCCESS, 179
+getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 92
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 5078
-getSongGenre: SUCCESS, 96785
+getSongGenre: SUCCESS, 33259
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 27488
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: INVALID_INPUT
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -5945,13 +5945,13 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 12528
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 191
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 59872
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 47781
+getSongGenre: SUCCESS, 41387
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -5960,12 +5960,12 @@ mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 30468
 getNumberOfSongsByGenre: FAILURE
 getSongGenre: SUCCESS, 77533
-getSongGenre: SUCCESS, 78605
+getSongGenre: SUCCESS, 1609
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 162
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -5979,10 +5979,10 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: FAILURE
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 3
 getSongGenre: SUCCESS, 31799
 getSongGenre: SUCCESS, 93886
-getNumberOfGenreChanges: SUCCESS, 65
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 26413
@@ -5996,7 +5996,7 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getSongGenre: FAILURE
 mergeGenres: SUCCESS
@@ -6011,7 +6011,7 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 getSongGenre: SUCCESS, 85162
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -6027,7 +6027,7 @@ getNumberOfSongsByGenre: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 12322
+getSongGenre: SUCCESS, 54240
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -6038,30 +6038,30 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 14465
+getSongGenre: SUCCESS, 68108
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 getSongGenre: SUCCESS, 58894
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 211
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 5574
+getSongGenre: SUCCESS, 89107
 addGenre: SUCCESS
 getSongGenre: FAILURE
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 195
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 2
 addSong: SUCCESS
 mergeGenres: SUCCESS
@@ -6071,15 +6071,15 @@ addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 32599
+getSongGenre: SUCCESS, 56640
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 168
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 getSongGenre: FAILURE
-getNumberOfGenreChanges: SUCCESS, 200
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -6089,19 +6089,19 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 57819
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 216
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 71761
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 170
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 96795
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 81061
+getSongGenre: SUCCESS, 86185
 getNumberOfGenreChanges: FAILURE
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 194
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -6115,28 +6115,28 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 93193
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 97
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 6726
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 48430
-getSongGenre: SUCCESS, 78205
-getSongGenre: SUCCESS, 45672
-getNumberOfGenreChanges: SUCCESS, 202
+getSongGenre: SUCCESS, 15631
+getSongGenre: SUCCESS, 15631
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 29
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 73
-getNumberOfGenreChanges: SUCCESS, 97
+getNumberOfGenreChanges: SUCCESS, 1
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 131
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
@@ -6145,38 +6145,38 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 18302
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 86534
+getSongGenre: SUCCESS, 57490
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 72951
-getNumberOfGenreChanges: SUCCESS, 194
+getNumberOfGenreChanges: SUCCESS, 4
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 105
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
+mergeGenres: INVALID_INPUT
+addGenre: SUCCESS
+addGenre: SUCCESS
+addGenre: SUCCESS
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 10
-mergeGenres: SUCCESS
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 33
-addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 196
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 218
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: INVALID_INPUT
 addGenre: SUCCESS
@@ -6185,14 +6185,14 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 75431
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 203
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 225
+getNumberOfGenreChanges: SUCCESS, 4
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 198
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
@@ -6205,10 +6205,10 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 233
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 49999
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 216
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 55686
 addGenre: SUCCESS
@@ -6217,7 +6217,7 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 71
+getNumberOfGenreChanges: SUCCESS, 4
 getSongGenre: FAILURE
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -6231,11 +6231,11 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 9418
+getSongGenre: SUCCESS, 51508
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 9504
+getSongGenre: SUCCESS, 69930
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: FAILURE
@@ -6243,7 +6243,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 45636
+getSongGenre: SUCCESS, 27386
 addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -6254,50 +6254,50 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 204
 getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 239
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
+addGenre: SUCCESS
+addGenre: SUCCESS
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfSongsByGenre: SUCCESS, 0
+addGenre: SUCCESS
+getNumberOfGenreChanges: SUCCESS, 2
+addSong: SUCCESS
+addGenre: SUCCESS
+getNumberOfSongsByGenre: SUCCESS, 2
+getNumberOfSongsByGenre: SUCCESS, 0
+getSongGenre: SUCCESS, 12816
+mergeGenres: SUCCESS
+getNumberOfSongsByGenre: SUCCESS, 2
+addGenre: INVALID_INPUT
+getNumberOfSongsByGenre: SUCCESS, 0
+addGenre: SUCCESS
+addSong: SUCCESS
+addSong: SUCCESS
+addGenre: SUCCESS
+addGenre: SUCCESS
+addGenre: SUCCESS
+addGenre: SUCCESS
+mergeGenres: SUCCESS
+mergeGenres: SUCCESS
+addGenre: SUCCESS
+addGenre: SUCCESS
+mergeGenres: SUCCESS
+addGenre: SUCCESS
+addSong: SUCCESS
+addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 4
-getNumberOfSongsByGenre: SUCCESS, 0
-addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 209
-addSong: SUCCESS
-addGenre: SUCCESS
-getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 40456
-mergeGenres: SUCCESS
-getNumberOfSongsByGenre: SUCCESS, 2
-addGenre: INVALID_INPUT
-getNumberOfSongsByGenre: SUCCESS, 0
-addGenre: SUCCESS
-addSong: SUCCESS
-addSong: SUCCESS
-addGenre: SUCCESS
-addGenre: SUCCESS
-addGenre: SUCCESS
-addGenre: SUCCESS
-mergeGenres: SUCCESS
-mergeGenres: SUCCESS
-addGenre: SUCCESS
-addGenre: SUCCESS
-mergeGenres: SUCCESS
-addGenre: SUCCESS
-addSong: SUCCESS
-addSong: SUCCESS
-addGenre: SUCCESS
-addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 208
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -6307,44 +6307,44 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 50
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 86381
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 20848
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 56628
+getSongGenre: SUCCESS, 61127
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 96239
+getSongGenre: SUCCESS, 96593
 addGenre: SUCCESS
-mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 93285
+mergeGenres: INVALID_INPUT
+getSongGenre: SUCCESS, 56260
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 28
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 204
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 22118
+getSongGenre: SUCCESS, 94955
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 171
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 234
-mergeGenres: SUCCESS
+getNumberOfGenreChanges: SUCCESS, 2
+mergeGenres: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 1
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -6362,13 +6362,13 @@ getNumberOfSongsByGenre: FAILURE
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 55
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 187
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 63507
+getSongGenre: SUCCESS, 56500
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -6385,8 +6385,8 @@ getSongGenre: SUCCESS, 75431
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 67382
-getSongGenre: SUCCESS, 68630
+getSongGenre: SUCCESS, 4863
+getSongGenre: SUCCESS, 75140
 addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
@@ -6398,11 +6398,11 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 98099
 getSongGenre: SUCCESS, 80732
-getSongGenre: SUCCESS, 45636
+getSongGenre: SUCCESS, 27386
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
@@ -6411,23 +6411,23 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 56023
+getSongGenre: SUCCESS, 17159
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 87
+getNumberOfGenreChanges: SUCCESS, 6
 addGenre: SUCCESS
 addSong: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 5574
+getSongGenre: SUCCESS, 89107
 addSong: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 57324
+getSongGenre: SUCCESS, 49622
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 58110
 addGenre: SUCCESS
@@ -6436,20 +6436,20 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 204
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 70741
+getSongGenre: SUCCESS, 99710
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 84205
-getSongGenre: SUCCESS, 25188
+getSongGenre: SUCCESS, 23039
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 233
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 41419
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -6470,7 +6470,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 22
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -6478,7 +6478,7 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 81217
 addGenre: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
@@ -6492,7 +6492,7 @@ mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 245
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 5825
@@ -6541,21 +6541,21 @@ mergeGenres: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 77476
+getSongGenre: SUCCESS, 75553
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 getSongGenre: SUCCESS, 25885
-getSongGenre: SUCCESS, 54243
+getSongGenre: SUCCESS, 47663
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 87089
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
@@ -6565,7 +6565,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 getSongGenre: SUCCESS, 35224
-getNumberOfGenreChanges: SUCCESS, 22
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -6585,8 +6585,8 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 248
-getSongGenre: SUCCESS, 852
+getNumberOfGenreChanges: SUCCESS, 3
+getSongGenre: SUCCESS, 20606
 getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -6594,9 +6594,9 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 getSongGenre: SUCCESS, 63891
-getSongGenre: SUCCESS, 72757
+getSongGenre: SUCCESS, 58275
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 224
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: FAILURE
 addGenre: SUCCESS
@@ -6617,7 +6617,7 @@ getSongGenre: SUCCESS, 2840
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 32
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -6625,7 +6625,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 241
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -6633,22 +6633,22 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 56827
+getSongGenre: SUCCESS, 95295
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: INVALID_INPUT
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 139
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 58894
-getNumberOfGenreChanges: SUCCESS, 224
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -6685,10 +6685,10 @@ getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 119
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 2
@@ -6708,14 +6708,14 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 18029
+getSongGenre: SUCCESS, 30459
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 230
-getSongGenre: SUCCESS, 98719
+getNumberOfGenreChanges: SUCCESS, 3
+getSongGenre: SUCCESS, 45636
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
@@ -6731,13 +6731,13 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 56442
+getSongGenre: SUCCESS, 89417
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 84633
+getSongGenre: SUCCESS, 72642
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -6745,19 +6745,19 @@ getSongGenre: SUCCESS, 41044
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 57928
-getNumberOfGenreChanges: SUCCESS, 4
+getSongGenre: SUCCESS, 41891
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 209
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 12528
-getNumberOfGenreChanges: SUCCESS, 140
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 77496
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 265
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -6776,7 +6776,7 @@ mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 161
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 getNumberOfSongsByGenre: FAILURE
 addGenre: SUCCESS
@@ -6790,11 +6790,11 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 26038
+getSongGenre: SUCCESS, 34581
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 267
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 29961
 addGenre: SUCCESS
@@ -6808,7 +6808,7 @@ addSong: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 40823
+getSongGenre: SUCCESS, 12231
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -6820,21 +6820,21 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: FAILURE
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 214
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 93795
+getSongGenre: SUCCESS, 46958
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 46413
-getSongGenre: SUCCESS, 20962
+getSongGenre: SUCCESS, 93572
+getSongGenre: SUCCESS, 84876
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 84512
+getSongGenre: SUCCESS, 80693
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
@@ -6847,12 +6847,12 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 83510
-getNumberOfGenreChanges: SUCCESS, 163
+getSongGenre: SUCCESS, 85796
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 10
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addSong: SUCCESS
 getSongGenre: SUCCESS, 87729
@@ -6862,9 +6862,9 @@ addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 232
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 96036
-getNumberOfGenreChanges: SUCCESS, 109
+getNumberOfGenreChanges: SUCCESS, 5
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -6878,7 +6878,7 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -6911,9 +6911,9 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 31977
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 230
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 28805
+getSongGenre: SUCCESS, 84045
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 50528
 getSongGenre: SUCCESS, 62362
@@ -6940,7 +6940,7 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: FAILURE
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 68630
+getSongGenre: SUCCESS, 49948
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 mergeGenres: SUCCESS
@@ -6953,7 +6953,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 106
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -6970,14 +6970,14 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 118
-getNumberOfGenreChanges: SUCCESS, 49
+getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 87585
+getSongGenre: SUCCESS, 11618
 addGenre: INVALID_INPUT
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
@@ -7013,8 +7013,8 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 60039
-getSongGenre: SUCCESS, 74489
+getSongGenre: SUCCESS, 84158
+getSongGenre: SUCCESS, 76889
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -7049,7 +7049,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 92846
-getNumberOfGenreChanges: SUCCESS, 216
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -7086,7 +7086,7 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 244
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -7104,7 +7104,7 @@ getNumberOfSongsByGenre: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 98719
+getSongGenre: SUCCESS, 45636
 getNumberOfSongsByGenre: SUCCESS, 2
 getSongGenre: SUCCESS, 74958
 addGenre: SUCCESS
@@ -7113,9 +7113,9 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 258
-getNumberOfGenreChanges: SUCCESS, 275
-getNumberOfGenreChanges: SUCCESS, 264
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: FAILURE
@@ -7130,18 +7130,18 @@ getSongGenre: SUCCESS, 25885
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 221
-getNumberOfGenreChanges: SUCCESS, 260
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 1
-getSongGenre: SUCCESS, 25581
+getSongGenre: SUCCESS, 65339
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 90437
+getSongGenre: SUCCESS, 8989
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 37985
+getSongGenre: SUCCESS, 16176
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -7150,7 +7150,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 263
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addSong: SUCCESS
@@ -7161,16 +7161,16 @@ getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 83734
 addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
-getSongGenre: SUCCESS, 63507
+getSongGenre: SUCCESS, 56500
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 78
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
@@ -7189,14 +7189,14 @@ addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 160
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 277
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addSong: SUCCESS
@@ -7215,31 +7215,31 @@ addGenre: SUCCESS
 addSong: SUCCESS
 getSongGenre: SUCCESS, 86792
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 282
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 95
+mergeGenres: INVALID_INPUT
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 293
-getSongGenre: SUCCESS, 39282
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 46661
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 10
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 86048
+getSongGenre: SUCCESS, 89107
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 94492
 getNumberOfGenreChanges: FAILURE
-getNumberOfGenreChanges: SUCCESS, 32
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -7264,38 +7264,38 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 50527
+getSongGenre: SUCCESS, 76187
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 81
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 252
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 238
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 96688
+getSongGenre: SUCCESS, 59915
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 84747
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
-getSongGenre: SUCCESS, 38666
+getNumberOfGenreChanges: SUCCESS, 1
+getSongGenre: SUCCESS, 4417
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: INVALID_INPUT
@@ -7304,7 +7304,7 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 4
 getNumberOfSongsByGenre: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -7312,7 +7312,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 78643
-getNumberOfGenreChanges: SUCCESS, 284
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
@@ -7325,14 +7325,14 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 95145
+getSongGenre: SUCCESS, 10870
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 1994
+getSongGenre: SUCCESS, 39410
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 34
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -7345,7 +7345,7 @@ addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 5178
+getSongGenre: SUCCESS, 63507
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -7362,8 +7362,8 @@ addSong: FAILURE
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 108
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -7372,19 +7372,19 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 56383
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 40
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
 getSongGenre: SUCCESS, 36360
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 227
+getNumberOfGenreChanges: SUCCESS, 5
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
-getNumberOfGenreChanges: SUCCESS, 286
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -7394,8 +7394,8 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 55132
-getNumberOfGenreChanges: SUCCESS, 259
+getSongGenre: SUCCESS, 50527
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: FAILURE
@@ -7419,10 +7419,10 @@ mergeGenres: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfGenreChanges: FAILURE
-getNumberOfGenreChanges: SUCCESS, 106
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 5015
 addGenre: SUCCESS
@@ -7430,8 +7430,8 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 142
-getSongGenre: SUCCESS, 57490
+getNumberOfGenreChanges: SUCCESS, 4
+getSongGenre: SUCCESS, 9130
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -7441,20 +7441,20 @@ addSong: SUCCESS
 addGenre: INVALID_INPUT
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 64
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 47
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 136
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 241
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -7474,7 +7474,7 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 67382
+getSongGenre: SUCCESS, 4863
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 17404
 addGenre: SUCCESS
@@ -7484,10 +7484,10 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 79980
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 2399
+getSongGenre: SUCCESS, 78885
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 125
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
@@ -7503,26 +7503,26 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 6280
+getSongGenre: SUCCESS, 53593
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 46700
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 34014
+getSongGenre: SUCCESS, 68528
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 5495
+getSongGenre: SUCCESS, 50726
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -7532,11 +7532,11 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 91
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 mergeGenres: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
@@ -7557,16 +7557,16 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 306
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: FAILURE
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 294
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 216
-getNumberOfGenreChanges: SUCCESS, 296
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -7582,7 +7582,7 @@ getNumberOfSongsByGenre: FAILURE
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 298
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
@@ -7590,7 +7590,7 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 296
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 74516
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -7599,9 +7599,9 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: FAILURE
-getSongGenre: SUCCESS, 68630
+getSongGenre: SUCCESS, 18077
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 26038
+getSongGenre: SUCCESS, 34581
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -7610,8 +7610,8 @@ getSongGenre: SUCCESS, 77533
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 84439
-getNumberOfGenreChanges: SUCCESS, 190
-getNumberOfGenreChanges: SUCCESS, 93
+getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -7638,30 +7638,30 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 83
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 83
-getNumberOfGenreChanges: SUCCESS, 10
-getNumberOfGenreChanges: SUCCESS, 53
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 281
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 184
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 57928
+getSongGenre: SUCCESS, 41891
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 2000
+getSongGenre: SUCCESS, 12416
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 2
@@ -7697,16 +7697,16 @@ addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfGenreChanges: FAILURE
 getSongGenre: SUCCESS, 31153
-getSongGenre: SUCCESS, 45111
+getSongGenre: SUCCESS, 98801
 addSong: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 53819
+getSongGenre: SUCCESS, 96785
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -7714,11 +7714,11 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 74263
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 310
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -7734,7 +7734,7 @@ mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 mergeGenres: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -7743,7 +7743,7 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
 addSong: SUCCESS
 getSongGenre: SUCCESS, 49586
-getNumberOfGenreChanges: SUCCESS, 12
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -7751,14 +7751,14 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 88173
-getSongGenre: SUCCESS, 97100
+getSongGenre: SUCCESS, 65148
+getSongGenre: SUCCESS, 38566
 addSong: SUCCESS
 addSong: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -7768,7 +7768,7 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -7779,7 +7779,7 @@ getSongGenre: SUCCESS, 18350
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: FAILURE
-getSongGenre: SUCCESS, 5749
+getSongGenre: SUCCESS, 64150
 getSongGenre: SUCCESS, 56383
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -7807,10 +7807,10 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 10
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 8320
+getSongGenre: SUCCESS, 87819
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 10464
@@ -7820,13 +7820,13 @@ getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addSong: FAILURE
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 249
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 63025
@@ -7840,13 +7840,13 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 109
-getNumberOfGenreChanges: SUCCESS, 43
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -7870,19 +7870,19 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 271
+getNumberOfGenreChanges: SUCCESS, 3
 getSongGenre: SUCCESS, 41584
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 259
-mergeGenres: SUCCESS
+getNumberOfGenreChanges: SUCCESS, 2
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
-getNumberOfGenreChanges: SUCCESS, 130
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 3942
 getNumberOfSongsByGenre: SUCCESS, 2
@@ -7906,7 +7906,7 @@ getSongGenre: SUCCESS, 46838
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 56827
+getSongGenre: SUCCESS, 37987
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -7916,8 +7916,8 @@ getSongGenre: SUCCESS, 2471
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 139
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -7925,7 +7925,7 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 75431
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 301
+getNumberOfGenreChanges: SUCCESS, 4
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -7937,7 +7937,7 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 37
+getNumberOfGenreChanges: SUCCESS, 1
 getSongGenre: FAILURE
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -7947,20 +7947,20 @@ addSong: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
 getSongGenre: SUCCESS, 75848
-getSongGenre: SUCCESS, 51305
-getNumberOfGenreChanges: SUCCESS, 8
+getSongGenre: SUCCESS, 35085
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 55686
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 72438
+getSongGenre: SUCCESS, 42137
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 40823
+getSongGenre: SUCCESS, 12231
 addSong: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: FAILURE
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 197
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
@@ -7970,14 +7970,14 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 getSongGenre: SUCCESS, 44262
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 84263
 mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 298
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
 getSongGenre: SUCCESS, 60993
 addGenre: SUCCESS
@@ -7985,7 +7985,7 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 76172
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 35085
+getSongGenre: SUCCESS, 25625
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
@@ -8008,7 +8008,7 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 82193
-getNumberOfGenreChanges: SUCCESS, 284
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -8017,27 +8017,27 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 10
-mergeGenres: SUCCESS
+getNumberOfGenreChanges: SUCCESS, 4
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
-getNumberOfGenreChanges: SUCCESS, 308
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 343
+getNumberOfGenreChanges: SUCCESS, 3
 getSongGenre: SUCCESS, 3541
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 68877
+getSongGenre: SUCCESS, 91152
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -8051,7 +8051,7 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 63507
+getSongGenre: SUCCESS, 24975
 getSongGenre: SUCCESS, 40885
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -8063,16 +8063,16 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 305
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 41044
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 128
+getNumberOfGenreChanges: SUCCESS, 1
 mergeGenres: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 2000
+getSongGenre: SUCCESS, 12416
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 41044
 addGenre: SUCCESS
@@ -8084,7 +8084,7 @@ getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 79
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
@@ -8115,14 +8115,14 @@ addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 305
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 47
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 315
-getSongGenre: SUCCESS, 93795
-getNumberOfGenreChanges: SUCCESS, 7
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 46958
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -8143,7 +8143,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 7
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -8157,7 +8157,7 @@ getSongGenre: SUCCESS, 50528
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 220
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: INVALID_INPUT
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -8169,7 +8169,7 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 56665
+getSongGenre: SUCCESS, 71439
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 6285
 addSong: SUCCESS
@@ -8177,7 +8177,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 79749
+getSongGenre: SUCCESS, 34573
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -8202,7 +8202,7 @@ addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 76026
+getSongGenre: SUCCESS, 48935
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -8215,16 +8215,16 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
-getSongGenre: SUCCESS, 38666
-getNumberOfGenreChanges: SUCCESS, 226
+getSongGenre: SUCCESS, 4417
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getSongGenre: FAILURE
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 30286
-getNumberOfGenreChanges: SUCCESS, 0
+getSongGenre: SUCCESS, 91197
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 10
+getNumberOfGenreChanges: SUCCESS, 3
 getSongGenre: SUCCESS, 81217
 addSong: SUCCESS
 mergeGenres: SUCCESS
@@ -8232,8 +8232,8 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 10
-getNumberOfGenreChanges: SUCCESS, 121
+getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -8246,17 +8246,17 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 86576
+getSongGenre: SUCCESS, 45636
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 329
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 2000
+getSongGenre: SUCCESS, 12416
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addSong: SUCCESS
@@ -8264,7 +8264,7 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 10
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -8273,42 +8273,42 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 19180
+getSongGenre: SUCCESS, 63041
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 67382
+getSongGenre: SUCCESS, 4863
 addGenre: INVALID_INPUT
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 335
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 37987
+getSongGenre: SUCCESS, 57906
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 30286
+getSongGenre: SUCCESS, 9891
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 344
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 74516
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 55
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 getNumberOfSongsByGenre: FAILURE
 getSongGenre: SUCCESS, 82266
-getNumberOfGenreChanges: SUCCESS, 232
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 88
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 5400
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 15304
-getSongGenre: SUCCESS, 52198
+getSongGenre: SUCCESS, 37847
+getSongGenre: SUCCESS, 80693
 getSongGenre: SUCCESS, 77496
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
@@ -8326,14 +8326,14 @@ addSong: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
-getSongGenre: SUCCESS, 52198
+getSongGenre: SUCCESS, 80693
 addSong: SUCCESS
 addSong: SUCCESS
 getSongGenre: SUCCESS, 17404
 getNumberOfSongsByGenre: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 2
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -8353,13 +8353,13 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 5495
+getSongGenre: SUCCESS, 50726
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: FAILURE
-getSongGenre: SUCCESS, 56442
+getSongGenre: SUCCESS, 89417
 getSongGenre: SUCCESS, 34571
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
@@ -8375,18 +8375,18 @@ getSongGenre: SUCCESS, 67911
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 154
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 98719
+getSongGenre: SUCCESS, 45636
 getNumberOfSongsByGenre: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 342
+getNumberOfGenreChanges: SUCCESS, 4
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfGenreChanges: SUCCESS, 4
-getNumberOfGenreChanges: SUCCESS, 346
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 87974
+getSongGenre: SUCCESS, 29014
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -8408,13 +8408,13 @@ addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 10
-getSongGenre: SUCCESS, 3085
+getNumberOfGenreChanges: SUCCESS, 3
+getSongGenre: SUCCESS, 62498
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -8424,7 +8424,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 178
+getNumberOfGenreChanges: SUCCESS, 1
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 mergeGenres: SUCCESS
@@ -8444,20 +8444,20 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 1994
+getSongGenre: SUCCESS, 39410
 getNumberOfSongsByGenre: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 236
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 49586
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 352
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
@@ -8473,9 +8473,9 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -8490,23 +8490,23 @@ addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 40823
+getSongGenre: SUCCESS, 12231
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 96989
+getSongGenre: SUCCESS, 80693
 addSong: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 39282
+getSongGenre: SUCCESS, 46661
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 360
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -8517,15 +8517,15 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 73503
-mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 75006
+getSongGenre: SUCCESS, 25991
+mergeGenres: INVALID_INPUT
+getSongGenre: SUCCESS, 24606
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 42319
+getSongGenre: SUCCESS, 28646
 addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
@@ -8547,31 +8547,31 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 77533
+getSongGenre: SUCCESS, 88678
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 56827
+getSongGenre: SUCCESS, 84876
 addGenre: SUCCESS
-mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 12
+mergeGenres: INVALID_INPUT
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 225
+getNumberOfGenreChanges: SUCCESS, 4
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 339
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 180
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -8580,8 +8580,8 @@ addSong: SUCCESS
 getSongGenre: SUCCESS, 71377
 getNumberOfSongsByGenre: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 2
-getSongGenre: SUCCESS, 89607
-getSongGenre: SUCCESS, 27624
+getSongGenre: SUCCESS, 57499
+getSongGenre: SUCCESS, 66865
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -8595,11 +8595,11 @@ addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 363
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 229
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 18481
@@ -8614,7 +8614,7 @@ getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 253
+getNumberOfGenreChanges: SUCCESS, 4
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
@@ -8647,17 +8647,17 @@ addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 373
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 29434
 addSong: SUCCESS
-getSongGenre: SUCCESS, 72438
+getSongGenre: SUCCESS, 42137
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 61553
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 96989
+getSongGenre: SUCCESS, 47159
 getNumberOfGenreChanges: FAILURE
 getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 2
@@ -8665,7 +8665,7 @@ getSongGenre: SUCCESS, 41810
 getSongGenre: SUCCESS, 90634
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 8393
+getSongGenre: SUCCESS, 59236
 addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -8675,7 +8675,7 @@ addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: FAILURE
@@ -8684,8 +8684,8 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 343
-getNumberOfGenreChanges: SUCCESS, 312
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -8693,7 +8693,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 77204
 mergeGenres: SUCCESS
@@ -8703,8 +8703,8 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 19904
-getNumberOfGenreChanges: SUCCESS, 338
-getNumberOfGenreChanges: SUCCESS, 129
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
@@ -8712,12 +8712,12 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 249
-getNumberOfGenreChanges: SUCCESS, 345
+getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 42263
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 44034
+getSongGenre: SUCCESS, 1071
 getNumberOfGenreChanges: FAILURE
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -8725,7 +8725,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 3237
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 10340
+getSongGenre: SUCCESS, 57139
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
@@ -8733,23 +8733,23 @@ addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 64072
+getSongGenre: SUCCESS, 64312
 getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 294
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 getSongGenre: FAILURE
 getSongGenre: SUCCESS, 12528
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 373
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 45772
-getSongGenre: SUCCESS, 8127
+getSongGenre: SUCCESS, 16138
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -8758,13 +8758,13 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 57928
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 344
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 10
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -8780,7 +8780,7 @@ getSongGenre: SUCCESS, 96795
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 352
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
@@ -8798,15 +8798,15 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
-mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 65736
+mergeGenres: INVALID_INPUT
+getSongGenre: SUCCESS, 26200
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 116
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -8819,7 +8819,7 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 56827
+getSongGenre: SUCCESS, 84876
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -8828,7 +8828,7 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 320
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -8839,7 +8839,7 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 351
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -8851,8 +8851,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 35273
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfGenreChanges: SUCCESS, 4
-getNumberOfGenreChanges: SUCCESS, 352
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -8860,14 +8860,14 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: FAILURE
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 28805
+getSongGenre: SUCCESS, 84045
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 60489
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 33399
+getSongGenre: SUCCESS, 97966
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -8878,17 +8878,17 @@ mergeGenres: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 357
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 2
 addSong: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 1393
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 36583
+getSongGenre: SUCCESS, 89107
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -8913,10 +8913,10 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 346
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 267
+getSongGenre: SUCCESS, 87913
 addGenre: SUCCESS
 addSong: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 2
@@ -8924,7 +8924,7 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 58806
@@ -8950,16 +8950,16 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 283
+getNumberOfGenreChanges: SUCCESS, 4
 getNumberOfSongsByGenre: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 38838
+getSongGenre: SUCCESS, 89009
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: FAILURE
-getNumberOfGenreChanges: SUCCESS, 231
+getNumberOfGenreChanges: SUCCESS, 6
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -8979,13 +8979,13 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 81467
-getSongGenre: SUCCESS, 60559
+getSongGenre: SUCCESS, 71439
+getSongGenre: SUCCESS, 91152
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 22665
+getSongGenre: SUCCESS, 35085
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 20962
+getSongGenre: SUCCESS, 60750
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 58067
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -8998,7 +8998,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -9028,7 +9028,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 180
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -9059,13 +9059,13 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 56827
-getNumberOfGenreChanges: SUCCESS, 24
+getSongGenre: SUCCESS, 84876
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 370
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -9096,16 +9096,16 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
-getSongGenre: SUCCESS, 36583
+getNumberOfGenreChanges: SUCCESS, 1
+getSongGenre: SUCCESS, 49774
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 334
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 373
-getNumberOfGenreChanges: SUCCESS, 330
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 225
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 46700
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -9113,7 +9113,7 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -9139,8 +9139,8 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 67721
-getNumberOfGenreChanges: SUCCESS, 0
+getSongGenre: SUCCESS, 91370
+getNumberOfGenreChanges: SUCCESS, 1
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -9163,9 +9163,9 @@ getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 40823
+getSongGenre: SUCCESS, 12231
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 15304
+getSongGenre: SUCCESS, 82995
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -9188,8 +9188,8 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 374
-getSongGenre: SUCCESS, 1517
+getNumberOfGenreChanges: SUCCESS, 3
+getSongGenre: SUCCESS, 25568
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
@@ -9198,7 +9198,7 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 2
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
@@ -9206,7 +9206,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 27381
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 40456
+getSongGenre: SUCCESS, 12816
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 38153
 addGenre: SUCCESS
@@ -9216,7 +9216,7 @@ getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 403
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: INVALID_INPUT
 addSong: SUCCESS
@@ -9229,7 +9229,7 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
-getSongGenre: SUCCESS, 83882
+getSongGenre: SUCCESS, 17195
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
@@ -9239,7 +9239,7 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 68630
+getSongGenre: SUCCESS, 18077
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -9252,8 +9252,8 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 1
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -9264,11 +9264,11 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 78386
+getSongGenre: SUCCESS, 47472
 getNumberOfSongsByGenre: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 34
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -9291,7 +9291,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 81343
-getNumberOfGenreChanges: SUCCESS, 65
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -9309,14 +9309,14 @@ getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 201
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
-getSongGenre: SUCCESS, 76299
+getSongGenre: SUCCESS, 91684
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 78720
-getNumberOfGenreChanges: SUCCESS, 73
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: FAILURE
 addGenre: SUCCESS
@@ -9331,7 +9331,7 @@ getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 35875
-getNumberOfGenreChanges: SUCCESS, 93
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -9343,15 +9343,15 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 6
-getNumberOfGenreChanges: SUCCESS, 198
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 21966
@@ -9372,7 +9372,7 @@ getSongGenre: SUCCESS, 57657
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 380
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 71120
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -9384,7 +9384,7 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 69
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -9407,20 +9407,20 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 36
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 91831
-getSongGenre: SUCCESS, 16176
+getSongGenre: SUCCESS, 64072
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addSong: SUCCESS
-getSongGenre: SUCCESS, 95538
+getSongGenre: SUCCESS, 3948
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -9428,10 +9428,10 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 261
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 14
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 17446
 addSong: SUCCESS
@@ -9461,7 +9461,7 @@ addGenre: SUCCESS
 addSong: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 219
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -9491,37 +9491,37 @@ getSongGenre: SUCCESS, 14840
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 42623
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
-getNumberOfGenreChanges: SUCCESS, 336
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 362
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 247
+getNumberOfGenreChanges: SUCCESS, 1
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 295
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 mergeGenres: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 409
-getSongGenre: FAILURE
-getNumberOfGenreChanges: SUCCESS, 259
-getNumberOfSongsByGenre: SUCCESS, 2
 getNumberOfGenreChanges: SUCCESS, 4
+getSongGenre: FAILURE
+getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfSongsByGenre: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -9538,31 +9538,31 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 77718
+getSongGenre: SUCCESS, 62391
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 81343
-getNumberOfGenreChanges: SUCCESS, 54
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
 getSongGenre: SUCCESS, 13312
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 376
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 5510
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 81274
+getSongGenre: SUCCESS, 33389
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -9572,10 +9572,10 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 404
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 323
-getNumberOfGenreChanges: SUCCESS, 394
+getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: FAILURE
@@ -9592,12 +9592,12 @@ getSongGenre: SUCCESS, 626
 getSongGenre: SUCCESS, 53502
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 67382
+getSongGenre: SUCCESS, 4863
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 62754
+getSongGenre: SUCCESS, 16226
 getSongGenre: FAILURE
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -9612,14 +9612,14 @@ getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 417
-getNumberOfGenreChanges: SUCCESS, 372
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 getNumberOfGenreChanges: FAILURE
-getNumberOfGenreChanges: SUCCESS, 81
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -9646,7 +9646,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 12
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
@@ -9672,15 +9672,15 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 5749
+getSongGenre: SUCCESS, 64150
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 402
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -9690,9 +9690,9 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 408
-getSongGenre: SUCCESS, 6793
-getSongGenre: SUCCESS, 96989
+getNumberOfGenreChanges: SUCCESS, 3
+getSongGenre: SUCCESS, 62754
+getSongGenre: SUCCESS, 80693
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -9706,17 +9706,17 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 229
-getNumberOfGenreChanges: SUCCESS, 58
+getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 303
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 2
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 12
+getNumberOfGenreChanges: SUCCESS, 4
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: FAILURE
 addGenre: SUCCESS
@@ -9735,27 +9735,27 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 236
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 390
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 402
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 33011
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 93161
+getSongGenre: SUCCESS, 93417
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 18135
-getNumberOfGenreChanges: SUCCESS, 168
+getSongGenre: SUCCESS, 24447
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 2
 getNumberOfSongsByGenre: FAILURE
@@ -9771,7 +9771,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 79
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -9787,10 +9787,10 @@ addSong: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 42319
+getSongGenre: SUCCESS, 28646
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 405
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
@@ -9819,12 +9819,12 @@ addSong: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 34723
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 67382
+getSongGenre: SUCCESS, 4863
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 87
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
@@ -9840,7 +9840,7 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 54810
+getSongGenre: SUCCESS, 35085
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -9869,24 +9869,24 @@ getSongGenre: SUCCESS, 96795
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 318
+getNumberOfGenreChanges: SUCCESS, 4
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getSongGenre: SUCCESS, 39302
-getSongGenre: SUCCESS, 65653
+getSongGenre: SUCCESS, 54102
+getSongGenre: SUCCESS, 52865
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 43430
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 98829
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 219
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
@@ -9903,7 +9903,7 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 getNumberOfSongsByGenre: SUCCESS, 2
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
@@ -9912,7 +9912,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 264
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -9936,7 +9936,7 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 55132
+getSongGenre: SUCCESS, 50527
 addGenre: SUCCESS
 getNumberOfSongsByGenre: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -9944,7 +9944,7 @@ addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 94
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -9962,11 +9962,11 @@ addGenre: INVALID_INPUT
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 367
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 50529
+getSongGenre: SUCCESS, 10082
 addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -9980,7 +9980,7 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 97872
 getNumberOfGenreChanges: FAILURE
 addSong: SUCCESS
-getSongGenre: SUCCESS, 96239
+getSongGenre: SUCCESS, 96593
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -9994,7 +9994,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 429
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 29782
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -10006,7 +10006,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 11177
@@ -10026,14 +10026,14 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 61349
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 5749
+getSongGenre: SUCCESS, 92214
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 387
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
@@ -10050,11 +10050,11 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 181
+getNumberOfGenreChanges: SUCCESS, 4
 addSong: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 213
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -10063,8 +10063,8 @@ getSongGenre: SUCCESS, 25991
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 10811
-getNumberOfGenreChanges: SUCCESS, 180
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -10079,15 +10079,15 @@ addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 5178
+getSongGenre: SUCCESS, 63507
 getNumberOfSongsByGenre: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 438
-getNumberOfSongsByGenre: SUCCESS, 2
-addGenre: SUCCESS
-addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 284
 getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfSongsByGenre: SUCCESS, 2
+addGenre: SUCCESS
+addSong: SUCCESS
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -10097,14 +10097,14 @@ mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 419
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfGenreChanges: FAILURE
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 343
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
-getSongGenre: SUCCESS, 78605
+getSongGenre: SUCCESS, 1609
 mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -10124,7 +10124,7 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 99134
 getNumberOfSongsByGenre: SUCCESS, 2
-getSongGenre: SUCCESS, 80745
+getSongGenre: SUCCESS, 58637
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -10140,16 +10140,16 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 350
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 20962
+getSongGenre: SUCCESS, 60750
 getSongGenre: SUCCESS, 44661
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 56827
+getSongGenre: SUCCESS, 37987
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 76172
@@ -10157,7 +10157,7 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 311
+getNumberOfGenreChanges: SUCCESS, 4
 addSong: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
@@ -10167,10 +10167,10 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 74958
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 318
-getNumberOfGenreChanges: SUCCESS, 391
+getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 411
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -10198,13 +10198,13 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 2
+mergeGenres: INVALID_INPUT
 mergeGenres: SUCCESS
-mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 getSongGenre: SUCCESS, 78720
@@ -10233,7 +10233,7 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 57324
+getSongGenre: SUCCESS, 49622
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -10250,7 +10250,7 @@ getNumberOfSongsByGenre: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 200
+getNumberOfGenreChanges: SUCCESS, 3
 getSongGenre: SUCCESS, 7549
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -10271,7 +10271,7 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 131
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -10283,7 +10283,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 264
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -10296,7 +10296,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 26038
+getSongGenre: SUCCESS, 34581
 addGenre: SUCCESS
 addSong: INVALID_INPUT
 addGenre: SUCCESS
@@ -10307,12 +10307,12 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 170
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 77189
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 335
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -10335,13 +10335,13 @@ addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 12
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: FAILURE
-getSongGenre: SUCCESS, 32599
+getSongGenre: SUCCESS, 30124
 addSong: SUCCESS
-getSongGenre: SUCCESS, 7500
+getSongGenre: SUCCESS, 67842
 mergeGenres: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
@@ -10354,7 +10354,7 @@ getNumberOfSongsByGenre: SUCCESS, 2
 getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 128
+getNumberOfGenreChanges: SUCCESS, 1
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -10375,22 +10375,22 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 88753
+getSongGenre: SUCCESS, 83674
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: INVALID_INPUT
 addSong: SUCCESS
-getSongGenre: SUCCESS, 86534
+getSongGenre: SUCCESS, 93554
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 46
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 369
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 37729
@@ -10399,14 +10399,14 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 89261
+getSongGenre: SUCCESS, 15201
 addSong: SUCCESS
 getSongGenre: SUCCESS, 19285
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -10417,7 +10417,7 @@ getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 382
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -10428,29 +10428,29 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 244
-getNumberOfGenreChanges: SUCCESS, 84
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 39055
+getSongGenre: SUCCESS, 66266
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 390
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 384
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 24974
-getNumberOfGenreChanges: SUCCESS, 456
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 274
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
@@ -10459,7 +10459,7 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 459
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -10467,21 +10467,21 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 450
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 2
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 305
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 10254
-getNumberOfGenreChanges: SUCCESS, 410
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 394
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -10493,13 +10493,13 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 107
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 36694
 getSongGenre: SUCCESS, 11195
 mergeGenres: SUCCESS
 getNumberOfGenreChanges: FAILURE
-getSongGenre: SUCCESS, 9966
+getSongGenre: SUCCESS, 13589
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -10514,31 +10514,31 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: FAILURE
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 21547
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 465
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 10
-mergeGenres: SUCCESS
+getNumberOfGenreChanges: SUCCESS, 2
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 85491
 addGenre: SUCCESS
@@ -10552,7 +10552,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 9066
+getSongGenre: SUCCESS, 44401
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -10564,7 +10564,7 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
-getSongGenre: SUCCESS, 63217
+getSongGenre: SUCCESS, 20180
 addSong: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 99358
@@ -10580,7 +10580,7 @@ getNumberOfSongsByGenre: SUCCESS, 2
 mergeGenres: SUCCESS
 getSongGenre: FAILURE
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 93161
+getSongGenre: SUCCESS, 23468
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -10593,7 +10593,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 414
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
@@ -10603,19 +10603,19 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 63251
+getSongGenre: SUCCESS, 7054
 addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 390
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: FAILURE
@@ -10625,7 +10625,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 215
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
@@ -10634,10 +10634,10 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 446
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 28805
+getSongGenre: SUCCESS, 84045
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -10646,29 +10646,29 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 41971
+getSongGenre: SUCCESS, 1170
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 83674
+getSongGenre: SUCCESS, 97101
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 462
-getSongGenre: SUCCESS, 3489
+getNumberOfGenreChanges: SUCCESS, 3
+getSongGenre: SUCCESS, 87378
 getSongGenre: FAILURE
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 83734
-getNumberOfGenreChanges: SUCCESS, 448
+getNumberOfGenreChanges: SUCCESS, 4
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 351
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -10677,12 +10677,12 @@ getSongGenre: SUCCESS, 89711
 getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 359
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: INVALID_INPUT
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getSongGenre: SUCCESS, 56628
-getSongGenre: SUCCESS, 9112
+getSongGenre: SUCCESS, 48046
+getSongGenre: SUCCESS, 49724
 mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -10698,7 +10698,7 @@ getSongGenre: SUCCESS, 73568
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -10730,7 +10730,7 @@ mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 38820
+getSongGenre: SUCCESS, 48031
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -10740,18 +10740,18 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 298
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
-addGenre: SUCCESS
-addGenre: SUCCESS
-addSong: SUCCESS
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
+addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 454
+addGenre: SUCCESS
+addSong: SUCCESS
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -10781,7 +10781,7 @@ addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 335
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 18798
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -10791,7 +10791,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 33750
+getSongGenre: SUCCESS, 32599
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
@@ -10803,7 +10803,7 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 463
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -10821,7 +10821,7 @@ addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getSongGenre: SUCCESS, 67382
+getSongGenre: SUCCESS, 4863
 getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -10832,7 +10832,7 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 114
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 62362
 mergeGenres: SUCCESS
@@ -10846,7 +10846,7 @@ getSongGenre: SUCCESS, 1097
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 331
+getNumberOfGenreChanges: SUCCESS, 4
 getNumberOfSongsByGenre: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -10856,7 +10856,7 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 442
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
@@ -10865,7 +10865,7 @@ addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 436
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
@@ -10874,11 +10874,11 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 75210
+getSongGenre: SUCCESS, 89177
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -10888,19 +10888,19 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 98633
+getSongGenre: SUCCESS, 26794
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 59
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 63025
-getNumberOfGenreChanges: SUCCESS, 283
-getNumberOfGenreChanges: SUCCESS, 430
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 2
-getSongGenre: SUCCESS, 96551
+getSongGenre: SUCCESS, 28640
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -10913,10 +10913,10 @@ addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 357
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 60893
+getSongGenre: SUCCESS, 81354
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
@@ -10929,9 +10929,9 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 470
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -10947,7 +10947,7 @@ getSongGenre: SUCCESS, 41992
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -10966,29 +10966,29 @@ getNumberOfSongsByGenre: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 2
 getSongGenre: SUCCESS, 35633
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 340
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 13535
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 91152
+getSongGenre: SUCCESS, 68877
 getNumberOfSongsByGenre: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 80745
+getSongGenre: SUCCESS, 58637
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 99466
+getSongGenre: SUCCESS, 94330
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -10997,14 +10997,14 @@ getSongGenre: SUCCESS, 98650
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 448
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: FAILURE
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 41
-getSongGenre: SUCCESS, 64172
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 36655
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
@@ -11013,25 +11013,25 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 getSongGenre: SUCCESS, 41584
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 75210
+getSongGenre: SUCCESS, 89177
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 487
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 453
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 45
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -11045,22 +11045,22 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 220
-getNumberOfGenreChanges: SUCCESS, 309
-mergeGenres: SUCCESS
-mergeGenres: SUCCESS
-addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 481
-addGenre: SUCCESS
-addSong: SUCCESS
-addSong: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 350
+getNumberOfGenreChanges: SUCCESS, 3
+mergeGenres: SUCCESS
+mergeGenres: SUCCESS
+addGenre: SUCCESS
+getNumberOfGenreChanges: SUCCESS, 2
+addGenre: SUCCESS
+addSong: SUCCESS
+addSong: SUCCESS
+mergeGenres: INVALID_INPUT
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 75612
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -11079,14 +11079,14 @@ addSong: SUCCESS
 getSongGenre: SUCCESS, 86921
 addGenre: SUCCESS
 getSongGenre: FAILURE
-getNumberOfGenreChanges: SUCCESS, 66
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 getSongGenre: SUCCESS, 73977
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getSongGenre: SUCCESS, 56687
+getSongGenre: SUCCESS, 59211
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -11104,7 +11104,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 481
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 18278
@@ -11143,9 +11143,9 @@ addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 453
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 82282
+getSongGenre: SUCCESS, 50421
 addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -11154,15 +11154,15 @@ addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 72814
+getSongGenre: SUCCESS, 42861
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 145
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 getSongGenre: FAILURE
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 131
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -11175,7 +11175,7 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 38462
 getSongGenre: SUCCESS, 6285
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 getSongGenre: SUCCESS, 87528
 getSongGenre: SUCCESS, 87707
 addGenre: INVALID_INPUT
@@ -11183,19 +11183,19 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 77496
+getSongGenre: SUCCESS, 26413
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 87085
+getSongGenre: SUCCESS, 88633
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 72814
+getSongGenre: SUCCESS, 42861
 mergeGenres: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
@@ -11210,7 +11210,7 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 320
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -11219,7 +11219,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 257
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addSong: SUCCESS
 getSongGenre: SUCCESS, 33389
@@ -11232,16 +11232,16 @@ addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 512
-getNumberOfGenreChanges: SUCCESS, 305
+getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 210
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 398
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
@@ -11253,7 +11253,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 387
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -11261,7 +11261,7 @@ addSong: SUCCESS
 getNumberOfGenreChanges: FAILURE
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 180
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 22731
@@ -11272,7 +11272,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 96688
+getSongGenre: SUCCESS, 63252
 getSongGenre: SUCCESS, 98762
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -11286,7 +11286,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 61958
+getSongGenre: SUCCESS, 57906
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -11302,7 +11302,7 @@ addGenre: INVALID_INPUT
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -11314,7 +11314,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 65653
+getSongGenre: SUCCESS, 52865
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -11324,7 +11324,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 471
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -11334,7 +11334,7 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 239
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -11349,14 +11349,14 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 59211
+getSongGenre: SUCCESS, 47987
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 getNumberOfGenreChanges: FAILURE
 addGenre: SUCCESS
@@ -11371,11 +11371,11 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 326
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 453
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 139
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -11400,17 +11400,17 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 61851
-getSongGenre: SUCCESS, 51743
+getSongGenre: SUCCESS, 78108
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 90
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 29494
+getSongGenre: SUCCESS, 17455
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -11435,11 +11435,11 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 4837
-getNumberOfGenreChanges: SUCCESS, 390
+getSongGenre: SUCCESS, 46063
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 475
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
@@ -11448,7 +11448,7 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 98633
+getSongGenre: SUCCESS, 26794
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -11470,7 +11470,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 35764
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 82084
+getSongGenre: SUCCESS, 69930
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -11482,7 +11482,7 @@ getNumberOfSongsByGenre: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 73392
+getSongGenre: SUCCESS, 26256
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -11494,7 +11494,7 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 getSongGenre: SUCCESS, 75612
 getNumberOfSongsByGenre: SUCCESS, 2
-getSongGenre: SUCCESS, 44253
+getSongGenre: SUCCESS, 8393
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -11514,7 +11514,7 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 30286
+getSongGenre: SUCCESS, 9891
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 getSongGenre: SUCCESS, 96076
@@ -11523,7 +11523,7 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 505
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -11533,8 +11533,8 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 410
-getNumberOfGenreChanges: SUCCESS, 499
+getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -11548,7 +11548,7 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 27358
+getSongGenre: SUCCESS, 57139
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -11559,18 +11559,18 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 getSongGenre: FAILURE
-getSongGenre: SUCCESS, 86173
+getSongGenre: SUCCESS, 40942
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 426
+getNumberOfGenreChanges: SUCCESS, 4
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 410
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 82282
+getSongGenre: SUCCESS, 50421
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -11579,10 +11579,10 @@ addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 416
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 43630
+getSongGenre: SUCCESS, 67118
 getNumberOfSongsByGenre: SUCCESS, 2
 getSongGenre: SUCCESS, 28238
 addGenre: SUCCESS
@@ -11599,7 +11599,7 @@ mergeGenres: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
 getNumberOfGenreChanges: FAILURE
-getNumberOfGenreChanges: SUCCESS, 155
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
@@ -11610,7 +11610,7 @@ mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 106
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
@@ -11625,13 +11625,13 @@ addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 96785
+getSongGenre: SUCCESS, 1943
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 16419
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 14465
+getSongGenre: SUCCESS, 68108
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -11652,9 +11652,9 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 7
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -11677,13 +11677,13 @@ mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 6387
 getNumberOfSongsByGenre: SUCCESS, 1
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 346
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: FAILURE
-getNumberOfGenreChanges: SUCCESS, 422
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 3
 getSongGenre: SUCCESS, 47423
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 249
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 27381
@@ -11698,7 +11698,7 @@ addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 getNumberOfGenreChanges: SUCCESS, 2
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -11706,7 +11706,7 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 416
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -11714,7 +11714,7 @@ getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 57484
+getSongGenre: SUCCESS, 98944
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -11723,7 +11723,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 517
+getNumberOfGenreChanges: SUCCESS, 4
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -11748,21 +11748,21 @@ getNumberOfSongsByGenre: SUCCESS, 1
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 87
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 36583
+getSongGenre: SUCCESS, 89107
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 518
+getNumberOfGenreChanges: SUCCESS, 2
+addGenre: SUCCESS
+mergeGenres: INVALID_INPUT
+addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-addGenre: SUCCESS
-mergeGenres: SUCCESS
-addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -11771,30 +11771,30 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 163
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
-getNumberOfGenreChanges: SUCCESS, 524
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 287
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 111
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -11805,8 +11805,8 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 94032
-getNumberOfGenreChanges: SUCCESS, 0
+getSongGenre: SUCCESS, 50187
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -11821,8 +11821,8 @@ addGenre: SUCCESS
 addSong: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 2
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 60559
-getSongGenre: SUCCESS, 60633
+getSongGenre: SUCCESS, 63044
+getSongGenre: SUCCESS, 96785
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -11831,7 +11831,7 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 1629
+getSongGenre: SUCCESS, 50299
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -11846,13 +11846,13 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 547
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 82266
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 258
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
@@ -11879,7 +11879,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -11893,9 +11893,9 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
-getSongGenre: SUCCESS, 96785
-getSongGenre: SUCCESS, 87355
+getNumberOfGenreChanges: SUCCESS, 1
+getSongGenre: SUCCESS, 1943
+getSongGenre: SUCCESS, 95210
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -11904,7 +11904,7 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 555
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -11948,14 +11948,14 @@ mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 121
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 7266
+getSongGenre: SUCCESS, 76159
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -11974,13 +11974,13 @@ addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 25
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 66195
+getSongGenre: SUCCESS, 86185
 getSongGenre: FAILURE
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 63507
+getSongGenre: SUCCESS, 24975
 getSongGenre: SUCCESS, 33203
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
@@ -11988,41 +11988,41 @@ mergeGenres: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 79749
+getSongGenre: SUCCESS, 34573
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 96551
+getSongGenre: SUCCESS, 3484
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 4607
+getSongGenre: SUCCESS, 36918
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 251
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 23262
+getSongGenre: SUCCESS, 87971
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 76134
+getSongGenre: SUCCESS, 87819
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 534
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfGenreChanges: FAILURE
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 104
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -12039,11 +12039,11 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 getSongGenre: SUCCESS, 12654
 addGenre: SUCCESS
@@ -12060,15 +12060,15 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 455
+getNumberOfGenreChanges: SUCCESS, 1
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 68630
+getSongGenre: SUCCESS, 75140
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -12081,12 +12081,12 @@ getSongGenre: SUCCESS, 69502
 getNumberOfSongsByGenre: FAILURE
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 496
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 188
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 1
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -12099,7 +12099,7 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 82084
+getSongGenre: SUCCESS, 69930
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -12111,7 +12111,7 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 12
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -12123,21 +12123,21 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 573
-getSongGenre: SUCCESS, 68630
+getNumberOfGenreChanges: SUCCESS, 4
+getSongGenre: SUCCESS, 1309
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 7568
+getSongGenre: SUCCESS, 15450
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 41
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 5749
+getSongGenre: SUCCESS, 92214
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -12145,19 +12145,19 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 4
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 455
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 81191
-getSongGenre: SUCCESS, 22517
+getSongGenre: SUCCESS, 37513
 getNumberOfGenreChanges: FAILURE
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -12173,25 +12173,25 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 13937
 getSongGenre: SUCCESS, 76172
-getSongGenre: SUCCESS, 64312
+getSongGenre: SUCCESS, 59585
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 388
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: FAILURE
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 520
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 575
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 315
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 74489
+getSongGenre: SUCCESS, 76889
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -12200,7 +12200,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: FAILURE
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -12239,17 +12239,17 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 getNumberOfSongsByGenre: FAILURE
-getSongGenre: SUCCESS, 60559
+getSongGenre: SUCCESS, 63044
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 231
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 27381
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 231
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 93218
@@ -12262,17 +12262,17 @@ addGenre: INVALID_INPUT
 addSong: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 174
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 59978
@@ -12284,7 +12284,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 587
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -12292,17 +12292,17 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 579
-getNumberOfGenreChanges: SUCCESS, 409
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 425
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 126
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 45645
@@ -12312,7 +12312,7 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -12321,20 +12321,20 @@ addGenre: SUCCESS
 addSong: FAILURE
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 567
-getNumberOfGenreChanges: SUCCESS, 263
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 54744
+getSongGenre: SUCCESS, 82084
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 364
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -12347,14 +12347,14 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 12707
-getSongGenre: SUCCESS, 30334
+getSongGenre: SUCCESS, 34546
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 52198
+getSongGenre: SUCCESS, 80693
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 77496
+getSongGenre: SUCCESS, 40144
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -12373,15 +12373,15 @@ mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 42600
+getSongGenre: SUCCESS, 58933
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 75593
+getSongGenre: SUCCESS, 64273
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 72814
+getSongGenre: SUCCESS, 58080
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -12402,10 +12402,10 @@ addGenre: INVALID_INPUT
 getSongGenre: SUCCESS, 85638
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
-getSongGenre: SUCCESS, 73503
+getSongGenre: SUCCESS, 25991
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
-getSongGenre: SUCCESS, 50529
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 10082
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -12416,14 +12416,14 @@ mergeGenres: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 208
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getSongGenre: FAILURE
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 25441
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 37985
+getSongGenre: SUCCESS, 16176
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -12450,7 +12450,7 @@ getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 22517
+getSongGenre: SUCCESS, 28995
 addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -12463,10 +12463,10 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 93342
+getSongGenre: SUCCESS, 71337
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 461
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 1
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -12477,15 +12477,15 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: INVALID_INPUT
 addSong: SUCCESS
 getSongGenre: SUCCESS, 69240
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
-getNumberOfGenreChanges: SUCCESS, 528
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -12500,7 +12500,7 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: INVALID_INPUT
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 91976
+getSongGenre: SUCCESS, 20608
 addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -12526,15 +12526,15 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 32
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 20911
@@ -12545,10 +12545,10 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 302
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
@@ -12560,8 +12560,8 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: FAILURE
 addSong: SUCCESS
-getSongGenre: SUCCESS, 48408
-getNumberOfGenreChanges: SUCCESS, 202
+getSongGenre: SUCCESS, 2638
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -12569,7 +12569,7 @@ getSongGenre: SUCCESS, 84747
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -12584,13 +12584,13 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 218
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -12598,13 +12598,13 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addSong: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 69240
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
@@ -12612,13 +12612,13 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 198
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 322
-mergeGenres: SUCCESS
+getNumberOfGenreChanges: SUCCESS, 3
+mergeGenres: INVALID_INPUT
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -12633,14 +12633,14 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 2
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 1
 getNumberOfSongsByGenre: SUCCESS, 1
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 489
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
@@ -12660,14 +12660,14 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
 getNumberOfGenreChanges: FAILURE
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 130
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 530
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 1
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -12686,19 +12686,19 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 93722
-getNumberOfGenreChanges: SUCCESS, 453
+getSongGenre: SUCCESS, 13451
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 485
+getNumberOfGenreChanges: SUCCESS, 4
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 getSongGenre: SUCCESS, 11560
 getSongGenre: SUCCESS, 35764
 addGenre: SUCCESS
@@ -12729,13 +12729,13 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 61958
-getSongGenre: SUCCESS, 65736
+getSongGenre: SUCCESS, 57906
+getSongGenre: SUCCESS, 26200
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 43630
+getSongGenre: SUCCESS, 67118
 addSong: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: FAILURE
@@ -12749,8 +12749,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 33399
-getSongGenre: SUCCESS, 55583
+getSongGenre: SUCCESS, 97966
+getSongGenre: SUCCESS, 6545
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -12758,25 +12758,25 @@ getNumberOfSongsByGenre: SUCCESS, 1
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 54891
+getSongGenre: SUCCESS, 77496
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 56827
+getSongGenre: SUCCESS, 59236
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 96551
+getSongGenre: SUCCESS, 20980
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
@@ -12788,7 +12788,7 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 getNumberOfSongsByGenre: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 1
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -12815,7 +12815,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: FAILURE
@@ -12829,7 +12829,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 69568
+getSongGenre: SUCCESS, 48432
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -12840,12 +12840,12 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addSong: SUCCESS
-getSongGenre: SUCCESS, 93844
+getSongGenre: SUCCESS, 44980
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 293
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -12854,7 +12854,7 @@ addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 603
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 mergeGenres: SUCCESS
@@ -12872,7 +12872,7 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 19425
+getSongGenre: SUCCESS, 3424
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
@@ -12881,7 +12881,7 @@ addGenre: SUCCESS
 getSongGenre: FAILURE
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -12908,7 +12908,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -12917,24 +12917,24 @@ getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 539
+getNumberOfGenreChanges: SUCCESS, 6
 addSong: INVALID_INPUT
 addSong: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 38167
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 45636
+getSongGenre: SUCCESS, 27386
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 564
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 556
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 556
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -12942,7 +12942,7 @@ addGenre: INVALID_INPUT
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 28552
+getSongGenre: SUCCESS, 19353
 getNumberOfSongsByGenre: SUCCESS, 1
 getSongGenre: SUCCESS, 46446
 getSongGenre: SUCCESS, 42508
@@ -12955,7 +12955,7 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 586
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: INVALID_INPUT
@@ -12971,7 +12971,7 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 68469
+getSongGenre: SUCCESS, 68108
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -12987,7 +12987,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 582
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -12997,7 +12997,7 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 56644
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 51305
+getSongGenre: SUCCESS, 35085
 addSong: FAILURE
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -13022,11 +13022,11 @@ addSong: INVALID_INPUT
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 91831
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 5
 getSongGenre: SUCCESS, 54824
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -13039,28 +13039,28 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 60165
+getSongGenre: SUCCESS, 7266
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 28461
+getSongGenre: SUCCESS, 176
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 520
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 92714
+getSongGenre: SUCCESS, 21609
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 35770
+getSongGenre: SUCCESS, 96194
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 77496
+getSongGenre: SUCCESS, 26413
 addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
@@ -13074,7 +13074,7 @@ getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 363
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -13091,33 +13091,33 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 490
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 61553
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
-getSongGenre: SUCCESS, 62754
+getSongGenre: SUCCESS, 16226
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 3
-getNumberOfGenreChanges: SUCCESS, 331
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 257
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 78605
-getNumberOfGenreChanges: SUCCESS, 593
+getSongGenre: SUCCESS, 1609
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -13127,18 +13127,18 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 37987
+getSongGenre: SUCCESS, 57906
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 37987
+getSongGenre: SUCCESS, 57906
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
@@ -13159,19 +13159,19 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 97872
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 44119
+getSongGenre: SUCCESS, 56838
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 2
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 2124
+getSongGenre: SUCCESS, 73475
 getNumberOfSongsByGenre: SUCCESS, 5
-getSongGenre: SUCCESS, 49637
+getSongGenre: SUCCESS, 56687
 getSongGenre: SUCCESS, 84971
-getNumberOfGenreChanges: SUCCESS, 577
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -13180,16 +13180,16 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 64072
+getSongGenre: SUCCESS, 64312
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 65
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 624
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 601
+getNumberOfGenreChanges: SUCCESS, 5
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
@@ -13200,7 +13200,7 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -13225,7 +13225,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 563
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -13236,7 +13236,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 151
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
@@ -13266,10 +13266,10 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 77486
+getSongGenre: SUCCESS, 51285
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 59211
+getSongGenre: SUCCESS, 47987
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
@@ -13297,7 +13297,7 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 33399
+getSongGenre: SUCCESS, 97966
 getNumberOfSongsByGenre: FAILURE
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -13307,7 +13307,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 587
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
 getSongGenre: SUCCESS, 33799
 addSong: SUCCESS
@@ -13316,7 +13316,7 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 49266
+getSongGenre: SUCCESS, 28626
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
@@ -13332,21 +13332,21 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
-getNumberOfGenreChanges: SUCCESS, 509
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 423
-getSongGenre: SUCCESS, 13007
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 526
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 593
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 26396
+getSongGenre: SUCCESS, 39096
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
@@ -13359,7 +13359,7 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfGenreChanges: FAILURE
-getNumberOfGenreChanges: SUCCESS, 32
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -13372,19 +13372,19 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 16
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 630
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 5
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 getSongGenre: SUCCESS, 60978
@@ -13420,33 +13420,33 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: FAILURE
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 4837
+getSongGenre: SUCCESS, 46063
 addSong: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 71552
+getSongGenre: SUCCESS, 95490
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 261
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 579
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
-getNumberOfGenreChanges: SUCCESS, 591
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 1
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: FAILURE
-getNumberOfGenreChanges: SUCCESS, 189
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 52530
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -13457,18 +13457,18 @@ addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 642
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 getSongGenre: SUCCESS, 98762
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 62188
+getSongGenre: SUCCESS, 13469
 getNumberOfSongsByGenre: SUCCESS, 5
 getSongGenre: SUCCESS, 60978
-getNumberOfGenreChanges: SUCCESS, 635
-getNumberOfGenreChanges: SUCCESS, 24
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -13489,18 +13489,18 @@ getNumberOfSongsByGenre: SUCCESS, 5
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 39701
-getSongGenre: SUCCESS, 18986
+getSongGenre: SUCCESS, 7266
+getSongGenre: SUCCESS, 17687
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 357
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 595
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 getSongGenre: SUCCESS, 21807
@@ -13526,7 +13526,7 @@ addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -13543,11 +13543,11 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 293
-getNumberOfGenreChanges: SUCCESS, 6
-getNumberOfGenreChanges: SUCCESS, 534
+getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 498
+getNumberOfGenreChanges: SUCCESS, 6
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -13567,12 +13567,12 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 557
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 81
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -13583,10 +13583,10 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
-getNumberOfGenreChanges: SUCCESS, 654
+getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 76989
+getSongGenre: SUCCESS, 1948
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -13607,18 +13607,18 @@ mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 520
+getNumberOfGenreChanges: SUCCESS, 4
 addSong: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 69183
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 639
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
-getNumberOfGenreChanges: SUCCESS, 6
-mergeGenres: SUCCESS
+getNumberOfGenreChanges: SUCCESS, 3
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -13628,18 +13628,18 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 78605
+getSongGenre: SUCCESS, 1609
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 409
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 506
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -13653,12 +13653,12 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
-getNumberOfGenreChanges: SUCCESS, 591
-getSongGenre: SUCCESS, 23262
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 65329
 addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 71771
 addGenre: SUCCESS
@@ -13667,12 +13667,12 @@ getSongGenre: SUCCESS, 29560
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
-getSongGenre: SUCCESS, 50278
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 70157
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getSongGenre: SUCCESS, 25862
-getNumberOfGenreChanges: SUCCESS, 639
+getSongGenre: SUCCESS, 96814
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -13687,7 +13687,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
@@ -13697,12 +13697,12 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 639
-mergeGenres: SUCCESS
+getNumberOfGenreChanges: SUCCESS, 2
+mergeGenres: INVALID_INPUT
 mergeGenres: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 653
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -13722,10 +13722,10 @@ getNumberOfGenreChanges: FAILURE
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 5178
+getSongGenre: SUCCESS, 63507
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 354
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 80864
@@ -13738,10 +13738,10 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 437
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 1
@@ -13750,11 +13750,11 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 74489
+getSongGenre: SUCCESS, 76889
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 299
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -13764,7 +13764,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 60852
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 50125
+getSongGenre: SUCCESS, 38499
 addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
@@ -13772,28 +13772,28 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 51380
+getSongGenre: SUCCESS, 23039
 addSong: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 9418
+getSongGenre: SUCCESS, 31472
 getSongGenre: SUCCESS, 59890
 addGenre: SUCCESS
 addSong: FAILURE
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 76172
-getSongGenre: SUCCESS, 1517
+getSongGenre: SUCCESS, 25568
 addSong: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 440
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 642
+getNumberOfGenreChanges: SUCCESS, 4
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -13804,10 +13804,10 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-addGenre: FAILURE
+addGenre: SUCCESS
 getSongGenre: SUCCESS, 6387
 getSongGenre: SUCCESS, 27965
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 4
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -13817,23 +13817,23 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 76815
-getSongGenre: SUCCESS, 30286
+getSongGenre: SUCCESS, 9891
 addSong: FAILURE
-getNumberOfGenreChanges: SUCCESS, 365
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 97872
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 638
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getSongGenre: SUCCESS, 20334
+getSongGenre: SUCCESS, 15201
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -13850,7 +13850,7 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 604
+getNumberOfGenreChanges: SUCCESS, 1
 getSongGenre: SUCCESS, 73568
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -13876,7 +13876,7 @@ getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
@@ -13894,17 +13894,17 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 671
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 45856
+getSongGenre: SUCCESS, 25083
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
@@ -13914,10 +13914,10 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 647
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 3
 getSongGenre: FAILURE
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -13931,7 +13931,7 @@ getSongGenre: SUCCESS, 61851
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 mergeGenres: SUCCESS
@@ -13954,7 +13954,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 31006
-getSongGenre: SUCCESS, 17404
+getSongGenre: SUCCESS, 68453
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -13962,14 +13962,14 @@ addGenre: INVALID_INPUT
 addSong: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 10811
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 45641
+getSongGenre: SUCCESS, 88136
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 636
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -13991,21 +13991,21 @@ getNumberOfSongsByGenre: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 getSongGenre: SUCCESS, 75288
-getNumberOfGenreChanges: SUCCESS, 210
-getNumberOfGenreChanges: SUCCESS, 537
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 4
 addSong: SUCCESS
 getSongGenre: FAILURE
-getSongGenre: SUCCESS, 30525
+getSongGenre: SUCCESS, 28640
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 241
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -14036,7 +14036,7 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 98883
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 448
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
@@ -14050,7 +14050,7 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 95509
+getSongGenre: SUCCESS, 75715
 getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 19285
 addGenre: SUCCESS
@@ -14058,7 +14058,7 @@ getNumberOfSongsByGenre: SUCCESS, 5
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -14080,9 +14080,9 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 59484
+getSongGenre: SUCCESS, 36204
 addSong: SUCCESS
-getSongGenre: SUCCESS, 70046
+getSongGenre: SUCCESS, 75541
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
@@ -14092,19 +14092,19 @@ getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 67382
+getSongGenre: SUCCESS, 4863
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addSong: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 2
 addSong: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 436
-getNumberOfGenreChanges: SUCCESS, 645
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -14118,7 +14118,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
@@ -14129,9 +14129,9 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 12256
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 248
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -14141,22 +14141,22 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: FAILURE
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 417
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 16176
+getSongGenre: SUCCESS, 43376
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 43474
+getSongGenre: SUCCESS, 50789
 getSongGenre: SUCCESS, 10811
 addGenre: INVALID_INPUT
 mergeGenres: SUCCESS
@@ -14168,14 +14168,14 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 645
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 25193
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -14185,18 +14185,18 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 72090
+getSongGenre: SUCCESS, 21221
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 29716
+getSongGenre: SUCCESS, 89293
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 46043
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 mergeGenres: SUCCESS
 getNumberOfGenreChanges: FAILURE
 addGenre: SUCCESS
@@ -14212,7 +14212,7 @@ addSong: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 97231
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -14226,22 +14226,22 @@ addSong: SUCCESS
 getSongGenre: SUCCESS, 87528
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 85298
-getSongGenre: SUCCESS, 115
+getSongGenre: SUCCESS, 99630
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 678
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 38354
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 653
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 65903
+getSongGenre: SUCCESS, 46714
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
@@ -14251,11 +14251,11 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 639
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 getSongGenre: FAILURE
@@ -14263,18 +14263,18 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 86381
+getSongGenre: SUCCESS, 51863
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 20218
+getSongGenre: SUCCESS, 87585
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 657
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -14288,12 +14288,12 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 657
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 10038
+getSongGenre: SUCCESS, 89264
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 45235
@@ -14307,15 +14307,15 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 95
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 27040
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 499
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 45772
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 10464
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -14324,7 +14324,7 @@ mergeGenres: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 70116
+getSongGenre: SUCCESS, 17402
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 75431
 addGenre: SUCCESS
@@ -14336,9 +14336,9 @@ getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 93844
+getSongGenre: SUCCESS, 44980
 addSong: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 74516
@@ -14347,19 +14347,19 @@ getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 getSongGenre: SUCCESS, 93075
-getSongGenre: SUCCESS, 28461
-getSongGenre: SUCCESS, 81061
+getSongGenre: SUCCESS, 176
+getSongGenre: SUCCESS, 86185
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 399
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 37889
+getSongGenre: SUCCESS, 41387
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -14367,24 +14367,24 @@ mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 680
-getNumberOfGenreChanges: SUCCESS, 688
-getNumberOfGenreChanges: SUCCESS, 492
+getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 676
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 63025
-getNumberOfGenreChanges: SUCCESS, 162
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 33399
+getSongGenre: SUCCESS, 97966
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
@@ -14410,7 +14410,7 @@ mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 41191
+getSongGenre: SUCCESS, 76765
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -14431,7 +14431,7 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -14441,7 +14441,7 @@ addGenre: SUCCESS
 addGenre: INVALID_INPUT
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -14457,26 +14457,26 @@ addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 5
-getSongGenre: SUCCESS, 44034
+getSongGenre: SUCCESS, 66250
+mergeGenres: INVALID_INPUT
+getNumberOfGenreChanges: SUCCESS, 2
+addSong: SUCCESS
+addSong: SUCCESS
+addGenre: SUCCESS
+addGenre: SUCCESS
+addGenre: SUCCESS
+addGenre: SUCCESS
+addGenre: SUCCESS
+addGenre: SUCCESS
+addSong: SUCCESS
+addGenre: SUCCESS
+addGenre: SUCCESS
+getNumberOfGenreChanges: SUCCESS, 3
+addSong: SUCCESS
+addGenre: SUCCESS
+addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 109
-addSong: SUCCESS
-addSong: SUCCESS
-addGenre: SUCCESS
-addGenre: SUCCESS
-addGenre: SUCCESS
-addGenre: SUCCESS
-addGenre: SUCCESS
-addGenre: SUCCESS
-addSong: SUCCESS
-addGenre: SUCCESS
-addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
-addSong: SUCCESS
-addGenre: SUCCESS
-addGenre: SUCCESS
-mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 7
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addSong: FAILURE
 addGenre: SUCCESS
@@ -14490,16 +14490,16 @@ getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 679
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
-getSongGenre: SUCCESS, 87355
-getSongGenre: SUCCESS, 70741
+getSongGenre: SUCCESS, 95210
+getSongGenre: SUCCESS, 99710
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
-getSongGenre: SUCCESS, 50178
+getSongGenre: SUCCESS, 81354
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addSong: SUCCESS
@@ -14511,18 +14511,18 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 35764
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 231
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 getNumberOfGenreChanges: SUCCESS, 2
-mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 622
+mergeGenres: INVALID_INPUT
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 646
+getNumberOfGenreChanges: SUCCESS, 3
 getSongGenre: SUCCESS, 19506
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -14535,7 +14535,7 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
 getSongGenre: SUCCESS, 80779
-getNumberOfGenreChanges: SUCCESS, 393
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -14548,14 +14548,14 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 86431
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 488
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 99496
-getNumberOfGenreChanges: SUCCESS, 644
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 355
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 getSongGenre: FAILURE
@@ -14564,8 +14564,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 26396
-getNumberOfGenreChanges: SUCCESS, 8
+getSongGenre: SUCCESS, 93572
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -14577,7 +14577,7 @@ addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 674
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: FAILURE
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -14595,16 +14595,16 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 34153
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 4607
+getSongGenre: SUCCESS, 36918
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 38686
-getSongGenre: SUCCESS, 54843
+getSongGenre: SUCCESS, 3484
 getNumberOfSongsByGenre: SUCCESS, 5
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 531
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -14628,14 +14628,14 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 302
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 11195
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -14658,9 +14658,9 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 getSongGenre: SUCCESS, 35780
-getNumberOfGenreChanges: SUCCESS, 450
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 1
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
@@ -14680,11 +14680,11 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 711
+getNumberOfGenreChanges: SUCCESS, 4
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 78848
+getSongGenre: SUCCESS, 95219
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 97971
@@ -14698,7 +14698,7 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
@@ -14712,9 +14712,9 @@ getSongGenre: SUCCESS, 77580
 getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 2
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 454
-getSongGenre: SUCCESS, 37985
-getSongGenre: SUCCESS, 44253
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 15631
+getSongGenre: SUCCESS, 68020
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -14726,18 +14726,18 @@ getNumberOfSongsByGenre: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 35273
-getNumberOfGenreChanges: SUCCESS, 698
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 28
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 36363
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 685
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: INVALID_INPUT
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 56052
@@ -14745,7 +14745,7 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 54810
+getSongGenre: SUCCESS, 35085
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
@@ -14764,7 +14764,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
 getSongGenre: SUCCESS, 25083
@@ -14797,39 +14797,39 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 257
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: FAILURE
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 554
+getNumberOfGenreChanges: SUCCESS, 5
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 52516
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 32599
+getSongGenre: SUCCESS, 30124
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 115
+getSongGenre: SUCCESS, 99630
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 681
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 49637
-getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 570
-getSongGenre: SUCCESS, 80977
-getNumberOfGenreChanges: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 501
 getSongGenre: SUCCESS, 56687
-getNumberOfGenreChanges: SUCCESS, 622
+getNumberOfSongsByGenre: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 80977
+getNumberOfGenreChanges: SUCCESS, 1
+getNumberOfGenreChanges: SUCCESS, 3
+getSongGenre: SUCCESS, 59211
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 18
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -14838,7 +14838,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -14865,7 +14865,7 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 16138
+getSongGenre: SUCCESS, 53199
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -14876,7 +14876,7 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 getSongGenre: FAILURE
 addGenre: SUCCESS
@@ -14900,22 +14900,22 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 10
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 699
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 337
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 12256
 mergeGenres: SUCCESS
+getNumberOfGenreChanges: SUCCESS, 3
+addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 360
-addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 64643
+getSongGenre: SUCCESS, 38666
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -14923,7 +14923,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 2535
+getSongGenre: SUCCESS, 31922
 getSongGenre: SUCCESS, 69880
 addSong: SUCCESS
 addSong: SUCCESS
@@ -14934,16 +14934,16 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 95145
+getSongGenre: SUCCESS, 10870
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 97231
+getSongGenre: SUCCESS, 39561
 addGenre: INVALID_INPUT
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
-getNumberOfGenreChanges: SUCCESS, 414
+getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 290
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -14960,14 +14960,14 @@ getSongGenre: SUCCESS, 9871
 mergeGenres: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 1
-getSongGenre: SUCCESS, 51087
+getSongGenre: SUCCESS, 14338
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 592
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 50099
+getSongGenre: SUCCESS, 48423
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -14979,19 +14979,19 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 72438
+getSongGenre: SUCCESS, 42137
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 49369
-getSongGenre: SUCCESS, 29494
+getSongGenre: SUCCESS, 12159
+getSongGenre: SUCCESS, 25188
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 2
 addSong: SUCCESS
 addSong: SUCCESS
@@ -15007,7 +15007,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 595
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -15017,7 +15017,7 @@ mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 107
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -15028,14 +15028,14 @@ getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 721
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -15051,22 +15051,22 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 88203
-getNumberOfGenreChanges: SUCCESS, 608
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 67382
+getSongGenre: SUCCESS, 4863
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 323
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
-getSongGenre: SUCCESS, 45636
+getSongGenre: SUCCESS, 27386
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 2
@@ -15077,21 +15077,21 @@ addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 659
+getNumberOfGenreChanges: SUCCESS, 6
 getNumberOfGenreChanges: FAILURE
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 637
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 29139
+getSongGenre: SUCCESS, 51961
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 90512
-getNumberOfGenreChanges: SUCCESS, 16
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -15114,23 +15114,23 @@ getSongGenre: SUCCESS, 71771
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 70335
-getNumberOfGenreChanges: SUCCESS, 274
-getSongGenre: SUCCESS, 30468
+getSongGenre: SUCCESS, 72551
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 26413
 mergeGenres: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 getSongGenre: SUCCESS, 41880
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 99106
+getSongGenre: SUCCESS, 17402
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 77533
+getSongGenre: SUCCESS, 88678
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -15147,13 +15147,13 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 267
+getSongGenre: SUCCESS, 176
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 52322
+getSongGenre: SUCCESS, 11783
 getSongGenre: SUCCESS, 12515
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -15173,17 +15173,17 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 68734
+getSongGenre: SUCCESS, 2250
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 54243
+getSongGenre: SUCCESS, 76159
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 644
+getSongGenre: SUCCESS, 38499
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -15195,8 +15195,8 @@ mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 17123
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 86185
-getNumberOfGenreChanges: SUCCESS, 5
+getSongGenre: SUCCESS, 99891
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: FAILURE
 addGenre: SUCCESS
@@ -15204,14 +15204,14 @@ addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 67382
+getSongGenre: SUCCESS, 4863
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 22517
+getSongGenre: SUCCESS, 37513
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 17734
@@ -15223,13 +15223,13 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 423
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 97231
+getSongGenre: SUCCESS, 85278
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 39
-getSongGenre: SUCCESS, 30468
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 26413
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -15237,30 +15237,30 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 82388
+getSongGenre: SUCCESS, 61127
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 688
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 52530
-getSongGenre: SUCCESS, 99106
+getSongGenre: SUCCESS, 17402
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 711
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 5
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 18955
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 5
-getNumberOfGenreChanges: SUCCESS, 209
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -15272,10 +15272,10 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 282
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 1
-getNumberOfGenreChanges: SUCCESS, 128
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
@@ -15283,15 +15283,15 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 30766
+getSongGenre: SUCCESS, 16147
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 45846
+getSongGenre: SUCCESS, 5505
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 35273
@@ -15310,9 +15310,9 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 703
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
@@ -15325,7 +15325,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 120
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -15334,7 +15334,7 @@ getSongGenre: SUCCESS, 41044
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 9112
+getSongGenre: SUCCESS, 29267
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -15350,8 +15350,8 @@ getSongGenre: SUCCESS, 12558
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 42352
-getSongGenre: SUCCESS, 16195
-getNumberOfGenreChanges: SUCCESS, 10
+getSongGenre: SUCCESS, 41815
+getNumberOfGenreChanges: SUCCESS, 1
 getSongGenre: SUCCESS, 98650
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -15363,8 +15363,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 229
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -15380,13 +15380,13 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 71019
+getSongGenre: SUCCESS, 72477
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -15395,10 +15395,10 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 5
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 747
-mergeGenres: SUCCESS
+getNumberOfGenreChanges: SUCCESS, 2
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 78643
@@ -15410,8 +15410,8 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 39051
-getSongGenre: SUCCESS, 31153
+getSongGenre: SUCCESS, 22983
+getSongGenre: SUCCESS, 22826
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
@@ -15434,7 +15434,7 @@ getNumberOfSongsByGenre: SUCCESS, 2
 getSongGenre: SUCCESS, 10925
 getSongGenre: SUCCESS, 21807
 addSong: SUCCESS
-getSongGenre: SUCCESS, 22665
+getSongGenre: SUCCESS, 35085
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -15442,11 +15442,11 @@ addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 72438
+getSongGenre: SUCCESS, 42137
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -15462,13 +15462,13 @@ addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 58894
+getSongGenre: SUCCESS, 29732
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 68
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -15476,7 +15476,7 @@ getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 15383
+getSongGenre: SUCCESS, 11783
 addGenre: SUCCESS
 getSongGenre: FAILURE
 addGenre: SUCCESS
@@ -15486,7 +15486,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 getSongGenre: SUCCESS, 9259
@@ -15497,9 +15497,9 @@ addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 51087
+getSongGenre: SUCCESS, 14338
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -15509,9 +15509,9 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 12
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -15521,7 +15521,7 @@ addGenre: SUCCESS
 getSongGenre: FAILURE
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 613
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -15529,11 +15529,11 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 200
-getNumberOfGenreChanges: SUCCESS, 107
-addGenre: FAILURE
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 96706
+addGenre: SUCCESS
+getSongGenre: SUCCESS, 48406
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
@@ -15548,7 +15548,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 635
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 getNumberOfSongsByGenre: SUCCESS, 2
@@ -15556,21 +15556,21 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 12
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+mergeGenres: INVALID_INPUT
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 82282
+getSongGenre: SUCCESS, 50421
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 212
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -15586,14 +15586,14 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 180
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 210
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 125
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -15612,7 +15612,7 @@ getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 12826
-getNumberOfGenreChanges: SUCCESS, 720
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -15626,7 +15626,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 91974
+getSongGenre: SUCCESS, 61218
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -15649,7 +15649,7 @@ addSong: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -15657,29 +15657,29 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 56827
-mergeGenres: SUCCESS
+getSongGenre: SUCCESS, 84876
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
-getNumberOfGenreChanges: SUCCESS, 641
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 451
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 502
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 1
 addSong: SUCCESS
 getSongGenre: SUCCESS, 74958
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 82
-getNumberOfGenreChanges: SUCCESS, 11
-getSongGenre: SUCCESS, 58894
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 29732
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 32
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
@@ -15687,7 +15687,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -15698,7 +15698,7 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -15731,7 +15731,7 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 3640
-getSongGenre: SUCCESS, 28461
+getSongGenre: SUCCESS, 176
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 38914
@@ -15741,7 +15741,7 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 618
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -15755,26 +15755,26 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 142
-getNumberOfGenreChanges: SUCCESS, 86
+getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 27624
-getNumberOfGenreChanges: SUCCESS, 12
+getSongGenre: SUCCESS, 66865
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 90451
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 80975
+getSongGenre: SUCCESS, 21826
 getSongGenre: SUCCESS, 93193
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -15784,11 +15784,11 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 175
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -15806,32 +15806,32 @@ getSongGenre: SUCCESS, 62912
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 70741
-getNumberOfGenreChanges: SUCCESS, 171
+getSongGenre: SUCCESS, 99710
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
-getNumberOfGenreChanges: SUCCESS, 575
+getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 3640
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 762
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 608
-getNumberOfGenreChanges: SUCCESS, 209
-getNumberOfGenreChanges: SUCCESS, 383
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 729
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -15850,7 +15850,7 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 740
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -15863,13 +15863,13 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 741
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 57311
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 58
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
@@ -15878,7 +15878,7 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -15890,31 +15890,31 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 740
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 5
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 740
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 84560
-getSongGenre: SUCCESS, 6163
+getSongGenre: SUCCESS, 79435
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 94539
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
-getSongGenre: SUCCESS, 88344
+getSongGenre: SUCCESS, 92784
+getNumberOfGenreChanges: SUCCESS, 2
+addGenre: SUCCESS
+addGenre: SUCCESS
+addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 3
-addGenre: SUCCESS
-addGenre: SUCCESS
-addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 596
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
@@ -15924,29 +15924,29 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 70488
-getSongGenre: SUCCESS, 22118
+getSongGenre: SUCCESS, 89029
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 83312
+getSongGenre: SUCCESS, 79232
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 86048
+getSongGenre: SUCCESS, 89107
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 87585
+getSongGenre: SUCCESS, 11618
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 76463
-getNumberOfGenreChanges: SUCCESS, 5
-getSongGenre: SUCCESS, 81248
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 14362
 getSongGenre: SUCCESS, 16437
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -15962,16 +15962,16 @@ getSongGenre: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 213
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 40141
-getSongGenre: SUCCESS, 37985
+getSongGenre: SUCCESS, 16176
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 510
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 19251
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -15990,13 +15990,13 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 81359
+getSongGenre: SUCCESS, 27748
 getSongGenre: SUCCESS, 84747
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 729
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getSongGenre: FAILURE
 addGenre: SUCCESS
@@ -16007,14 +16007,14 @@ addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 1994
+getSongGenre: SUCCESS, 39410
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 3
 getSongGenre: SUCCESS, 25193
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -16030,7 +16030,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 62188
+getSongGenre: SUCCESS, 13469
 addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
@@ -16066,7 +16066,7 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 750
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -16093,9 +16093,9 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 36771
+getSongGenre: SUCCESS, 84979
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 56628
+getSongGenre: SUCCESS, 61127
 getNumberOfSongsByGenre: SUCCESS, 5
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: INVALID_INPUT
@@ -16106,7 +16106,7 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 46218
@@ -16115,7 +16115,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 26407
+getSongGenre: SUCCESS, 51920
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: INVALID_INPUT
@@ -16133,9 +16133,9 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 515
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 14
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -16144,7 +16144,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 758
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -16153,7 +16153,7 @@ getSongGenre: SUCCESS, 53745
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 19425
+getSongGenre: SUCCESS, 3424
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -16163,9 +16163,9 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 12
+getNumberOfGenreChanges: SUCCESS, 4
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 8575
+getSongGenre: SUCCESS, 11194
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -16181,7 +16181,7 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: FAILURE
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 527
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
@@ -16195,7 +16195,7 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 758
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
 addGenre: INVALID_INPUT
@@ -16212,7 +16212,7 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 659
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
@@ -16231,7 +16231,7 @@ getSongGenre: SUCCESS, 25991
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 56442
+getSongGenre: SUCCESS, 89417
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -16245,8 +16245,8 @@ addSong: SUCCESS
 getSongGenre: SUCCESS, 80770
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 75992
-getNumberOfGenreChanges: SUCCESS, 713
+getSongGenre: SUCCESS, 91660
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -16264,7 +16264,7 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -16273,7 +16273,7 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
-getSongGenre: SUCCESS, 78205
+getSongGenre: SUCCESS, 15631
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -16283,7 +16283,7 @@ getNumberOfSongsByGenre: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 67027
+getSongGenre: SUCCESS, 13019
 getSongGenre: SUCCESS, 39867
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -16296,24 +16296,24 @@ getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 758
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 71522
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 327
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 18
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 475
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 93904
 getNumberOfSongsByGenre: SUCCESS, 1
@@ -16329,7 +16329,7 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 12635
+getSongGenre: SUCCESS, 85278
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -16348,17 +16348,17 @@ getNumberOfSongsByGenre: SUCCESS, 2
 addSong: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 539
+getNumberOfGenreChanges: SUCCESS, 1
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 90560
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 568
-getNumberOfGenreChanges: SUCCESS, 230
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -16382,12 +16382,12 @@ addGenre: INVALID_INPUT
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 693
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 13007
+getSongGenre: SUCCESS, 526
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -16397,12 +16397,12 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 740
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 2124
+getSongGenre: SUCCESS, 79737
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 734
+getNumberOfGenreChanges: SUCCESS, 3
 getSongGenre: SUCCESS, 43209
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -16420,11 +16420,11 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 mergeGenres: SUCCESS
@@ -16433,18 +16433,18 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 3
 getSongGenre: SUCCESS, 73629
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
-mergeGenres: SUCCESS
+getNumberOfGenreChanges: SUCCESS, 2
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 227
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 25193
 getNumberOfSongsByGenre: SUCCESS, 4
-getNumberOfGenreChanges: SUCCESS, 760
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -16454,20 +16454,20 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 84
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 115
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: FAILURE
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 770
-getNumberOfGenreChanges: SUCCESS, 12
+getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 248
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 79749
+getSongGenre: SUCCESS, 34573
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -16481,7 +16481,7 @@ addGenre: SUCCESS
 getSongGenre: FAILURE
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 30286
+getSongGenre: SUCCESS, 9891
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -16498,18 +16498,18 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 77628
+getSongGenre: SUCCESS, 71540
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 82756
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 181
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
@@ -16519,8 +16519,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 getNumberOfGenreChanges: FAILURE
-getSongGenre: SUCCESS, 56118
-getNumberOfGenreChanges: SUCCESS, 0
+getSongGenre: SUCCESS, 38894
+getNumberOfGenreChanges: SUCCESS, 1
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -16548,19 +16548,19 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 610
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 780
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 11
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 5
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -16571,9 +16571,9 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 82194
+getSongGenre: SUCCESS, 72029
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -16586,7 +16586,7 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 68781
+getSongGenre: SUCCESS, 77476
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 93218
@@ -16608,19 +16608,19 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 5
-getNumberOfGenreChanges: SUCCESS, 570
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addSong: SUCCESS
-getSongGenre: SUCCESS, 70116
+getSongGenre: SUCCESS, 17402
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -16641,7 +16641,7 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 getSongGenre: SUCCESS, 34643
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 285
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
@@ -16653,21 +16653,21 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 2
-getSongGenre: SUCCESS, 44119
+getSongGenre: SUCCESS, 56838
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 49088
+getSongGenre: SUCCESS, 83828
 addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 207
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -16686,24 +16686,24 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 72814
+getSongGenre: SUCCESS, 70116
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 764
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 64073
-getNumberOfGenreChanges: SUCCESS, 0
+getSongGenre: SUCCESS, 52516
+getNumberOfGenreChanges: SUCCESS, 1
 addSong: INVALID_INPUT
 addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 46413
+getSongGenre: SUCCESS, 93572
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -16714,21 +16714,21 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 35764
-getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 499
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 796
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -16738,7 +16738,7 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -16751,14 +16751,14 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 20935
+getSongGenre: SUCCESS, 57029
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 2
 getSongGenre: SUCCESS, 68108
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -16782,13 +16782,13 @@ addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 90240
-getNumberOfGenreChanges: SUCCESS, 758
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 4
-getNumberOfGenreChanges: SUCCESS, 784
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -16801,14 +16801,14 @@ addGenre: SUCCESS
 getSongGenre: FAILURE
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 28667
-getSongGenre: SUCCESS, 31176
+getSongGenre: SUCCESS, 99924
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 179
-getSongGenre: SUCCESS, 6793
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 8575
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
@@ -16825,8 +16825,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 75657
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 43957
-getNumberOfGenreChanges: SUCCESS, 0
+getSongGenre: SUCCESS, 77219
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
@@ -16846,7 +16846,7 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 61355
+getSongGenre: SUCCESS, 75470
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -16855,7 +16855,7 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 816
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addSong: FAILURE
@@ -16868,29 +16868,29 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 460
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 84910
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getSongGenre: SUCCESS, 82282
+getSongGenre: SUCCESS, 22363
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 getSongGenre: SUCCESS, 71272
-getSongGenre: SUCCESS, 2000
+getSongGenre: SUCCESS, 75470
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 58370
+getSongGenre: SUCCESS, 60636
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 30194
+getSongGenre: SUCCESS, 607
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 62188
+getSongGenre: SUCCESS, 13469
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -16909,21 +16909,21 @@ mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 2210
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 96
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 5
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: FAILURE
-getNumberOfGenreChanges: SUCCESS, 802
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 99134
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -16945,11 +16945,11 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 755
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 818
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -16960,8 +16960,8 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: FAILURE
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 45412
-getNumberOfGenreChanges: SUCCESS, 12
+getSongGenre: SUCCESS, 54778
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -16974,14 +16974,14 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 75992
+getSongGenre: SUCCESS, 91660
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: INVALID_INPUT
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 70335
+getSongGenre: SUCCESS, 72551
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
@@ -16992,7 +16992,7 @@ getSongGenre: SUCCESS, 26826
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 8611
+getSongGenre: SUCCESS, 45898
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 80436
@@ -17001,7 +17001,7 @@ addSong: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 20911
-getNumberOfGenreChanges: SUCCESS, 266
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -17012,7 +17012,7 @@ addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 9418
+getSongGenre: SUCCESS, 75884
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -17020,13 +17020,13 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 42
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getSongGenre: SUCCESS, 88173
+getSongGenre: SUCCESS, 65148
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 305
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -17050,16 +17050,16 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 811
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 49334
-getNumberOfGenreChanges: SUCCESS, 644
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 829
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -17067,14 +17067,14 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 147
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 85701
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -17085,12 +17085,12 @@ getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 28146
+getSongGenre: SUCCESS, 96194
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getSongGenre: SUCCESS, 77909
-getNumberOfGenreChanges: SUCCESS, 6
-getSongGenre: SUCCESS, 65176
+getSongGenre: SUCCESS, 21221
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 33389
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -17098,16 +17098,16 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 70315
+getSongGenre: SUCCESS, 21962
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 5
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 5
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 637
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
@@ -17151,24 +17151,24 @@ getSongGenre: SUCCESS, 5078
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 1
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 120
-mergeGenres: SUCCESS
+getNumberOfGenreChanges: SUCCESS, 2
+mergeGenres: INVALID_INPUT
 addSong: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 80732
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 3640
-getNumberOfGenreChanges: SUCCESS, 3
-getSongGenre: SUCCESS, 20747
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 54243
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -17177,7 +17177,7 @@ getNumberOfSongsByGenre: SUCCESS, 2
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 63106
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -17198,7 +17198,7 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 83553
 addGenre: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -17211,10 +17211,10 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 74218
-getSongGenre: SUCCESS, 67580
+getSongGenre: SUCCESS, 84876
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 96551
-getSongGenre: SUCCESS, 28623
+getSongGenre: SUCCESS, 21384
+getSongGenre: SUCCESS, 83260
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 3
 addGenre: SUCCESS
@@ -17228,12 +17228,12 @@ mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 44902
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 475
-getNumberOfGenreChanges: SUCCESS, 17
-getNumberOfGenreChanges: SUCCESS, 793
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 769
-getSongGenre: SUCCESS, 96688
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 59915
 getSongGenre: SUCCESS, 97179
 getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
@@ -17256,7 +17256,7 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 561
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
@@ -17265,9 +17265,9 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 76278
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 619
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 47443
-getSongGenre: SUCCESS, 93161
+getSongGenre: SUCCESS, 21221
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
@@ -17275,7 +17275,7 @@ getNumberOfSongsByGenre: SUCCESS, 1
 getSongGenre: SUCCESS, 34602
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -17284,20 +17284,20 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 23660
+getSongGenre: SUCCESS, 84594
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 763
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 54243
-getSongGenre: SUCCESS, 82282
+getSongGenre: SUCCESS, 76159
+getSongGenre: SUCCESS, 50421
 addSong: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -17310,9 +17310,9 @@ addSong: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 89195
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 225
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -17320,9 +17320,9 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: INVALID_INPUT
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 29792
+getSongGenre: SUCCESS, 74821
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 506
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -17332,28 +17332,28 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 536
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 320
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 111
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: FAILURE
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 771
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 64860
-getSongGenre: SUCCESS, 5495
+getSongGenre: SUCCESS, 50726
 getSongGenre: SUCCESS, 41880
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 9966
+getSongGenre: SUCCESS, 98507
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -17370,7 +17370,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 5
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -17385,8 +17385,8 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 65412
-getSongGenre: SUCCESS, 15383
-getNumberOfGenreChanges: SUCCESS, 4
+getSongGenre: SUCCESS, 52322
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
@@ -17402,10 +17402,10 @@ addGenre: INVALID_INPUT
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 832
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 839
-getNumberOfGenreChanges: SUCCESS, 161
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -17443,9 +17443,9 @@ getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 9066
+getSongGenre: SUCCESS, 44401
 addSong: SUCCESS
-getSongGenre: SUCCESS, 68877
+getSongGenre: SUCCESS, 37694
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 24646
 addGenre: SUCCESS
@@ -17460,10 +17460,10 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 65736
+getSongGenre: SUCCESS, 26200
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -17474,18 +17474,18 @@ getSongGenre: SUCCESS, 69880
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 529
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 60349
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 784
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 857
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 802
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -17504,7 +17504,7 @@ getSongGenre: SUCCESS, 63106
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 600
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 51761
@@ -17512,9 +17512,9 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 81471
+getSongGenre: SUCCESS, 53774
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 515
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -17522,7 +17522,7 @@ addGenre: INVALID_INPUT
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 9944
+getSongGenre: SUCCESS, 95213
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 92235
@@ -17535,7 +17535,7 @@ addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 96314
-getNumberOfGenreChanges: SUCCESS, 549
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -17550,7 +17550,7 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 64643
+getSongGenre: SUCCESS, 44401
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -17565,7 +17565,7 @@ addSong: SUCCESS
 addSong: SUCCESS
 getSongGenre: SUCCESS, 17413
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 566
+getNumberOfGenreChanges: SUCCESS, 4
 mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -17577,24 +17577,24 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 570
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 4607
+getSongGenre: SUCCESS, 36918
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 20180
+getSongGenre: SUCCESS, 20835
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -17607,23 +17607,23 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 98219
+getSongGenre: SUCCESS, 90432
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 5186
+getSongGenre: SUCCESS, 29056
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 788
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 84639
+getSongGenre: SUCCESS, 65339
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -17635,23 +17635,23 @@ addSong: SUCCESS
 getSongGenre: SUCCESS, 28819
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 12133
+getSongGenre: SUCCESS, 80761
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 1
 getSongGenre: SUCCESS, 41758
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 28226
-getNumberOfGenreChanges: SUCCESS, 838
+getNumberOfGenreChanges: SUCCESS, 4
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 553
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 56052
-getNumberOfGenreChanges: SUCCESS, 22
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 2949
@@ -17660,7 +17660,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 642
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -17669,7 +17669,7 @@ getNumberOfSongsByGenre: SUCCESS, 4
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 820
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -17687,7 +17687,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 78643
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 843
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -17710,7 +17710,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 48430
-getSongGenre: SUCCESS, 99622
+getSongGenre: SUCCESS, 75006
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -17746,9 +17746,9 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 769
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 3
@@ -17758,7 +17758,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
 addGenre: SUCCESS
@@ -17768,15 +17768,15 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 53255
+getSongGenre: SUCCESS, 97825
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 86921
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 51808
-getSongGenre: SUCCESS, 73392
+getSongGenre: SUCCESS, 7237
+getSongGenre: SUCCESS, 26256
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 mergeGenres: SUCCESS
@@ -17795,7 +17795,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 3
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 86
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
@@ -17806,7 +17806,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 84
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -17815,22 +17815,22 @@ addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 63
-getNumberOfGenreChanges: SUCCESS, 448
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 getNumberOfGenreChanges: FAILURE
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 809
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 1
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 57803
+getSongGenre: SUCCESS, 89158
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -17843,21 +17843,21 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 187
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 80887
+getSongGenre: SUCCESS, 61320
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 809
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
@@ -17865,7 +17865,7 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 155
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addSong: SUCCESS
@@ -17882,31 +17882,31 @@ getNumberOfSongsByGenre: FAILURE
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 26826
 getNumberOfSongsByGenre: SUCCESS, 1
-getSongGenre: SUCCESS, 70897
-getSongGenre: SUCCESS, 70046
+getSongGenre: SUCCESS, 9585
+getSongGenre: SUCCESS, 75541
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 64175
+getSongGenre: SUCCESS, 78978
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 244
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 1
-getNumberOfGenreChanges: SUCCESS, 256
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 840
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 38666
+getSongGenre: SUCCESS, 4417
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -17915,17 +17915,17 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 605
-getSongGenre: SUCCESS, 31153
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 22826
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 867
-getSongGenre: SUCCESS, 97381
+getNumberOfGenreChanges: SUCCESS, 4
+getSongGenre: SUCCESS, 67721
 mergeGenres: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
@@ -17935,11 +17935,11 @@ addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
-getNumberOfGenreChanges: SUCCESS, 189
+getNumberOfGenreChanges: SUCCESS, 4
 mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 509
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
@@ -17953,11 +17953,11 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 778
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 22330
+getSongGenre: SUCCESS, 68453
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 56628
+getSongGenre: SUCCESS, 61127
 getSongGenre: FAILURE
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -17965,14 +17965,14 @@ getNumberOfSongsByGenre: SUCCESS, 4
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 73
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
-getNumberOfGenreChanges: SUCCESS, 894
-getNumberOfGenreChanges: SUCCESS, 75
+getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 44661
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -17985,10 +17985,10 @@ getSongGenre: SUCCESS, 84747
 getSongGenre: SUCCESS, 45436
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 667
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 61553
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 236
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
@@ -18028,12 +18028,12 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 29951
+getSongGenre: SUCCESS, 60893
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
-getSongGenre: SUCCESS, 45387
+getSongGenre: SUCCESS, 4467
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -18050,7 +18050,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 339
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 3
@@ -18058,24 +18058,24 @@ getSongGenre: SUCCESS, 72741
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 858
+mergeGenres: INVALID_INPUT
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 72108
-getNumberOfGenreChanges: SUCCESS, 285
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
-getNumberOfGenreChanges: SUCCESS, 852
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 340
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 10811
-getSongGenre: SUCCESS, 70494
+getSongGenre: SUCCESS, 56445
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: INVALID_INPUT
@@ -18095,8 +18095,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 98650
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 903
-getNumberOfGenreChanges: SUCCESS, 791
+getNumberOfGenreChanges: SUCCESS, 5
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 5
@@ -18106,14 +18106,14 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 43630
+getSongGenre: SUCCESS, 67118
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 868
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
@@ -18128,14 +18128,14 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 65058
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 98633
+getSongGenre: SUCCESS, 97167
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: INVALID_INPUT
@@ -18144,16 +18144,16 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 94032
+getSongGenre: SUCCESS, 50187
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 651
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 34047
+getSongGenre: SUCCESS, 90413
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -18178,13 +18178,13 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 20962
+mergeGenres: INVALID_INPUT
+getSongGenre: SUCCESS, 60750
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
-getNumberOfGenreChanges: SUCCESS, 911
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -18193,7 +18193,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 49456
+getSongGenre: SUCCESS, 55787
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -18204,7 +18204,7 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 47781
+getSongGenre: SUCCESS, 41387
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -18212,11 +18212,11 @@ addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 34573
+getSongGenre: SUCCESS, 68643
 addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 878
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addSong: INVALID_INPUT
 getSongGenre: SUCCESS, 59982
@@ -18229,20 +18229,20 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 1976
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 900
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addSong: SUCCESS
 addSong: SUCCESS
 getSongGenre: SUCCESS, 24646
-getNumberOfGenreChanges: SUCCESS, 795
+getNumberOfGenreChanges: SUCCESS, 3
 getSongGenre: SUCCESS, 63106
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -18251,13 +18251,13 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 44039
+getSongGenre: SUCCESS, 87971
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 83537
+getSongGenre: SUCCESS, 21742
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -18266,7 +18266,7 @@ getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 68630
+getSongGenre: SUCCESS, 1309
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 87000
@@ -18285,8 +18285,8 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 271
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -18294,11 +18294,11 @@ getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 11132
+getSongGenre: SUCCESS, 73756
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 75657
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -18307,20 +18307,20 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 32616
 getNumberOfSongsByGenre: SUCCESS, 5
-getNumberOfGenreChanges: SUCCESS, 96
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 366
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 89671
+getSongGenre: SUCCESS, 82572
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -18328,15 +18328,15 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 42974
+getSongGenre: SUCCESS, 78120
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 868
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 41971
+getSongGenre: SUCCESS, 1170
 addGenre: SUCCESS
 getNumberOfSongsByGenre: FAILURE
 addGenre: SUCCESS
@@ -18351,7 +18351,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 719
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -18363,19 +18363,19 @@ mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 19934
+getSongGenre: SUCCESS, 74537
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 366
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 846
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 42436
+getSongGenre: SUCCESS, 20848
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: FAILURE
@@ -18400,7 +18400,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: FAILURE
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 64175
+getSongGenre: SUCCESS, 78978
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -18411,20 +18411,20 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 11
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 866
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 1948
+getSongGenre: SUCCESS, 30698
 getSongGenre: FAILURE
-getSongGenre: SUCCESS, 25240
+getSongGenre: SUCCESS, 57803
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 77496
+getSongGenre: SUCCESS, 28971
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -18449,12 +18449,12 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 76790
 getNumberOfSongsByGenre: SUCCESS, 5
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 102
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 765
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -18464,7 +18464,7 @@ getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 925
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
@@ -18473,7 +18473,7 @@ addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 665
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -18490,9 +18490,9 @@ mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 14865
 getSongGenre: SUCCESS, 93105
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -18507,18 +18507,18 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 835
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
-getSongGenre: SUCCESS, 46413
+getSongGenre: SUCCESS, 93572
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -18536,23 +18536,23 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 8575
+getSongGenre: SUCCESS, 11194
 addSong: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 906
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 4
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 809
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 4
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 31
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
@@ -18571,19 +18571,19 @@ getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 28146
+getSongGenre: SUCCESS, 96194
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 293
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 474
-getSongGenre: SUCCESS, 60165
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 7266
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -18595,9 +18595,9 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 87585
+getSongGenre: SUCCESS, 11618
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 44594
+getSongGenre: SUCCESS, 58080
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 3
 addGenre: SUCCESS
@@ -18608,7 +18608,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 31
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 addSong: SUCCESS
@@ -18622,7 +18622,7 @@ getSongGenre: FAILURE
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 36078
+getSongGenre: SUCCESS, 37524
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -18652,9 +18652,9 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 890
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
@@ -18720,7 +18720,7 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 12
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -18729,13 +18729,13 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfSongsByGenre: SUCCESS, 0
+getNumberOfSongsByGenre: SUCCESS, 1
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -18744,7 +18744,7 @@ mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 56827
+getSongGenre: SUCCESS, 95295
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
@@ -18754,7 +18754,7 @@ mergeGenres: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 60215
+getSongGenre: SUCCESS, 50582
 addSong: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
@@ -18762,7 +18762,7 @@ getSongGenre: FAILURE
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 443
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -18774,20 +18774,20 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 4
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 59703
 getNumberOfSongsByGenre: FAILURE
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 97381
+getSongGenre: SUCCESS, 67721
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 53893
@@ -18795,7 +18795,7 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 886
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 16610
 addGenre: INVALID_INPUT
@@ -18820,10 +18820,10 @@ getSongGenre: SUCCESS, 5825
 getSongGenre: SUCCESS, 36260
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 1
 getSongGenre: SUCCESS, 71377
-getNumberOfGenreChanges: SUCCESS, 485
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
@@ -18834,7 +18834,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 632
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 26879
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -18846,8 +18846,8 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 52407
-getNumberOfGenreChanges: SUCCESS, 6
+getSongGenre: SUCCESS, 67805
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
 mergeGenres: SUCCESS
@@ -18856,34 +18856,34 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 54
+getNumberOfGenreChanges: SUCCESS, 2
+addGenre: SUCCESS
+mergeGenres: INVALID_INPUT
+addGenre: SUCCESS
+addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
-mergeGenres: SUCCESS
-addGenre: SUCCESS
-addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 934
-addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 5
-getSongGenre: SUCCESS, 9862
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 72814
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 89671
+getSongGenre: SUCCESS, 82572
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 41419
+getSongGenre: SUCCESS, 78102
 addGenre: INVALID_INPUT
 getSongGenre: SUCCESS, 11828
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 68630
+getSongGenre: SUCCESS, 75140
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -18892,7 +18892,7 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 634
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
@@ -18918,7 +18918,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 21926
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 getSongGenre: SUCCESS, 78114
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
@@ -18932,9 +18932,9 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 60559
+getSongGenre: SUCCESS, 37694
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
@@ -18946,21 +18946,21 @@ addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 899
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 826
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 733
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 403
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -18986,27 +18986,27 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 792
+getNumberOfGenreChanges: SUCCESS, 6
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 950
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 938
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: FAILURE
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 6478
+getSongGenre: SUCCESS, 29014
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 883
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -19015,17 +19015,17 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 45636
+getSongGenre: SUCCESS, 27386
 getNumberOfSongsByGenre: SUCCESS, 1
 mergeGenres: SUCCESS
 getSongGenre: FAILURE
-getNumberOfGenreChanges: SUCCESS, 4
-getSongGenre: SUCCESS, 45636
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 27386
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 516
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -19035,10 +19035,10 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -19047,11 +19047,11 @@ getSongGenre: SUCCESS, 2210
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 91974
+getSongGenre: SUCCESS, 73536
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
@@ -19065,20 +19065,20 @@ getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 13007
+getSongGenre: SUCCESS, 526
 getSongGenre: SUCCESS, 80676
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 421
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 59995
@@ -19091,20 +19091,20 @@ addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 710
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 273
-getSongGenre: SUCCESS, 61246
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 60633
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 1
-getNumberOfGenreChanges: SUCCESS, 883
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 575
+getNumberOfGenreChanges: SUCCESS, 3
 getSongGenre: SUCCESS, 48497
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 29678
@@ -19113,16 +19113,16 @@ getSongGenre: SUCCESS, 78643
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 87729
-getNumberOfGenreChanges: SUCCESS, 253
-getNumberOfGenreChanges: SUCCESS, 18
+getSongGenre: SUCCESS, 4252
+getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 45772
 getNumberOfSongsByGenre: FAILURE
 getSongGenre: SUCCESS, 24341
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 76854
+getSongGenre: SUCCESS, 83312
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 84453
 addGenre: SUCCESS
@@ -19130,8 +19130,8 @@ addSong: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 54701
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 852
-getSongGenre: SUCCESS, 41469
+getNumberOfGenreChanges: SUCCESS, 1
+getSongGenre: SUCCESS, 16610
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -19141,24 +19141,24 @@ getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
 getSongGenre: SUCCESS, 34153
 getNumberOfSongsByGenre: SUCCESS, 5
-getNumberOfGenreChanges: SUCCESS, 885
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 30525
+getSongGenre: SUCCESS, 28640
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 579
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 698
-mergeGenres: SUCCESS
+getNumberOfGenreChanges: SUCCESS, 2
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 70173
 addGenre: SUCCESS
@@ -19167,7 +19167,7 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -19177,21 +19177,21 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
-getSongGenre: SUCCESS, 45969
+getSongGenre: SUCCESS, 16275
 addGenre: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 2
-getSongGenre: SUCCESS, 72814
+getSongGenre: SUCCESS, 92214
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 83
-getSongGenre: SUCCESS, 83674
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 30286
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 90437
+getSongGenre: SUCCESS, 30400
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 3
@@ -19209,7 +19209,7 @@ getNumberOfSongsByGenre: SUCCESS, 4
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 236
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
 addGenre: SUCCESS
@@ -19217,20 +19217,20 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 89177
+getSongGenre: SUCCESS, 60132
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 247
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 1948
+getSongGenre: SUCCESS, 30698
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 54240
+getSongGenre: SUCCESS, 41261
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
-getSongGenre: SUCCESS, 32070
+getSongGenre: SUCCESS, 94298
 getNumberOfSongsByGenre: SUCCESS, 5
-getNumberOfGenreChanges: SUCCESS, 4
-getSongGenre: SUCCESS, 82743
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 95438
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -19240,18 +19240,18 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 842
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 944
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 950
-getSongGenre: SUCCESS, 70494
-getSongGenre: SUCCESS, 62188
-getSongGenre: SUCCESS, 60429
+getNumberOfGenreChanges: SUCCESS, 3
+getSongGenre: SUCCESS, 31620
+getSongGenre: SUCCESS, 68620
+getSongGenre: SUCCESS, 28428
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -19262,7 +19262,7 @@ addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 94032
+getSongGenre: SUCCESS, 70423
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -19276,7 +19276,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
-getSongGenre: SUCCESS, 51380
+getSongGenre: SUCCESS, 23039
 mergeGenres: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
@@ -19284,10 +19284,10 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 495
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 907
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -19297,7 +19297,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addSong: FAILURE
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -19315,20 +19315,20 @@ addSong: SUCCESS
 getSongGenre: SUCCESS, 82193
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 79095
+getSongGenre: SUCCESS, 64752
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getSongGenre: FAILURE
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 29494
+getSongGenre: SUCCESS, 17455
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 964
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -19338,20 +19338,20 @@ addSong: SUCCESS
 getSongGenre: SUCCESS, 58707
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 599
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 743
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 84633
+getSongGenre: SUCCESS, 72642
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 29494
+getSongGenre: SUCCESS, 17455
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 933
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 12256
 addGenre: SUCCESS
@@ -19369,7 +19369,7 @@ getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 937
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -19378,7 +19378,7 @@ addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -19389,7 +19389,7 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 83342
+getSongGenre: SUCCESS, 63031
 getSongGenre: SUCCESS, 17478
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
@@ -19404,14 +19404,14 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 12515
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 51216
-getNumberOfGenreChanges: SUCCESS, 680
-getNumberOfGenreChanges: SUCCESS, 447
+getSongGenre: SUCCESS, 28388
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 445
-getSongGenre: SUCCESS, 85753
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 12732
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -19438,10 +19438,10 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 66767
+getSongGenre: SUCCESS, 45914
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
@@ -19451,14 +19451,14 @@ mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 3
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 59995
-getNumberOfGenreChanges: SUCCESS, 12
-getNumberOfGenreChanges: SUCCESS, 815
-getSongGenre: SUCCESS, 5749
-getNumberOfGenreChanges: SUCCESS, 172
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 29300
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -19468,12 +19468,12 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 3
-getSongGenre: SUCCESS, 56687
+getSongGenre: SUCCESS, 59211
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 964
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 416
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -19493,16 +19493,16 @@ getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 44022
-addGenre: FAILURE
+getSongGenre: SUCCESS, 22117
+addGenre: SUCCESS
 getSongGenre: SUCCESS, 54824
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 265
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 4
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -19516,15 +19516,15 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 24
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 388
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 955
-getSongGenre: SUCCESS, 51743
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 78108
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -19556,7 +19556,7 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 97
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addSong: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 2
@@ -19575,9 +19575,9 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
-getSongGenre: SUCCESS, 91974
-getSongGenre: SUCCESS, 31472
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 73536
+getSongGenre: SUCCESS, 43728
 getSongGenre: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 4
 addGenre: SUCCESS
@@ -19590,13 +19590,13 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 68469
+getSongGenre: SUCCESS, 68108
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 35
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
@@ -19605,44 +19605,44 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 99958
+getSongGenre: SUCCESS, 67842
 getSongGenre: SUCCESS, 5400
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 44316
+getSongGenre: SUCCESS, 92546
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 970
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 964
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 19180
+getSongGenre: SUCCESS, 63041
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: FAILURE
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 56827
+getSongGenre: SUCCESS, 84876
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
@@ -19671,7 +19671,7 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
@@ -19685,7 +19685,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 36415
+getSongGenre: SUCCESS, 56836
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
@@ -19709,7 +19709,7 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 getNumberOfSongsByGenre: SUCCESS, 3
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -19727,26 +19727,26 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 5
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 980
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 getSongGenre: SUCCESS, 98099
-getNumberOfGenreChanges: SUCCESS, 990
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 51911
 getSongGenre: SUCCESS, 41044
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 53819
+getSongGenre: SUCCESS, 96785
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 19180
+getSongGenre: SUCCESS, 63041
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 78643
 addGenre: SUCCESS
@@ -19761,16 +19761,16 @@ getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: INVALID_INPUT
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
-getNumberOfGenreChanges: SUCCESS, 184
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 974
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 3
 addGenre: SUCCESS
@@ -19779,24 +19779,24 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 7665
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 7549
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 88545
 mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 754
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 82194
+getSongGenre: SUCCESS, 72029
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 79694
+getSongGenre: SUCCESS, 12121
 getSongGenre: SUCCESS, 1664
-getNumberOfGenreChanges: SUCCESS, 552
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addSong: INVALID_INPUT
 mergeGenres: SUCCESS
@@ -19806,16 +19806,16 @@ addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 1000
-getNumberOfGenreChanges: SUCCESS, 983
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 21094
-getNumberOfGenreChanges: SUCCESS, 669
-getNumberOfGenreChanges: SUCCESS, 980
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 55570
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 750
+getNumberOfGenreChanges: SUCCESS, 4
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -19823,36 +19823,36 @@ addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 40
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 105
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 42017
+getSongGenre: SUCCESS, 87263
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 644
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: FAILURE
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 54240
+getSongGenre: SUCCESS, 41261
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 869
-getSongGenre: SUCCESS, 87000
+getNumberOfGenreChanges: SUCCESS, 5
+getSongGenre: SUCCESS, 7211
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 194
-getSongGenre: SUCCESS, 40823
+getNumberOfGenreChanges: SUCCESS, 4
+getSongGenre: SUCCESS, 12231
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 75504
+getSongGenre: SUCCESS, 56689
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 208
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -19864,7 +19864,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 23660
+getSongGenre: SUCCESS, 69774
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -19874,22 +19874,22 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 14370
+getSongGenre: SUCCESS, 1279
 getSongGenre: FAILURE
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 817
-getNumberOfGenreChanges: SUCCESS, 515
+getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 62348
-getNumberOfGenreChanges: SUCCESS, 693
+getNumberOfGenreChanges: SUCCESS, 3
 getSongGenre: SUCCESS, 33203
 getSongGenre: SUCCESS, 39082
 addGenre: SUCCESS
@@ -19898,38 +19898,38 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
-getNumberOfGenreChanges: SUCCESS, 501
+getNumberOfGenreChanges: SUCCESS, 3
 getSongGenre: SUCCESS, 10315
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 25581
+getSongGenre: SUCCESS, 65339
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 10
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1011
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 31153
+getSongGenre: SUCCESS, 22826
 mergeGenres: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 96551
+getSongGenre: SUCCESS, 20980
 addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 67229
+getSongGenre: SUCCESS, 80693
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -19952,16 +19952,16 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 142
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 223
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 99958
+getSongGenre: SUCCESS, 67842
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -19970,7 +19970,7 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 996
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 1
 getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
@@ -19987,11 +19987,11 @@ getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 201
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getSongGenre: SUCCESS, 42600
+getSongGenre: SUCCESS, 23056
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -20005,14 +20005,14 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
-getNumberOfGenreChanges: SUCCESS, 447
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
-getNumberOfGenreChanges: SUCCESS, 923
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 945
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -20031,15 +20031,15 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 59
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 48674
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 396
+mergeGenres: INVALID_INPUT
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 542
@@ -20050,7 +20050,7 @@ addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1007
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -20065,9 +20065,9 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 788
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 69214
+getSongGenre: SUCCESS, 15807
 getSongGenre: SUCCESS, 90512
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
@@ -20077,7 +20077,7 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1032
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: FAILURE
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -20091,13 +20091,13 @@ mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 696
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 71377
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
-getNumberOfGenreChanges: SUCCESS, 1007
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 16195
+getSongGenre: SUCCESS, 41815
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -20105,7 +20105,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 796
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
@@ -20115,24 +20115,24 @@ addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 876
+getNumberOfGenreChanges: SUCCESS, 5
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 479
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 10877
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 741
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -20142,12 +20142,12 @@ getNumberOfGenreChanges: FAILURE
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 62203
+getSongGenre: SUCCESS, 26561
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 59933
+getSongGenre: SUCCESS, 28146
 mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -20168,21 +20168,21 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 473
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 270
+getSongGenre: SUCCESS, 56179
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 30194
+getSongGenre: SUCCESS, 607
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: FAILURE
 addSong: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 21547
-getNumberOfGenreChanges: SUCCESS, 659
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -20225,12 +20225,12 @@ addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
-getSongGenre: SUCCESS, 97101
+getSongGenre: SUCCESS, 11635
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 56017
+getSongGenre: SUCCESS, 61320
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -20247,13 +20247,13 @@ mergeGenres: SUCCESS
 addSong: SUCCESS
 getSongGenre: SUCCESS, 44391
 getNumberOfSongsByGenre: SUCCESS, 1
-getNumberOfGenreChanges: SUCCESS, 912
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1024
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 614
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -20278,7 +20278,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 10811
@@ -20291,7 +20291,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 13343
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 170
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -20319,9 +20319,9 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: FAILURE
-getNumberOfGenreChanges: SUCCESS, 251
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 920
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
@@ -20329,7 +20329,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 41544
-getNumberOfGenreChanges: SUCCESS, 499
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -20346,7 +20346,7 @@ addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 2
-getSongGenre: SUCCESS, 3489
+getSongGenre: SUCCESS, 87378
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -20357,7 +20357,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 949
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -20375,18 +20375,18 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 96551
-getSongGenre: SUCCESS, 51808
+getSongGenre: SUCCESS, 20980
+getSongGenre: SUCCESS, 7237
 addGenre: SUCCESS
 getNumberOfGenreChanges: FAILURE
 getSongGenre: SUCCESS, 95800
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1031
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 995
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -20399,15 +20399,15 @@ mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 997
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 341
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 15112
+getSongGenre: SUCCESS, 52148
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 3
@@ -20426,25 +20426,25 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 856
+getNumberOfGenreChanges: SUCCESS, 4
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 56827
+getSongGenre: SUCCESS, 59236
 addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 56609
+getSongGenre: SUCCESS, 75470
 getNumberOfGenreChanges: FAILURE
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 78605
+getSongGenre: SUCCESS, 1609
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -20459,24 +20459,24 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addSong: FAILURE
-getSongGenre: SUCCESS, 79958
+getSongGenre: SUCCESS, 22826
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 56023
+getSongGenre: SUCCESS, 17159
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 69214
+getSongGenre: SUCCESS, 82645
 addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 43957
+getSongGenre: SUCCESS, 77219
 addSong: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 5
@@ -20503,15 +20503,15 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 59982
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 65798
+getSongGenre: SUCCESS, 63044
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 847
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 676
-getNumberOfGenreChanges: SUCCESS, 379
-getNumberOfGenreChanges: SUCCESS, 12
+getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -20521,19 +20521,19 @@ mergeGenres: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 4
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 6086
+getSongGenre: SUCCESS, 59558
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 8513
+getSongGenre: SUCCESS, 93705
 addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 88164
+getSongGenre: SUCCESS, 84702
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 96359
+getSongGenre: SUCCESS, 95819
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 31005
+getSongGenre: SUCCESS, 35075
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 12256
 getNumberOfSongsByGenre: SUCCESS, 2
@@ -20543,14 +20543,14 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 3
-getSongGenre: SUCCESS, 15677
-getNumberOfGenreChanges: SUCCESS, 4
+getSongGenre: SUCCESS, 29095
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 938
+getNumberOfGenreChanges: SUCCESS, 3
 getSongGenre: SUCCESS, 37562
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -20594,38 +20594,38 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1056
-getNumberOfGenreChanges: SUCCESS, 1039
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 7
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 91976
+getSongGenre: SUCCESS, 20608
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1064
+getNumberOfGenreChanges: SUCCESS, 4
 mergeGenres: SUCCESS
 getSongGenre: FAILURE
 mergeGenres: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 174
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 567
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -20636,30 +20636,30 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 86168
+getSongGenre: SUCCESS, 99710
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 44253
+getSongGenre: SUCCESS, 68020
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 542
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1045
 getNumberOfGenreChanges: SUCCESS, 2
-getSongGenre: SUCCESS, 59852
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 97167
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 4908
+getSongGenre: SUCCESS, 53628
 addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
@@ -20677,7 +20677,7 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 76687
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 88753
+getSongGenre: SUCCESS, 83674
 addSong: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -20687,7 +20687,7 @@ getNumberOfSongsByGenre: SUCCESS, 1
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1062
+getNumberOfGenreChanges: SUCCESS, 6
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 mergeGenres: SUCCESS
@@ -20710,14 +20710,14 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 54243
+getSongGenre: SUCCESS, 76159
 getNumberOfSongsByGenre: SUCCESS, 4
-getNumberOfGenreChanges: SUCCESS, 810
-getNumberOfGenreChanges: SUCCESS, 277
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
-getNumberOfGenreChanges: SUCCESS, 764
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: FAILURE
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -20730,11 +20730,11 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 43084
-getSongGenre: SUCCESS, 52407
+getSongGenre: SUCCESS, 67805
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -20744,23 +20744,23 @@ addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 93342
-getNumberOfGenreChanges: SUCCESS, 830
-getNumberOfGenreChanges: SUCCESS, 172
+getSongGenre: SUCCESS, 56616
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 71873
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 382
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 874
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 78778
+getSongGenre: SUCCESS, 61901
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -20770,17 +20770,17 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 93725
+getSongGenre: SUCCESS, 16058
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 15112
-getSongGenre: SUCCESS, 87355
+getSongGenre: SUCCESS, 52148
+getSongGenre: SUCCESS, 5261
 getSongGenre: SUCCESS, 57023
 addGenre: INVALID_INPUT
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1007
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -20790,13 +20790,13 @@ getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 70335
+getSongGenre: SUCCESS, 54803
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
@@ -20809,27 +20809,27 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 71236
+getSongGenre: SUCCESS, 8121
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 795
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 1063
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 499
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 908
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -20839,15 +20839,15 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 758
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 4
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 21648
-getSongGenre: SUCCESS, 67027
+getSongGenre: SUCCESS, 13019
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 32211
 addGenre: SUCCESS
@@ -20869,7 +20869,7 @@ getSongGenre: SUCCESS, 30616
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 54891
+getSongGenre: SUCCESS, 77496
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -20877,13 +20877,13 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 371
+getNumberOfGenreChanges: SUCCESS, 1
 addSong: FAILURE
 getSongGenre: SUCCESS, 37729
-getNumberOfGenreChanges: SUCCESS, 766
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 392
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -20891,7 +20891,7 @@ getNumberOfSongsByGenre: SUCCESS, 3
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 452
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 13535
 addGenre: SUCCESS
@@ -20899,30 +20899,30 @@ addSong: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: FAILURE
-getNumberOfGenreChanges: SUCCESS, 717
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 819
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 131
-getSongGenre: SUCCESS, 28392
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 75492
 getSongGenre: SUCCESS, 14881
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 205
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 getNumberOfSongsByGenre: SUCCESS, 5
 getNumberOfSongsByGenre: SUCCESS, 4
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: INVALID_INPUT
 addSong: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 8393
-getNumberOfGenreChanges: SUCCESS, 259
+getSongGenre: SUCCESS, 59236
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -20931,8 +20931,8 @@ getSongGenre: SUCCESS, 66303
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 99134
-getSongGenre: SUCCESS, 78778
+getSongGenre: SUCCESS, 27259
+getSongGenre: SUCCESS, 27087
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -20946,7 +20946,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 50178
+getSongGenre: SUCCESS, 81354
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -20955,7 +20955,7 @@ getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 5
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: FAILURE
@@ -20972,19 +20972,19 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 207
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 5178
+getSongGenre: SUCCESS, 21826
 getNumberOfSongsByGenre: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 4
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 558
-getNumberOfGenreChanges: SUCCESS, 776
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -20999,31 +20999,31 @@ mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 66126
+getSongGenre: SUCCESS, 90564
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 982
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 34153
 getSongGenre: SUCCESS, 99290
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 473
-getNumberOfGenreChanges: SUCCESS, 438
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 799
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 getSongGenre: FAILURE
 getSongGenre: SUCCESS, 72342
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 36583
+getSongGenre: SUCCESS, 49774
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
@@ -21032,14 +21032,14 @@ getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 791
+getNumberOfGenreChanges: SUCCESS, 4
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 1034
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addSong: SUCCESS
@@ -21059,28 +21059,28 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 96350
-getNumberOfGenreChanges: SUCCESS, 793
+getSongGenre: SUCCESS, 91298
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 48113
+getSongGenre: SUCCESS, 21473
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 64073
+getSongGenre: SUCCESS, 52516
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 1033
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 14397
 addSong: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 17123
+getSongGenre: SUCCESS, 80934
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -21118,7 +21118,7 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 3
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -21147,7 +21147,7 @@ getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 81616
+getSongGenre: SUCCESS, 76615
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -21158,8 +21158,8 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1073
+mergeGenres: INVALID_INPUT
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -21169,9 +21169,9 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 924
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 691
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 19146
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -21179,7 +21179,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -21192,20 +21192,20 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 20330
+getSongGenre: SUCCESS, 89107
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 83734
 getNumberOfSongsByGenre: FAILURE
-getNumberOfGenreChanges: SUCCESS, 615
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -21213,15 +21213,15 @@ getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 239
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 13007
+getSongGenre: SUCCESS, 526
 addGenre: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -21230,7 +21230,7 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 72814
+getSongGenre: SUCCESS, 42861
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 60496
 addGenre: SUCCESS
@@ -21239,7 +21239,7 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -21247,17 +21247,17 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 12
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addSong: SUCCESS
-getSongGenre: SUCCESS, 22734
+getSongGenre: SUCCESS, 315
 addGenre: INVALID_INPUT
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -21271,7 +21271,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -21282,17 +21282,17 @@ addSong: INVALID_INPUT
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 54240
-getSongGenre: SUCCESS, 22847
+getSongGenre: SUCCESS, 41261
+getSongGenre: SUCCESS, 99630
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 245
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 4
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 33973
+getSongGenre: SUCCESS, 24711
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -21300,14 +21300,14 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 16138
+getSongGenre: SUCCESS, 49871
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 377
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -21315,30 +21315,30 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 10
+getNumberOfGenreChanges: SUCCESS, 1
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 68063
+getSongGenre: SUCCESS, 94139
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 988
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 527
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 75992
+getSongGenre: SUCCESS, 14473
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 4
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 79595
@@ -21349,26 +21349,26 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 313
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 635
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 50529
-getSongGenre: SUCCESS, 32922
+getSongGenre: SUCCESS, 68640
+getSongGenre: SUCCESS, 76043
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-addGenre: FAILURE
+addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 getSongGenre: SUCCESS, 31977
@@ -21382,13 +21382,13 @@ getSongGenre: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 58806
+getSongGenre: SUCCESS, 10800
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 65538
+getSongGenre: SUCCESS, 43493
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
@@ -21396,28 +21396,28 @@ addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 50178
+getSongGenre: SUCCESS, 81354
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 850
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 617
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 365
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 3855
-getNumberOfGenreChanges: SUCCESS, 310
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 142
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfGenreChanges: FAILURE
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -21429,7 +21429,7 @@ mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 748
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -21439,17 +21439,17 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 1021
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 5
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 18986
+getSongGenre: SUCCESS, 72439
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 1629
+getSongGenre: SUCCESS, 62448
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -21459,19 +21459,19 @@ getNumberOfSongsByGenre: SUCCESS, 5
 mergeGenres: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfGenreChanges: FAILURE
-getSongGenre: SUCCESS, 48113
+getSongGenre: SUCCESS, 21473
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 399
+getNumberOfGenreChanges: SUCCESS, 3
 getSongGenre: SUCCESS, 34571
 getNumberOfSongsByGenre: SUCCESS, 4
-getNumberOfGenreChanges: SUCCESS, 1101
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 getNumberOfSongsByGenre: SUCCESS, 5
-getNumberOfGenreChanges: SUCCESS, 1086
+getNumberOfGenreChanges: SUCCESS, 5
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -21482,14 +21482,14 @@ addGenre: INVALID_INPUT
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 574
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 52
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -21504,14 +21504,14 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1043
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 80676
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 72
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
@@ -21521,7 +21521,7 @@ addGenre: SUCCESS
 addSong: INVALID_INPUT
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 1116
+getNumberOfGenreChanges: SUCCESS, 6
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -21536,17 +21536,17 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 47781
-getNumberOfGenreChanges: SUCCESS, 170
+getSongGenre: SUCCESS, 41387
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1101
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 32599
+getSongGenre: SUCCESS, 21742
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -21563,7 +21563,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 802
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -21595,17 +21595,17 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 44888
+getSongGenre: SUCCESS, 32673
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: FAILURE
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
-getSongGenre: SUCCESS, 8555
+getSongGenre: SUCCESS, 63041
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 910
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -21614,7 +21614,7 @@ getNumberOfSongsByGenre: SUCCESS, 1
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 97101
+getSongGenre: SUCCESS, 11635
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -21624,18 +21624,18 @@ getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 7
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 25028
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 3489
-getSongGenre: SUCCESS, 78605
+getSongGenre: SUCCESS, 80129
+getSongGenre: SUCCESS, 1609
 getSongGenre: SUCCESS, 85207
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 294
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: INVALID_INPUT
@@ -21646,11 +21646,11 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 1994
+getSongGenre: SUCCESS, 39410
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -21659,34 +21659,34 @@ getSongGenre: SUCCESS, 90240
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 150
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1107
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 5
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 30766
-getNumberOfGenreChanges: SUCCESS, 4
+getSongGenre: SUCCESS, 16147
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 931
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 74793
-getNumberOfGenreChanges: SUCCESS, 629
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 1
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 1005
+getNumberOfGenreChanges: SUCCESS, 4
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -21694,17 +21694,17 @@ addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 51062
+getSongGenre: SUCCESS, 16021
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 94601
+getSongGenre: SUCCESS, 12073
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 98497
-getSongGenre: SUCCESS, 95221
+getSongGenre: SUCCESS, 20330
+getSongGenre: SUCCESS, 82006
 getSongGenre: SUCCESS, 2702
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
@@ -21717,18 +21717,18 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 37909
+getSongGenre: SUCCESS, 56671
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 762
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 96350
+getSongGenre: SUCCESS, 91298
 getSongGenre: SUCCESS, 2422
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -21744,13 +21744,13 @@ getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 69408
+getSongGenre: SUCCESS, 37082
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 12
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 10651
 addGenre: SUCCESS
@@ -21770,14 +21770,14 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 96036
+getSongGenre: SUCCESS, 65943
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 5
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 314
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -21797,7 +21797,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 458
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
 mergeGenres: SUCCESS
 addSong: SUCCESS
@@ -21808,8 +21808,8 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 35327
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 3
-getNumberOfGenreChanges: SUCCESS, 1110
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -21818,8 +21818,8 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 5
+mergeGenres: INVALID_INPUT
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -21828,7 +21828,7 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 37725
-getSongGenre: SUCCESS, 86381
+getSongGenre: SUCCESS, 51863
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -21848,10 +21848,10 @@ getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 155
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 31005
+getSongGenre: SUCCESS, 35075
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -21859,7 +21859,7 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: FAILURE
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -21874,22 +21874,22 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 885
-addGenre: SUCCESS
-addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
-addGenre: INVALID_INPUT
-addGenre: SUCCESS
-addGenre: SUCCESS
-addGenre: SUCCESS
-addGenre: SUCCESS
-getSongGenre: SUCCESS, 20962
-getNumberOfGenreChanges: SUCCESS, 630
-addGenre: SUCCESS
-addGenre: SUCCESS
-getNumberOfSongsByGenre: SUCCESS, 0
-addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 4
+addGenre: SUCCESS
+addGenre: SUCCESS
+getNumberOfGenreChanges: SUCCESS, 3
+addGenre: INVALID_INPUT
+addGenre: SUCCESS
+addGenre: SUCCESS
+addGenre: SUCCESS
+addGenre: SUCCESS
+getSongGenre: SUCCESS, 84876
+getNumberOfGenreChanges: SUCCESS, 3
+addGenre: SUCCESS
+addGenre: SUCCESS
+getNumberOfSongsByGenre: SUCCESS, 0
+addGenre: SUCCESS
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -21901,7 +21901,7 @@ addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addSong: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1144
+getNumberOfGenreChanges: SUCCESS, 4
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
@@ -21914,24 +21914,24 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1020
-getSongGenre: SUCCESS, 6280
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 53593
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 5
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 796
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 96688
+getSongGenre: SUCCESS, 63252
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -21955,7 +21955,7 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 22921
+getSongGenre: SUCCESS, 17421
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: INVALID_INPUT
@@ -21978,29 +21978,29 @@ getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 67390
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 2
 getSongGenre: SUCCESS, 13983
 getSongGenre: SUCCESS, 46393
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 3
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1103
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 20962
+getSongGenre: SUCCESS, 84876
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: FAILURE
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 448
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -22008,17 +22008,17 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1028
+getNumberOfGenreChanges: SUCCESS, 4
 getSongGenre: SUCCESS, 29903
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 577
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 616
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -22033,21 +22033,21 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 59791
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 597
+getNumberOfGenreChanges: SUCCESS, 3
 getSongGenre: SUCCESS, 69502
-getSongGenre: SUCCESS, 54243
+getSongGenre: SUCCESS, 47663
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 373
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 46446
+getSongGenre: SUCCESS, 5734
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addSong: SUCCESS
@@ -22057,16 +22057,16 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 77888
+getSongGenre: SUCCESS, 34662
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 1
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 291
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
@@ -22088,8 +22088,8 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1156
-getNumberOfGenreChanges: SUCCESS, 1148
+getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 97107
 addGenre: SUCCESS
@@ -22113,11 +22113,11 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
-getSongGenre: SUCCESS, 91152
+getSongGenre: SUCCESS, 68877
 getSongGenre: SUCCESS, 16437
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1127
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: FAILURE
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -22128,13 +22128,13 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
 getSongGenre: SUCCESS, 19691
-getSongGenre: SUCCESS, 89972
+getSongGenre: SUCCESS, 84307
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 354
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -22149,8 +22149,8 @@ getNumberOfSongsByGenre: SUCCESS, 4
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 602
-getNumberOfGenreChanges: SUCCESS, 790
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -22161,7 +22161,7 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: FAILURE
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1155
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
@@ -22169,7 +22169,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
@@ -22182,30 +22182,30 @@ getNumberOfGenreChanges: FAILURE
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 959
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 61610
 getNumberOfSongsByGenre: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1148
+getNumberOfGenreChanges: SUCCESS, 4
 mergeGenres: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 22365
+getSongGenre: SUCCESS, 11968
 getSongGenre: SUCCESS, 52263
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 21523
+getSongGenre: SUCCESS, 83505
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 7001
+getSongGenre: SUCCESS, 65653
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 5914
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 38838
+getSongGenre: SUCCESS, 63763
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -22219,14 +22219,14 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 997
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 5
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 77888
+getSongGenre: SUCCESS, 34662
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 16
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -22242,11 +22242,11 @@ getNumberOfGenreChanges: FAILURE
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 98497
+getSongGenre: SUCCESS, 20330
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 33466
 addSong: SUCCESS
-getSongGenre: SUCCESS, 81359
+getSongGenre: SUCCESS, 27748
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -22258,8 +22258,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 60496
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 70494
+mergeGenres: INVALID_INPUT
+getSongGenre: SUCCESS, 56445
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -22272,17 +22272,17 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 93022
+getSongGenre: SUCCESS, 92873
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 566
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 22734
+getSongGenre: SUCCESS, 315
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -22300,10 +22300,10 @@ addSong: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 49466
-getNumberOfGenreChanges: SUCCESS, 3
+getSongGenre: SUCCESS, 61861
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 965
+getNumberOfGenreChanges: SUCCESS, 4
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -22324,9 +22324,9 @@ getNumberOfSongsByGenre: SUCCESS, 3
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 45636
+getSongGenre: SUCCESS, 27386
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 51216
+getSongGenre: SUCCESS, 28388
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
@@ -22348,7 +22348,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 12440
+getSongGenre: SUCCESS, 98497
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -22365,10 +22365,10 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 70335
+getSongGenre: SUCCESS, 54803
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 54744
+getSongGenre: SUCCESS, 82084
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
@@ -22379,12 +22379,12 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 82084
+getSongGenre: SUCCESS, 69930
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 621
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 345
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 39082
@@ -22396,14 +22396,14 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 6478
+getSongGenre: SUCCESS, 29014
 mergeGenres: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 4170
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 567
+getNumberOfGenreChanges: SUCCESS, 1
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 46700
 addGenre: SUCCESS
@@ -22412,9 +22412,9 @@ getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 67218
-getNumberOfGenreChanges: SUCCESS, 1168
-getNumberOfGenreChanges: SUCCESS, 864
+getSongGenre: SUCCESS, 92271
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -22425,17 +22425,17 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1111
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 93979
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 36583
+getSongGenre: SUCCESS, 89107
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -22446,7 +22446,7 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 90437
+getSongGenre: SUCCESS, 30400
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -22466,10 +22466,10 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
-getSongGenre: SUCCESS, 88164
+getSongGenre: SUCCESS, 84702
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 931
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -22478,16 +22478,16 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 1161
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 12
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 3
-getSongGenre: SUCCESS, 67382
+getSongGenre: SUCCESS, 4863
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -22505,17 +22505,17 @@ getNumberOfSongsByGenre: SUCCESS, 1
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 5510
+getSongGenre: SUCCESS, 35413
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 81061
+getSongGenre: SUCCESS, 86185
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 982
+getNumberOfGenreChanges: SUCCESS, 4
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -22527,7 +22527,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 67382
+getSongGenre: SUCCESS, 4863
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -22540,11 +22540,11 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: FAILURE
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 49118
+getSongGenre: SUCCESS, 20927
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 360
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -22557,7 +22557,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 99290
-getSongGenre: SUCCESS, 67721
+getSongGenre: SUCCESS, 91370
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -22568,8 +22568,8 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 842
-getNumberOfGenreChanges: SUCCESS, 842
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -22587,11 +22587,11 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 getNumberOfSongsByGenre: SUCCESS, 5
-getNumberOfGenreChanges: SUCCESS, 302
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -22602,11 +22602,11 @@ addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1163
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 55
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -22618,7 +22618,7 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 35875
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -22630,7 +22630,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 28249
+getSongGenre: SUCCESS, 93331
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -22648,15 +22648,15 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 90451
-getNumberOfGenreChanges: SUCCESS, 310
+getSongGenre: SUCCESS, 69867
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 85207
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1167
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 2
@@ -22671,7 +22671,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 310
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -22682,7 +22682,7 @@ getSongGenre: FAILURE
 getSongGenre: SUCCESS, 66940
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 20218
+getSongGenre: SUCCESS, 1091
 addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
@@ -22712,24 +22712,24 @@ mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 43992
+getSongGenre: SUCCESS, 82230
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 10877
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 71873
 getSongGenre: SUCCESS, 95289
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 12440
+getSongGenre: SUCCESS, 98497
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 66612
+getSongGenre: SUCCESS, 76765
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -22748,14 +22748,14 @@ getSongGenre: SUCCESS, 96076
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 7266
+getSongGenre: SUCCESS, 4056
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 380
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: INVALID_INPUT
@@ -22775,14 +22775,14 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 12
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 1
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: FAILURE
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 4
-getNumberOfGenreChanges: SUCCESS, 627
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -22793,11 +22793,11 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
-getNumberOfGenreChanges: SUCCESS, 1202
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 19934
+getSongGenre: SUCCESS, 74537
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -22805,11 +22805,11 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 45
-getNumberOfGenreChanges: SUCCESS, 820
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 7
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -22817,7 +22817,7 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -22835,7 +22835,7 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 12
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: INVALID_INPUT
@@ -22846,7 +22846,7 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 62570
+getSongGenre: SUCCESS, 21359
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -22857,13 +22857,13 @@ getSongGenre: SUCCESS, 8746
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 1154
+getNumberOfGenreChanges: SUCCESS, 3
 getSongGenre: FAILURE
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 28553
+getSongGenre: SUCCESS, 79737
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 69444
 addGenre: SUCCESS
@@ -22873,27 +22873,27 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 19904
 getNumberOfGenreChanges: SUCCESS, 2
-getSongGenre: SUCCESS, 33561
+getSongGenre: SUCCESS, 42462
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: FAILURE
-getNumberOfGenreChanges: SUCCESS, 47
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 42600
+getSongGenre: SUCCESS, 23056
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 533
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 262
-getNumberOfGenreChanges: SUCCESS, 208
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -22906,15 +22906,15 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
-getNumberOfGenreChanges: SUCCESS, 391
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 63106
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
-getSongGenre: SUCCESS, 95221
-getNumberOfGenreChanges: SUCCESS, 1016
+getSongGenre: SUCCESS, 65612
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -22924,16 +22924,16 @@ getNumberOfSongsByGenre: SUCCESS, 3
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 51440
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 892
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 845
+getNumberOfGenreChanges: SUCCESS, 1
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1090
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 12826
+getSongGenre: SUCCESS, 5662
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 69240
@@ -22979,7 +22979,7 @@ getSongGenre: SUCCESS, 24001
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
@@ -23005,7 +23005,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
-getNumberOfGenreChanges: SUCCESS, 12
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -23029,13 +23029,13 @@ getNumberOfGenreChanges: SUCCESS, 1
 getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 2
 getNumberOfGenreChanges: SUCCESS, 2
-addGenre: FAILURE
-getSongGenre: SUCCESS, 99134
+addGenre: SUCCESS
+getSongGenre: SUCCESS, 27259
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 1994
+getSongGenre: SUCCESS, 39410
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: FAILURE
@@ -23048,15 +23048,15 @@ getSongGenre: SUCCESS, 8542
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 493
-getNumberOfGenreChanges: SUCCESS, 760
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1063
-getNumberOfGenreChanges: SUCCESS, 1162
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
@@ -23078,7 +23078,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 34723
 getNumberOfSongsByGenre: SUCCESS, 0
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -23089,20 +23089,20 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 63025
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 34
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 293
+getNumberOfGenreChanges: SUCCESS, 1
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 43474
+getSongGenre: SUCCESS, 29952
 addGenre: INVALID_INPUT
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
@@ -23112,9 +23112,9 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 420
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 72605
+getSongGenre: SUCCESS, 66865
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -23123,7 +23123,7 @@ getSongGenre: SUCCESS, 18676
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 41370
+getSongGenre: SUCCESS, 30698
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 13110
@@ -23150,7 +23150,7 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -23158,9 +23158,9 @@ getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 91976
+getSongGenre: SUCCESS, 20608
 addSong: SUCCESS
 getSongGenre: SUCCESS, 52530
 addGenre: SUCCESS
@@ -23173,14 +23173,14 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 94801
+getSongGenre: SUCCESS, 66662
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -23194,21 +23194,21 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 899
-getNumberOfGenreChanges: SUCCESS, 1223
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 6
 getSongGenre: SUCCESS, 80173
-getNumberOfGenreChanges: SUCCESS, 854
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: FAILURE
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 getSongGenre: SUCCESS, 19506
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 82194
+getSongGenre: SUCCESS, 72029
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 71236
+getSongGenre: SUCCESS, 8121
 addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
@@ -23223,18 +23223,18 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 768
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 29467
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 310
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 644
+getSongGenre: SUCCESS, 38499
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
@@ -23254,7 +23254,7 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 216
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -23276,7 +23276,7 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 1
@@ -23305,7 +23305,7 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 49948
+getSongGenre: SUCCESS, 44594
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
@@ -23335,12 +23335,12 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getSongGenre: SUCCESS, 49586
+getSongGenre: SUCCESS, 38432
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: FAILURE
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 72462
+getSongGenre: SUCCESS, 8362
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -23360,8 +23360,8 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: FAILURE
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1020
-getSongGenre: SUCCESS, 83320
+getNumberOfGenreChanges: SUCCESS, 3
+getSongGenre: SUCCESS, 42503
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
@@ -23372,14 +23372,14 @@ addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 88164
+getSongGenre: SUCCESS, 84702
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -23388,26 +23388,26 @@ addGenre: SUCCESS
 addSong: SUCCESS
 getSongGenre: SUCCESS, 75681
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 694
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 32951
+getSongGenre: SUCCESS, 63041
 getSongGenre: SUCCESS, 4023
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 43992
+getSongGenre: SUCCESS, 4056
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 65089
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 89607
+getSongGenre: SUCCESS, 57499
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 28623
+getSongGenre: SUCCESS, 83260
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -23419,17 +23419,17 @@ getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: FAILURE
-getNumberOfGenreChanges: SUCCESS, 891
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
-getNumberOfGenreChanges: SUCCESS, 1162
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 5
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -23442,16 +23442,16 @@ getNumberOfGenreChanges: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 742
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 5
-getSongGenre: SUCCESS, 28805
+getSongGenre: SUCCESS, 84045
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 597
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 58067
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -23459,12 +23459,12 @@ mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 907
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 40975
+getSongGenre: SUCCESS, 22826
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -23474,7 +23474,7 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 288
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -23486,12 +23486,12 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1148
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -23501,13 +23501,13 @@ addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 76854
+getSongGenre: SUCCESS, 38317
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 97534
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 1688
+getSongGenre: SUCCESS, 17161
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -23537,16 +23537,16 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfGenreChanges: FAILURE
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 1053
-getNumberOfGenreChanges: SUCCESS, 902
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 1
 getSongGenre: SUCCESS, 86017
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -23569,7 +23569,7 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 49088
+getSongGenre: SUCCESS, 87378
 getSongGenre: SUCCESS, 36537
 addSong: SUCCESS
 getSongGenre: SUCCESS, 85298
@@ -23581,7 +23581,7 @@ mergeGenres: SUCCESS
 addSong: INVALID_INPUT
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 626
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -23603,7 +23603,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 35342
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 65538
+getSongGenre: SUCCESS, 43493
 addSong: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
@@ -23611,7 +23611,7 @@ mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 56628
+getSongGenre: SUCCESS, 61127
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 33647
 addGenre: SUCCESS
@@ -23622,27 +23622,27 @@ addGenre: INVALID_INPUT
 getSongGenre: SUCCESS, 76687
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
-getSongGenre: SUCCESS, 39051
+getSongGenre: SUCCESS, 78778
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 83041
+getSongGenre: SUCCESS, 10254
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 43152
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 63017
+getSongGenre: SUCCESS, 85738
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 62188
+getSongGenre: SUCCESS, 68620
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 505
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: FAILURE
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 27
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 88513
@@ -23656,27 +23656,27 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 3402
+getSongGenre: SUCCESS, 38686
 getSongGenre: SUCCESS, 60349
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 80977
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 661
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 21807
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1231
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 1
@@ -23700,14 +23700,14 @@ getNumberOfSongsByGenre: SUCCESS, 4
 addSong: SUCCESS
 getNumberOfSongsByGenre: FAILURE
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 70116
+getSongGenre: SUCCESS, 41883
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 51761
-getSongGenre: SUCCESS, 41370
+getSongGenre: SUCCESS, 37513
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -23719,31 +23719,31 @@ mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 18029
-getNumberOfGenreChanges: SUCCESS, 5
+getSongGenre: SUCCESS, 42490
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1249
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 277
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 651
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1064
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 98219
+getSongGenre: SUCCESS, 90432
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 883
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addSong: SUCCESS
@@ -23751,7 +23751,7 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 74489
+getSongGenre: SUCCESS, 63473
 getSongGenre: SUCCESS, 10365
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
@@ -23789,14 +23789,14 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 255
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 92235
 addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 1
-getNumberOfGenreChanges: SUCCESS, 1104
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
@@ -23804,33 +23804,33 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
+getNumberOfGenreChanges: SUCCESS, 2
+addGenre: SUCCESS
+addSong: SUCCESS
+getNumberOfGenreChanges: SUCCESS, 1
+addGenre: SUCCESS
+mergeGenres: SUCCESS
+addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
-addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
-addGenre: SUCCESS
-mergeGenres: SUCCESS
-addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1268
-addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 1017
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 295
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 2
 getSongGenre: SUCCESS, 91231
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 3328
+getSongGenre: SUCCESS, 6361
 addSong: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 1161
@@ -23844,7 +23844,7 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
@@ -23854,13 +23854,13 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 535
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 67141
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 22330
+getSongGenre: SUCCESS, 68453
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -23877,7 +23877,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: INVALID_INPUT
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
@@ -23893,7 +23893,7 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -23904,12 +23904,12 @@ getSongGenre: SUCCESS, 62382
 getSongGenre: SUCCESS, 71169
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 1154
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 12
+getNumberOfGenreChanges: SUCCESS, 5
 getSongGenre: SUCCESS, 58067
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
@@ -23934,25 +23934,25 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 68806
+getSongGenre: SUCCESS, 76632
 getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1114
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1074
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
-getNumberOfGenreChanges: SUCCESS, 1110
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
-getNumberOfGenreChanges: SUCCESS, 1152
-getNumberOfGenreChanges: SUCCESS, 5
-getNumberOfGenreChanges: SUCCESS, 452
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -23965,13 +23965,13 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 68071
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 20864
+getSongGenre: SUCCESS, 84250
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 610
-getNumberOfGenreChanges: SUCCESS, 397
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -23987,7 +23987,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 36360
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 22665
+getSongGenre: SUCCESS, 90339
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -23996,14 +23996,14 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 631
-getSongGenre: SUCCESS, 59933
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 151
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 57803
+getSongGenre: SUCCESS, 89158
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -24011,17 +24011,17 @@ getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 92094
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 271
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 9
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -24045,7 +24045,7 @@ addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 72183
-getNumberOfGenreChanges: SUCCESS, 5
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
@@ -24059,7 +24059,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 84205
+getSongGenre: SUCCESS, 30124
 addSong: SUCCESS
 getSongGenre: SUCCESS, 46786
 addGenre: SUCCESS
@@ -24084,20 +24084,20 @@ addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 82223
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 402
+getNumberOfGenreChanges: SUCCESS, 1
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1256
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 831
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 14370
+getSongGenre: SUCCESS, 1279
 getSongGenre: FAILURE
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -24108,13 +24108,13 @@ getSongGenre: SUCCESS, 80732
 getSongGenre: SUCCESS, 19904
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 1067
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 737
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
@@ -24125,7 +24125,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 3
@@ -24138,12 +24138,12 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 96617
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 57803
+getSongGenre: SUCCESS, 89158
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -24155,27 +24155,27 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 5
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 83041
+getSongGenre: SUCCESS, 10254
 mergeGenres: SUCCESS
 addSong: SUCCESS
 getNumberOfGenreChanges: FAILURE
 getSongGenre: SUCCESS, 16419
 getSongGenre: SUCCESS, 33111
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1254
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 27396
-getNumberOfGenreChanges: SUCCESS, 412
+getSongGenre: SUCCESS, 49992
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 494
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 730
 addSong: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 99496
-getNumberOfGenreChanges: SUCCESS, 763
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1072
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 1
 mergeGenres: SUCCESS
 addGenre: INVALID_INPUT
@@ -24192,8 +24192,8 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1275
-getSongGenre: SUCCESS, 56179
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 18119
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -24218,20 +24218,20 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 761
-getSongGenre: SUCCESS, 65736
-getNumberOfGenreChanges: SUCCESS, 1280
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 26200
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 72
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -24267,8 +24267,8 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 117
-getNumberOfGenreChanges: SUCCESS, 830
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -24283,11 +24283,11 @@ getNumberOfSongsByGenre: SUCCESS, 1
 getNumberOfSongsByGenre: SUCCESS, 5
 getSongGenre: SUCCESS, 60489
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 744
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
-getSongGenre: SUCCESS, 23660
+getSongGenre: SUCCESS, 84594
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 17634
+getSongGenre: SUCCESS, 66469
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -24311,7 +24311,7 @@ getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 80173
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 329
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
@@ -24320,11 +24320,11 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 341
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 417
+getNumberOfGenreChanges: SUCCESS, 1
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -24332,12 +24332,12 @@ mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 94584
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 90240
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 3
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 316
-getNumberOfGenreChanges: SUCCESS, 1222
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 1
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -24346,12 +24346,12 @@ addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 603
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 45235
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
@@ -24361,8 +24361,8 @@ addGenre: SUCCESS
 addSong: INVALID_INPUT
 addSong: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 3
-getSongGenre: SUCCESS, 96989
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 47159
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
@@ -24375,7 +24375,7 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1287
+getNumberOfGenreChanges: SUCCESS, 3
 getSongGenre: SUCCESS, 7116
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
@@ -24387,22 +24387,22 @@ getSongGenre: SUCCESS, 48052
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 78834
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 41191
+getSongGenre: SUCCESS, 29712
 mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 810
+getNumberOfGenreChanges: SUCCESS, 3
 getSongGenre: SUCCESS, 74836
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 63975
+getSongGenre: SUCCESS, 76254
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: FAILURE
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 89671
+getSongGenre: SUCCESS, 82572
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -24462,7 +24462,7 @@ addSong: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 3
 mergeGenres: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -24480,7 +24480,7 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 3
-getNumberOfGenreChanges: SUCCESS, 436
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -24494,7 +24494,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -24508,32 +24508,32 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 35721
+getSongGenre: SUCCESS, 92417
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 86921
+getSongGenre: SUCCESS, 68564
 getNumberOfSongsByGenre: FAILURE
-getSongGenre: SUCCESS, 20172
-getNumberOfGenreChanges: SUCCESS, 713
+getSongGenre: SUCCESS, 14338
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 865
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 64452
+getSongGenre: SUCCESS, 10882
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1272
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -24547,7 +24547,7 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 878
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -24558,25 +24558,25 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 getSongGenre: SUCCESS, 17638
-getNumberOfGenreChanges: SUCCESS, 336
-getNumberOfGenreChanges: SUCCESS, 504
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 326
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 4
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1293
+getNumberOfGenreChanges: SUCCESS, 4
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 22815
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 746
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getSongGenre: FAILURE
 addGenre: SUCCESS
@@ -24585,13 +24585,13 @@ mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1177
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 58894
+getSongGenre: SUCCESS, 29732
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1177
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -24611,7 +24611,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 9
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -24620,21 +24620,21 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: INVALID_INPUT
 getSongGenre: SUCCESS, 33647
-getSongGenre: SUCCESS, 47282
-getNumberOfGenreChanges: SUCCESS, 289
+getSongGenre: SUCCESS, 52148
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 749
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 3
-getSongGenre: SUCCESS, 40693
+getSongGenre: SUCCESS, 98754
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 89526
-getNumberOfGenreChanges: SUCCESS, 1247
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -24646,8 +24646,8 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 8608
-getNumberOfGenreChanges: SUCCESS, 1184
+getSongGenre: SUCCESS, 64312
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
@@ -24659,10 +24659,10 @@ getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 44316
+getSongGenre: SUCCESS, 92546
 addSong: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 923
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -24674,13 +24674,13 @@ addSong: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 81036
-getSongGenre: SUCCESS, 63473
-getNumberOfGenreChanges: SUCCESS, 6
+getSongGenre: SUCCESS, 32673
+getSongGenre: SUCCESS, 54102
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: FAILURE
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 9
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 69444
@@ -24688,7 +24688,7 @@ addSong: SUCCESS
 getSongGenre: SUCCESS, 11289
 getNumberOfSongsByGenre: SUCCESS, 1
 getNumberOfSongsByGenre: SUCCESS, 2
-getSongGenre: SUCCESS, 77486
+getSongGenre: SUCCESS, 30679
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 16770
 getNumberOfSongsByGenre: SUCCESS, 5
@@ -24702,29 +24702,29 @@ getSongGenre: FAILURE
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 70316
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 49088
+getSongGenre: SUCCESS, 49568
 getNumberOfSongsByGenre: SUCCESS, 1
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 getSongGenre: SUCCESS, 19567
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 448
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1226
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 3
 getSongGenre: SUCCESS, 68924
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: FAILURE
-getNumberOfGenreChanges: SUCCESS, 12
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1161
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 5
 getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
@@ -24735,10 +24735,10 @@ getSongGenre: SUCCESS, 56012
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 29494
-getSongGenre: SUCCESS, 27445
+getSongGenre: SUCCESS, 25188
+getSongGenre: SUCCESS, 76116
 getNumberOfSongsByGenre: SUCCESS, 4
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -24753,19 +24753,19 @@ getSongGenre: SUCCESS, 49941
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 487
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 4
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 99852
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 getSongGenre: SUCCESS, 63605
-getNumberOfGenreChanges: SUCCESS, 358
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1123
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 622
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -24775,9 +24775,9 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 751
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 5749
+getSongGenre: SUCCESS, 29300
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -24797,13 +24797,13 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 120
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: FAILURE
 addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 1170
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -24811,7 +24811,7 @@ getSongGenre: SUCCESS, 54493
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1079
+getNumberOfGenreChanges: SUCCESS, 3
 getSongGenre: SUCCESS, 90424
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
@@ -24825,11 +24825,11 @@ getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 27940
+getSongGenre: SUCCESS, 70116
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 35327
-getSongGenre: SUCCESS, 12635
+getSongGenre: SUCCESS, 85278
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
@@ -24837,10 +24837,10 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 91018
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 64643
+getSongGenre: SUCCESS, 79953
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 70447
+getSongGenre: SUCCESS, 10040
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 63608
 mergeGenres: SUCCESS
@@ -24860,13 +24860,13 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 38666
+getSongGenre: SUCCESS, 4417
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 74030
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 72814
+getSongGenre: SUCCESS, 58080
 addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -24880,8 +24880,8 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
-getSongGenre: SUCCESS, 4553
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 99466
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -24901,12 +24901,12 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: FAILURE
 getSongGenre: SUCCESS, 22127
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 39565
+getSongGenre: SUCCESS, 40334
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1010
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -24955,7 +24955,7 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 1313
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -24968,16 +24968,16 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 1276
-getNumberOfGenreChanges: SUCCESS, 140
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 26
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -24985,11 +24985,11 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 60633
+getSongGenre: SUCCESS, 22721
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 12
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
@@ -25005,18 +25005,18 @@ getSongGenre: SUCCESS, 24047
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 501
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 18
-getNumberOfGenreChanges: SUCCESS, 1265
+getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 getSongGenre: SUCCESS, 27284
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1014
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: FAILURE
 getNumberOfGenreChanges: SUCCESS, 2
@@ -25032,7 +25032,7 @@ addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 35774
+getSongGenre: SUCCESS, 48198
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
@@ -25045,9 +25045,9 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1154
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 775
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -25058,14 +25058,14 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 71169
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 56179
+getSongGenre: SUCCESS, 16226
 getNumberOfSongsByGenre: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -25074,7 +25074,7 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 28392
+getSongGenre: SUCCESS, 7579
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -25089,18 +25089,18 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 78605
+getSongGenre: SUCCESS, 1609
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -25108,7 +25108,7 @@ getSongGenre: SUCCESS, 53175
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -25121,7 +25121,7 @@ addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 93722
+getSongGenre: SUCCESS, 76868
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -25145,9 +25145,9 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 81061
-getNumberOfGenreChanges: SUCCESS, 1260
-getNumberOfGenreChanges: SUCCESS, 1157
+getSongGenre: SUCCESS, 86185
+getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -25173,7 +25173,7 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 70733
+getSongGenre: SUCCESS, 10004
 getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addSong: SUCCESS
@@ -25181,10 +25181,10 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: FAILURE
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 272
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1115
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
@@ -25214,39 +25214,39 @@ addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 16138
+getSongGenre: SUCCESS, 39992
 addSong: SUCCESS
 getSongGenre: SUCCESS, 68387
 mergeGenres: SUCCESS
-mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 872
-getNumberOfGenreChanges: SUCCESS, 1207
+mergeGenres: INVALID_INPUT
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 80711
+getSongGenre: SUCCESS, 57807
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 17417
+getSongGenre: SUCCESS, 85633
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 9576
+getSongGenre: SUCCESS, 97167
 addSong: SUCCESS
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 9
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1102
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -25263,10 +25263,10 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 652
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 79138
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -25280,14 +25280,14 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 10594
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 637
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
-getSongGenre: SUCCESS, 58870
+getSongGenre: SUCCESS, 70677
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 52530
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 688
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -25295,7 +25295,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 57803
+getSongGenre: SUCCESS, 93094
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 getSongGenre: FAILURE
@@ -25307,7 +25307,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 3855
-getNumberOfGenreChanges: SUCCESS, 993
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -25319,16 +25319,16 @@ getNumberOfSongsByGenre: SUCCESS, 3
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 67805
+getSongGenre: SUCCESS, 48514
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-addGenre: FAILURE
+addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 22307
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 445
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -25337,7 +25337,7 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1213
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -25363,17 +25363,17 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 15270
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 95400
-getNumberOfGenreChanges: SUCCESS, 1318
+getSongGenre: SUCCESS, 80733
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 784
-getSongGenre: SUCCESS, 76554
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 78191
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -25381,7 +25381,7 @@ addSong: SUCCESS
 getSongGenre: FAILURE
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 108
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -25393,7 +25393,7 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 69828
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 790
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -25414,7 +25414,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
-getSongGenre: SUCCESS, 4355
+getSongGenre: SUCCESS, 82388
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
@@ -25424,11 +25424,11 @@ getSongGenre: SUCCESS, 27965
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 746
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 91231
-getNumberOfGenreChanges: SUCCESS, 972
-getSongGenre: SUCCESS, 99358
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 68020
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -25442,9 +25442,9 @@ addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 60670
+getSongGenre: SUCCESS, 44899
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 5
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -25458,7 +25458,7 @@ addSong: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
@@ -25470,10 +25470,10 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 36583
+getSongGenre: SUCCESS, 89107
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -25504,7 +25504,7 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 117
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -25512,7 +25512,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 52882
+getSongGenre: SUCCESS, 22826
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -25521,11 +25521,11 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 979
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1241
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -25548,7 +25548,7 @@ addSong: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 95277
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 82282
+getSongGenre: SUCCESS, 50421
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -25556,15 +25556,15 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addSong: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1084
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 761
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -25575,11 +25575,11 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 38894
+getSongGenre: SUCCESS, 49504
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: FAILURE
-getSongGenre: SUCCESS, 52692
+getSongGenre: SUCCESS, 52476
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -25588,7 +25588,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 979
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 38816
@@ -25601,11 +25601,11 @@ addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 49088
+getSongGenre: SUCCESS, 87378
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 359
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
@@ -25623,13 +25623,13 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 getSongGenre: SUCCESS, 35273
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1131
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 50419
+getSongGenre: SUCCESS, 91373
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
@@ -25640,9 +25640,9 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 47055
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 569
-getNumberOfGenreChanges: SUCCESS, 1088
-getSongGenre: SUCCESS, 97101
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 80046
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -25664,13 +25664,13 @@ getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 22051
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 983
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 70447
+getSongGenre: SUCCESS, 10040
 getSongGenre: SUCCESS, 41660
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -25685,22 +25685,22 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 71377
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 673
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 11827
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 1238
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 65903
+getSongGenre: SUCCESS, 46714
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
@@ -25710,30 +25710,30 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 getNumberOfGenreChanges: SUCCESS, 2
-getSongGenre: SUCCESS, 54810
+getSongGenre: SUCCESS, 90339
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1233
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 getNumberOfSongsByGenre: SUCCESS, 1
-getSongGenre: SUCCESS, 42600
-getNumberOfGenreChanges: SUCCESS, 0
+getSongGenre: SUCCESS, 1229
+getNumberOfGenreChanges: SUCCESS, 1
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 76209
+getSongGenre: SUCCESS, 33669
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 460
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -25770,27 +25770,27 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 69980
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 65736
+getSongGenre: SUCCESS, 26200
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 33973
-getNumberOfGenreChanges: SUCCESS, 4
-getNumberOfGenreChanges: SUCCESS, 1360
+getSongGenre: SUCCESS, 24711
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 9418
+getSongGenre: SUCCESS, 31472
 getNumberOfSongsByGenre: SUCCESS, 1
 addSong: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
-getNumberOfGenreChanges: SUCCESS, 1344
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 61411
 addGenre: SUCCESS
@@ -25803,18 +25803,18 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 99622
+getSongGenre: SUCCESS, 20225
 getSongGenre: SUCCESS, 29678
 getNumberOfGenreChanges: SUCCESS, 2
-getSongGenre: SUCCESS, 13007
+getSongGenre: SUCCESS, 526
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-addGenre: FAILURE
+addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 70153
+getSongGenre: SUCCESS, 79943
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -25826,7 +25826,7 @@ getSongGenre: SUCCESS, 49318
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
-getNumberOfGenreChanges: SUCCESS, 1054
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 83923
@@ -25855,11 +25855,11 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 36771
+getSongGenre: SUCCESS, 84979
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 541
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -25872,12 +25872,12 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 63605
-getNumberOfGenreChanges: SUCCESS, 811
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -25896,10 +25896,10 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 39565
+getSongGenre: SUCCESS, 40334
 mergeGenres: SUCCESS
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 64643
+getSongGenre: SUCCESS, 9466
 addSong: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
@@ -25927,12 +25927,12 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 693
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 12
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -25953,9 +25953,9 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 15857
+getSongGenre: SUCCESS, 88678
 getSongGenre: SUCCESS, 51280
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -25964,25 +25964,25 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 669
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 40582
+getSongGenre: SUCCESS, 78255
 getSongGenre: SUCCESS, 58157
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 1
 getNumberOfSongsByGenre: SUCCESS, 4
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 1
 getNumberOfSongsByGenre: FAILURE
-getNumberOfGenreChanges: SUCCESS, 492
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 151
-getNumberOfGenreChanges: SUCCESS, 1352
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -25999,7 +25999,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 29716
+getSongGenre: SUCCESS, 29390
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -26020,35 +26020,35 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 getSongGenre: SUCCESS, 18798
-getNumberOfGenreChanges: SUCCESS, 1097
-addGenre: SUCCESS
-addGenre: SUCCESS
-getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 498
-getSongGenre: SUCCESS, 56628
-addGenre: SUCCESS
-addSong: SUCCESS
-addGenre: SUCCESS
-addGenre: SUCCESS
-addGenre: SUCCESS
-mergeGenres: SUCCESS
-addGenre: SUCCESS
-addGenre: SUCCESS
-addGenre: SUCCESS
-addSong: SUCCESS
-addGenre: SUCCESS
-addGenre: SUCCESS
-mergeGenres: SUCCESS
-addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 3
-addSong: SUCCESS
-addGenre: SUCCESS
-addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 4
+addGenre: SUCCESS
+addGenre: SUCCESS
+getNumberOfSongsByGenre: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 3
+getSongGenre: SUCCESS, 61127
+addGenre: SUCCESS
+addSong: SUCCESS
+addGenre: SUCCESS
+addGenre: SUCCESS
+addGenre: SUCCESS
+mergeGenres: SUCCESS
+addGenre: SUCCESS
+addGenre: SUCCESS
+addGenre: SUCCESS
+addSong: SUCCESS
+addGenre: SUCCESS
+addGenre: SUCCESS
+mergeGenres: INVALID_INPUT
+addGenre: SUCCESS
+getNumberOfGenreChanges: SUCCESS, 2
+addSong: SUCCESS
+addGenre: SUCCESS
+addGenre: SUCCESS
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 994
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 1
 mergeGenres: SUCCESS
@@ -26089,14 +26089,14 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
-getNumberOfGenreChanges: SUCCESS, 1361
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 87355
+getSongGenre: SUCCESS, 12121
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
@@ -26130,7 +26130,7 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 45645
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 677
+getNumberOfGenreChanges: SUCCESS, 1
 addSong: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
@@ -26151,7 +26151,7 @@ addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 332
+getSongGenre: SUCCESS, 50817
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -26176,23 +26176,23 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 793
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 96037
-getNumberOfGenreChanges: SUCCESS, 4
-getSongGenre: SUCCESS, 72462
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 28395
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 9
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 67842
+getSongGenre: SUCCESS, 19026
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -26207,7 +26207,7 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1379
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -26222,7 +26222,7 @@ addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 50529
+getSongGenre: SUCCESS, 20385
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -26234,7 +26234,7 @@ mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 86168
+getSongGenre: SUCCESS, 99710
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -26244,28 +26244,28 @@ getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 3
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 509
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
 getSongGenre: SUCCESS, 80732
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 65522
+getSongGenre: SUCCESS, 60305
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 71019
+getSongGenre: SUCCESS, 72477
+addGenre: SUCCESS
+addGenre: SUCCESS
+mergeGenres: INVALID_INPUT
+getNumberOfGenreChanges: SUCCESS, 2
+addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
-addGenre: SUCCESS
-addGenre: SUCCESS
-addGenre: SUCCESS
 mergeGenres: SUCCESS
-mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 7
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -26278,10 +26278,10 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 15270
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -26292,26 +26292,26 @@ getNumberOfSongsByGenre: SUCCESS, 2
 getSongGenre: SUCCESS, 2272
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 646
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 87051
+getSongGenre: SUCCESS, 35633
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 3
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 701
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 565
+getNumberOfGenreChanges: SUCCESS, 4
 getNumberOfSongsByGenre: SUCCESS, 4
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 82223
@@ -26319,20 +26319,20 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 77496
+getSongGenre: SUCCESS, 40144
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 714
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 20
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1031
+getNumberOfGenreChanges: SUCCESS, 4
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1176
-getNumberOfGenreChanges: SUCCESS, 1233
+getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -26346,12 +26346,12 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1383
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 29792
+getSongGenre: SUCCESS, 74821
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 3
 addGenre: SUCCESS
@@ -26360,9 +26360,9 @@ getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: FAILURE
 getNumberOfGenreChanges: SUCCESS, 2
-getSongGenre: SUCCESS, 30468
+getSongGenre: SUCCESS, 26413
 addSong: SUCCESS
-getSongGenre: SUCCESS, 95911
+getSongGenre: SUCCESS, 63907
 addSong: SUCCESS
 addSong: SUCCESS
 getSongGenre: SUCCESS, 1794
@@ -26383,9 +26383,9 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 69980
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
@@ -26396,13 +26396,13 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 594
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
@@ -26410,11 +26410,11 @@ getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 510
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 10
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -26422,15 +26422,15 @@ getNumberOfSongsByGenre: FAILURE
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 47945
+getSongGenre: SUCCESS, 13840
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 99299
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 954
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
-getSongGenre: SUCCESS, 54891
+getSongGenre: SUCCESS, 77496
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -26440,7 +26440,7 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: INVALID_INPUT
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 1
@@ -26453,8 +26453,8 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 969
-getNumberOfGenreChanges: SUCCESS, 1113
+getNumberOfGenreChanges: SUCCESS, 1
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -26477,7 +26477,7 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 48426
 mergeGenres: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 49948
+getSongGenre: SUCCESS, 82345
 getNumberOfSongsByGenre: FAILURE
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
@@ -26493,10 +26493,10 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 87000
+getSongGenre: SUCCESS, 7211
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
@@ -26507,21 +26507,21 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 583
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 578
-addGenre: SUCCESS
-addGenre: SUCCESS
-addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
-mergeGenres: SUCCESS
-mergeGenres: SUCCESS
-addGenre: SUCCESS
-getSongGenre: SUCCESS, 29951
 getNumberOfGenreChanges: SUCCESS, 4
+addGenre: SUCCESS
+addGenre: SUCCESS
+addGenre: SUCCESS
+getNumberOfGenreChanges: SUCCESS, 2
+mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
+addGenre: SUCCESS
+getSongGenre: SUCCESS, 28249
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -26542,7 +26542,7 @@ addGenre: INVALID_INPUT
 addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 699
+getSongGenre: SUCCESS, 65116
 getSongGenre: SUCCESS, 62912
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -26552,7 +26552,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1329
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 36363
@@ -26566,14 +26566,14 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-addGenre: FAILURE
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 47945
+addGenre: SUCCESS
+getSongGenre: SUCCESS, 13840
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 841
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -26599,12 +26599,12 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: FAILURE
-getNumberOfGenreChanges: SUCCESS, 1382
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 getSongGenre: SUCCESS, 64945
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 24526
+getSongGenre: SUCCESS, 48935
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -26617,15 +26617,15 @@ getSongGenre: SUCCESS, 22731
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
-getSongGenre: SUCCESS, 97018
+getSongGenre: SUCCESS, 75715
 addGenre: INVALID_INPUT
 addSong: SUCCESS
 mergeGenres: SUCCESS
-addGenre: FAILURE
-getNumberOfGenreChanges: SUCCESS, 6
+addGenre: SUCCESS
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
-getNumberOfGenreChanges: SUCCESS, 516
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 5380
@@ -26637,21 +26637,21 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 getSongGenre: SUCCESS, 97509
-getNumberOfGenreChanges: SUCCESS, 1341
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfGenreChanges: FAILURE
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 93342
+getSongGenre: SUCCESS, 56616
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1198
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1246
+getNumberOfGenreChanges: SUCCESS, 4
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -26660,7 +26660,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1375
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -26671,23 +26671,23 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 9418
+getSongGenre: SUCCESS, 31472
 getSongGenre: SUCCESS, 77923
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 59106
-getNumberOfGenreChanges: SUCCESS, 6
-getNumberOfGenreChanges: SUCCESS, 4
+getSongGenre: SUCCESS, 31036
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 451
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 246
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 60471
+getSongGenre: SUCCESS, 94032
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -26699,8 +26699,8 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 183
-getSongGenre: SUCCESS, 29274
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 95295
 getSongGenre: SUCCESS, 51772
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -26711,13 +26711,13 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 56665
+getSongGenre: SUCCESS, 71439
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: FAILURE
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -26728,31 +26728,31 @@ getNumberOfSongsByGenre: SUCCESS, 1
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 70522
+getSongGenre: SUCCESS, 21189
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 3
 getSongGenre: SUCCESS, 41966
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 57803
-mergeGenres: SUCCESS
+getSongGenre: SUCCESS, 93094
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 3541
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 28377
+getSongGenre: SUCCESS, 59357
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 76333
+getSongGenre: SUCCESS, 51920
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1320
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -26762,7 +26762,7 @@ addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 90339
+getSongGenre: SUCCESS, 84072
 getSongGenre: SUCCESS, 67946
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 20478
@@ -26774,7 +26774,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -26784,11 +26784,11 @@ addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 6246
+getSongGenre: SUCCESS, 26038
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1379
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
@@ -26796,10 +26796,10 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 78909
-getSongGenre: SUCCESS, 48113
+getSongGenre: SUCCESS, 21473
 addSong: SUCCESS
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 1199
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 1
 getSongGenre: SUCCESS, 62043
 addSong: SUCCESS
@@ -26809,14 +26809,14 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1037
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 538
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 5028
+getSongGenre: SUCCESS, 5175
 addGenre: SUCCESS
 getNumberOfGenreChanges: FAILURE
 addGenre: SUCCESS
@@ -26832,7 +26832,7 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 61828
+getSongGenre: SUCCESS, 23391
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -26850,13 +26850,13 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 88231
+getSongGenre: SUCCESS, 58038
 mergeGenres: SUCCESS
 addGenre: SUCCESS
+getNumberOfGenreChanges: SUCCESS, 2
+addGenre: SUCCESS
+addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 4
-addGenre: SUCCESS
-addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1426
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 5
@@ -26872,7 +26872,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 518
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -26898,7 +26898,7 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -26916,7 +26916,7 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 86441
+getSongGenre: SUCCESS, 80260
 addGenre: SUCCESS
 getNumberOfGenreChanges: FAILURE
 addSong: SUCCESS
@@ -26940,14 +26940,14 @@ mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 5
-getNumberOfGenreChanges: SUCCESS, 491
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 47054
+getSongGenre: SUCCESS, 69180
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -26964,7 +26964,7 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -26976,7 +26976,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
-getNumberOfGenreChanges: SUCCESS, 507
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 2
@@ -26990,12 +26990,12 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getSongGenre: SUCCESS, 78778
-getSongGenre: SUCCESS, 6163
+getSongGenre: SUCCESS, 61901
+getSongGenre: SUCCESS, 79435
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 58933
-getNumberOfGenreChanges: SUCCESS, 839
+getSongGenre: SUCCESS, 12303
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: FAILURE
@@ -27004,8 +27004,8 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
-getNumberOfGenreChanges: SUCCESS, 70
-getSongGenre: SUCCESS, 71873
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 35508
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -27029,7 +27029,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 43
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 getNumberOfSongsByGenre: SUCCESS, 5
@@ -27038,7 +27038,7 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
@@ -27053,7 +27053,7 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 67651
+getSongGenre: SUCCESS, 24178
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
@@ -27061,13 +27061,13 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: FAILURE
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 32951
+getSongGenre: SUCCESS, 63041
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 31335
-getNumberOfGenreChanges: SUCCESS, 742
-getNumberOfGenreChanges: SUCCESS, 1238
+getSongGenre: SUCCESS, 16507
+getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
@@ -27107,8 +27107,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 58471
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 14
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 1
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -27142,7 +27142,7 @@ addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 72438
+getSongGenre: SUCCESS, 42137
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 mergeGenres: SUCCESS
@@ -27156,10 +27156,10 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 16147
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 623
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: FAILURE
-getSongGenre: SUCCESS, 72462
+getSongGenre: SUCCESS, 8362
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -27185,8 +27185,8 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 8180
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 3
-getSongGenre: SUCCESS, 73568
-getNumberOfGenreChanges: SUCCESS, 6
+getSongGenre: SUCCESS, 53653
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
@@ -27203,11 +27203,11 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 16235
+getSongGenre: SUCCESS, 12263
 addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 12097
+getSongGenre: SUCCESS, 93859
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -27220,7 +27220,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 575
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -27243,7 +27243,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 93022
+getSongGenre: SUCCESS, 92873
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -27252,7 +27252,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 631
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -27260,7 +27260,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1233
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -27282,15 +27282,15 @@ getSongGenre: FAILURE
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1024
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 45523
-getNumberOfGenreChanges: SUCCESS, 90
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -27320,8 +27320,8 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 11
-getNumberOfGenreChanges: SUCCESS, 81
+getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -27334,7 +27334,7 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 54240
+getSongGenre: SUCCESS, 41261
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 28020
 mergeGenres: SUCCESS
@@ -27383,8 +27383,8 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 0
-getSongGenre: SUCCESS, 77888
+getNumberOfGenreChanges: SUCCESS, 1
+getSongGenre: SUCCESS, 34662
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
@@ -27398,7 +27398,7 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -27424,8 +27424,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 49164
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 77
-getNumberOfGenreChanges: SUCCESS, 196
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -27434,11 +27434,11 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 33973
+getSongGenre: SUCCESS, 24711
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -27449,21 +27449,21 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 292
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 75884
+getSongGenre: SUCCESS, 48031
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 69568
+getSongGenre: SUCCESS, 48432
 getSongGenre: SUCCESS, 48613
 getNumberOfSongsByGenre: SUCCESS, 1
-getSongGenre: SUCCESS, 83910
+getSongGenre: SUCCESS, 78955
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 mergeGenres: SUCCESS
@@ -27472,18 +27472,18 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 51389
+getSongGenre: SUCCESS, 25188
 mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 34723
 mergeGenres: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1454
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -27503,9 +27503,9 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 69013
+getSongGenre: SUCCESS, 99958
 getNumberOfSongsByGenre: SUCCESS, 1
-getNumberOfGenreChanges: SUCCESS, 1431
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -27513,7 +27513,7 @@ getSongGenre: SUCCESS, 27025
 getSongGenre: SUCCESS, 96788
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 4837
+getSongGenre: SUCCESS, 46063
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -27530,26 +27530,26 @@ getNumberOfSongsByGenre: SUCCESS, 5
 getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 20368
+getSongGenre: SUCCESS, 626
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1358
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 43209
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 43957
-getNumberOfGenreChanges: SUCCESS, 1435
+getSongGenre: SUCCESS, 77219
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 94
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -27565,7 +27565,7 @@ mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
@@ -27593,13 +27593,13 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 75006
+getSongGenre: SUCCESS, 65612
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: FAILURE
-getSongGenre: SUCCESS, 29014
+getSongGenre: SUCCESS, 43634
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -27608,10 +27608,10 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 90247
 getNumberOfSongsByGenre: SUCCESS, 1
-getNumberOfGenreChanges: SUCCESS, 12
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 85240
+getSongGenre: SUCCESS, 6825
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -27632,20 +27632,20 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 95289
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 31540
+getSongGenre: SUCCESS, 65827
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 62349
-getNumberOfGenreChanges: SUCCESS, 1129
-getSongGenre: SUCCESS, 68411
+getSongGenre: SUCCESS, 33624
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 6063
 addGenre: SUCCESS
 getSongGenre: FAILURE
-getSongGenre: SUCCESS, 31539
-getSongGenre: SUCCESS, 86921
+getSongGenre: SUCCESS, 71540
+getSongGenre: SUCCESS, 68564
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1305
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -27655,8 +27655,8 @@ addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 18
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
@@ -27674,7 +27674,7 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1012
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -27686,9 +27686,9 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1254
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -27716,40 +27716,40 @@ mergeGenres: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 71873
+getSongGenre: SUCCESS, 35508
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 46393
-getSongGenre: SUCCESS, 416
+getSongGenre: SUCCESS, 90935
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 57311
 getNumberOfSongsByGenre: SUCCESS, 3
-getSongGenre: SUCCESS, 8193
+getSongGenre: SUCCESS, 1492
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 54843
+getSongGenre: SUCCESS, 3484
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 786
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 74836
 getNumberOfSongsByGenre: FAILURE
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 935
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 931
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 81616
-getSongGenre: SUCCESS, 26396
+getSongGenre: SUCCESS, 76615
+getSongGenre: SUCCESS, 1243
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 97107
@@ -27770,13 +27770,13 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 3
-getNumberOfGenreChanges: SUCCESS, 603
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 93844
+getSongGenre: SUCCESS, 44980
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1416
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
@@ -27784,26 +27784,26 @@ mergeGenres: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1460
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1469
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 47054
+getSongGenre: SUCCESS, 69180
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 7500
+getSongGenre: SUCCESS, 67842
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: FAILURE
-getSongGenre: SUCCESS, 41370
+getSongGenre: SUCCESS, 30698
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 24025
 addGenre: SUCCESS
@@ -27821,25 +27821,25 @@ getNumberOfSongsByGenre: SUCCESS, 5
 getSongGenre: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
+getNumberOfGenreChanges: SUCCESS, 2
+addGenre: SUCCESS
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfGenreChanges: SUCCESS, 3
-addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1300
-getNumberOfGenreChanges: SUCCESS, 1410
-addGenre: SUCCESS
-addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 5
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1365
-getSongGenre: SUCCESS, 83041
+getNumberOfGenreChanges: SUCCESS, 2
+addGenre: SUCCESS
+addGenre: SUCCESS
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 10254
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 getSongGenre: FAILURE
-getSongGenre: SUCCESS, 90339
+getSongGenre: SUCCESS, 84072
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -27852,11 +27852,11 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1145
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 909
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 5
@@ -27868,16 +27868,16 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1168
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 39051
-getNumberOfGenreChanges: SUCCESS, 8
+getSongGenre: SUCCESS, 26436
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
@@ -27917,7 +27917,7 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 5
 addSong: SUCCESS
@@ -27928,12 +27928,12 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 16610
 addSong: SUCCESS
-getSongGenre: SUCCESS, 88218
+getSongGenre: SUCCESS, 64643
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1320
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -27947,7 +27947,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 711
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -27959,11 +27959,11 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 25503
+getSongGenre: SUCCESS, 10531
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1350
+getNumberOfGenreChanges: SUCCESS, 5
 addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
@@ -27974,21 +27974,21 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 1280
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 73392
+getSongGenre: SUCCESS, 26256
 getNumberOfSongsByGenre: SUCCESS, 1
 getSongGenre: FAILURE
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 getNumberOfGenreChanges: SUCCESS, 2
-getSongGenre: SUCCESS, 25581
+getSongGenre: SUCCESS, 65339
 getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 63608
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1209
+getNumberOfGenreChanges: SUCCESS, 4
 getSongGenre: SUCCESS, 42793
 getSongGenre: SUCCESS, 53665
 addGenre: SUCCESS
@@ -28000,7 +28000,7 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 613
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -28015,28 +28015,28 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 28691
+getSongGenre: SUCCESS, 37433
 getNumberOfSongsByGenre: SUCCESS, 5
 getSongGenre: SUCCESS, 12515
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 65522
+getSongGenre: SUCCESS, 60305
 getNumberOfSongsByGenre: SUCCESS, 1
-getNumberOfGenreChanges: SUCCESS, 105
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1334
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 56012
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 mergeGenres: SUCCESS
@@ -28052,7 +28052,7 @@ getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 52692
+getSongGenre: SUCCESS, 52476
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 79000
@@ -28065,43 +28065,43 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 692
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1356
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 52322
-getNumberOfGenreChanges: SUCCESS, 4
+getSongGenre: SUCCESS, 11783
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 25581
-getNumberOfGenreChanges: SUCCESS, 4
+getSongGenre: SUCCESS, 65339
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 50125
+getSongGenre: SUCCESS, 38499
 addSong: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1403
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 33392
+getSongGenre: SUCCESS, 39318
 addSong: INVALID_INPUT
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 792
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -28113,7 +28113,7 @@ getNumberOfSongsByGenre: SUCCESS, 5
 getSongGenre: SUCCESS, 79669
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -28133,10 +28133,10 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 2949
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 586
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 96551
+getSongGenre: SUCCESS, 28640
 addGenre: SUCCESS
 getNumberOfGenreChanges: FAILURE
 addGenre: SUCCESS
@@ -28156,7 +28156,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 12440
+getSongGenre: SUCCESS, 98497
 addGenre: SUCCESS
 getSongGenre: FAILURE
 addGenre: SUCCESS
@@ -28170,33 +28170,33 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 881
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 710
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 43942
+getSongGenre: SUCCESS, 14055
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: FAILURE
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 36078
+getSongGenre: SUCCESS, 37524
 mergeGenres: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 16
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 1
@@ -28212,7 +28212,7 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1105
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
@@ -28235,20 +28235,20 @@ getNumberOfSongsByGenre: SUCCESS, 5
 getSongGenre: SUCCESS, 24319
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 80173
-getSongGenre: SUCCESS, 90346
-getNumberOfGenreChanges: SUCCESS, 509
+getSongGenre: SUCCESS, 14394
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 4
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 68764
+getSongGenre: SUCCESS, 97364
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
@@ -28262,7 +28262,7 @@ getSongGenre: FAILURE
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 99134
+getSongGenre: SUCCESS, 27259
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
@@ -28278,14 +28278,14 @@ getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 3
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 3
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 99466
+getSongGenre: SUCCESS, 41610
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -28316,7 +28316,7 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 18278
+getSongGenre: SUCCESS, 42631
 addGenre: SUCCESS
 addSong: INVALID_INPUT
 mergeGenres: SUCCESS
@@ -28327,14 +28327,14 @@ mergeGenres: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 1404
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 37777
 getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 90634
-getNumberOfGenreChanges: SUCCESS, 507
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
@@ -28362,7 +28362,7 @@ addSong: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 832
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -28372,7 +28372,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 getNumberOfSongsByGenre: SUCCESS, 1
-getNumberOfGenreChanges: SUCCESS, 649
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -28380,12 +28380,12 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 1
-getSongGenre: SUCCESS, 64761
-getSongGenre: SUCCESS, 26766
+getSongGenre: SUCCESS, 30124
+getSongGenre: SUCCESS, 28537
 getNumberOfSongsByGenre: SUCCESS, 1
 getSongGenre: SUCCESS, 6591
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 15173
+getSongGenre: SUCCESS, 77680
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
 getSongGenre: SUCCESS, 89267
@@ -28395,10 +28395,10 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 81146
+getSongGenre: SUCCESS, 82422
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -28417,17 +28417,17 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
+mergeGenres: INVALID_INPUT
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 735
 mergeGenres: SUCCESS
-mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1218
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1182
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -28442,12 +28442,12 @@ getNumberOfGenreChanges: FAILURE
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 39096
+getSongGenre: SUCCESS, 76260
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1521
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 981
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -28460,24 +28460,24 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 368
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
-getSongGenre: SUCCESS, 27445
+getSongGenre: SUCCESS, 76116
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 18986
+getSongGenre: SUCCESS, 72439
 mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1396
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -28495,13 +28495,13 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1505
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 82653
+getSongGenre: SUCCESS, 30240
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -28510,15 +28510,15 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 656
-getNumberOfGenreChanges: SUCCESS, 1275
+getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 3
 getSongGenre: SUCCESS, 38172
-getSongGenre: SUCCESS, 44888
+getSongGenre: SUCCESS, 60471
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -28534,13 +28534,13 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1364
-getSongGenre: SUCCESS, 68411
+getNumberOfGenreChanges: SUCCESS, 5
+getSongGenre: SUCCESS, 6063
 getSongGenre: SUCCESS, 87549
-getNumberOfGenreChanges: SUCCESS, 1380
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -28558,14 +28558,14 @@ addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1102
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 3
-getNumberOfGenreChanges: SUCCESS, 1131
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -28581,21 +28581,21 @@ getNumberOfSongsByGenre: SUCCESS, 1
 getNumberOfSongsByGenre: FAILURE
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 57713
+getSongGenre: SUCCESS, 44980
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 30
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 81146
+getSongGenre: SUCCESS, 82422
 getNumberOfSongsByGenre: SUCCESS, 4
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 11438
+getSongGenre: SUCCESS, 39884
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: FAILURE
@@ -28608,25 +28608,25 @@ getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 997
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 getSongGenre: SUCCESS, 25028
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 99134
+getSongGenre: SUCCESS, 27259
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1177
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 getNumberOfSongsByGenre: SUCCESS, 1
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1091
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -28636,16 +28636,16 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 45636
+getSongGenre: SUCCESS, 27386
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 5
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 72462
+getSongGenre: SUCCESS, 21347
 getSongGenre: SUCCESS, 49195
-getSongGenre: SUCCESS, 20172
+getSongGenre: SUCCESS, 14338
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -28666,14 +28666,14 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 35780
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 14323
+getSongGenre: SUCCESS, 80447
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 3
 addSong: SUCCESS
-getSongGenre: SUCCESS, 33392
-getNumberOfGenreChanges: SUCCESS, 1093
+getSongGenre: SUCCESS, 38317
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 42284
+getSongGenre: SUCCESS, 82282
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -28683,7 +28683,7 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 62188
+getSongGenre: SUCCESS, 68620
 addSong: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
@@ -28696,7 +28696,7 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 40141
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1188
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfGenreChanges: FAILURE
 addSong: SUCCESS
@@ -28706,7 +28706,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 98526
+getSongGenre: SUCCESS, 25716
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -28720,7 +28720,7 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addSong: SUCCESS
-getSongGenre: SUCCESS, 15677
+getSongGenre: SUCCESS, 29095
 addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -28740,28 +28740,28 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 1450
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 54565
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 153
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 7665
+getSongGenre: SUCCESS, 81787
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 244
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 64576
-getNumberOfGenreChanges: SUCCESS, 1473
+getSongGenre: SUCCESS, 57499
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 2
 getSongGenre: SUCCESS, 86628
 addSong: SUCCESS
@@ -28772,7 +28772,7 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 38153
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addSong: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
@@ -28782,7 +28782,7 @@ addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1228
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -28790,7 +28790,7 @@ getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 751
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -28814,7 +28814,7 @@ getSongGenre: SUCCESS, 65007
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -28822,9 +28822,9 @@ getSongGenre: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 57649
+getSongGenre: SUCCESS, 2108
 getSongGenre: SUCCESS, 51254
-getSongGenre: SUCCESS, 13364
+getSongGenre: SUCCESS, 432
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -28851,7 +28851,7 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 4707
+getSongGenre: SUCCESS, 58636
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -28865,21 +28865,21 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 74423
+getSongGenre: SUCCESS, 53545
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 71446
+getSongGenre: SUCCESS, 29471
 addSong: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 4
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-addGenre: FAILURE
+addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -28893,7 +28893,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 20
+getNumberOfGenreChanges: SUCCESS, 4
 getSongGenre: SUCCESS, 34457
 getSongGenre: SUCCESS, 36562
 addGenre: SUCCESS
@@ -28903,19 +28903,19 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
-getSongGenre: SUCCESS, 70046
-getSongGenre: SUCCESS, 81616
+getSongGenre: SUCCESS, 75541
+getSongGenre: SUCCESS, 76615
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 125
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 77678
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 33399
+getSongGenre: SUCCESS, 97966
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -28929,7 +28929,7 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 35781
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 11136
+getSongGenre: SUCCESS, 3854
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
@@ -28945,12 +28945,12 @@ addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 615
+getNumberOfGenreChanges: SUCCESS, 4
 addSong: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
-getSongGenre: SUCCESS, 31209
+getNumberOfGenreChanges: SUCCESS, 1
+getSongGenre: SUCCESS, 99894
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -28960,7 +28960,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 945
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -28970,14 +28970,14 @@ addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 49194
+getSongGenre: SUCCESS, 9722
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 31366
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 12
-getSongGenre: SUCCESS, 332
-getNumberOfGenreChanges: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 1551
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 50817
+getNumberOfGenreChanges: SUCCESS, 1
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
@@ -28987,8 +28987,8 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 30286
-getSongGenre: SUCCESS, 107
+getSongGenre: SUCCESS, 91197
+getSongGenre: SUCCESS, 12196
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -28996,8 +28996,8 @@ mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 879
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 48497
@@ -29011,7 +29011,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 57
+getNumberOfGenreChanges: SUCCESS, 1
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -29027,15 +29027,15 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 30879
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 83882
+getSongGenre: SUCCESS, 17195
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 1565
+getNumberOfGenreChanges: SUCCESS, 1
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1233
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: INVALID_INPUT
@@ -29046,7 +29046,7 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
 getSongGenre: SUCCESS, 89662
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1556
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 10512
 getNumberOfSongsByGenre: SUCCESS, 5
 addSong: SUCCESS
@@ -29055,10 +29055,10 @@ addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1421
+getNumberOfGenreChanges: SUCCESS, 6
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -29085,7 +29085,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 43957
+getSongGenre: SUCCESS, 77219
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -29099,7 +29099,7 @@ addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -29109,8 +29109,8 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 720
-getNumberOfGenreChanges: SUCCESS, 764
+getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 5
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -29129,11 +29129,11 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 16
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 88173
+getSongGenre: SUCCESS, 53885
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -29155,25 +29155,25 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 1534
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: INVALID_INPUT
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1425
+getNumberOfGenreChanges: SUCCESS, 6
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 578
-getNumberOfGenreChanges: SUCCESS, 4
-getNumberOfGenreChanges: SUCCESS, 1227
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
 addSong: SUCCESS
-getSongGenre: SUCCESS, 62570
+getSongGenre: SUCCESS, 21359
 mergeGenres: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
@@ -29185,7 +29185,7 @@ getSongGenre: SUCCESS, 2082
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfSongsByGenre: SUCCESS, 0
+getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 addSong: SUCCESS
 getSongGenre: SUCCESS, 75848
@@ -29197,7 +29197,7 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 50538
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 92753
+getSongGenre: SUCCESS, 48736
 getNumberOfGenreChanges: FAILURE
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -29208,7 +29208,7 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 210
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -29223,9 +29223,9 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 74489
+getSongGenre: SUCCESS, 63473
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 492
+getNumberOfGenreChanges: SUCCESS, 1
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -29242,7 +29242,7 @@ getSongGenre: FAILURE
 mergeGenres: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1556
+getNumberOfGenreChanges: SUCCESS, 4
 getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 58067
 addGenre: SUCCESS
@@ -29253,13 +29253,13 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1514
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 2
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
@@ -29269,19 +29269,19 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
-getSongGenre: SUCCESS, 86048
+getSongGenre: SUCCESS, 89107
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 54264
-getNumberOfGenreChanges: SUCCESS, 709
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1554
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 618
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -29302,7 +29302,7 @@ addGenre: INVALID_INPUT
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -29313,7 +29313,7 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1566
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -29323,7 +29323,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 300
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -29343,14 +29343,14 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
 addSong: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 34353
+getSongGenre: SUCCESS, 1904
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 49
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 74997
 addGenre: SUCCESS
@@ -29371,10 +29371,10 @@ getSongGenre: SUCCESS, 61660
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1593
+getNumberOfGenreChanges: SUCCESS, 6
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 30525
+getSongGenre: SUCCESS, 28640
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
@@ -29386,7 +29386,7 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -29397,18 +29397,18 @@ addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 85701
-getNumberOfGenreChanges: SUCCESS, 1542
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: FAILURE
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1316
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -29435,16 +29435,16 @@ getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 16750
-getNumberOfGenreChanges: SUCCESS, 230
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: INVALID_INPUT
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 64493
-getNumberOfGenreChanges: SUCCESS, 652
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 31539
+getSongGenre: SUCCESS, 71540
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -29469,13 +29469,13 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 19011
-getNumberOfGenreChanges: SUCCESS, 1585
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
-getNumberOfGenreChanges: SUCCESS, 4
-getSongGenre: SUCCESS, 80733
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 56044
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: FAILURE
@@ -29493,11 +29493,11 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 80975
+getSongGenre: SUCCESS, 21826
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-addGenre: FAILURE
+addGenre: SUCCESS
 getSongGenre: FAILURE
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -29526,7 +29526,7 @@ mergeGenres: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1404
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -29535,15 +29535,15 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 727
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: INVALID_INPUT
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 32673
+getSongGenre: SUCCESS, 61958
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 10554
+getSongGenre: SUCCESS, 98495
 getSongGenre: SUCCESS, 29903
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -29557,10 +29557,10 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 1535
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: FAILURE
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 86792
+getSongGenre: SUCCESS, 192
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -29568,13 +29568,13 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 47859
-getSongGenre: SUCCESS, 60152
+getSongGenre: SUCCESS, 64420
+getSongGenre: SUCCESS, 24557
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 getSongGenre: SUCCESS, 37820
-getNumberOfGenreChanges: SUCCESS, 718
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 3
@@ -29589,16 +29589,16 @@ addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 168
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1266
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 77678
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -29613,11 +29613,11 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 43630
+getSongGenre: SUCCESS, 72321
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 89293
+getSongGenre: SUCCESS, 20715
 addGenre: INVALID_INPUT
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -29633,9 +29633,9 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 978
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 49938
-getNumberOfGenreChanges: SUCCESS, 1302
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: FAILURE
@@ -29643,23 +29643,23 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 28553
+getSongGenre: SUCCESS, 79737
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 41191
+getSongGenre: SUCCESS, 76765
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1293
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 1
 getNumberOfSongsByGenre: FAILURE
-getSongGenre: SUCCESS, 74779
+getSongGenre: SUCCESS, 54102
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -29669,24 +29669,24 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 0
-getSongGenre: SUCCESS, 49369
-getNumberOfGenreChanges: SUCCESS, 4
-getNumberOfGenreChanges: SUCCESS, 136
+getNumberOfGenreChanges: SUCCESS, 1
+getSongGenre: SUCCESS, 12159
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 934
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 12133
+getSongGenre: SUCCESS, 28683
 getSongGenre: SUCCESS, 79595
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1208
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -29730,10 +29730,10 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 61828
+getSongGenre: SUCCESS, 23391
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 56179
+getSongGenre: SUCCESS, 16226
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
@@ -29748,10 +29748,10 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
-getNumberOfGenreChanges: SUCCESS, 9
-getNumberOfGenreChanges: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 1566
+getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 1
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
@@ -29784,15 +29784,15 @@ getSongGenre: SUCCESS, 95509
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 86921
+getSongGenre: SUCCESS, 68564
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 37483
+getSongGenre: SUCCESS, 90586
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 14
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -29801,21 +29801,21 @@ addGenre: SUCCESS
 addGenre: INVALID_INPUT
 getSongGenre: SUCCESS, 43444
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1511
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 40158
-getSongGenre: SUCCESS, 97100
+getSongGenre: SUCCESS, 11440
+getSongGenre: SUCCESS, 98944
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1594
-getNumberOfGenreChanges: SUCCESS, 1568
-getNumberOfGenreChanges: SUCCESS, 444
+getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: FAILURE
@@ -29823,7 +29823,7 @@ mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 78778
+getSongGenre: SUCCESS, 61901
 getSongGenre: SUCCESS, 42508
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
@@ -29834,7 +29834,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 8555
+getSongGenre: SUCCESS, 63041
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 45404
 getNumberOfSongsByGenre: SUCCESS, 1
@@ -29855,17 +29855,17 @@ addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 240
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: FAILURE
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1080
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
@@ -29879,19 +29879,19 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: FAILURE
-getSongGenre: SUCCESS, 93722
+getSongGenre: SUCCESS, 42112
 getNumberOfSongsByGenre: SUCCESS, 1
 addSong: SUCCESS
 getSongGenre: SUCCESS, 64288
 getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 27040
 addSong: SUCCESS
-getSongGenre: SUCCESS, 19043
+getSongGenre: SUCCESS, 26561
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 450
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 1
-getSongGenre: SUCCESS, 84639
+getSongGenre: SUCCESS, 65339
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -29899,13 +29899,13 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 64422
-getNumberOfGenreChanges: SUCCESS, 1152
+getSongGenre: SUCCESS, 10868
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
-getNumberOfGenreChanges: SUCCESS, 463
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -29928,13 +29928,13 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 66610
+getSongGenre: SUCCESS, 26432
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
-getSongGenre: SUCCESS, 71236
+getSongGenre: SUCCESS, 8121
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -29942,24 +29942,24 @@ addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 868
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getSongGenre: SUCCESS, 24447
-addGenre: SUCCESS
-addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 90479
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+addGenre: SUCCESS
+addGenre: SUCCESS
+mergeGenres: INVALID_INPUT
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
@@ -29977,21 +29977,21 @@ getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 807
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 26453
 getSongGenre: SUCCESS, 78609
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 49215
+getSongGenre: SUCCESS, 22127
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 36041
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 46321
@@ -29999,12 +29999,12 @@ mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 53715
+getSongGenre: SUCCESS, 59585
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 40794
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 55189
+getSongGenre: SUCCESS, 68108
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -30020,7 +30020,7 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: INVALID_INPUT
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1017
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
 addGenre: SUCCESS
@@ -30036,7 +30036,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
@@ -30053,20 +30053,20 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 53665
+getSongGenre: SUCCESS, 97411
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 33750
+getSongGenre: SUCCESS, 32599
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1610
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1529
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1643
+getNumberOfGenreChanges: SUCCESS, 5
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -30078,8 +30078,8 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1213
+mergeGenres: INVALID_INPUT
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -30092,8 +30092,8 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 10
-getSongGenre: SUCCESS, 635
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 34089
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -30115,7 +30115,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1616
+getNumberOfGenreChanges: SUCCESS, 4
 addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -30128,18 +30128,18 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 44344
+getSongGenre: SUCCESS, 83320
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1583
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 getSongGenre: SUCCESS, 38914
 addSong: SUCCESS
 getSongGenre: SUCCESS, 66247
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 55583
+getSongGenre: SUCCESS, 6545
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 692
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -30151,18 +30151,18 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1454
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 214
-getNumberOfGenreChanges: SUCCESS, 283
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1154
+getNumberOfGenreChanges: SUCCESS, 3
 getSongGenre: SUCCESS, 74030
 addGenre: INVALID_INPUT
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 681
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
@@ -30179,13 +30179,13 @@ addSong: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 98495
+getSongGenre: SUCCESS, 81529
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1538
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 3976
+getSongGenre: SUCCESS, 54243
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -30196,22 +30196,22 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 90286
+getSongGenre: SUCCESS, 77957
 addGenre: SUCCESS
 getNumberOfGenreChanges: FAILURE
-getSongGenre: SUCCESS, 57649
+getSongGenre: SUCCESS, 2108
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 855
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 22145
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1532
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 96036
+getSongGenre: SUCCESS, 65943
 getSongGenre: SUCCESS, 76278
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -30221,14 +30221,14 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: FAILURE
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1599
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 61262
+getSongGenre: SUCCESS, 42304
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1144
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 603
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -30237,7 +30237,7 @@ addSong: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfGenreChanges: FAILURE
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 51911
@@ -30245,23 +30245,23 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 273
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 71822
-getNumberOfGenreChanges: SUCCESS, 8
-getNumberOfGenreChanges: SUCCESS, 1306
+getSongGenre: SUCCESS, 68109
+getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -30278,7 +30278,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
@@ -30292,8 +30292,8 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 981
-getSongGenre: SUCCESS, 61246
+getNumberOfGenreChanges: SUCCESS, 3
+getSongGenre: SUCCESS, 60633
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -30312,7 +30312,7 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1563
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -30332,9 +30332,9 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
 getSongGenre: SUCCESS, 92951
-getSongGenre: SUCCESS, 34643
-getSongGenre: SUCCESS, 81794
-getSongGenre: SUCCESS, 55583
+getSongGenre: SUCCESS, 37356
+getSongGenre: SUCCESS, 71446
+getSongGenre: SUCCESS, 6545
 getNumberOfSongsByGenre: SUCCESS, 5
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -30343,7 +30343,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 69651
-getNumberOfGenreChanges: SUCCESS, 1308
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -30360,7 +30360,7 @@ getNumberOfSongsByGenre: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 5
 getNumberOfGenreChanges: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 56118
+getSongGenre: SUCCESS, 38894
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -30389,13 +30389,13 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getSongGenre: SUCCESS, 5046
+getSongGenre: SUCCESS, 91343
 addSong: SUCCESS
 getSongGenre: SUCCESS, 59995
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 907
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfGenreChanges: FAILURE
@@ -30426,7 +30426,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 19070
+getSongGenre: SUCCESS, 7341
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -30446,18 +30446,18 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
-getNumberOfGenreChanges: SUCCESS, 1567
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 4
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 3
-getNumberOfGenreChanges: SUCCESS, 167
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 getSongGenre: FAILURE
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -30484,28 +30484,28 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 22695
+getSongGenre: SUCCESS, 53256
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1564
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 22
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
-getSongGenre: SUCCESS, 98495
+getSongGenre: SUCCESS, 81529
 mergeGenres: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1644
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -30513,7 +30513,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1656
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -30524,7 +30524,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 20962
+getSongGenre: SUCCESS, 84876
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -30533,7 +30533,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 485
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
@@ -30552,12 +30552,12 @@ getSongGenre: SUCCESS, 36388
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 21164
+getSongGenre: SUCCESS, 40912
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 34573
-getNumberOfGenreChanges: SUCCESS, 1650
+getSongGenre: SUCCESS, 54727
+getNumberOfGenreChanges: SUCCESS, 4
 getSongGenre: FAILURE
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -30587,23 +30587,23 @@ getSongGenre: SUCCESS, 2217
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 68
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 4
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1614
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1674
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 970
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -30613,11 +30613,11 @@ getNumberOfSongsByGenre: SUCCESS, 4
 getNumberOfSongsByGenre: SUCCESS, 4
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 46838
+getSongGenre: SUCCESS, 84971
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 84747
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1304
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -30630,11 +30630,11 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 1662
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 28661
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
@@ -30647,7 +30647,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 32374
+getSongGenre: SUCCESS, 14787
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
@@ -30662,22 +30662,22 @@ getSongGenre: FAILURE
 getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 8193
+getSongGenre: SUCCESS, 1492
 getNumberOfSongsByGenre: SUCCESS, 4
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 283
+getNumberOfGenreChanges: SUCCESS, 1
 mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 43
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -30697,9 +30697,9 @@ addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1664
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 47111
+getSongGenre: SUCCESS, 96194
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -30722,7 +30722,7 @@ addGenre: INVALID_INPUT
 mergeGenres: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1674
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -30731,7 +30731,7 @@ addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -30750,10 +30750,10 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1206
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
-getNumberOfGenreChanges: SUCCESS, 11
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -30762,9 +30762,9 @@ getNumberOfSongsByGenre: FAILURE
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1596
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 87355
+getSongGenre: SUCCESS, 5261
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -30785,7 +30785,7 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getSongGenre: SUCCESS, 84036
+getSongGenre: SUCCESS, 8282
 addSong: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
@@ -30797,25 +30797,25 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1673
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfGenreChanges: FAILURE
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 261
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 3
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1201
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 29716
-getSongGenre: SUCCESS, 30260
+getSongGenre: SUCCESS, 29390
+getSongGenre: SUCCESS, 13129
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 17985
+getSongGenre: SUCCESS, 66356
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -30828,14 +30828,14 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 73977
+getSongGenre: SUCCESS, 73759
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 70153
-getNumberOfGenreChanges: SUCCESS, 1185
-getNumberOfGenreChanges: SUCCESS, 4
+getSongGenre: SUCCESS, 79943
+getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 addSong: INVALID_INPUT
@@ -30845,7 +30845,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 84390
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -30863,7 +30863,7 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 mergeGenres: SUCCESS
@@ -30876,27 +30876,27 @@ getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1154
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 getNumberOfGenreChanges: FAILURE
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 88344
+getSongGenre: SUCCESS, 48031
 addSong: SUCCESS
 getSongGenre: SUCCESS, 38914
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
-getNumberOfGenreChanges: SUCCESS, 521
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 728
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 getSongGenre: SUCCESS, 76815
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1156
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
@@ -30911,9 +30911,9 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 getSongGenre: SUCCESS, 28226
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 66
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1330
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -30943,15 +30943,15 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 88218
+getSongGenre: SUCCESS, 64643
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 18768
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 482
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -30969,9 +30969,9 @@ addGenre: SUCCESS
 addSong: SUCCESS
 getSongGenre: SUCCESS, 8158
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 84453
-getSongGenre: SUCCESS, 10899
-getSongGenre: SUCCESS, 65451
+getSongGenre: SUCCESS, 68693
+getSongGenre: SUCCESS, 90286
+getSongGenre: SUCCESS, 52865
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -30983,14 +30983,14 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 884
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1655
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -31019,7 +31019,7 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 24001
+getSongGenre: SUCCESS, 61736
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -31035,16 +31035,16 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 36694
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 22847
+getSongGenre: SUCCESS, 99630
 getSongGenre: SUCCESS, 19123
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1449
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -31059,7 +31059,7 @@ getSongGenre: SUCCESS, 64800
 getNumberOfSongsByGenre: SUCCESS, 2
 addSong: SUCCESS
 getSongGenre: FAILURE
-getSongGenre: SUCCESS, 77496
+getSongGenre: SUCCESS, 28971
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 60484
 addGenre: SUCCESS
@@ -31073,19 +31073,19 @@ getSongGenre: SUCCESS, 28661
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
-getNumberOfGenreChanges: SUCCESS, 1455
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 58961
 addGenre: SUCCESS
 getSongGenre: FAILURE
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 92753
-getNumberOfGenreChanges: SUCCESS, 935
+getSongGenre: SUCCESS, 64948
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 80129
+getSongGenre: SUCCESS, 20581
 getNumberOfSongsByGenre: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -31094,12 +31094,12 @@ getSongGenre: SUCCESS, 90512
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 5
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 394
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -31119,14 +31119,14 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addSong: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 6
-getSongGenre: SUCCESS, 96551
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 68205
 getNumberOfSongsByGenre: SUCCESS, 5
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
 getSongGenre: SUCCESS, 66247
@@ -31139,7 +31139,7 @@ getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 89708
+getSongGenre: SUCCESS, 48508
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -31155,10 +31155,10 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 998
-getNumberOfGenreChanges: SUCCESS, 1093
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -31200,8 +31200,8 @@ addSong: SUCCESS
 getSongGenre: SUCCESS, 45719
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 77909
-getNumberOfGenreChanges: SUCCESS, 8
+getSongGenre: SUCCESS, 21221
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -31211,35 +31211,35 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1326
-getSongGenre: SUCCESS, 38838
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 2727
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 getSongGenre: SUCCESS, 90512
-getNumberOfGenreChanges: SUCCESS, 527
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 12460
 getNumberOfSongsByGenre: FAILURE
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 3
 getSongGenre: SUCCESS, 45719
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 22921
-getSongGenre: SUCCESS, 17070
+getSongGenre: SUCCESS, 17421
+getSongGenre: SUCCESS, 55393
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 3489
-getNumberOfGenreChanges: SUCCESS, 1504
+getSongGenre: SUCCESS, 80129
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: FAILURE
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 42508
 addGenre: SUCCESS
@@ -31248,11 +31248,11 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 328
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 3
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1170
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 19011
@@ -31286,7 +31286,7 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 786
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -31300,13 +31300,13 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 getSongGenre: FAILURE
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 10
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
 getSongGenre: SUCCESS, 28238
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 910
+getNumberOfGenreChanges: SUCCESS, 5
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -31316,7 +31316,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 44497
 getSongGenre: SUCCESS, 36363
-getNumberOfGenreChanges: SUCCESS, 555
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
@@ -31325,7 +31325,7 @@ mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1716
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -31346,40 +31346,40 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 79138
 getNumberOfSongsByGenre: SUCCESS, 1
-getSongGenre: SUCCESS, 76661
+getSongGenre: SUCCESS, 14147
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 425
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 74489
+getSongGenre: SUCCESS, 63473
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 4062
-mergeGenres: SUCCESS
+getSongGenre: SUCCESS, 38566
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1705
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1016
+getNumberOfGenreChanges: SUCCESS, 4
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1029
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 12160
+getSongGenre: SUCCESS, 23244
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -31390,8 +31390,8 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 586
-getNumberOfGenreChanges: SUCCESS, 16
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -31406,7 +31406,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 35605
-getNumberOfGenreChanges: SUCCESS, 1076
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -31415,20 +31415,20 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 getSongGenre: SUCCESS, 82193
 getSongGenre: SUCCESS, 48409
 addSong: FAILURE
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1253
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 59484
+getSongGenre: SUCCESS, 36204
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 99106
-getNumberOfGenreChanges: SUCCESS, 8
+getSongGenre: SUCCESS, 63238
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
@@ -31446,7 +31446,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 262
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -31455,13 +31455,13 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1283
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 3
-getSongGenre: SUCCESS, 33399
+getSongGenre: SUCCESS, 97966
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -31472,12 +31472,12 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1447
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 793
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -31487,7 +31487,7 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 4707
+getSongGenre: SUCCESS, 58636
 getNumberOfSongsByGenre: SUCCESS, 3
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -31513,7 +31513,7 @@ mergeGenres: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 3
-getNumberOfGenreChanges: SUCCESS, 582
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 43421
 addGenre: SUCCESS
@@ -31526,23 +31526,23 @@ getNumberOfSongsByGenre: SUCCESS, 5
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 34047
+getSongGenre: SUCCESS, 90413
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 136
-getSongGenre: SUCCESS, 52198
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 80693
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 620
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 797
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 57162
 addGenre: SUCCESS
@@ -31576,25 +31576,25 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 944
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: FAILURE
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 99622
+getSongGenre: SUCCESS, 20225
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 91297
-getSongGenre: SUCCESS, 33399
+getSongGenre: SUCCESS, 97966
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 80921
+getSongGenre: SUCCESS, 19026
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -31606,12 +31606,12 @@ addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 10
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -31626,16 +31626,16 @@ getNumberOfSongsByGenre: SUCCESS, 5
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 mergeGenres: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 24
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -31644,7 +31644,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 313
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -31654,7 +31654,7 @@ getNumberOfSongsByGenre: SUCCESS, 4
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 228
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -31677,7 +31677,7 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 949
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: FAILURE
 getSongGenre: SUCCESS, 41966
 addGenre: SUCCESS
@@ -31687,16 +31687,16 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 30525
+getSongGenre: SUCCESS, 83037
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1071
-getSongGenre: SUCCESS, 68630
+getNumberOfGenreChanges: SUCCESS, 3
+getSongGenre: SUCCESS, 69309
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
-getSongGenre: SUCCESS, 47282
+getNumberOfGenreChanges: SUCCESS, 3
+getSongGenre: SUCCESS, 52148
 addSong: SUCCESS
 addGenre: INVALID_INPUT
 mergeGenres: SUCCESS
@@ -31712,7 +31712,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1297
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 13668
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -31749,7 +31749,7 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 24319
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1494
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 27008
@@ -31791,20 +31791,20 @@ mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 54649
+getSongGenre: SUCCESS, 98507
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 63340
+getSongGenre: SUCCESS, 72462
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
@@ -31814,7 +31814,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1720
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -31832,7 +31832,7 @@ getNumberOfSongsByGenre: SUCCESS, 2
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1735
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
@@ -31845,10 +31845,10 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1077
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 960
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 getSongGenre: SUCCESS, 2414
@@ -31860,9 +31860,9 @@ getNumberOfSongsByGenre: SUCCESS, 4
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1534
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
-getSongGenre: SUCCESS, 699
+getSongGenre: SUCCESS, 65116
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -31875,7 +31875,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 28623
+getSongGenre: SUCCESS, 83260
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -31887,7 +31887,7 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 327
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -31895,17 +31895,17 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1550
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 1506
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 5
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -31919,12 +31919,12 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 94611
+getSongGenre: SUCCESS, 97634
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 969
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 57993
+getSongGenre: SUCCESS, 76916
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
@@ -31943,7 +31943,7 @@ getSongGenre: SUCCESS, 25193
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 991
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
@@ -31955,13 +31955,13 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 849
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1050
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1762
-getNumberOfGenreChanges: SUCCESS, 1050
+getNumberOfGenreChanges: SUCCESS, 5
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -31971,7 +31971,7 @@ getNumberOfSongsByGenre: SUCCESS, 1
 getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 15643
+getSongGenre: SUCCESS, 46713
 getNumberOfSongsByGenre: SUCCESS, 3
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
@@ -31981,13 +31981,13 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: FAILURE
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 443
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 3
 addGenre: SUCCESS
 addSong: SUCCESS
 getSongGenre: SUCCESS, 94500
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 71236
+getSongGenre: SUCCESS, 8121
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 6288
 getNumberOfSongsByGenre: SUCCESS, 1
@@ -31996,7 +31996,7 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 18
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 getNumberOfGenreChanges: FAILURE
 addGenre: SUCCESS
@@ -32011,7 +32011,7 @@ getSongGenre: SUCCESS, 84747
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1733
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -32024,8 +32024,8 @@ addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 16
-getNumberOfGenreChanges: SUCCESS, 1313
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -32035,7 +32035,7 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 21519
+getSongGenre: SUCCESS, 80939
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -32045,7 +32045,7 @@ addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 801
+getNumberOfGenreChanges: SUCCESS, 4
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
@@ -32055,25 +32055,25 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 10883
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 853
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 4
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 890
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
-addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
-addGenre: SUCCESS
-addGenre: SUCCESS
-getSongGenre: SUCCESS, 82388
-addGenre: SUCCESS
-getSongGenre: SUCCESS, 2929
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 4
+addGenre: SUCCESS
+addGenre: SUCCESS
+getSongGenre: SUCCESS, 61127
+addGenre: SUCCESS
+getSongGenre: SUCCESS, 17899
+addGenre: SUCCESS
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -32082,11 +32082,11 @@ addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1035
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 3
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -32121,8 +32121,8 @@ mergeGenres: SUCCESS
 getNumberOfSongsByGenre: FAILURE
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 892
-getNumberOfGenreChanges: SUCCESS, 1745
+getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 4
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -32133,18 +32133,18 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 79749
-getNumberOfGenreChanges: SUCCESS, 884
+getSongGenre: SUCCESS, 34573
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 1
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 258
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 51263
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 892
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -32156,12 +32156,12 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
-getSongGenre: SUCCESS, 7309
+getSongGenre: SUCCESS, 2554
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1094
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -32206,9 +32206,9 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 6317
-getNumberOfGenreChanges: SUCCESS, 1348
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 25464
 addSong: SUCCESS
@@ -32220,19 +32220,19 @@ getSongGenre: SUCCESS, 89848
 addGenre: SUCCESS
 getNumberOfSongsByGenre: FAILURE
 getSongGenre: SUCCESS, 25028
-getSongGenre: SUCCESS, 42861
+getSongGenre: SUCCESS, 94217
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 12
-getSongGenre: SUCCESS, 2914
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 38768
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1752
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 74751
-getNumberOfGenreChanges: SUCCESS, 1563
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 85296
 getNumberOfSongsByGenre: SUCCESS, 3
@@ -32251,26 +32251,26 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 651
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 53175
 addSong: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 57324
+getSongGenre: SUCCESS, 49622
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1407
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 812
+getNumberOfGenreChanges: SUCCESS, 4
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -32281,13 +32281,13 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: FAILURE
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 3976
+getSongGenre: SUCCESS, 54243
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
-getSongGenre: SUCCESS, 70897
+getSongGenre: SUCCESS, 9585
 mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -32298,7 +32298,7 @@ getNumberOfSongsByGenre: SUCCESS, 5
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -32318,11 +32318,11 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1765
+getNumberOfGenreChanges: SUCCESS, 3
 getSongGenre: SUCCESS, 90583
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -32330,7 +32330,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1630
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -32344,19 +32344,19 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 40495
+getSongGenre: SUCCESS, 71322
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1009
-getSongGenre: SUCCESS, 57324
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 49622
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 79514
+getSongGenre: SUCCESS, 64607
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 22531
+getSongGenre: SUCCESS, 82110
 addGenre: SUCCESS
 addSong: FAILURE
 addSong: SUCCESS
@@ -32375,17 +32375,17 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 92714
+getSongGenre: SUCCESS, 28640
 addSong: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1650
+mergeGenres: INVALID_INPUT
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 11
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
 addGenre: SUCCESS
@@ -32402,14 +32402,14 @@ addGenre: INVALID_INPUT
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1333
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 48113
+getSongGenre: SUCCESS, 21473
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -32425,7 +32425,7 @@ addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1468
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -32433,15 +32433,15 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 61355
+getSongGenre: SUCCESS, 75470
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 1421
-getNumberOfGenreChanges: SUCCESS, 739
+getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addSong: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1765
+getNumberOfGenreChanges: SUCCESS, 5
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -32449,7 +32449,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 89671
+getSongGenre: SUCCESS, 82572
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -32460,7 +32460,7 @@ getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 31035
 addGenre: INVALID_INPUT
 addSong: SUCCESS
-getSongGenre: SUCCESS, 86185
+getSongGenre: SUCCESS, 67433
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -32472,7 +32472,7 @@ getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1765
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
@@ -32493,7 +32493,7 @@ addSong: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 83084
+getSongGenre: SUCCESS, 67433
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 78646
@@ -32509,21 +32509,21 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 747
+getNumberOfGenreChanges: SUCCESS, 1
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 70494
+mergeGenres: INVALID_INPUT
+getSongGenre: SUCCESS, 56445
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 28249
+getSongGenre: SUCCESS, 93331
 addSong: SUCCESS
 getSongGenre: SUCCESS, 11828
 addGenre: SUCCESS
@@ -32544,19 +32544,19 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 4
 getSongGenre: SUCCESS, 50563
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 26766
+getSongGenre: SUCCESS, 28537
 getNumberOfSongsByGenre: SUCCESS, 5
 addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 926
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1783
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 getSongGenre: FAILURE
 mergeGenres: SUCCESS
@@ -32565,7 +32565,7 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 365
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -32579,27 +32579,27 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 8107
+getSongGenre: SUCCESS, 31651
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 23946
+getSongGenre: SUCCESS, 99163
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1577
-getSongGenre: SUCCESS, 94032
+getNumberOfGenreChanges: SUCCESS, 3
+getSongGenre: SUCCESS, 50187
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 19934
+getSongGenre: SUCCESS, 74537
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -32607,20 +32607,20 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 72579
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1684
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 58707
-getSongGenre: SUCCESS, 24974
+getSongGenre: SUCCESS, 83041
 getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 80362
+getSongGenre: SUCCESS, 99538
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -32628,7 +32628,7 @@ getNumberOfSongsByGenre: SUCCESS, 5
 getNumberOfSongsByGenre: SUCCESS, 4
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 67433
+getSongGenre: SUCCESS, 64448
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -32644,7 +32644,7 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 28553
+getSongGenre: SUCCESS, 79737
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -32652,7 +32652,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 730
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1566
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -32665,7 +32665,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -32676,7 +32676,7 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 1513
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfGenreChanges: FAILURE
 addGenre: SUCCESS
@@ -32687,7 +32687,7 @@ getNumberOfSongsByGenre: SUCCESS, 4
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
 addSong: SUCCESS
-getSongGenre: SUCCESS, 68851
+getSongGenre: SUCCESS, 39096
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
@@ -32696,14 +32696,14 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 64643
+getSongGenre: SUCCESS, 79953
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-addGenre: FAILURE
-getNumberOfGenreChanges: SUCCESS, 1788
+addGenre: SUCCESS
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -32711,11 +32711,11 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1496
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 14323
+getSongGenre: SUCCESS, 80447
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: FAILURE
@@ -32727,28 +32727,28 @@ getSongGenre: SUCCESS, 44497
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1515
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 83882
+getSongGenre: SUCCESS, 98601
 addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 80436
-getSongGenre: SUCCESS, 88239
+getSongGenre: SUCCESS, 18533
 getSongGenre: FAILURE
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 64643
-getSongGenre: SUCCESS, 49637
+getSongGenre: SUCCESS, 79953
+getSongGenre: SUCCESS, 56687
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1429
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -32761,11 +32761,11 @@ addGenre: SUCCESS
 addSong: FAILURE
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1743
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 63520
-addGenre: FAILURE
+addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
@@ -32775,9 +32775,9 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 43630
+getSongGenre: SUCCESS, 72321
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -32787,11 +32787,11 @@ addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 35761
-getNumberOfGenreChanges: SUCCESS, 1228
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 927
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -32806,9 +32806,9 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 78643
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1480
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 83974
+getSongGenre: SUCCESS, 23567
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
@@ -32820,7 +32820,7 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 39302
+getSongGenre: SUCCESS, 54102
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -32856,7 +32856,7 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1373
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
 getSongGenre: FAILURE
 addGenre: SUCCESS
@@ -32869,7 +32869,7 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
@@ -32879,7 +32879,7 @@ addGenre: SUCCESS
 addSong: SUCCESS
 getSongGenre: SUCCESS, 85298
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 344
+getNumberOfGenreChanges: SUCCESS, 5
 getNumberOfSongsByGenre: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -32888,7 +32888,7 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 74489
+getSongGenre: SUCCESS, 63473
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -32903,11 +32903,11 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 75657
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 39933
+getSongGenre: SUCCESS, 53774
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 79304
-getSongGenre: SUCCESS, 85131
+getSongGenre: SUCCESS, 948
 addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
@@ -32920,7 +32920,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: FAILURE
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 1377
+getSongGenre: SUCCESS, 37082
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
@@ -32932,8 +32932,8 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 64057
-getNumberOfGenreChanges: SUCCESS, 1811
+getSongGenre: SUCCESS, 55708
+getNumberOfGenreChanges: SUCCESS, 4
 getSongGenre: SUCCESS, 68038
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -32955,11 +32955,11 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 18278
+getSongGenre: SUCCESS, 42631
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: FAILURE
-getNumberOfGenreChanges: SUCCESS, 344
+getNumberOfGenreChanges: SUCCESS, 5
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -32971,10 +32971,10 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 25601
+getSongGenre: SUCCESS, 51114
 getSongGenre: SUCCESS, 77192
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 12
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -32982,22 +32982,22 @@ getNumberOfSongsByGenre: FAILURE
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1651
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 675
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 49194
+getSongGenre: SUCCESS, 9722
 getNumberOfSongsByGenre: SUCCESS, 4
-getSongGenre: SUCCESS, 2929
+getSongGenre: SUCCESS, 17899
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 3
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 22921
+getSongGenre: SUCCESS, 17421
 addGenre: INVALID_INPUT
 addSong: SUCCESS
 addSong: SUCCESS
@@ -33005,7 +33005,7 @@ getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 25
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -33059,11 +33059,11 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addSong: INVALID_INPUT
-getSongGenre: SUCCESS, 93337
+getSongGenre: SUCCESS, 85980
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
-getSongGenre: SUCCESS, 23043
+getSongGenre: SUCCESS, 92784
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -33071,16 +33071,16 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 1393
 addSong: SUCCESS
-getSongGenre: SUCCESS, 74505
+getSongGenre: SUCCESS, 22494
 getNumberOfSongsByGenre: FAILURE
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 5
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -33095,7 +33095,7 @@ addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 30525
+getSongGenre: SUCCESS, 1309
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -33114,13 +33114,13 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 49334
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 51493
+getSongGenre: SUCCESS, 95098
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
+mergeGenres: INVALID_INPUT
 mergeGenres: SUCCESS
-mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 21094
+getSongGenre: SUCCESS, 75313
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -33128,9 +33128,9 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 34602
-getNumberOfGenreChanges: SUCCESS, 1670
-getNumberOfGenreChanges: SUCCESS, 385
-getNumberOfGenreChanges: SUCCESS, 253
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 1
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -33140,28 +33140,28 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 1
-getNumberOfGenreChanges: SUCCESS, 4
-addSong: SUCCESS
-getNumberOfSongsByGenre: SUCCESS, 0
-addSong: SUCCESS
-addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1237
 getNumberOfGenreChanges: SUCCESS, 2
+addSong: SUCCESS
+getNumberOfSongsByGenre: SUCCESS, 0
+addSong: SUCCESS
+addGenre: SUCCESS
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 1
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 69013
-getNumberOfGenreChanges: SUCCESS, 282
+getSongGenre: SUCCESS, 99958
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 23643
+getSongGenre: SUCCESS, 30887
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -33170,14 +33170,14 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 getNumberOfSongsByGenre: SUCCESS, 4
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 61424
+getSongGenre: SUCCESS, 77879
 addSong: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -33205,20 +33205,20 @@ getNumberOfSongsByGenre: SUCCESS, 3
 getSongGenre: SUCCESS, 16254
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
-getSongGenre: SUCCESS, 75549
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 91152
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 3
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 75388
+getSongGenre: SUCCESS, 74244
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 41044
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -33235,7 +33235,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 18986
+getSongGenre: SUCCESS, 72439
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getSongGenre: FAILURE
@@ -33250,15 +33250,15 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 22154
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1486
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 917
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 1817
-mergeGenres: SUCCESS
+getNumberOfGenreChanges: SUCCESS, 4
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -33266,7 +33266,7 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
-getSongGenre: SUCCESS, 3328
+getSongGenre: SUCCESS, 6361
 addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -33291,7 +33291,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 94143
-getNumberOfGenreChanges: SUCCESS, 1061
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -33301,7 +33301,7 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1708
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
@@ -33310,14 +33310,14 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1781
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 96284
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 10
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -33326,23 +33326,23 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
-getSongGenre: SUCCESS, 8107
+getSongGenre: SUCCESS, 31651
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1496
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 28146
+getSongGenre: SUCCESS, 98801
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 41966
@@ -33355,14 +33355,14 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 64643
+getSongGenre: SUCCESS, 79953
 addGenre: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 4
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 86
-getSongGenre: SUCCESS, 92714
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 28640
 getNumberOfSongsByGenre: SUCCESS, 3
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -33374,8 +33374,8 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 18
-getNumberOfGenreChanges: SUCCESS, 80
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: FAILURE
@@ -33411,25 +33411,25 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 68877
+getSongGenre: SUCCESS, 37694
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1804
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 83553
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1175
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1762
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 336
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -33454,7 +33454,7 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 67345
+getSongGenre: SUCCESS, 79309
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -33470,7 +33470,7 @@ addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 829
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -33487,7 +33487,7 @@ mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 80183
 getNumberOfSongsByGenre: SUCCESS, 3
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1536
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 54432
 addGenre: SUCCESS
@@ -33495,7 +33495,7 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 1680
+getNumberOfGenreChanges: SUCCESS, 4
 getSongGenre: SUCCESS, 94500
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -33504,11 +33504,11 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1811
-getNumberOfGenreChanges: SUCCESS, 12
+getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 22517
+getSongGenre: SUCCESS, 37513
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -33523,19 +33523,19 @@ addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addSong: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1765
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 44840
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1828
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 447
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 91994
+getSongGenre: SUCCESS, 77500
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
-getSongGenre: SUCCESS, 30334
+getSongGenre: SUCCESS, 34546
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: FAILURE
@@ -33544,22 +33544,22 @@ addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1644
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 69828
-getNumberOfGenreChanges: SUCCESS, 1475
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1021
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 72090
+getSongGenre: SUCCESS, 21221
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -33569,8 +33569,8 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-addGenre: FAILURE
-getNumberOfGenreChanges: SUCCESS, 8
+addGenre: SUCCESS
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -33583,7 +33583,7 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1196
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -33603,12 +33603,12 @@ getSongGenre: SUCCESS, 75901
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 785
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
-getSongGenre: SUCCESS, 40816
+getSongGenre: SUCCESS, 3484
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -33617,12 +33617,12 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 54744
+getSongGenre: SUCCESS, 82084
 getSongGenre: FAILURE
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1765
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -33631,7 +33631,7 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1601
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
@@ -33640,9 +33640,9 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 1815
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
@@ -33651,17 +33651,17 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1293
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 1051
-getSongGenre: SUCCESS, 36013
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 5734
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 60313
+getSongGenre: SUCCESS, 29998
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -33675,7 +33675,7 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 406
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: INVALID_INPUT
@@ -33683,22 +33683,22 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 4355
+getSongGenre: SUCCESS, 82388
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 798
+getNumberOfGenreChanges: SUCCESS, 1
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1694
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
@@ -33714,7 +33714,7 @@ mergeGenres: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1501
+getNumberOfGenreChanges: SUCCESS, 4
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 addSong: SUCCESS
@@ -33722,7 +33722,7 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 5
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 38462
+getSongGenre: SUCCESS, 69183
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 19904
 addGenre: SUCCESS
@@ -33731,14 +33731,14 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 17978
+getSongGenre: SUCCESS, 2500
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
@@ -33749,7 +33749,7 @@ addSong: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 69164
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -33790,7 +33790,7 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1038
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
@@ -33806,7 +33806,7 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1854
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -33817,7 +33817,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 3
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 20172
+getSongGenre: SUCCESS, 14338
 addGenre: INVALID_INPUT
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -33836,7 +33836,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 10270
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1858
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
@@ -33853,9 +33853,9 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 520
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 8200
+getSongGenre: SUCCESS, 14362
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -33868,10 +33868,10 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 40235
 getNumberOfSongsByGenre: SUCCESS, 1
 getNumberOfSongsByGenre: SUCCESS, 1
-getSongGenre: SUCCESS, 39096
+getSongGenre: SUCCESS, 76260
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1868
+getNumberOfGenreChanges: SUCCESS, 5
 mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -33883,7 +33883,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -33896,10 +33896,10 @@ mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 109
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 9112
+getSongGenre: SUCCESS, 29267
 getSongGenre: SUCCESS, 96116
 getSongGenre: SUCCESS, 53665
 mergeGenres: SUCCESS
@@ -33913,10 +33913,10 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1483
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 4
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 477
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfGenreChanges: FAILURE
 addGenre: SUCCESS
@@ -33926,13 +33926,13 @@ getSongGenre: SUCCESS, 15301
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 70897
+getSongGenre: SUCCESS, 9585
 getSongGenre: SUCCESS, 47443
 getSongGenre: SUCCESS, 33534
-getSongGenre: SUCCESS, 10480
+getSongGenre: SUCCESS, 72651
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 7
-addGenre: FAILURE
+getNumberOfGenreChanges: SUCCESS, 2
+addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
@@ -33942,10 +33942,10 @@ addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 42770
+getSongGenre: SUCCESS, 53530
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1575
+getNumberOfGenreChanges: SUCCESS, 5
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -33965,7 +33965,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1579
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
@@ -33989,7 +33989,7 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 34
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -34014,12 +34014,12 @@ getSongGenre: SUCCESS, 28819
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1659
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
-getSongGenre: SUCCESS, 66195
+getSongGenre: SUCCESS, 86185
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 22
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 29493
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -34040,7 +34040,7 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 getNumberOfGenreChanges: FAILURE
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 72768
+getSongGenre: SUCCESS, 792
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -34055,9 +34055,9 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 33561
+getSongGenre: SUCCESS, 42462
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -34067,7 +34067,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
-getSongGenre: SUCCESS, 51305
+getSongGenre: SUCCESS, 90339
 getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -34076,17 +34076,17 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 53893
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1635
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 331
+mergeGenres: INVALID_INPUT
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 84910
 addSong: SUCCESS
 getSongGenre: SUCCESS, 64368
 addSong: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 70494
+getSongGenre: SUCCESS, 56445
 mergeGenres: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
@@ -34095,7 +34095,7 @@ addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 208
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfGenreChanges: FAILURE
@@ -34108,7 +34108,7 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1195
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -34128,7 +34128,7 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 getSongGenre: SUCCESS, 22307
-getNumberOfGenreChanges: SUCCESS, 1449
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
 addGenre: SUCCESS
@@ -34147,13 +34147,13 @@ addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1163
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1861
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 94826
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -34165,31 +34165,31 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 91994
+getSongGenre: SUCCESS, 77500
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 87415
+getSongGenre: SUCCESS, 2800
 mergeGenres: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1223
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 3348
-getNumberOfGenreChanges: SUCCESS, 1229
+getSongGenre: SUCCESS, 98813
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1434
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 72579
 addGenre: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 2
-getSongGenre: SUCCESS, 25208
+getSongGenre: SUCCESS, 34278
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
-getSongGenre: SUCCESS, 47054
+getSongGenre: SUCCESS, 46359
 getNumberOfSongsByGenre: SUCCESS, 1
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1090
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -34199,17 +34199,17 @@ getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 26396
+getSongGenre: SUCCESS, 1243
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 93621
-getNumberOfGenreChanges: SUCCESS, 1506
+getSongGenre: SUCCESS, 74721
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 72462
+getSongGenre: SUCCESS, 8362
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -34221,28 +34221,28 @@ addGenre: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 90444
+getSongGenre: SUCCESS, 26924
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1092
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 31977
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 33948
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 47111
+getSongGenre: SUCCESS, 96194
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 39701
+getSongGenre: SUCCESS, 75894
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -34267,26 +34267,26 @@ addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 1892
+getNumberOfGenreChanges: SUCCESS, 6
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1293
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 317
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1884
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
@@ -34298,7 +34298,7 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 5
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 2
@@ -34316,7 +34316,7 @@ getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 35697
+getSongGenre: SUCCESS, 23244
 addGenre: SUCCESS
 getNumberOfSongsByGenre: FAILURE
 addGenre: SUCCESS
@@ -34324,26 +34324,26 @@ addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 44034
+getSongGenre: SUCCESS, 12023
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 4
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 21256
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 505
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 95413
+getSongGenre: SUCCESS, 32070
 getSongGenre: SUCCESS, 59041
 getNumberOfSongsByGenre: SUCCESS, 1
 getSongGenre: FAILURE
-getSongGenre: SUCCESS, 62906
+getSongGenre: SUCCESS, 51488
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 611
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 70360
 getNumberOfSongsByGenre: SUCCESS, 2
@@ -34361,30 +34361,30 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: FAILURE
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 10
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 26396
-getNumberOfGenreChanges: SUCCESS, 602
-getNumberOfGenreChanges: SUCCESS, 1782
+getSongGenre: SUCCESS, 27833
+getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 10
-getSongGenre: SUCCESS, 97231
+getNumberOfGenreChanges: SUCCESS, 3
+getSongGenre: SUCCESS, 85278
 addSong: SUCCESS
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 21920
+getSongGenre: SUCCESS, 2948
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 830
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -34395,13 +34395,13 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 getSongGenre: SUCCESS, 69599
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 1717
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1260
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -34422,29 +34422,29 @@ addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 18986
-getSongGenre: SUCCESS, 75210
+getSongGenre: SUCCESS, 72439
+getSongGenre: SUCCESS, 89177
 getSongGenre: SUCCESS, 75657
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 1465
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 60670
-getNumberOfGenreChanges: SUCCESS, 1074
+getSongGenre: SUCCESS, 44899
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 getSongGenre: SUCCESS, 69872
 getNumberOfSongsByGenre: SUCCESS, 1
-getNumberOfGenreChanges: SUCCESS, 741
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 46413
+getSongGenre: SUCCESS, 14787
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -34461,19 +34461,19 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 544
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 getSongGenre: SUCCESS, 42358
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 856
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1876
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1653
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
@@ -34499,22 +34499,22 @@ mergeGenres: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: FAILURE
-getSongGenre: SUCCESS, 12160
+getSongGenre: SUCCESS, 23244
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 75897
+getSongGenre: SUCCESS, 60165
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
-getSongGenre: SUCCESS, 57023
+getSongGenre: SUCCESS, 95818
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1757
 getNumberOfGenreChanges: SUCCESS, 2
-getSongGenre: SUCCESS, 4837
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 46063
 getNumberOfGenreChanges: SUCCESS, 1
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -34524,10 +34524,10 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 751
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 90413
+getSongGenre: SUCCESS, 1950
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -34540,7 +34540,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: INVALID_INPUT
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1040
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 getSongGenre: SUCCESS, 36562
@@ -34552,7 +34552,7 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1124
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -34566,21 +34566,21 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 858
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 165
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1868
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 35054
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1035
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: INVALID_INPUT
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -34601,7 +34601,7 @@ addSong: SUCCESS
 addGenre: INVALID_INPUT
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 1859
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -34617,16 +34617,16 @@ addSong: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
 getSongGenre: SUCCESS, 5308
-getSongGenre: SUCCESS, 20935
+getSongGenre: SUCCESS, 57029
 addGenre: INVALID_INPUT
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 99777
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1844
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 3
-getNumberOfGenreChanges: SUCCESS, 12
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 95649
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -34637,10 +34637,10 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 532
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 95426
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -34655,7 +34655,7 @@ getSongGenre: SUCCESS, 77271
 addSong: SUCCESS
 getSongGenre: SUCCESS, 86766
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 41191
+getSongGenre: SUCCESS, 29712
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -34667,10 +34667,10 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 1617
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1765
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
@@ -34683,16 +34683,16 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1188
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 36078
+getSongGenre: SUCCESS, 37524
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 65872
+getSongGenre: SUCCESS, 7933
 getNumberOfSongsByGenre: SUCCESS, 5
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -34702,7 +34702,7 @@ addGenre: INVALID_INPUT
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -34738,7 +34738,7 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -34762,7 +34762,7 @@ addGenre: INVALID_INPUT
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1678
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -34770,7 +34770,7 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 10
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 3
 addGenre: SUCCESS
@@ -34781,13 +34781,13 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 70494
+getSongGenre: SUCCESS, 56445
 getSongGenre: SUCCESS, 94818
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 48550
+getSongGenre: SUCCESS, 82091
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -34797,7 +34797,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1902
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -34808,14 +34808,14 @@ addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 383
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 3030
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 63340
+getSongGenre: SUCCESS, 72462
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1228
-getNumberOfGenreChanges: SUCCESS, 1837
+getNumberOfGenreChanges: SUCCESS, 5
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -34823,14 +34823,14 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 3
 getSongGenre: SUCCESS, 19395
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1905
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -34838,7 +34838,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
@@ -34852,7 +34852,7 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 24
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
@@ -34867,20 +34867,20 @@ getNumberOfSongsByGenre: SUCCESS, 5
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 772
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 1932
-getNumberOfGenreChanges: SUCCESS, 1375
+getNumberOfGenreChanges: SUCCESS, 5
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -34894,10 +34894,10 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
-getSongGenre: SUCCESS, 23946
+getSongGenre: SUCCESS, 17455
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1901
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfGenreChanges: FAILURE
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -34919,7 +34919,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 1912
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -34929,7 +34929,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1919
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -34938,12 +34938,12 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 96350
+getSongGenre: SUCCESS, 92457
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -34959,13 +34959,13 @@ mergeGenres: SUCCESS
 addSong: SUCCESS
 getSongGenre: SUCCESS, 17446
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 1808
+getNumberOfGenreChanges: SUCCESS, 4
 addSong: SUCCESS
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 96430
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1485
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -35005,7 +35005,7 @@ addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -35021,26 +35021,26 @@ addGenre: SUCCESS
 addSong: INVALID_INPUT
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 35224
+getSongGenre: SUCCESS, 68286
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 22531
-getNumberOfGenreChanges: SUCCESS, 933
+getSongGenre: SUCCESS, 82110
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 1909
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 754
-getNumberOfGenreChanges: SUCCESS, 1139
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 4
-getNumberOfGenreChanges: SUCCESS, 1481
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: FAILURE
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1916
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -35077,21 +35077,21 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 35170
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 12
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -35101,7 +35101,7 @@ addGenre: SUCCESS
 getSongGenre: FAILURE
 getSongGenre: SUCCESS, 16345
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 4837
+getSongGenre: SUCCESS, 46063
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -35110,7 +35110,7 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 71232
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 4355
+getSongGenre: SUCCESS, 82388
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -35119,14 +35119,14 @@ mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 1121
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 3976
+getSongGenre: SUCCESS, 54243
 getSongGenre: SUCCESS, 76299
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -35138,7 +35138,7 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -35147,7 +35147,7 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1921
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -35156,18 +35156,18 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 57993
+getSongGenre: SUCCESS, 73821
 addGenre: SUCCESS
 getSongGenre: FAILURE
-getSongGenre: SUCCESS, 416
+getSongGenre: SUCCESS, 90935
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1850
-getNumberOfGenreChanges: SUCCESS, 16
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -35178,21 +35178,21 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 1642
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 73039
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1753
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1229
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 77192
 getSongGenre: SUCCESS, 15582
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 372
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 5
-getNumberOfGenreChanges: SUCCESS, 1951
+getNumberOfGenreChanges: SUCCESS, 5
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -35201,43 +35201,43 @@ getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 89293
+getSongGenre: SUCCESS, 20715
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 10
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 3889
+getSongGenre: SUCCESS, 43134
 addSong: SUCCESS
-addSong: SUCCESS
-getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
+addSong: SUCCESS
+getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 79958
+getSongGenre: SUCCESS, 22826
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 34573
+getSongGenre: SUCCESS, 54727
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 7476
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1922
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -35251,7 +35251,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1242
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -35263,12 +35263,12 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 31898
-getNumberOfGenreChanges: SUCCESS, 1289
+getNumberOfGenreChanges: SUCCESS, 1
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 83730
+getSongGenre: SUCCESS, 53665
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -35307,12 +35307,12 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 67382
+getSongGenre: SUCCESS, 4863
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 29951
+getSongGenre: SUCCESS, 28249
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -35330,7 +35330,7 @@ getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1745
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 93904
 getSongGenre: SUCCESS, 61019
@@ -35338,7 +35338,7 @@ getSongGenre: SUCCESS, 27892
 getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 95649
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -35356,7 +35356,7 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 444
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addSong: SUCCESS
@@ -35366,7 +35366,7 @@ getNumberOfSongsByGenre: SUCCESS, 4
 addSong: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 11560
-getNumberOfGenreChanges: SUCCESS, 556
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -35388,37 +35388,37 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1481
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 1962
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1958
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1384
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 15609
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 69141
-getNumberOfGenreChanges: SUCCESS, 1796
-getSongGenre: SUCCESS, 61355
-getSongGenre: SUCCESS, 61355
+getSongGenre: SUCCESS, 52148
+getNumberOfGenreChanges: SUCCESS, 3
+getSongGenre: SUCCESS, 75470
+getSongGenre: SUCCESS, 75470
 mergeGenres: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -35431,15 +35431,15 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 696
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1874
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 17404
+getSongGenre: SUCCESS, 8306
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1755
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 81467
+getSongGenre: SUCCESS, 71439
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -35448,7 +35448,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 5
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -35472,7 +35472,7 @@ mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 18676
-getSongGenre: SUCCESS, 57803
+getSongGenre: SUCCESS, 93094
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 77389
@@ -35480,17 +35480,17 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: FAILURE
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 58894
+getSongGenre: SUCCESS, 29732
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 77622
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 94040
+getSongGenre: SUCCESS, 10882
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -35504,48 +35504,48 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 270
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 47282
+getSongGenre: SUCCESS, 52148
 getSongGenre: SUCCESS, 13983
 getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1591
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1843
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 86
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 85315
+getSongGenre: SUCCESS, 19581
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 3
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 454
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 42
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 1
-getSongGenre: SUCCESS, 54227
+getSongGenre: SUCCESS, 88741
 getNumberOfSongsByGenre: SUCCESS, 5
 getSongGenre: SUCCESS, 20164
 addGenre: SUCCESS
@@ -35570,7 +35570,7 @@ mergeGenres: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 36360
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1647
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
@@ -35580,22 +35580,22 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addSong: INVALID_INPUT
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 45449
+getSongGenre: SUCCESS, 15592
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1283
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
-addGenre: SUCCESS
-mergeGenres: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
-getSongGenre: SUCCESS, 81529
+mergeGenres: SUCCESS
+addGenre: SUCCESS
+getNumberOfGenreChanges: SUCCESS, 1
+getSongGenre: SUCCESS, 5495
 addSong: SUCCESS
 getSongGenre: SUCCESS, 730
 getSongGenre: SUCCESS, 78643
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: FAILURE
@@ -35608,8 +35608,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 72
-getSongGenre: SUCCESS, 3460
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 75470
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -35623,21 +35623,21 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1965
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 71761
+getSongGenre: SUCCESS, 14669
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1153
+getNumberOfGenreChanges: SUCCESS, 1
 getSongGenre: SUCCESS, 58806
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 10
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -35648,20 +35648,20 @@ getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1002
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 getSongGenre: SUCCESS, 93402
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 24526
+getSongGenre: SUCCESS, 48935
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -35673,15 +35673,15 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1366
-getSongGenre: SUCCESS, 55189
+getNumberOfGenreChanges: SUCCESS, 3
+getSongGenre: SUCCESS, 60471
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 16513
+getSongGenre: SUCCESS, 40334
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -35690,7 +35690,7 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
@@ -35701,19 +35701,19 @@ addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 17404
-getNumberOfGenreChanges: SUCCESS, 1167
+getSongGenre: SUCCESS, 8306
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1966
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 3
-getNumberOfGenreChanges: SUCCESS, 10
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 97509
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -35736,7 +35736,7 @@ getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 617
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
@@ -35774,7 +35774,7 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1648
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -35795,7 +35795,7 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 5228
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1964
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -35803,27 +35803,27 @@ mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 90007
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 40495
+getSongGenre: SUCCESS, 71322
 getNumberOfSongsByGenre: SUCCESS, 5
-getNumberOfGenreChanges: SUCCESS, 6
-getNumberOfGenreChanges: SUCCESS, 1737
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 1
-getNumberOfGenreChanges: SUCCESS, 125
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 449
-getNumberOfGenreChanges: SUCCESS, 1839
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 6
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -35832,15 +35832,15 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 95810
-getSongGenre: SUCCESS, 68877
+getSongGenre: SUCCESS, 37694
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1546
-getSongGenre: SUCCESS, 26689
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 41009
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -35848,19 +35848,19 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1875
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 670
+getNumberOfGenreChanges: SUCCESS, 1
 getSongGenre: SUCCESS, 48095
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -35871,7 +35871,7 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -35891,7 +35891,7 @@ getSongGenre: SUCCESS, 42335
 getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -35899,19 +35899,19 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: FAILURE
-getNumberOfGenreChanges: SUCCESS, 1030
+getNumberOfGenreChanges: SUCCESS, 3
 getSongGenre: SUCCESS, 40439
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1659
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1968
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1563
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 75558
@@ -35919,34 +35919,34 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 1893
+getNumberOfGenreChanges: SUCCESS, 4
 getSongGenre: SUCCESS, 51953
 addSong: SUCCESS
-getSongGenre: SUCCESS, 48826
+getSongGenre: SUCCESS, 13360
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 339
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 17255
+getSongGenre: SUCCESS, 87645
 addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 3
-getSongGenre: SUCCESS, 14787
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 89317
 addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: INVALID_INPUT
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 53885
+getSongGenre: SUCCESS, 92271
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1305
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1716
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 85296
 mergeGenres: SUCCESS
@@ -35965,7 +35965,7 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 11895
+getSongGenre: SUCCESS, 5633
 addSong: SUCCESS
 getSongGenre: SUCCESS, 29891
 addGenre: SUCCESS
@@ -35987,7 +35987,7 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 58067
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 99622
+getSongGenre: SUCCESS, 20225
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -36013,9 +36013,9 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 52227
+getSongGenre: SUCCESS, 40558
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addSong: FAILURE
@@ -36051,7 +36051,7 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 170
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -36061,14 +36061,14 @@ addSong: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 627
-getNumberOfGenreChanges: SUCCESS, 1719
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getSongGenre: SUCCESS, 79749
+getSongGenre: SUCCESS, 34573
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 6970
+getSongGenre: SUCCESS, 53161
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -36076,7 +36076,7 @@ addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 26396
+getSongGenre: SUCCESS, 1243
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
@@ -36100,7 +36100,7 @@ addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 3402
+getSongGenre: SUCCESS, 38686
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -36122,12 +36122,12 @@ addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1993
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 26408
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getSongGenre: SUCCESS, 1161
+getSongGenre: SUCCESS, 20244
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -36138,7 +36138,7 @@ getSongGenre: SUCCESS, 46829
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -36152,7 +36152,7 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 370
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -36164,7 +36164,7 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 1328
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -36173,7 +36173,7 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 getSongGenre: SUCCESS, 26158
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -36181,7 +36181,7 @@ getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 67433
+getSongGenre: SUCCESS, 86562
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 getSongGenre: SUCCESS, 27040
@@ -36189,10 +36189,10 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1118
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
-getSongGenre: SUCCESS, 93795
+getSongGenre: SUCCESS, 46958
 mergeGenres: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
@@ -36202,7 +36202,7 @@ addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
-getSongGenre: SUCCESS, 85087
+getSongGenre: SUCCESS, 5207
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -36213,7 +36213,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1987
+getNumberOfGenreChanges: SUCCESS, 5
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 16832
 addSong: SUCCESS
@@ -36229,11 +36229,11 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 55132
+getSongGenre: SUCCESS, 50527
 getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 836
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -36253,7 +36253,7 @@ addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 32922
+getSongGenre: SUCCESS, 76043
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -36283,14 +36283,14 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
-getSongGenre: SUCCESS, 49088
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 87378
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 12
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 196
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -36309,7 +36309,7 @@ getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 57490
+getSongGenre: SUCCESS, 31065
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -36327,13 +36327,13 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 99358
-getNumberOfGenreChanges: SUCCESS, 821
+getSongGenre: SUCCESS, 68020
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 33948
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 407
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -36375,32 +36375,32 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 40141
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 488
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 67229
-getSongGenre: SUCCESS, 16235
+getSongGenre: SUCCESS, 12368
+getSongGenre: SUCCESS, 12263
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 62230
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 19327
+getSongGenre: SUCCESS, 18556
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1228
-getNumberOfGenreChanges: SUCCESS, 10
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 78740
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 555
+getNumberOfGenreChanges: SUCCESS, 5
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -36412,7 +36412,7 @@ addSong: SUCCESS
 getSongGenre: SUCCESS, 48626
 getNumberOfSongsByGenre: SUCCESS, 1
 getSongGenre: SUCCESS, 39436
-getNumberOfGenreChanges: SUCCESS, 661
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 65412
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -36421,7 +36421,7 @@ addGenre: SUCCESS
 addSong: INVALID_INPUT
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 22067
+getSongGenre: SUCCESS, 85949
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -36440,23 +36440,23 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 860
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 3
-getNumberOfGenreChanges: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 2009
+getNumberOfGenreChanges: SUCCESS, 1
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 96551
+getSongGenre: SUCCESS, 28640
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 596
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addSong: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 getSongGenre: SUCCESS, 3681
-getSongGenre: SUCCESS, 61124
+getSongGenre: SUCCESS, 94675
 addSong: SUCCESS
 getNumberOfSongsByGenre: FAILURE
 mergeGenres: SUCCESS
@@ -36469,7 +36469,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 5
-getNumberOfGenreChanges: SUCCESS, 98
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 5
@@ -36485,9 +36485,9 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1790
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1739
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -36497,7 +36497,7 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1257
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -36529,7 +36529,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 12256
-getSongGenre: SUCCESS, 54227
+getSongGenre: SUCCESS, 88741
 getNumberOfSongsByGenre: SUCCESS, 4
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -36543,7 +36543,7 @@ getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 54673
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1625
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -36563,34 +36563,34 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
-getNumberOfGenreChanges: SUCCESS, 1154
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 1
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 36771
-getSongGenre: SUCCESS, 87585
+getSongGenre: SUCCESS, 84979
+getSongGenre: SUCCESS, 11618
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 60852
+getSongGenre: SUCCESS, 17710
 addGenre: INVALID_INPUT
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 getNumberOfSongsByGenre: SUCCESS, 3
 getSongGenre: SUCCESS, 53530
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 1688
+getSongGenre: SUCCESS, 17161
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 2030
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
@@ -36598,7 +36598,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 9171
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -36624,7 +36624,7 @@ getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 710
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 mergeGenres: SUCCESS
@@ -36640,12 +36640,12 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 5
-getNumberOfGenreChanges: SUCCESS, 1981
+getNumberOfGenreChanges: SUCCESS, 5
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -36657,17 +36657,17 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 33534
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 7185
 getSongGenre: SUCCESS, 74516
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 2012
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 1481
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -36678,7 +36678,7 @@ mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -36691,21 +36691,21 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 98099
-getNumberOfGenreChanges: SUCCESS, 10
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 751
+getNumberOfGenreChanges: SUCCESS, 1
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 34643
+getSongGenre: SUCCESS, 37356
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-addGenre: FAILURE
+addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -36732,7 +36732,7 @@ getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 654
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -36747,7 +36747,7 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 93422
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 1030
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 3
 addGenre: SUCCESS
@@ -36761,23 +36761,23 @@ getSongGenre: SUCCESS, 85781
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 1363
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 739
+getNumberOfGenreChanges: SUCCESS, 3
 getSongGenre: SUCCESS, 84711
 getSongGenre: SUCCESS, 43145
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 5
 getSongGenre: SUCCESS, 59054
-getSongGenre: SUCCESS, 40693
+getSongGenre: SUCCESS, 77291
 getSongGenre: SUCCESS, 49596
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
 getSongGenre: SUCCESS, 44840
-getSongGenre: SUCCESS, 49900
+getSongGenre: SUCCESS, 65681
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -36786,7 +36786,7 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 187
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -36796,7 +36796,7 @@ addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 46413
+getSongGenre: SUCCESS, 14787
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 getSongGenre: SUCCESS, 46754
@@ -36804,7 +36804,7 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1461
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -36816,7 +36816,7 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 12464
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1762
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 getNumberOfSongsByGenre: FAILURE
 addGenre: SUCCESS
@@ -36825,15 +36825,15 @@ addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 29274
+getSongGenre: SUCCESS, 89861
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 69444
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 14
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1079
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -36841,10 +36841,10 @@ getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: FAILURE
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1491
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 224
+getNumberOfGenreChanges: SUCCESS, 4
 getSongGenre: SUCCESS, 68725
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -36855,8 +36855,8 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 14582
-getSongGenre: SUCCESS, 94492
+getSongGenre: SUCCESS, 64102
+getSongGenre: SUCCESS, 64863
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
@@ -36868,9 +36868,9 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 20
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1195
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -36882,7 +36882,7 @@ addGenre: INVALID_INPUT
 addSong: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
-getSongGenre: SUCCESS, 30525
+getSongGenre: SUCCESS, 1309
 getSongGenre: SUCCESS, 17638
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
@@ -36891,21 +36891,21 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 3
 getSongGenre: SUCCESS, 84924
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 72321
+getSongGenre: SUCCESS, 84594
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 60633
+getSongGenre: SUCCESS, 22721
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 42784
-getNumberOfGenreChanges: SUCCESS, 6
+getSongGenre: SUCCESS, 34585
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -36926,11 +36926,11 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getSongGenre: SUCCESS, 33196
+getSongGenre: SUCCESS, 91370
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
@@ -36947,8 +36947,8 @@ addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1687
-getNumberOfGenreChanges: SUCCESS, 1364
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 1
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -36962,12 +36962,12 @@ addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1689
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addSong: SUCCESS
@@ -36977,17 +36977,17 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1744
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfGenreChanges: FAILURE
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 99163
+getSongGenre: SUCCESS, 64273
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1343
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 89023
-getNumberOfGenreChanges: SUCCESS, 1497
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -36995,7 +36995,7 @@ addSong: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 75556
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1127
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addSong: INVALID_INPUT
@@ -37009,7 +37009,7 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
 getSongGenre: SUCCESS, 29816
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -37017,7 +37017,7 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 16235
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 79095
+getSongGenre: SUCCESS, 64752
 getNumberOfGenreChanges: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 5
 mergeGenres: SUCCESS
@@ -37026,11 +37026,11 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 1265
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 59983
+getSongGenre: SUCCESS, 93417
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 86154
 addGenre: SUCCESS
@@ -37052,17 +37052,17 @@ getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 50726
+getSongGenre: SUCCESS, 66493
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 25
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -37082,14 +37082,14 @@ addSong: FAILURE
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 1979
+getNumberOfGenreChanges: SUCCESS, 4
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 24517
+getSongGenre: SUCCESS, 95892
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 82388
+getSongGenre: SUCCESS, 61127
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -37103,16 +37103,16 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 71761
+getSongGenre: SUCCESS, 14669
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 49637
+getSongGenre: SUCCESS, 56687
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 51911
+getSongGenre: SUCCESS, 52566
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -37120,7 +37120,7 @@ addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 3
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 19180
+getSongGenre: SUCCESS, 11813
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -37143,9 +37143,9 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 60863
-getNumberOfGenreChanges: SUCCESS, 6
-getNumberOfGenreChanges: SUCCESS, 1361
+getSongGenre: SUCCESS, 42153
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
@@ -37154,23 +37154,23 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 682
+getNumberOfGenreChanges: SUCCESS, 1
 getNumberOfSongsByGenre: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 5
-getNumberOfGenreChanges: SUCCESS, 12
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
-getSongGenre: SUCCESS, 73392
+getSongGenre: SUCCESS, 26256
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 23582
-getNumberOfGenreChanges: SUCCESS, 1391
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 1
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
@@ -37184,7 +37184,7 @@ getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1186
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -37199,11 +37199,11 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 993
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1973
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 33392
+getSongGenre: SUCCESS, 21609
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
@@ -37220,18 +37220,18 @@ addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 getNumberOfGenreChanges: FAILURE
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 3348
+getSongGenre: SUCCESS, 98813
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
-getSongGenre: SUCCESS, 33392
+getSongGenre: SUCCESS, 38317
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 8760
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 296
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 35273
@@ -37239,7 +37239,7 @@ getSongGenre: SUCCESS, 14226
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 69444
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 1998
+getNumberOfGenreChanges: SUCCESS, 7
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -37256,8 +37256,8 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
-getNumberOfGenreChanges: SUCCESS, 272
-getNumberOfGenreChanges: SUCCESS, 1414
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: FAILURE
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -37267,7 +37267,7 @@ mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 532
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -37282,7 +37282,7 @@ addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 1395
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -37290,11 +37290,11 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 2138
+getSongGenre: SUCCESS, 7480
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 83974
+getSongGenre: SUCCESS, 23567
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -37346,17 +37346,17 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 35764
+getSongGenre: SUCCESS, 59273
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 2069
+getNumberOfGenreChanges: SUCCESS, 4
 getSongGenre: SUCCESS, 17967
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 10
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -37376,14 +37376,14 @@ addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 70153
+getSongGenre: SUCCESS, 79943
 mergeGenres: SUCCESS
 addGenre: INVALID_INPUT
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1120
+getNumberOfGenreChanges: SUCCESS, 4
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 59852
+getSongGenre: SUCCESS, 97167
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -37391,13 +37391,13 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 52263
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1923
+getNumberOfGenreChanges: SUCCESS, 6
 getSongGenre: FAILURE
 addSong: SUCCESS
 getSongGenre: SUCCESS, 12145
@@ -37415,7 +37415,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 2068
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
 addGenre: SUCCESS
 getSongGenre: FAILURE
@@ -37426,7 +37426,7 @@ addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
-getNumberOfGenreChanges: SUCCESS, 665
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 43297
@@ -37437,7 +37437,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 28702
+getSongGenre: SUCCESS, 4863
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
@@ -37446,13 +37446,13 @@ addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 10
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 140
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1680
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -37466,10 +37466,10 @@ addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 66434
+getSongGenre: SUCCESS, 14397
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 12
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -37483,14 +37483,14 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 787
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 6433
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 89972
+getSongGenre: SUCCESS, 84307
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -37502,7 +37502,7 @@ getNumberOfSongsByGenre: FAILURE
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1779
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -37510,7 +37510,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 1
-getSongGenre: SUCCESS, 35327
+getSongGenre: SUCCESS, 44686
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -37519,17 +37519,17 @@ getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 3
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 50178
+getSongGenre: SUCCESS, 81354
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
-getNumberOfGenreChanges: SUCCESS, 1977
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 1
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 98873
+getSongGenre: SUCCESS, 18656
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
@@ -37537,15 +37537,15 @@ addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 7116
+getSongGenre: SUCCESS, 70422
 getSongGenre: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 91974
-getNumberOfGenreChanges: SUCCESS, 811
+getSongGenre: SUCCESS, 28960
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -37571,7 +37571,7 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1726
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -37583,7 +37583,7 @@ mergeGenres: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1133
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -37602,7 +37602,7 @@ addGenre: INVALID_INPUT
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -37611,10 +37611,10 @@ getSongGenre: SUCCESS, 18490
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1218
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 0
-getSongGenre: SUCCESS, 20819
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 1
+getSongGenre: SUCCESS, 41828
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -37631,11 +37631,11 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 29494
+getSongGenre: SUCCESS, 17455
 mergeGenres: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 43630
+getSongGenre: SUCCESS, 67118
 getNumberOfSongsByGenre: SUCCESS, 4
 addSong: SUCCESS
 getNumberOfSongsByGenre: FAILURE
@@ -37657,9 +37657,9 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 4233
-getSongGenre: SUCCESS, 95528
+getSongGenre: SUCCESS, 93550
 getNumberOfSongsByGenre: FAILURE
-getNumberOfGenreChanges: SUCCESS, 1897
+getNumberOfGenreChanges: SUCCESS, 4
 getSongGenre: SUCCESS, 69240
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -37670,7 +37670,7 @@ mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 60
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 84711
 addGenre: SUCCESS
@@ -37683,7 +37683,7 @@ addSong: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 22494
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -37697,7 +37697,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 2124
+getSongGenre: SUCCESS, 79737
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -37715,12 +37715,12 @@ addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 86048
-getNumberOfGenreChanges: SUCCESS, 1417
+mergeGenres: INVALID_INPUT
+getSongGenre: SUCCESS, 89107
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -37739,7 +37739,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 81467
+getSongGenre: SUCCESS, 71439
 getSongGenre: SUCCESS, 46786
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -37758,20 +37758,20 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 33149
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 2100
+getNumberOfGenreChanges: SUCCESS, 4
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 40992
+getSongGenre: SUCCESS, 15000
 addSong: SUCCESS
-getSongGenre: SUCCESS, 51440
+getSongGenre: SUCCESS, 40560
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 2063
-getSongGenre: SUCCESS, 94032
+getNumberOfGenreChanges: SUCCESS, 3
+getSongGenre: SUCCESS, 70423
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 62489
@@ -37784,14 +37784,14 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1809
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 82839
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addSong: SUCCESS
 getSongGenre: SUCCESS, 19516
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 276
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
@@ -37803,7 +37803,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 19
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -37823,7 +37823,7 @@ getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 93148
+getSongGenre: SUCCESS, 48887
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -37835,14 +37835,14 @@ addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
-getNumberOfGenreChanges: SUCCESS, 1283
-getSongGenre: SUCCESS, 1393
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 58472
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: FAILURE
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 39282
+getSongGenre: SUCCESS, 95343
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 5
@@ -37864,7 +37864,7 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1403
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 88514
@@ -37876,11 +37876,11 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 2
-getSongGenre: SUCCESS, 60246
-getNumberOfGenreChanges: SUCCESS, 719
+getSongGenre: SUCCESS, 82084
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1613
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -37893,7 +37893,7 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 929
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -37906,13 +37906,13 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 12
-getNumberOfGenreChanges: SUCCESS, 2077
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
-getSongGenre: SUCCESS, 85240
+getSongGenre: SUCCESS, 6825
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 60559
-getNumberOfGenreChanges: SUCCESS, 1892
+getSongGenre: SUCCESS, 37694
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
@@ -37920,7 +37920,7 @@ addSong: SUCCESS
 getSongGenre: SUCCESS, 4749
 getNumberOfGenreChanges: FAILURE
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -37934,16 +37934,16 @@ mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 2100
+getNumberOfGenreChanges: SUCCESS, 4
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 2074
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 2
 getSongGenre: FAILURE
 mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 7309
+getSongGenre: SUCCESS, 2554
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 51043
 getSongGenre: SUCCESS, 11878
@@ -37955,7 +37955,7 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 44
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -37976,7 +37976,7 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 47079
+getSongGenre: SUCCESS, 94750
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addSong: SUCCESS
@@ -37992,7 +37992,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1773
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -38000,19 +38000,19 @@ getSongGenre: SUCCESS, 99496
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 96037
+getSongGenre: SUCCESS, 10083
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1746
-getNumberOfGenreChanges: SUCCESS, 436
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1213
-getSongGenre: SUCCESS, 17985
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 66356
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -38020,7 +38020,7 @@ getNumberOfSongsByGenre: SUCCESS, 4
 addSong: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 285
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -38034,34 +38034,34 @@ addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 65697
+getSongGenre: SUCCESS, 59593
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 2088
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 47071
+getSongGenre: SUCCESS, 30520
 getNumberOfSongsByGenre: SUCCESS, 1
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-addGenre: FAILURE
-addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 1857
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1628
+addGenre: INVALID_INPUT
+getNumberOfGenreChanges: SUCCESS, 2
+addGenre: SUCCESS
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -38110,7 +38110,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 755
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 43031
 mergeGenres: SUCCESS
@@ -38146,8 +38146,8 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 2055
-getNumberOfGenreChanges: SUCCESS, 2005
+getNumberOfGenreChanges: SUCCESS, 7
+getNumberOfGenreChanges: SUCCESS, 5
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 getSongGenre: SUCCESS, 3856
@@ -38163,11 +38163,11 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
-getNumberOfGenreChanges: SUCCESS, 1595
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -38182,20 +38182,20 @@ addGenre: INVALID_INPUT
 getSongGenre: SUCCESS, 9259
 getSongGenre: SUCCESS, 93422
 getSongGenre: SUCCESS, 25220
-getSongGenre: SUCCESS, 644
+getSongGenre: SUCCESS, 38499
 getNumberOfSongsByGenre: SUCCESS, 4
-getNumberOfGenreChanges: SUCCESS, 748
-getSongGenre: SUCCESS, 6680
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 69930
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 2033
-getSongGenre: SUCCESS, 25083
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 27943
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
-getNumberOfGenreChanges: SUCCESS, 1418
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: FAILURE
@@ -38208,18 +38208,18 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 2001
-getSongGenre: SUCCESS, 66940
+getNumberOfGenreChanges: SUCCESS, 3
+getSongGenre: SUCCESS, 74713
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 8571
+getSongGenre: SUCCESS, 64229
 addGenre: SUCCESS
 getNumberOfGenreChanges: FAILURE
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -38235,7 +38235,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 1586
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -38253,34 +38253,34 @@ addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: INVALID_INPUT
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 1336
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1876
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 69918
+getSongGenre: SUCCESS, 15135
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 55274
+getSongGenre: SUCCESS, 45914
 addSong: SUCCESS
 getSongGenre: SUCCESS, 34716
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 973
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
@@ -38299,14 +38299,14 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 getSongGenre: FAILURE
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 46218
 getNumberOfSongsByGenre: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 9871
-getSongGenre: SUCCESS, 18896
+getSongGenre: SUCCESS, 59007
+getSongGenre: SUCCESS, 52959
 mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -38315,18 +38315,18 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 70530
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 1436
+getNumberOfGenreChanges: SUCCESS, 5
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 10
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 98335
+getSongGenre: SUCCESS, 30692
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -38337,7 +38337,7 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 8656
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1650
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: FAILURE
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -38348,7 +38348,7 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 10925
-getNumberOfGenreChanges: SUCCESS, 1888
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
 addGenre: SUCCESS
@@ -38369,7 +38369,7 @@ addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1499
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 2
@@ -38400,24 +38400,24 @@ mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addSong: INVALID_INPUT
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 384
-getSongGenre: SUCCESS, 5233
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 55341
 getSongGenre: SUCCESS, 62173
 addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1261
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 1
 getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 8969
-getSongGenre: SUCCESS, 17028
-getSongGenre: SUCCESS, 77783
+getSongGenre: SUCCESS, 10475
+getSongGenre: SUCCESS, 26615
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
-getSongGenre: SUCCESS, 70422
+getSongGenre: SUCCESS, 34968
 getSongGenre: FAILURE
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -38430,8 +38430,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 725
-getSongGenre: SUCCESS, 13007
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 526
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -38439,11 +38439,11 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfGenreChanges: FAILURE
-getSongGenre: SUCCESS, 37169
+getSongGenre: SUCCESS, 89516
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1191
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -38458,32 +38458,32 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 2
 addSong: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1770
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1434
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1884
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 754
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1570
+getNumberOfGenreChanges: SUCCESS, 3
 getSongGenre: SUCCESS, 94293
-getNumberOfGenreChanges: SUCCESS, 205
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -38496,34 +38496,34 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 1892
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 31047
 getNumberOfSongsByGenre: FAILURE
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 88239
+getSongGenre: SUCCESS, 18533
 getSongGenre: SUCCESS, 82485
 getSongGenre: SUCCESS, 71484
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 33392
+getSongGenre: SUCCESS, 30761
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1764
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 98527
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: FAILURE
-getSongGenre: SUCCESS, 60168
+getSongGenre: SUCCESS, 41584
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 78007
+getSongGenre: SUCCESS, 6934
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -38539,13 +38539,13 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getSongGenre: FAILURE
-getNumberOfGenreChanges: SUCCESS, 483
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 88239
+getSongGenre: SUCCESS, 18533
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -38553,7 +38553,7 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 226
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -38574,28 +38574,28 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 24
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 86168
-mergeGenres: SUCCESS
+getSongGenre: SUCCESS, 99710
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1444
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 62173
-getNumberOfGenreChanges: SUCCESS, 950
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: FAILURE
@@ -38603,25 +38603,25 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 26316
-getNumberOfGenreChanges: SUCCESS, 629
-getNumberOfGenreChanges: SUCCESS, 6
+getSongGenre: SUCCESS, 3237
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 2142
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 401
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 959
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 1
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 1997
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 88344
+getSongGenre: SUCCESS, 48031
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 928
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
@@ -38638,7 +38638,7 @@ getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 5
 getNumberOfSongsByGenre: SUCCESS, 1
 addSong: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -38663,13 +38663,13 @@ getSongGenre: SUCCESS, 78611
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 2114
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1928
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -38679,13 +38679,13 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 1670
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 2031
-getNumberOfGenreChanges: SUCCESS, 503
+getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 101
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 36111
@@ -38705,9 +38705,9 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1472
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 46838
+getSongGenre: SUCCESS, 84971
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 97509
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -38717,29 +38717,29 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 2141
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: FAILURE
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 1
-getNumberOfGenreChanges: SUCCESS, 1941
-getNumberOfGenreChanges: SUCCESS, 514
+getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1833
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 56827
-getSongGenre: SUCCESS, 51417
+getSongGenre: SUCCESS, 89861
+getSongGenre: SUCCESS, 17500
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: FAILURE
-getNumberOfGenreChanges: SUCCESS, 2037
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
@@ -38753,13 +38753,13 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 37985
-getSongGenre: SUCCESS, 29014
+getSongGenre: SUCCESS, 15631
+getSongGenre: SUCCESS, 43634
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addSong: FAILURE
-getNumberOfGenreChanges: SUCCESS, 1184
+getNumberOfGenreChanges: SUCCESS, 4
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -38786,7 +38786,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1332
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -38794,8 +38794,8 @@ addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1670
-getNumberOfGenreChanges: SUCCESS, 10
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -38808,13 +38808,13 @@ mergeGenres: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1197
-getSongGenre: SUCCESS, 43289
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 86627
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1666
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 99571
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -38827,12 +38827,12 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 48550
+getSongGenre: SUCCESS, 9944
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 88023
@@ -38841,7 +38841,7 @@ addSong: SUCCESS
 getNumberOfGenreChanges: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
-getSongGenre: SUCCESS, 18665
+getSongGenre: SUCCESS, 9576
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -38860,7 +38860,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 28623
+getSongGenre: SUCCESS, 63779
 getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -38884,7 +38884,7 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 95277
-getSongGenre: SUCCESS, 67229
+getSongGenre: SUCCESS, 12368
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -38897,11 +38897,11 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 43474
+getSongGenre: SUCCESS, 29952
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 544
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -38910,10 +38910,10 @@ mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 10
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
-getNumberOfGenreChanges: SUCCESS, 2135
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
@@ -38930,17 +38930,17 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 60313
+getSongGenre: SUCCESS, 29998
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 10
-getNumberOfGenreChanges: SUCCESS, 2142
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 62576
+getSongGenre: SUCCESS, 69628
 getSongGenre: SUCCESS, 9602
 mergeGenres: SUCCESS
 addSong: SUCCESS
@@ -38960,11 +38960,11 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 1
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 16
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -38984,22 +38984,22 @@ addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 3
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 869
+getNumberOfGenreChanges: SUCCESS, 3
 getSongGenre: SUCCESS, 51263
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 600
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 64743
+getSongGenre: SUCCESS, 44839
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 36078
+getSongGenre: SUCCESS, 37524
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 38167
+getSongGenre: SUCCESS, 41828
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -39009,18 +39009,18 @@ mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 6280
+getSongGenre: SUCCESS, 53593
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1594
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -39049,11 +39049,11 @@ addSong: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 8946
+getSongGenre: SUCCESS, 27892
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 99316
-getSongGenre: SUCCESS, 58870
+getSongGenre: SUCCESS, 70677
 mergeGenres: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
@@ -39077,7 +39077,7 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 63999
+getSongGenre: SUCCESS, 69550
 getNumberOfGenreChanges: FAILURE
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -39085,17 +39085,17 @@ getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 2053
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 792
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 629
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1817
+getNumberOfGenreChanges: SUCCESS, 4
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -39103,8 +39103,8 @@ getSongGenre: SUCCESS, 43542
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 1376
+getNumberOfGenreChanges: SUCCESS, 1
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 2217
 addGenre: SUCCESS
@@ -39114,18 +39114,18 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1718
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
-getNumberOfGenreChanges: SUCCESS, 889
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -39135,7 +39135,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 77192
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 54144
+getSongGenre: SUCCESS, 90876
 getSongGenre: SUCCESS, 49662
 getNumberOfSongsByGenre: SUCCESS, 4
 addSong: INVALID_INPUT
@@ -39149,12 +39149,12 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 58370
+getSongGenre: SUCCESS, 60636
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 60514
-getNumberOfGenreChanges: SUCCESS, 1294
+getSongGenre: SUCCESS, 6613
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -39164,8 +39164,8 @@ addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
-getSongGenre: SUCCESS, 65697
+getNumberOfGenreChanges: SUCCESS, 1
+getSongGenre: SUCCESS, 59593
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -39175,13 +39175,13 @@ mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 68071
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1296
-getSongGenre: SUCCESS, 22018
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 50271
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1475
-getSongGenre: SUCCESS, 96989
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 47159
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 77838
@@ -39192,9 +39192,9 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 2158
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -39205,13 +39205,13 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1308
-getSongGenre: SUCCESS, 43957
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 12073
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
@@ -39223,11 +39223,11 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 68764
+getSongGenre: SUCCESS, 97364
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 3
@@ -39237,20 +39237,20 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1778
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfGenreChanges: FAILURE
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 addSong: SUCCESS
 getSongGenre: SUCCESS, 9259
-getSongGenre: SUCCESS, 96036
+getSongGenre: SUCCESS, 65943
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 82266
+getSongGenre: SUCCESS, 25913
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 24
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
@@ -39265,8 +39265,8 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1266
-getSongGenre: SUCCESS, 52389
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 40213
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -39281,19 +39281,19 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: FAILURE
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1698
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getSongGenre: SUCCESS, 1377
+getSongGenre: SUCCESS, 37082
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 527
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -39307,17 +39307,17 @@ getNumberOfSongsByGenre: SUCCESS, 4
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 14
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 817
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 2032
+getNumberOfGenreChanges: SUCCESS, 6
 getNumberOfGenreChanges: FAILURE
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -39334,7 +39334,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 1
 addSong: SUCCESS
@@ -39343,14 +39343,14 @@ mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 29951
+getSongGenre: SUCCESS, 28249
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 54744
+getSongGenre: SUCCESS, 82084
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1819
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -39361,7 +39361,7 @@ getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 2166
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addSong: SUCCESS
@@ -39374,7 +39374,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1660
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
@@ -39382,7 +39382,7 @@ addSong: INVALID_INPUT
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1703
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 getSongGenre: SUCCESS, 49684
@@ -39392,13 +39392,13 @@ getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 4
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -39423,13 +39423,13 @@ addGenre: SUCCESS
 getSongGenre: SUCCESS, 90621
 addSong: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 2024
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1859
-getSongGenre: SUCCESS, 91075
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 7170
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -39440,7 +39440,7 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 2
@@ -39448,7 +39448,7 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 66610
+getSongGenre: SUCCESS, 26432
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -39458,7 +39458,7 @@ addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -39470,7 +39470,7 @@ getSongGenre: SUCCESS, 8969
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-addGenre: FAILURE
+addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -39483,7 +39483,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -39492,7 +39492,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 49118
+getSongGenre: SUCCESS, 20927
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -39507,10 +39507,10 @@ addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 23660
+getSongGenre: SUCCESS, 84594
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -39518,15 +39518,15 @@ addGenre: SUCCESS
 addSong: SUCCESS
 getSongGenre: SUCCESS, 98695
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 getSongGenre: SUCCESS, 20770
 addSong: SUCCESS
-getSongGenre: SUCCESS, 15173
+getSongGenre: SUCCESS, 77680
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1844
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
@@ -39534,7 +39534,7 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 46633
+getSongGenre: SUCCESS, 5192
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: SUCCESS, 2
@@ -39558,7 +39558,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -39576,7 +39576,7 @@ getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 114
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
@@ -39585,7 +39585,7 @@ getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 12508
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 855
+getNumberOfGenreChanges: SUCCESS, 1
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
@@ -39599,7 +39599,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: FAILURE
-getNumberOfGenreChanges: SUCCESS, 1748
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
@@ -39618,33 +39618,33 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addSong: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 54221
+getSongGenre: SUCCESS, 53628
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
-getSongGenre: SUCCESS, 87585
+getSongGenre: SUCCESS, 11618
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 42017
-getSongGenre: SUCCESS, 29716
+getSongGenre: SUCCESS, 87263
+getSongGenre: SUCCESS, 29390
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 getSongGenre: SUCCESS, 34602
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
-getSongGenre: SUCCESS, 67229
+getSongGenre: SUCCESS, 80693
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -39664,20 +39664,20 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
-getSongGenre: SUCCESS, 78778
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 22194
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 14
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 2174
+getNumberOfGenreChanges: SUCCESS, 5
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 22734
-getSongGenre: SUCCESS, 50527
+getSongGenre: SUCCESS, 315
+getSongGenre: SUCCESS, 76187
 addSong: FAILURE
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -39703,30 +39703,30 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1928
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 2035
-addGenre: SUCCESS
-addGenre: SUCCESS
+getNumberOfGenreChanges: SUCCESS, 5
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 149
+addGenre: SUCCESS
+addGenre: SUCCESS
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 818
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
 getNumberOfGenreChanges: FAILURE
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1750
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 71169
-getNumberOfGenreChanges: SUCCESS, 2196
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 840
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -39746,9 +39746,9 @@ mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 59054
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 2017
-getSongGenre: SUCCESS, 28553
-getNumberOfGenreChanges: SUCCESS, 642
+getNumberOfGenreChanges: SUCCESS, 4
+getSongGenre: SUCCESS, 79737
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -39778,22 +39778,22 @@ mergeGenres: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
+mergeGenres: INVALID_INPUT
 mergeGenres: SUCCESS
-mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 2166
-mergeGenres: SUCCESS
-getNumberOfSongsByGenre: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
+mergeGenres: SUCCESS
+getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -39801,7 +39801,7 @@ addGenre: SUCCESS
 addSong: FAILURE
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 330
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -39814,9 +39814,9 @@ getNumberOfSongsByGenre: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 8575
+getSongGenre: SUCCESS, 11194
 addGenre: SUCCESS
 addSong: INVALID_INPUT
 mergeGenres: SUCCESS
@@ -39825,7 +39825,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getSongGenre: SUCCESS, 1393
+getSongGenre: SUCCESS, 58472
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -39839,11 +39839,11 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 45125
-getNumberOfGenreChanges: SUCCESS, 0
+getSongGenre: SUCCESS, 29146
+getNumberOfGenreChanges: SUCCESS, 1
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 45412
-getNumberOfGenreChanges: SUCCESS, 7
+getSongGenre: SUCCESS, 54778
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -39853,7 +39853,7 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1022
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addSong: SUCCESS
 getSongGenre: SUCCESS, 36562
@@ -39862,9 +39862,9 @@ addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
-getSongGenre: SUCCESS, 33697
+getSongGenre: SUCCESS, 14267
 getSongGenre: SUCCESS, 19324
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -39877,11 +39877,11 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1294
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 379
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
 mergeGenres: SUCCESS
@@ -39895,7 +39895,7 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 1887
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: INVALID_INPUT
@@ -39909,7 +39909,7 @@ getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1412
+getNumberOfGenreChanges: SUCCESS, 5
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -39931,18 +39931,18 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1553
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 88652
+getSongGenre: SUCCESS, 68293
 addGenre: INVALID_INPUT
 addSong: SUCCESS
 getSongGenre: SUCCESS, 52081
 getNumberOfSongsByGenre: SUCCESS, 5
-getNumberOfGenreChanges: SUCCESS, 1891
+getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 52661
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -39959,7 +39959,7 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 getSongGenre: FAILURE
-getNumberOfGenreChanges: SUCCESS, 2200
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -39984,10 +39984,10 @@ mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 55468
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 2194
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 82086
-getSongGenre: SUCCESS, 5178
+getSongGenre: SUCCESS, 63507
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -39996,7 +39996,7 @@ mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 2015
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addSong: INVALID_INPUT
 mergeGenres: SUCCESS
@@ -40009,13 +40009,13 @@ getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 2212
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 getNumberOfSongsByGenre: SUCCESS, 1
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 66224
 addGenre: INVALID_INPUT
@@ -40045,12 +40045,12 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 460
+getNumberOfGenreChanges: SUCCESS, 1
 getNumberOfSongsByGenre: SUCCESS, 5
-getNumberOfGenreChanges: SUCCESS, 1061
-getNumberOfGenreChanges: SUCCESS, 111
-getSongGenre: SUCCESS, 18986
-getSongGenre: SUCCESS, 61896
+getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 72439
+getSongGenre: SUCCESS, 85278
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -40058,19 +40058,19 @@ mergeGenres: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 45699
-getNumberOfGenreChanges: SUCCESS, 1263
-getNumberOfGenreChanges: SUCCESS, 232
+getSongGenre: SUCCESS, 28960
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 946
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -40083,7 +40083,7 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1279
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
@@ -40102,7 +40102,7 @@ getSongGenre: FAILURE
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1701
+getNumberOfGenreChanges: SUCCESS, 3
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -40112,12 +40112,12 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 28461
+getSongGenre: SUCCESS, 67218
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 3
-getNumberOfGenreChanges: SUCCESS, 1281
+getNumberOfGenreChanges: SUCCESS, 4
 getNumberOfSongsByGenre: FAILURE
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -40138,7 +40138,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -40150,18 +40150,18 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 87322
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 5
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 2223
+getNumberOfGenreChanges: SUCCESS, 5
 addSong: SUCCESS
 getNumberOfSongsByGenre: FAILURE
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
@@ -40174,8 +40174,8 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 getSongGenre: SUCCESS, 48626
-getSongGenre: SUCCESS, 39867
-getSongGenre: SUCCESS, 67345
+getSongGenre: SUCCESS, 19570
+getSongGenre: SUCCESS, 13534
 getSongGenre: SUCCESS, 13247
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -40187,11 +40187,11 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 686
-getNumberOfGenreChanges: SUCCESS, 1543
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 1286
+getNumberOfGenreChanges: SUCCESS, 3
 getSongGenre: SUCCESS, 36694
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -40203,12 +40203,12 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 80290
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1569
-getSongGenre: SUCCESS, 74489
+getNumberOfGenreChanges: SUCCESS, 3
+getSongGenre: SUCCESS, 63473
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -40223,7 +40223,7 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 3
 getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -40237,7 +40237,7 @@ getSongGenre: SUCCESS, 13535
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
-getSongGenre: SUCCESS, 21920
+getSongGenre: SUCCESS, 2948
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -40253,7 +40253,7 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 64057
+getSongGenre: SUCCESS, 25609
 getNumberOfSongsByGenre: SUCCESS, 1
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -40266,17 +40266,17 @@ addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1319
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 5
-getSongGenre: SUCCESS, 31535
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 52383
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 50178
+getSongGenre: SUCCESS, 80616
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
@@ -40287,19 +40287,19 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 96344
+getSongGenre: SUCCESS, 42908
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 58370
+getSongGenre: SUCCESS, 60636
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 62348
 getNumberOfSongsByGenre: SUCCESS, 5
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 3
 getSongGenre: SUCCESS, 90344
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -40316,19 +40316,19 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
 addSong: SUCCESS
 getSongGenre: SUCCESS, 4514
-getNumberOfGenreChanges: SUCCESS, 1917
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 17734
+getSongGenre: SUCCESS, 63229
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 getNumberOfSongsByGenre: SUCCESS, 3
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
-getNumberOfGenreChanges: SUCCESS, 1898
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 224
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -40340,7 +40340,7 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 235
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -40353,15 +40353,15 @@ addGenre: SUCCESS
 addSong: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 2038
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 10
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 5
 getNumberOfSongsByGenre: FAILURE
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 4837
+getSongGenre: SUCCESS, 46063
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -40374,9 +40374,9 @@ getSongGenre: SUCCESS, 80414
 addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 97713
-getNumberOfGenreChanges: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 2134
+getSongGenre: SUCCESS, 63252
+getNumberOfGenreChanges: SUCCESS, 1
+getNumberOfGenreChanges: SUCCESS, 4
 addSong: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
@@ -40388,7 +40388,7 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
-getNumberOfGenreChanges: SUCCESS, 74
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -40397,9 +40397,9 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1381
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 18896
+getSongGenre: SUCCESS, 52959
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 66907
 mergeGenres: SUCCESS
@@ -40410,57 +40410,57 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 3757
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 34555
+getSongGenre: SUCCESS, 69087
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 378
 getNumberOfGenreChanges: SUCCESS, 2
-getNumberOfGenreChanges: SUCCESS, 559
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 39196
 addSong: SUCCESS
-getSongGenre: SUCCESS, 95018
+getSongGenre: SUCCESS, 4531
 addSong: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 81140
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1490
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 18896
-addGenre: SUCCESS
-addGenre: SUCCESS
+getSongGenre: SUCCESS, 46716
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 596
+addGenre: SUCCESS
+addGenre: SUCCESS
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 1
-getSongGenre: SUCCESS, 35169
+getSongGenre: SUCCESS, 35413
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 995
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 413
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 27402
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 2148
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1563
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 98801
+getSongGenre: SUCCESS, 3237
 addSong: SUCCESS
 getSongGenre: SUCCESS, 20537
 addGenre: SUCCESS
@@ -40490,19 +40490,19 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 115
+getSongGenre: SUCCESS, 99630
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 635
-getSongGenre: SUCCESS, 4062
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 38566
 addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 2015
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
@@ -40512,7 +40512,7 @@ mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 90836
+getSongGenre: SUCCESS, 74795
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -40525,7 +40525,7 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 1730
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 1
@@ -40568,7 +40568,7 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 77496
+getSongGenre: SUCCESS, 70900
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -40591,46 +40591,46 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 70522
+getSongGenre: SUCCESS, 21189
 getSongGenre: SUCCESS, 86522
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1671
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: FAILURE
-getSongGenre: SUCCESS, 57803
+getSongGenre: SUCCESS, 93094
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 75504
+getSongGenre: SUCCESS, 56689
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 841
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 6086
+getSongGenre: SUCCESS, 59558
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfSongsByGenre: FAILURE
 addSong: SUCCESS
-getSongGenre: SUCCESS, 56628
+getSongGenre: SUCCESS, 33539
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 74505
+getSongGenre: SUCCESS, 22494
 getNumberOfSongsByGenre: SUCCESS, 5
-getNumberOfGenreChanges: SUCCESS, 10
-getNumberOfGenreChanges: SUCCESS, 2183
+getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -40652,17 +40652,17 @@ getNumberOfSongsByGenre: SUCCESS, 1
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 8
+getNumberOfGenreChanges: SUCCESS, 1
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 2048
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 46698
+getSongGenre: SUCCESS, 33539
 addSong: FAILURE
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 60484
-getSongGenre: SUCCESS, 43992
+getSongGenre: SUCCESS, 90500
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -40671,7 +40671,7 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 23946
+getSongGenre: SUCCESS, 99163
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -40682,20 +40682,20 @@ addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 50281
+getSongGenre: SUCCESS, 6361
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 840
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
-getSongGenre: SUCCESS, 47111
-getSongGenre: SUCCESS, 24913
+getSongGenre: SUCCESS, 96194
+getSongGenre: SUCCESS, 77313
 getNumberOfSongsByGenre: SUCCESS, 2
-getSongGenre: SUCCESS, 53255
+getSongGenre: SUCCESS, 5739
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 85583
-getSongGenre: SUCCESS, 59318
+getSongGenre: SUCCESS, 92546
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 652
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: FAILURE
@@ -40714,19 +40714,19 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 3
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 62203
+getSongGenre: SUCCESS, 26561
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
-getSongGenre: SUCCESS, 93732
+getSongGenre: SUCCESS, 51435
 getNumberOfSongsByGenre: SUCCESS, 5
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 96036
+getSongGenre: SUCCESS, 65943
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -40744,20 +40744,20 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
-getSongGenre: SUCCESS, 55597
+getSongGenre: SUCCESS, 10955
 addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 25240
+getSongGenre: SUCCESS, 57803
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 699
+getSongGenre: SUCCESS, 65116
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 10
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1991
+getNumberOfGenreChanges: SUCCESS, 5
 addGenre: INVALID_INPUT
 addSong: SUCCESS
 getSongGenre: SUCCESS, 46754
@@ -40765,15 +40765,15 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getSongGenre: SUCCESS, 84590
 addSong: SUCCESS
-getSongGenre: SUCCESS, 15677
+getSongGenre: SUCCESS, 76463
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 2126
-getSongGenre: SUCCESS, 83320
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 96230
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 31422
+getSongGenre: SUCCESS, 4488
 addGenre: SUCCESS
 addSong: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1753
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 5
 getSongGenre: SUCCESS, 97509
 getSongGenre: SUCCESS, 73841
@@ -40781,7 +40781,7 @@ mergeGenres: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 99958
+getSongGenre: SUCCESS, 56325
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfSongsByGenre: SUCCESS, 1
@@ -40795,15 +40795,15 @@ addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1398
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1924
-getNumberOfGenreChanges: SUCCESS, 1867
+getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 1
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 mergeGenres: SUCCESS
@@ -40826,7 +40826,7 @@ getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 23530
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 19934
+getSongGenre: SUCCESS, 74537
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -40834,20 +40834,20 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
-getNumberOfGenreChanges: SUCCESS, 748
-getNumberOfGenreChanges: SUCCESS, 1411
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 467
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 3
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 19088
+getSongGenre: SUCCESS, 57250
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -40864,7 +40864,7 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 33697
+getSongGenre: SUCCESS, 14267
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -40877,7 +40877,7 @@ getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfGenreChanges: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 2
 getNumberOfGenreChanges: SUCCESS, 2
@@ -40887,7 +40887,7 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 34839
+getSongGenre: SUCCESS, 32514
 addSong: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
@@ -40900,30 +40900,30 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 86921
+getSongGenre: SUCCESS, 68564
 addGenre: SUCCESS
 mergeGenres: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1408
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 13007
+getSongGenre: SUCCESS, 65491
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1925
+getNumberOfGenreChanges: SUCCESS, 3
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1982
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 61080
+getSongGenre: SUCCESS, 88962
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -40931,18 +40931,18 @@ getSongGenre: SUCCESS, 86017
 getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1829
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 33697
+getSongGenre: SUCCESS, 14267
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 28691
+getSongGenre: SUCCESS, 37433
 getNumberOfSongsByGenre: SUCCESS, 0
 getNumberOfGenreChanges: FAILURE
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
-getSongGenre: SUCCESS, 18896
+getSongGenre: SUCCESS, 84521
 addGenre: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
@@ -40950,8 +40950,8 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addSong: SUCCESS
 addSong: SUCCESS
-getSongGenre: SUCCESS, 61080
-getNumberOfGenreChanges: SUCCESS, 2268
+getSongGenre: SUCCESS, 96501
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -40961,11 +40961,11 @@ getNumberOfSongsByGenre: SUCCESS, 4
 getSongGenre: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 799
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
-getNumberOfGenreChanges: SUCCESS, 6
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 2
 addGenre: SUCCESS
@@ -40980,7 +40980,7 @@ getSongGenre: SUCCESS, 25855
 getNumberOfSongsByGenre: SUCCESS, 1
 getNumberOfSongsByGenre: FAILURE
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1572
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
 addGenre: SUCCESS
@@ -40994,8 +40994,8 @@ mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 16
-getSongGenre: SUCCESS, 23297
+getNumberOfGenreChanges: SUCCESS, 2
+getSongGenre: SUCCESS, 34832
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
@@ -41007,10 +41007,10 @@ getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
-getSongGenre: SUCCESS, 59593
-getSongGenre: SUCCESS, 60616
+getSongGenre: SUCCESS, 526
+getSongGenre: SUCCESS, 77486
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
@@ -41028,7 +41028,7 @@ addGenre: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 getSongGenre: SUCCESS, 19251
 getNumberOfSongsByGenre: SUCCESS, 0
-getSongGenre: SUCCESS, 18278
+getSongGenre: SUCCESS, 42631
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 48426
 addSong: SUCCESS
@@ -41040,7 +41040,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: FAILURE
 getNumberOfSongsByGenre: SUCCESS, 1
-getNumberOfGenreChanges: SUCCESS, 498
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 27965
 addGenre: SUCCESS
@@ -41051,13 +41051,13 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 4311
-getSongGenre: SUCCESS, 68806
-getSongGenre: SUCCESS, 8575
+getSongGenre: SUCCESS, 25671
+getSongGenre: SUCCESS, 11194
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 2266
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: INVALID_INPUT
 mergeGenres: SUCCESS
 addGenre: SUCCESS
@@ -41073,14 +41073,14 @@ addSong: SUCCESS
 addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 276
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-mergeGenres: SUCCESS
+mergeGenres: INVALID_INPUT
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 62203
+getSongGenre: SUCCESS, 26561
 addGenre: SUCCESS
 addSong: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
@@ -41096,17 +41096,17 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 96076
+getSongGenre: SUCCESS, 55676
 addGenre: SUCCESS
 addSong: SUCCESS
 getSongGenre: SUCCESS, 62912
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 4
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 52322
+getSongGenre: SUCCESS, 11783
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1431
+getNumberOfGenreChanges: SUCCESS, 1
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -41119,22 +41119,22 @@ addGenre: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getNumberOfGenreChanges: SUCCESS, 253
+getNumberOfGenreChanges: SUCCESS, 2
 addSong: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1915
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 29678
+getSongGenre: SUCCESS, 55666
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1435
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addSong: SUCCESS
@@ -41145,9 +41145,9 @@ addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 0
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 464
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 38354
 mergeGenres: SUCCESS
@@ -41155,13 +41155,13 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1578
+getNumberOfGenreChanges: SUCCESS, 4
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfGenreChanges: FAILURE
-getSongGenre: SUCCESS, 61069
+getSongGenre: SUCCESS, 64281
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1974
+getNumberOfGenreChanges: SUCCESS, 3
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -41169,11 +41169,11 @@ getSongGenre: SUCCESS, 33531
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 getSongGenre: SUCCESS, 86680
-getNumberOfGenreChanges: SUCCESS, 1321
+getNumberOfGenreChanges: SUCCESS, 3
 addSong: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getSongGenre: SUCCESS, 30524
+getSongGenre: SUCCESS, 77102
 getNumberOfSongsByGenre: SUCCESS, 2
 getSongGenre: SUCCESS, 88475
 addGenre: SUCCESS
@@ -41192,7 +41192,7 @@ getNumberOfSongsByGenre: SUCCESS, 4
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1515
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 getSongGenre: SUCCESS, 72400
 mergeGenres: SUCCESS
@@ -41203,7 +41203,7 @@ addGenre: SUCCESS
 addGenre: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 0
+getNumberOfGenreChanges: SUCCESS, 1
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 3
 addGenre: SUCCESS
@@ -41239,11 +41239,11 @@ addSong: SUCCESS
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
-getSongGenre: SUCCESS, 73568
+getSongGenre: SUCCESS, 53653
 addGenre: SUCCESS
 addGenre: SUCCESS
 getNumberOfSongsByGenre: SUCCESS, 1
-getNumberOfGenreChanges: SUCCESS, 4
+getNumberOfGenreChanges: SUCCESS, 2
 getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
@@ -41252,20 +41252,20 @@ getNumberOfSongsByGenre: SUCCESS, 0
 mergeGenres: SUCCESS
 mergeGenres: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 283
+getNumberOfGenreChanges: SUCCESS, 2
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 2299
+getNumberOfGenreChanges: SUCCESS, 5
 addGenre: SUCCESS
 addGenre: SUCCESS
 addGenre: INVALID_INPUT
 addGenre: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 1510
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addSong: SUCCESS
 addGenre: SUCCESS
-getNumberOfGenreChanges: SUCCESS, 118
+getNumberOfGenreChanges: SUCCESS, 2
 mergeGenres: SUCCESS
 addGenre: SUCCESS
 addGenre: SUCCESS

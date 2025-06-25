@@ -1,0 +1,5 @@
+==260617== Memcheck, a memory error detector
+==260617== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==260617== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==260617== Command: ./main.out
+==260617== 

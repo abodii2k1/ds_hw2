@@ -31,6 +31,7 @@ int main()
     while (cin >> op)
     {
         i++;
+
         if (!op.compare("addGenre")) {
             cin >> d1;
             print(op, obj->addGenre(d1));

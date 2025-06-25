@@ -1,0 +1,14 @@
+==221557== Memcheck, a memory error detector
+==221557== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==221557== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==221557== Command: ./main.out
+==221557== 
+==221557== 
+==221557== HEAP SUMMARY:
+==221557==     in use at exit: 0 bytes in 0 blocks
+==221557==   total heap usage: 14,406 allocs, 14,406 frees, 820,159 bytes allocated
+==221557== 
+==221557== All heap blocks were freed -- no leaks are possible
+==221557== 
+==221557== For lists of detected and suppressed errors, rerun with: -s
+==221557== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)

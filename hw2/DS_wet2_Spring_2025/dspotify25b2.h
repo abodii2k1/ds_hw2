@@ -23,10 +23,7 @@ private:
     
     // Hash table to store genre information: genreId -> Genre*
      shared_ptr< HashTable<int,shared_ptr< Genre>>> genres;
-    // Union-Find structure to track genre merges and find current genre of songs
-     shared_ptr< UnionFind<shared_ptr<Genre>>> genreUnionFind;
-     shared_ptr<UnionFind<int>> songGenreUF  ; 
-     shared_ptr<HashTable<int,int>> initialSongRank ; 
+    shared_ptr<UnionFind<int>> uf  ; 
 
     //
     // Here you may add anything you want

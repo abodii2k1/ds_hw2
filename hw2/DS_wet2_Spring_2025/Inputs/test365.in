@@ -1,0 +1,4959 @@
+addGenre 85500
+addSong 977597 85500
+addGenre 21673
+addSong 803255 21673
+addGenre 39570
+addSong 535728 21673
+addGenre 31840
+addSong 145891 21673
+addGenre 60494
+addSong 955714 60494
+addGenre 8110
+addSong 803054 39570
+addGenre 96000
+addSong 24941 8110
+addGenre 43051
+addSong 596661 21673
+addGenre 66549
+addSong 539544 31840
+addGenre 65254
+addSong 123114 31840
+addGenre 32125
+addSong 268464 66549
+addGenre 8543
+addSong 795277 21673
+mergeGenres 96000 8543 164893
+mergeGenres 8110 65254 324165
+addGenre 53150
+getNumberOfGenreChanges 803255
+addSong 359641 32125
+getNumberOfSongsByGenre 53150
+mergeGenres 324165 85500 166869
+addSong 68079 21673
+getSongGenre 24941
+getSongGenre 539544
+mergeGenres 166869 31840 406074
+mergeGenres 164893 66549 454051
+addSong 495674 60494
+addGenre 704
+addGenre 79457
+mergeGenres 406074 32125 882869
+mergeGenres 79457 60494 912062
+addGenre 7877
+getNumberOfSongsByGenre 53150
+getSongGenre 359641
+addGenre 51137
+getSongGenre 596661
+addGenre 91554
+getNumberOfGenreChanges 359641
+getNumberOfSongsByGenre 43051
+getNumberOfGenreChanges 596661
+mergeGenres 43051 882869 720775
+getNumberOfSongsByGenre 21673
+addSong 506480 720775
+getNumberOfGenreChanges 539544
+getNumberOfGenreChanges 123114
+addGenre 20177
+getNumberOfGenreChanges 795277
+getNumberOfSongsByGenre 7877
+addGenre 99797
+mergeGenres 91554 20177 582372
+addGenre 12978
+addSong 505685 704
+addGenre 4162
+getNumberOfSongsByGenre 51137
+getNumberOfGenreChanges 145891
+addSong 290800 39570
+getNumberOfSongsByGenre 53150
+getNumberOfGenreChanges 955714
+addGenre 12811
+addGenre 35760
+getNumberOfGenreChanges 795277
+addSong 611953 4162
+getNumberOfSongsByGenre 12811
+mergeGenres 21673 582372 447389
+getSongGenre 359641
+mergeGenres 51137 39570 266060
+getNumberOfSongsByGenre 266060
+getNumberOfGenreChanges 268464
+addSong 517848 53150
+getNumberOfSongsByGenre 454051
+getNumberOfSongsByGenre 912062
+addSong 199352 35760
+getNumberOfGenreChanges 795277
+addGenre 69886
+addGenre 46681
+getNumberOfGenreChanges 803054
+addSong 75518 912062
+getSongGenre 24941
+addGenre 53449
+getSongGenre 596661
+getNumberOfGenreChanges 495674
+getNumberOfSongsByGenre 12978
+getNumberOfSongsByGenre 266060
+addSong 748228 912062
+addGenre 67499
+getNumberOfGenreChanges 495674
+addGenre 16874
+getNumberOfSongsByGenre 704
+mergeGenres 53150 266060 359600
+getSongGenre 505685
+getSongGenre 795277
+getNumberOfGenreChanges 75518
+getSongGenre 795277
+getNumberOfGenreChanges 199352
+addSong 681732 53449
+addSong 297727 99797
+addGenre 13486
+getNumberOfSongsByGenre 720775
+addGenre 4059
+mergeGenres 99797 912062 935906
+addSong 198330 7877
+mergeGenres 35760 4059 228821
+getNumberOfGenreChanges 145891
+addGenre 19156
+getNumberOfGenreChanges 495674
+addGenre 40926
+addSong 229697 46681
+getNumberOfSongsByGenre 454051
+addGenre 62108
+mergeGenres 704 12978 245793
+getNumberOfGenreChanges 803255
+getNumberOfSongsByGenre 13486
+getNumberOfGenreChanges 495674
+addGenre 85542
+addGenre 58902
+addSong 696323 720775
+getSongGenre 495674
+getNumberOfSongsByGenre 85542
+getNumberOfGenreChanges 517848
+getNumberOfSongsByGenre 19156
+getNumberOfGenreChanges 803255
+mergeGenres 7877 46681 419663
+addSong 945449 53449
+getNumberOfGenreChanges 123114
+getNumberOfGenreChanges 68079
+addSong 522712 58902
+getNumberOfSongsByGenre 12811
+addSong 498048 62108
+getSongGenre 596661
+getSongGenre 505685
+addGenre 64423
+addGenre 65031
+mergeGenres 13486 935906 158735
+getNumberOfSongsByGenre 720775
+getNumberOfGenreChanges 522712
+getSongGenre 596661
+addGenre 14284
+getSongGenre 596661
+getNumberOfGenreChanges 977597
+addSong 660569 447389
+addGenre 7404
+mergeGenres 447389 7404 309223
+getNumberOfSongsByGenre 53449
+addGenre 32615
+mergeGenres 19156 62108 609710
+mergeGenres 12811 359600 680124
+getNumberOfGenreChanges 955714
+addGenre 8388
+getNumberOfSongsByGenre 158735
+getNumberOfSongsByGenre 64423
+mergeGenres 53449 14284 648010
+getNumberOfGenreChanges 495674
+mergeGenres 228821 67499 832510
+getSongGenre 955714
+addGenre 7815
+mergeGenres 245793 454051 697258
+getSongGenre 506480
+mergeGenres 7815 680124 933604
+addSong 609913 419663
+addSong 921930 832510
+getNumberOfGenreChanges 535728
+addSong 850497 16874
+getNumberOfGenreChanges 123114
+getNumberOfGenreChanges 297727
+addGenre 38951
+getNumberOfGenreChanges 522712
+getNumberOfSongsByGenre 4162
+addSong 712324 40926
+getSongGenre 522712
+addSong 486133 609710
+getNumberOfSongsByGenre 832510
+addGenre 69974
+getSongGenre 145891
+addSong 449806 58902
+getSongGenre 945449
+addSong 985746 69974
+addGenre 35338
+getNumberOfSongsByGenre 58902
+getSongGenre 596661
+getNumberOfGenreChanges 977597
+mergeGenres 40926 32615 521916
+getSongGenre 268464
+mergeGenres 38951 8388 885002
+getSongGenre 68079
+getSongGenre 145891
+getNumberOfGenreChanges 297727
+getNumberOfGenreChanges 268464
+getNumberOfGenreChanges 803255
+mergeGenres 419663 69886 550909
+addGenre 57814
+addSong 992074 57814
+getNumberOfSongsByGenre 64423
+mergeGenres 521916 933604 246367
+addGenre 75652
+getNumberOfSongsByGenre 246367
+getSongGenre 803054
+addGenre 51809
+addSong 21531 65031
+getNumberOfGenreChanges 955714
+getSongGenre 696323
+mergeGenres 550909 69974 131721
+addGenre 77080
+getNumberOfGenreChanges 985746
+addSong 743140 57814
+getNumberOfSongsByGenre 309223
+addSong 994254 158735
+getSongGenre 268464
+getNumberOfSongsByGenre 64423
+addGenre 39867
+getSongGenre 743140
+addSong 437649 309223
+mergeGenres 309223 51809 732233
+addSong 630425 16874
+mergeGenres 131721 75652 191263
+getNumberOfGenreChanges 748228
+addSong 741017 609710
+addGenre 90246
+mergeGenres 158735 85542 770115
+addGenre 97422
+mergeGenres 648010 770115 896328
+addSong 178859 97422
+getSongGenre 68079
+mergeGenres 246367 697258 863719
+addGenre 49188
+addSong 285545 609710
+getNumberOfGenreChanges 75518
+addGenre 78168
+getSongGenre 609913
+getSongGenre 285545
+getNumberOfSongsByGenre 65031
+getSongGenre 681732
+addSong 111053 78168
+mergeGenres 58902 39867 771158
+addGenre 3036
+getSongGenre 795277
+getSongGenre 449806
+mergeGenres 771158 57814 126869
+getNumberOfGenreChanges 609913
+addGenre 91550
+getNumberOfGenreChanges 359641
+addSong 774402 49188
+addSong 235763 885002
+getNumberOfSongsByGenre 97422
+getNumberOfSongsByGenre 65031
+mergeGenres 720775 49188 618633
+mergeGenres 64423 90246 845169
+getNumberOfSongsByGenre 65031
+getSongGenre 145891
+mergeGenres 863719 885002 694869
+addSong 867141 896328
+mergeGenres 65031 126869 878894
+addGenre 60571
+getNumberOfSongsByGenre 35338
+mergeGenres 878894 694869 733701
+getNumberOfGenreChanges 803255
+addSong 974312 732233
+addSong 656342 97422
+addGenre 35890
+getNumberOfGenreChanges 437649
+addGenre 95864
+getNumberOfGenreChanges 850497
+addGenre 7226
+getNumberOfSongsByGenre 3036
+getNumberOfSongsByGenre 35890
+mergeGenres 78168 7226 573288
+getNumberOfGenreChanges 660569
+addSong 845984 3036
+getNumberOfGenreChanges 495674
+addGenre 21196
+getSongGenre 955714
+getNumberOfSongsByGenre 60571
+getSongGenre 994254
+getNumberOfSongsByGenre 832510
+getSongGenre 437649
+addGenre 42197
+getSongGenre 974312
+getNumberOfSongsByGenre 732233
+mergeGenres 4162 732233 222623
+getNumberOfGenreChanges 199352
+addSong 52989 35890
+addSong 390564 733701
+addSong 430808 845169
+addSong 804331 618633
+getSongGenre 268464
+getNumberOfGenreChanges 630425
+mergeGenres 618633 222623 750019
+getSongGenre 795277
+getNumberOfGenreChanges 290800
+getNumberOfGenreChanges 656342
+getSongGenre 268464
+getSongGenre 795277
+addGenre 67395
+getNumberOfGenreChanges 290800
+addGenre 32981
+getSongGenre 630425
+addSong 687001 845169
+getNumberOfGenreChanges 985746
+addGenre 37316
+getNumberOfGenreChanges 359641
+getNumberOfSongsByGenre 32981
+mergeGenres 60571 67395 153373
+mergeGenres 16874 832510 809315
+getSongGenre 517848
+addGenre 7647
+addGenre 6431
+addSong 739645 21196
+mergeGenres 21196 809315 351259
+addSong 781466 351259
+addGenre 88647
+getNumberOfGenreChanges 687001
+addSong 192487 750019
+addGenre 60333
+mergeGenres 60333 609710 485585
+addSong 470340 845169
+addGenre 69625
+addSong 935147 37316
+getNumberOfGenreChanges 229697
+getNumberOfGenreChanges 867141
+getNumberOfSongsByGenre 485585
+getSongGenre 229697
+getNumberOfGenreChanges 192487
+mergeGenres 95864 42197 909682
+getSongGenre 517848
+addGenre 14634
+addSong 194618 37316
+getNumberOfSongsByGenre 91550
+addSong 323799 91550
+mergeGenres 77080 573288 906981
+getSongGenre 359641
+getSongGenre 517848
+getNumberOfSongsByGenre 35890
+addGenre 45716
+getSongGenre 359641
+getNumberOfSongsByGenre 3036
+getNumberOfSongsByGenre 7647
+addGenre 75666
+addGenre 85212
+getNumberOfGenreChanges 495674
+mergeGenres 485585 7647 944205
+mergeGenres 88647 3036 186733
+getNumberOfGenreChanges 21531
+mergeGenres 91550 896328 467521
+getNumberOfSongsByGenre 97422
+getSongGenre 687001
+getNumberOfSongsByGenre 944205
+getSongGenre 774402
+getNumberOfSongsByGenre 750019
+getNumberOfSongsByGenre 45716
+getSongGenre 955714
+getNumberOfSongsByGenre 733701
+addSong 58036 153373
+mergeGenres 14634 467521 789777
+addSong 893246 69625
+getSongGenre 712324
+addGenre 91812
+getSongGenre 630425
+addSong 362309 944205
+getSongGenre 359641
+addSong 180758 909682
+getSongGenre 994254
+getSongGenre 297727
+mergeGenres 191263 85212 959559
+getSongGenre 781466
+addGenre 22280
+getNumberOfSongsByGenre 351259
+getSongGenre 68079
+addGenre 36845
+getNumberOfSongsByGenre 75666
+getSongGenre 611953
+getSongGenre 804331
+getSongGenre 994254
+getNumberOfGenreChanges 268464
+getSongGenre 390564
+addGenre 45019
+getSongGenre 748228
+addGenre 30713
+getNumberOfSongsByGenre 69625
+getNumberOfGenreChanges 630425
+getNumberOfSongsByGenre 45716
+addGenre 44270
+getNumberOfSongsByGenre 30713
+getNumberOfSongsByGenre 351259
+addSong 751112 750019
+addSong 212017 91812
+addSong 704238 845169
+mergeGenres 733701 69625 944073
+getNumberOfGenreChanges 194618
+getSongGenre 194618
+getNumberOfGenreChanges 539544
+getNumberOfGenreChanges 974312
+getSongGenre 974312
+getSongGenre 955714
+getNumberOfGenreChanges 235763
+getNumberOfSongsByGenre 32981
+getNumberOfSongsByGenre 37316
+getSongGenre 192487
+getNumberOfGenreChanges 539544
+addSong 738019 37316
+addSong 352794 91812
+getNumberOfGenreChanges 751112
+getSongGenre 52989
+mergeGenres 22280 153373 299087
+getNumberOfGenreChanges 977597
+mergeGenres 35338 32981 332938
+addSong 72061 789777
+getNumberOfSongsByGenre 186733
+getSongGenre 660569
+addGenre 95680
+addGenre 89729
+addSong 878879 44270
+getNumberOfGenreChanges 437649
+addSong 115417 75666
+getNumberOfGenreChanges 803255
+getNumberOfGenreChanges 609913
+getSongGenre 522712
+getNumberOfSongsByGenre 186733
+mergeGenres 36845 750019 208183
+addSong 652545 75666
+getNumberOfGenreChanges 470340
+getNumberOfSongsByGenre 845169
+getNumberOfGenreChanges 611953
+getSongGenre 359641
+getNumberOfSongsByGenre 959559
+mergeGenres 944205 95680 493187
+getNumberOfSongsByGenre 845169
+getNumberOfSongsByGenre 37316
+addGenre 62413
+getNumberOfGenreChanges 630425
+getNumberOfSongsByGenre 30713
+mergeGenres 789777 45019 213572
+getNumberOfSongsByGenre 186733
+getNumberOfGenreChanges 741017
+getSongGenre 741017
+getNumberOfSongsByGenre 332938
+getNumberOfGenreChanges 52989
+addSong 942996 332938
+getNumberOfGenreChanges 111053
+addGenre 55525
+getNumberOfSongsByGenre 55525
+addSong 897069 55525
+mergeGenres 959559 45716 835616
+addSong 519977 208183
+mergeGenres 909682 213572 980891
+addSong 709922 91812
+getSongGenre 660569
+getNumberOfGenreChanges 539544
+addGenre 96054
+getNumberOfGenreChanges 696323
+getSongGenre 945449
+getNumberOfSongsByGenre 980891
+mergeGenres 96054 75666 306617
+mergeGenres 835616 208183 331045
+getNumberOfGenreChanges 352794
+mergeGenres 91812 351259 371667
+getSongGenre 845984
+getSongGenre 803255
+addGenre 88568
+addGenre 40814
+addGenre 89119
+getNumberOfSongsByGenre 44270
+addSong 88677 944073
+getNumberOfGenreChanges 199352
+addSong 409092 980891
+mergeGenres 944073 40814 990977
+addGenre 2931
+addSong 212123 35890
+getSongGenre 712324
+addGenre 28310
+mergeGenres 30713 371667 912198
+getNumberOfGenreChanges 285545
+getSongGenre 850497
+addGenre 16005
+addSong 707394 306617
+getSongGenre 942996
+getNumberOfGenreChanges 774402
+getNumberOfSongsByGenre 28310
+getNumberOfGenreChanges 522712
+addSong 391272 299087
+getSongGenre 449806
+getNumberOfGenreChanges 297727
+addGenre 47148
+addSong 941039 2931
+addGenre 37471
+addGenre 94816
+mergeGenres 332938 37471 192235
+mergeGenres 94816 2931 150408
+getSongGenre 359641
+addSong 660950 97422
+mergeGenres 980891 37316 296453
+getNumberOfGenreChanges 803255
+getNumberOfGenreChanges 994254
+mergeGenres 89119 990977 572017
+addSong 163218 912198
+getNumberOfGenreChanges 68079
+getNumberOfGenreChanges 748228
+mergeGenres 493187 912198 973527
+addSong 589840 62413
+getNumberOfGenreChanges 229697
+addSong 849245 192235
+getNumberOfGenreChanges 741017
+addGenre 56615
+addSong 277812 16005
+getNumberOfSongsByGenre 6431
+getNumberOfGenreChanges 323799
+addSong 584560 331045
+getNumberOfGenreChanges 297727
+getNumberOfGenreChanges 945449
+getNumberOfGenreChanges 52989
+getSongGenre 584560
+getSongGenre 268464
+addGenre 98177
+getNumberOfSongsByGenre 845169
+getNumberOfSongsByGenre 55525
+addGenre 30311
+getSongGenre 437649
+addSong 633514 44270
+getSongGenre 123114
+getNumberOfGenreChanges 123114
+getNumberOfSongsByGenre 845169
+addSong 753084 47148
+getSongGenre 519977
+getSongGenre 704238
+getNumberOfGenreChanges 145891
+getSongGenre 893246
+getNumberOfGenreChanges 522712
+getSongGenre 21531
+addGenre 98927
+mergeGenres 55525 331045 135955
+addGenre 83983
+addGenre 76675
+getNumberOfSongsByGenre 135955
+getNumberOfGenreChanges 297727
+addSong 691711 76675
+getNumberOfSongsByGenre 296453
+addGenre 90365
+getNumberOfGenreChanges 660569
+getSongGenre 609913
+getNumberOfGenreChanges 323799
+mergeGenres 296453 56615 166037
+mergeGenres 89729 135955 110024
+addGenre 76849
+addGenre 34947
+mergeGenres 34947 973527 220432
+getSongGenre 974312
+addSong 632604 150408
+mergeGenres 98927 220432 663973
+addGenre 55477
+getNumberOfGenreChanges 52989
+addGenre 79604
+addGenre 38238
+addSong 874212 306617
+getNumberOfGenreChanges 955714
+getSongGenre 751112
+addGenre 86396
+getNumberOfGenreChanges 163218
+addGenre 61248
+mergeGenres 16005 663973 810930
+getNumberOfGenreChanges 691711
+addGenre 74637
+getSongGenre 277812
+addSong 651437 98177
+getNumberOfSongsByGenre 38238
+getSongGenre 795277
+mergeGenres 88568 35890 290411
+addGenre 10485
+getNumberOfSongsByGenre 47148
+addSong 378877 79604
+addGenre 61305
+getNumberOfGenreChanges 893246
+addSong 431334 186733
+addSong 841379 110024
+getNumberOfSongsByGenre 38238
+getNumberOfSongsByGenre 306617
+getSongGenre 72061
+mergeGenres 79604 810930 330822
+getNumberOfGenreChanges 707394
+addGenre 453
+getSongGenre 992074
+getNumberOfSongsByGenre 86396
+mergeGenres 110024 453 798947
+addSong 109488 6431
+getNumberOfGenreChanges 704238
+mergeGenres 97422 6431 798470
+mergeGenres 186733 38238 451715
+getSongGenre 539544
+getSongGenre 391272
+addSong 580227 906981
+getNumberOfGenreChanges 803054
+mergeGenres 906981 299087 614514
+getNumberOfSongsByGenre 798947
+mergeGenres 306617 614514 286707
+getNumberOfGenreChanges 704238
+mergeGenres 166037 290411 388917
+addSong 541678 10485
+getSongGenre 781466
+addGenre 54667
+mergeGenres 798947 74637 561963
+addSong 356668 28310
+getNumberOfGenreChanges 52989
+addGenre 37942
+addSong 364521 28310
+addGenre 38715
+mergeGenres 798470 54667 687469
+getNumberOfGenreChanges 115417
+mergeGenres 572017 62413 739991
+getNumberOfSongsByGenre 55477
+mergeGenres 30311 150408 228734
+getSongGenre 660569
+addSong 15274 388917
+getNumberOfSongsByGenre 561963
+getSongGenre 803054
+mergeGenres 83983 86396 349328
+mergeGenres 228734 349328 490165
+getSongGenre 580227
+mergeGenres 490165 37942 942131
+addGenre 21754
+getNumberOfGenreChanges 198330
+getNumberOfSongsByGenre 55477
+getNumberOfSongsByGenre 330822
+addGenre 63036
+addGenre 30889
+getNumberOfSongsByGenre 76675
+addGenre 22308
+addGenre 74220
+getNumberOfSongsByGenre 61248
+mergeGenres 63036 28310 211933
+addSong 136731 10485
+addSong 746048 561963
+getNumberOfGenreChanges 774402
+addSong 978615 739991
+getNumberOfGenreChanges 841379
+addGenre 80622
+addSong 167935 845169
+getNumberOfSongsByGenre 10485
+addSong 346617 687469
+mergeGenres 286707 22308 323537
+addGenre 45792
+getNumberOfSongsByGenre 55477
+addSong 657269 388917
+mergeGenres 323537 90365 868270
+getNumberOfSongsByGenre 98177
+mergeGenres 98177 61248 912771
+getNumberOfSongsByGenre 44270
+getNumberOfGenreChanges 803255
+getNumberOfSongsByGenre 561963
+addSong 982367 912771
+getNumberOfSongsByGenre 739991
+addGenre 98846
+mergeGenres 55477 192235 555918
+getSongGenre 75518
+addSong 31694 47148
+addGenre 16802
+getSongGenre 21531
+mergeGenres 10485 912771 141629
+getSongGenre 31694
+mergeGenres 45792 44270 316323
+addSong 70917 141629
+getSongGenre 707394
+addSong 751988 868270
+addGenre 22713
+getNumberOfSongsByGenre 47148
+addGenre 73678
+addGenre 94560
+addGenre 83484
+getSongGenre 21531
+mergeGenres 30889 16802 295644
+addGenre 12377
+addSong 743680 74220
+getNumberOfGenreChanges 58036
+addGenre 22958
+getNumberOfGenreChanges 136731
+addGenre 53428
+addSong 894025 80622
+getSongGenre 687001
+getNumberOfSongsByGenre 316323
+addSong 991640 74220
+getNumberOfGenreChanges 596661
+addGenre 31023
+getNumberOfGenreChanges 163218
+getNumberOfSongsByGenre 22713
+addSong 273116 22958
+getSongGenre 774402
+getNumberOfSongsByGenre 53428
+mergeGenres 942131 316323 500178
+addGenre 9490
+addSong 351590 76849
+getSongGenre 31694
+addSong 181013 22713
+addGenre 63116
+getNumberOfGenreChanges 681732
+addSong 4102 451715
+addSong 788197 845169
+getNumberOfSongsByGenre 76675
+getNumberOfSongsByGenre 80622
+getSongGenre 941039
+addSong 179063 687469
+addSong 461831 83484
+getNumberOfGenreChanges 841379
+addSong 855790 9490
+mergeGenres 739991 94560 918333
+getNumberOfGenreChanges 992074
+addSong 539164 500178
+addGenre 85004
+mergeGenres 12377 61305 678256
+addSong 40026 678256
+addSong 891768 76675
+getNumberOfSongsByGenre 85004
+mergeGenres 76849 451715 716968
+addGenre 76843
+addGenre 44161
+mergeGenres 63116 53428 192846
+getSongGenre 978615
+getSongGenre 994254
+getSongGenre 991640
+addGenre 11492
+addGenre 42
+getSongGenre 781466
+getNumberOfGenreChanges 505685
+addSong 544509 98846
+mergeGenres 21754 9490 991042
+getNumberOfSongsByGenre 918333
+getSongGenre 115417
+addGenre 14998
+addSong 972828 38715
+getNumberOfSongsByGenre 47148
+getNumberOfSongsByGenre 85004
+getNumberOfGenreChanges 111053
+getNumberOfGenreChanges 897069
+addSong 957294 678256
+getNumberOfSongsByGenre 845169
+mergeGenres 687469 868270 649186
+getSongGenre 691711
+addGenre 15358
+addGenre 56966
+addGenre 5682
+getNumberOfGenreChanges 739645
+addGenre 1020
+getNumberOfGenreChanges 977597
+addGenre 81451
+getNumberOfGenreChanges 974312
+getSongGenre 235763
+addGenre 9950
+getNumberOfGenreChanges 774402
+getSongGenre 687001
+mergeGenres 98846 22958 504565
+addGenre 5929
+addGenre 39460
+getSongGenre 589840
+getNumberOfGenreChanges 346617
+getSongGenre 539544
+mergeGenres 561963 42 554688
+getSongGenre 290800
+addSong 631537 554688
+addSong 807446 56966
+getNumberOfGenreChanges 774402
+addGenre 29200
+getSongGenre 539164
+getNumberOfGenreChanges 632604
+addSong 125095 330822
+getNumberOfSongsByGenre 44161
+getNumberOfGenreChanges 167935
+getNumberOfGenreChanges 849245
+addSong 924061 74220
+getSongGenre 935147
+addGenre 39
+addGenre 24850
+getSongGenre 803054
+getNumberOfSongsByGenre 38715
+mergeGenres 56966 678256 505644
+getSongGenre 517848
+mergeGenres 500178 1020 204923
+addSong 131741 73678
+mergeGenres 505644 31023 270584
+mergeGenres 649186 39 339996
+addSong 611524 81451
+getNumberOfSongsByGenre 555918
+addSong 409778 716968
+getNumberOfSongsByGenre 991042
+getSongGenre 519977
+getSongGenre 431334
+mergeGenres 76843 80622 552159
+mergeGenres 388917 330822 926567
+getSongGenre 609913
+getNumberOfSongsByGenre 83484
+getNumberOfSongsByGenre 555918
+getNumberOfGenreChanges 630425
+getNumberOfGenreChanges 850497
+getNumberOfSongsByGenre 85004
+getNumberOfSongsByGenre 44161
+getSongGenre 921930
+getSongGenre 982367
+addSong 131085 141629
+addGenre 12179
+mergeGenres 12179 81451 678206
+mergeGenres 339996 845169 805560
+getSongGenre 273116
+getSongGenre 498048
+getNumberOfSongsByGenre 73678
+getNumberOfSongsByGenre 554688
+getNumberOfSongsByGenre 552159
+addGenre 97399
+addGenre 26690
+getSongGenre 957294
+addGenre 55891
+getNumberOfGenreChanges 431334
+getNumberOfGenreChanges 75518
+getNumberOfGenreChanges 356668
+getNumberOfGenreChanges 691711
+mergeGenres 9950 76675 903577
+addSong 765785 22713
+addSong 918874 24850
+mergeGenres 29200 83484 493385
+getSongGenre 470340
+mergeGenres 26690 493385 157051
+getNumberOfGenreChanges 431334
+getNumberOfSongsByGenre 552159
+getNumberOfSongsByGenre 192846
+getNumberOfSongsByGenre 38715
+getNumberOfSongsByGenre 918333
+addGenre 49648
+addGenre 23136
+getNumberOfGenreChanges 632604
+addGenre 36280
+getNumberOfSongsByGenre 47148
+getNumberOfSongsByGenre 270584
+mergeGenres 73678 678206 623198
+getSongGenre 352794
+addSong 423406 903577
+getNumberOfGenreChanges 180758
+getSongGenre 972828
+mergeGenres 22713 5682 133739
+getNumberOfGenreChanges 918874
+getNumberOfGenreChanges 746048
+addGenre 4836
+mergeGenres 295644 24850 676422
+addSong 978533 211933
+addGenre 50137
+addGenre 1231
+getSongGenre 774402
+getSongGenre 957294
+getSongGenre 125095
+getNumberOfSongsByGenre 11492
+getNumberOfSongsByGenre 15358
+getNumberOfGenreChanges 803054
+addGenre 57963
+getSongGenre 849245
+getNumberOfGenreChanges 470340
+mergeGenres 36280 211933 901218
+mergeGenres 49648 11492 134329
+getNumberOfGenreChanges 544509
+getNumberOfSongsByGenre 97399
+addSong 617451 504565
+getSongGenre 652545
+getSongGenre 804331
+getNumberOfSongsByGenre 552159
+getNumberOfSongsByGenre 901218
+mergeGenres 157051 4836 847833
+mergeGenres 552159 901218 214102
+mergeGenres 133739 1231 387071
+getNumberOfSongsByGenre 554688
+getNumberOfGenreChanges 897069
+getNumberOfGenreChanges 765785
+getSongGenre 181013
+getNumberOfSongsByGenre 44161
+addGenre 28907
+addSong 76952 39460
+getNumberOfGenreChanges 163218
+getNumberOfGenreChanges 921930
+getNumberOfGenreChanges 841379
+addSong 508695 504565
+addSong 286679 97399
+addGenre 65887
+getNumberOfGenreChanges 652545
+addGenre 55846
+addGenre 23495
+addGenre 2310
+getNumberOfSongsByGenre 85004
+addSong 825603 141629
+getNumberOfGenreChanges 978533
+getSongGenre 935147
+getSongGenre 235763
+addGenre 88667
+addGenre 25642
+getNumberOfGenreChanges 632604
+mergeGenres 97399 55846 373800
+getSongGenre 115417
+getNumberOfGenreChanges 849245
+getSongGenre 285545
+getNumberOfGenreChanges 544509
+addSong 24574 554688
+mergeGenres 57963 991042 500409
+addSong 935045 373800
+getSongGenre 268464
+getNumberOfSongsByGenre 85004
+getNumberOfGenreChanges 788197
+getSongGenre 268464
+getSongGenre 845984
+getNumberOfSongsByGenre 373800
+addGenre 39690
+getSongGenre 738019
+getSongGenre 942996
+getSongGenre 850497
+getSongGenre 131085
+addSong 635317 926567
+addGenre 56201
+getSongGenre 286679
+addSong 366144 23136
+getNumberOfSongsByGenre 65887
+addGenre 56998
+getSongGenre 977597
+getNumberOfGenreChanges 486133
+mergeGenres 676422 56998 310946
+mergeGenres 504565 39690 815486
+addSong 65038 192846
+getNumberOfGenreChanges 849245
+getSongGenre 985746
+addSong 29972 47148
+mergeGenres 28907 387071 465272
+mergeGenres 555918 716968 772193
+getNumberOfGenreChanges 75518
+getSongGenre 584560
+mergeGenres 500409 15358 361660
+addSong 750054 918333
+getNumberOfGenreChanges 765785
+addSong 582743 5929
+addSong 12071 361660
+addGenre 42546
+mergeGenres 23495 903577 602924
+getSongGenre 687001
+getSongGenre 867141
+addSong 227469 56201
+addGenre 71377
+getNumberOfGenreChanges 163218
+addSong 997406 214102
+addGenre 71060
+getNumberOfSongsByGenre 47148
+mergeGenres 204923 88667 405503
+addSong 131110 602924
+getSongGenre 70917
+addSong 444621 405503
+addGenre 91564
+addSong 377653 44161
+getSongGenre 508695
+getNumberOfGenreChanges 992074
+getNumberOfSongsByGenre 5929
+getNumberOfSongsByGenre 918333
+mergeGenres 23136 926567 936263
+addGenre 29719
+mergeGenres 42546 39460 277538
+getNumberOfGenreChanges 681732
+mergeGenres 47148 91564 174777
+addGenre 77020
+addGenre 84726
+getNumberOfSongsByGenre 2310
+addSong 769312 55891
+getNumberOfSongsByGenre 815486
+addGenre 42175
+getNumberOfGenreChanges 660950
+addSong 188046 42175
+getNumberOfSongsByGenre 373800
+addGenre 86740
+mergeGenres 373800 65887 357365
+mergeGenres 71060 44161 490396
+getNumberOfGenreChanges 519977
+getNumberOfSongsByGenre 174777
+addGenre 55876
+addSong 529905 86740
+getNumberOfSongsByGenre 490396
+addGenre 1237
+getNumberOfSongsByGenre 38715
+addGenre 53469
+getNumberOfGenreChanges 290800
+addGenre 58878
+getNumberOfSongsByGenre 2310
+mergeGenres 805560 14998 259523
+addGenre 3466
+mergeGenres 259523 134329 385803
+addGenre 14685
+mergeGenres 141629 84726 167101
+getNumberOfGenreChanges 893246
+getSongGenre 704238
+getNumberOfSongsByGenre 465272
+getSongGenre 582743
+addGenre 31457
+addSong 648783 772193
+getNumberOfGenreChanges 181013
+getNumberOfSongsByGenre 55876
+addGenre 34857
+getSongGenre 681732
+getNumberOfGenreChanges 352794
+mergeGenres 31457 34857 463802
+addSong 280770 167101
+addSong 823196 463802
+getNumberOfGenreChanges 894025
+mergeGenres 277538 86740 282239
+getNumberOfGenreChanges 992074
+getNumberOfSongsByGenre 405503
+addGenre 84144
+mergeGenres 85004 772193 881699
+getNumberOfSongsByGenre 38715
+getSongGenre 24574
+getNumberOfSongsByGenre 847833
+addSong 724314 490396
+mergeGenres 936263 167101 161472
+getNumberOfGenreChanges 15274
+getSongGenre 188046
+addSong 827732 847833
+addGenre 89455
+mergeGenres 55891 310946 233054
+getNumberOfGenreChanges 825603
+getNumberOfGenreChanges 346617
+getSongGenre 823196
+addSong 956528 463802
+getSongGenre 660950
+addGenre 22225
+getSongGenre 145891
+getNumberOfSongsByGenre 1237
+addSong 846087 25642
+getNumberOfGenreChanges 227469
+getNumberOfGenreChanges 70917
+getNumberOfSongsByGenre 58878
+addSong 905567 38715
+mergeGenres 174777 14685 613454
+addSong 346352 53469
+addGenre 15116
+getNumberOfSongsByGenre 55876
+mergeGenres 282239 42175 338063
+addSong 893163 56201
+getSongGenre 12071
+mergeGenres 53469 50137 839977
+getNumberOfGenreChanges 522712
+addSong 425033 71377
+getNumberOfGenreChanges 825603
+addSong 496026 29719
+getNumberOfGenreChanges 955714
+getNumberOfGenreChanges 652545
+getNumberOfGenreChanges 145891
+getNumberOfSongsByGenre 15116
+getSongGenre 178859
+getNumberOfGenreChanges 633514
+mergeGenres 847833 463802 188600
+getSongGenre 660569
+addGenre 90858
+getNumberOfSongsByGenre 357365
+mergeGenres 29719 77020 863012
+getNumberOfGenreChanges 753084
+addGenre 3877
+getNumberOfGenreChanges 652545
+getSongGenre 750054
+addGenre 97051
+mergeGenres 405503 55876 615551
+getNumberOfSongsByGenre 90858
+addSong 687418 161472
+addGenre 5631
+mergeGenres 84144 38715 454434
+getNumberOfGenreChanges 681732
+addGenre 79579
+getSongGenre 891768
+addGenre 46254
+addGenre 58766
+getNumberOfSongsByGenre 357365
+addGenre 47308
+getNumberOfGenreChanges 519977
+getNumberOfSongsByGenre 454434
+getSongGenre 377653
+getSongGenre 125095
+mergeGenres 46254 3466 438982
+mergeGenres 385803 3877 245264
+mergeGenres 56201 58766 804984
+addSong 518490 863012
+getSongGenre 849245
+getNumberOfSongsByGenre 615551
+getNumberOfSongsByGenre 5929
+getNumberOfGenreChanges 75518
+getNumberOfGenreChanges 633514
+addSong 913531 188600
+mergeGenres 79579 361660 167581
+getNumberOfGenreChanges 681732
+mergeGenres 1237 167581 673337
+getNumberOfSongsByGenre 918333
+addSong 919428 5929
+mergeGenres 2310 97051 236734
+addSong 707390 74220
+getNumberOfGenreChanges 825603
+mergeGenres 839977 188600 621668
+getNumberOfGenreChanges 978615
+addSong 586432 490396
+getSongGenre 136731
+addGenre 26738
+getNumberOfSongsByGenre 623198
+addGenre 59355
+addSong 478170 613454
+getNumberOfGenreChanges 346617
+mergeGenres 15116 454434 893380
+getNumberOfGenreChanges 660569
+getSongGenre 362309
+addSong 284078 815486
+addGenre 7034
+addSong 576385 863012
+getNumberOfSongsByGenre 918333
+addGenre 50446
+mergeGenres 918333 554688 632400
+addGenre 60442
+getSongGenre 517848
+mergeGenres 5631 236734 471995
+getNumberOfSongsByGenre 673337
+addGenre 80890
+getNumberOfGenreChanges 992074
+mergeGenres 490396 245264 892398
+addSong 397590 60442
+mergeGenres 815486 615551 483893
+getSongGenre 390564
+addSong 239936 161472
+getNumberOfSongsByGenre 161472
+getSongGenre 905567
+addGenre 24321
+addGenre 27647
+getSongGenre 268464
+getNumberOfSongsByGenre 74220
+mergeGenres 22225 881699 804132
+getSongGenre 194618
+addSong 701593 623198
+addGenre 71057
+getSongGenre 957294
+getSongGenre 957294
+getNumberOfGenreChanges 273116
+getNumberOfSongsByGenre 27647
+getNumberOfGenreChanges 188046
+addSong 529279 50446
+addSong 391506 632400
+getNumberOfGenreChanges 803255
+getNumberOfSongsByGenre 893380
+addSong 966291 804132
+getNumberOfGenreChanges 850497
+addGenre 69811
+addGenre 16470
+getSongGenre 748228
+getNumberOfSongsByGenre 161472
+addSong 367198 438982
+getNumberOfSongsByGenre 71377
+getSongGenre 633514
+getSongGenre 529905
+addSong 978751 804132
+addGenre 64710
+mergeGenres 673337 60442 906026
+getNumberOfSongsByGenre 5929
+getNumberOfGenreChanges 576385
+getNumberOfSongsByGenre 59355
+mergeGenres 74220 71057 367561
+getNumberOfSongsByGenre 613454
+addGenre 54187
+addSong 889506 367561
+getNumberOfGenreChanges 974312
+addSong 75648 161472
+addSong 387173 5929
+addGenre 18347
+addGenre 4591
+getNumberOfGenreChanges 109488
+addSong 901319 161472
+addSong 436812 18347
+addGenre 30339
+getNumberOfSongsByGenre 90858
+getNumberOfSongsByGenre 71377
+addGenre 89806
+getSongGenre 803255
+getNumberOfGenreChanges 123114
+getSongGenre 660569
+getSongGenre 518490
+getSongGenre 652545
+getSongGenre 323799
+addSong 18853 192846
+getNumberOfSongsByGenre 602924
+addGenre 57771
+getSongGenre 935045
+getNumberOfGenreChanges 651437
+getNumberOfSongsByGenre 367561
+addSong 816200 50446
+getNumberOfGenreChanges 517848
+addSong 66859 25642
+addGenre 34225
+addGenre 46308
+addGenre 31274
+getSongGenre 582743
+getSongGenre 131110
+mergeGenres 863012 90858 951897
+addGenre 88131
+getSongGenre 743140
+addGenre 11801
+getNumberOfSongsByGenre 892398
+mergeGenres 89455 88131 927183
+getNumberOfGenreChanges 486133
+getNumberOfGenreChanges 235763
+addSong 122716 632400
+addGenre 86982
+getNumberOfGenreChanges 978615
+getNumberOfSongsByGenre 161472
+mergeGenres 357365 58878 117160
+getNumberOfSongsByGenre 31274
+mergeGenres 80890 26738 301573
+addGenre 68088
+getSongGenre 18853
+getSongGenre 849245
+addGenre 43884
+getNumberOfSongsByGenre 465272
+getSongGenre 803054
+getNumberOfSongsByGenre 89806
+addGenre 64678
+getNumberOfGenreChanges 212017
+getNumberOfGenreChanges 855790
+getNumberOfSongsByGenre 161472
+getNumberOfSongsByGenre 25642
+getNumberOfGenreChanges 163218
+addSong 828607 89806
+mergeGenres 24321 465272 687210
+getSongGenre 748228
+getNumberOfGenreChanges 431334
+addSong 341840 301573
+mergeGenres 86982 16470 662817
+addSong 932707 50446
+addSong 521920 71377
+addSong 246818 892398
+addGenre 84351
+addGenre 6217
+mergeGenres 64678 804132 183074
+getNumberOfGenreChanges 359641
+getNumberOfSongsByGenre 804984
+addSong 255668 892398
+addSong 717248 662817
+mergeGenres 71377 54187 857742
+getSongGenre 255668
+getSongGenre 70917
+getNumberOfSongsByGenre 623198
+addSong 465352 613454
+getNumberOfGenreChanges 991640
+getSongGenre 841379
+mergeGenres 6217 270584 908490
+mergeGenres 11801 857742 721394
+mergeGenres 57771 161472 862652
+getSongGenre 277812
+getNumberOfGenreChanges 465352
+addGenre 54364
+addSong 280352 621668
+getSongGenre 179063
+mergeGenres 438982 687210 380628
+addSong 102994 613454
+getNumberOfGenreChanges 748228
+addSong 356393 613454
+getNumberOfSongsByGenre 25642
+addSong 596723 4591
+getNumberOfGenreChanges 461831
+getNumberOfSongsByGenre 483893
+getNumberOfGenreChanges 935045
+addGenre 32909
+mergeGenres 25642 862652 275216
+mergeGenres 183074 32909 626475
+addGenre 55712
+addGenre 11669
+addSong 353829 338063
+getNumberOfSongsByGenre 301573
+addSong 343099 632400
+addGenre 67799
+mergeGenres 338063 46308 130160
+getSongGenre 125095
+getSongGenre 994254
+mergeGenres 908490 30339 210669
+getNumberOfSongsByGenre 117160
+addGenre 25158
+getNumberOfGenreChanges 235763
+getSongGenre 750054
+getNumberOfGenreChanges 199352
+getNumberOfSongsByGenre 301573
+addSong 183431 5929
+addSong 422689 25158
+addGenre 58455
+mergeGenres 4591 89806 844546
+getSongGenre 284078
+getNumberOfGenreChanges 194618
+mergeGenres 483893 54364 419900
+addGenre 52403
+getNumberOfSongsByGenre 34225
+getNumberOfSongsByGenre 662817
+addGenre 16214
+getSongGenre 273116
+getNumberOfSongsByGenre 52403
+addSong 422756 31274
+addSong 118534 951897
+addSong 198079 67799
+addSong 122601 31274
+mergeGenres 130160 626475 624753
+getNumberOfGenreChanges 505685
+getNumberOfSongsByGenre 927183
+addGenre 7644
+getSongGenre 891768
+getNumberOfSongsByGenre 18347
+mergeGenres 602924 18347 566560
+getNumberOfSongsByGenre 844546
+getNumberOfGenreChanges 635317
+addGenre 33937
+addGenre 96727
+getNumberOfGenreChanges 163218
+mergeGenres 84351 58455 631075
+getNumberOfGenreChanges 741017
+addSong 974667 11669
+addSong 444096 64710
+addSong 362892 5929
+getSongGenre 268464
+getSongGenre 40026
+getSongGenre 982367
+getSongGenre 681732
+addSong 416580 11669
+getSongGenre 743140
+getNumberOfSongsByGenre 33937
+getSongGenre 827732
+getNumberOfSongsByGenre 613454
+addSong 721506 210669
+getSongGenre 918874
+getNumberOfGenreChanges 841379
+getNumberOfSongsByGenre 613454
+getNumberOfSongsByGenre 927183
+getNumberOfSongsByGenre 275216
+getNumberOfGenreChanges 437649
+mergeGenres 11669 892398 343809
+addSong 662741 210669
+getNumberOfSongsByGenre 33937
+addSong 623906 117160
+getNumberOfSongsByGenre 117160
+addSong 49689 662817
+getNumberOfSongsByGenre 50446
+getSongGenre 825603
+getNumberOfSongsByGenre 50446
+mergeGenres 43884 906026 128884
+getSongGenre 576385
+mergeGenres 367561 632400 831933
+getNumberOfSongsByGenre 33937
+addGenre 56480
+addGenre 57523
+getNumberOfGenreChanges 841379
+getSongGenre 24574
+addSong 535939 613454
+getNumberOfSongsByGenre 56480
+getNumberOfSongsByGenre 831933
+addSong 643667 7034
+getNumberOfSongsByGenre 59355
+mergeGenres 64710 59355 253528
+getNumberOfSongsByGenre 34225
+mergeGenres 624753 50446 284742
+addGenre 89865
+getNumberOfGenreChanges 364521
+addSong 187801 471995
+getSongGenre 367198
+getNumberOfSongsByGenre 284742
+getNumberOfGenreChanges 631537
+addGenre 60351
+addGenre 74087
+getNumberOfGenreChanges 707394
+addSong 472384 210669
+mergeGenres 343809 804984 939249
+addGenre 14600
+addGenre 98017
+getSongGenre 997406
+addGenre 32516
+addGenre 76900
+addGenre 12196
+mergeGenres 31274 301573 355082
+getNumberOfGenreChanges 739645
+getNumberOfSongsByGenre 57523
+addGenre 23853
+addSong 187176 721394
+addSong 813274 621668
+addSong 300309 613454
+getNumberOfGenreChanges 643667
+addGenre 78191
+getSongGenre 377653
+addGenre 35727
+getSongGenre 913531
+getNumberOfSongsByGenre 844546
+getNumberOfSongsByGenre 76900
+mergeGenres 631075 210669 549941
+addGenre 42323
+addGenre 32758
+getNumberOfGenreChanges 486133
+addSong 681756 74087
+addGenre 99808
+addSong 58741 23853
+getSongGenre 136731
+addSong 848720 12196
+addSong 203304 419900
+addSong 12922 33937
+addGenre 36415
+addSong 734646 927183
+getNumberOfSongsByGenre 471995
+getNumberOfSongsByGenre 380628
+getNumberOfGenreChanges 932707
+addGenre 11414
+getSongGenre 518490
+addSong 308321 99808
+getNumberOfGenreChanges 416580
+getSongGenre 377653
+getNumberOfSongsByGenre 99808
+mergeGenres 78191 951897 655340
+addGenre 4243
+getNumberOfSongsByGenre 89865
+getNumberOfSongsByGenre 7034
+getNumberOfGenreChanges 941039
+addSong 638161 831933
+getNumberOfSongsByGenre 275216
+getNumberOfSongsByGenre 566560
+mergeGenres 355082 32758 169564
+getNumberOfGenreChanges 508695
+getNumberOfSongsByGenre 25158
+getNumberOfSongsByGenre 60351
+mergeGenres 192846 47308 735787
+addGenre 14904
+addSong 484276 214102
+getSongGenre 978533
+getNumberOfGenreChanges 18853
+getNumberOfGenreChanges 638161
+addSong 813334 214102
+addSong 830785 56480
+getSongGenre 734646
+addSong 970216 7034
+addGenre 76632
+mergeGenres 67799 60351 467917
+addSong 756108 55712
+getSongGenre 631537
+addGenre 23271
+getSongGenre 163218
+getNumberOfGenreChanges 352794
+getNumberOfSongsByGenre 844546
+getSongGenre 630425
+addGenre 69567
+getSongGenre 985746
+addSong 198163 34225
+getNumberOfGenreChanges 918874
+mergeGenres 169564 89865 690950
+addGenre 53297
+addSong 862959 284742
+getNumberOfSongsByGenre 831933
+addSong 884232 98017
+getNumberOfSongsByGenre 735787
+addGenre 21109
+getNumberOfSongsByGenre 76632
+getSongGenre 212017
+addSong 42594 76632
+getNumberOfSongsByGenre 275216
+getNumberOfGenreChanges 280352
+addGenre 45304
+mergeGenres 275216 74087 870666
+getNumberOfGenreChanges 24941
+mergeGenres 14600 549941 392153
+getNumberOfGenreChanges 122716
+mergeGenres 16214 14904 688633
+getSongGenre 227469
+getSongGenre 813274
+getSongGenre 75518
+getNumberOfSongsByGenre 57523
+addGenre 75534
+getSongGenre 268464
+getNumberOfSongsByGenre 23853
+addSong 974779 233054
+mergeGenres 688633 284742 106035
+mergeGenres 214102 690950 112272
+addGenre 49160
+addGenre 97864
+getSongGenre 687418
+addGenre 54634
+getNumberOfGenreChanges 24574
+addSong 642149 117160
+getSongGenre 997406
+mergeGenres 621668 117160 901142
+getNumberOfGenreChanges 377653
+getNumberOfGenreChanges 529279
+getNumberOfGenreChanges 803255
+getNumberOfSongsByGenre 55712
+addSong 111985 68088
+getNumberOfGenreChanges 75518
+mergeGenres 54634 35727 994155
+getNumberOfGenreChanges 356668
+getSongGenre 308321
+addGenre 4445
+mergeGenres 893380 4445 615181
+mergeGenres 380628 52403 188889
+getNumberOfSongsByGenre 23271
+mergeGenres 112272 25158 699933
+mergeGenres 128884 699933 915292
+getNumberOfGenreChanges 508695
+addGenre 30531
+addSong 718783 5929
+addGenre 48475
+getNumberOfGenreChanges 751112
+getNumberOfSongsByGenre 55712
+getNumberOfSongsByGenre 21109
+getNumberOfSongsByGenre 901142
+addGenre 24959
+addSong 210896 57523
+addSong 260776 831933
+addSong 318541 27647
+addSong 811988 34225
+getNumberOfSongsByGenre 419900
+addSong 276705 48475
+getSongGenre 918874
+getSongGenre 362309
+getNumberOfSongsByGenre 23271
+addSong 678807 76632
+getNumberOfGenreChanges 498048
+getSongGenre 611524
+addGenre 94891
+addSong 702300 21109
+addSong 508623 253528
+addSong 100131 844546
+getNumberOfGenreChanges 609913
+addGenre 67494
+addSong 526518 662817
+addGenre 62391
+getNumberOfGenreChanges 535939
+getNumberOfSongsByGenre 48475
+addSong 633813 566560
+getNumberOfSongsByGenre 96727
+getNumberOfGenreChanges 751112
+mergeGenres 471995 613454 636126
+getNumberOfGenreChanges 633514
+getNumberOfSongsByGenre 994155
+getSongGenre 508695
+getNumberOfGenreChanges 978533
+addSong 989043 53297
+getSongGenre 739645
+mergeGenres 939249 233054 192844
+getSongGenre 178859
+getNumberOfGenreChanges 390564
+getSongGenre 364521
+addGenre 15950
+mergeGenres 12196 927183 794449
+getNumberOfSongsByGenre 94891
+getNumberOfSongsByGenre 4243
+addSong 267513 21109
+addGenre 91646
+getNumberOfSongsByGenre 870666
+getNumberOfSongsByGenre 57523
+addGenre 17022
+addGenre 7120
+mergeGenres 24959 69567 903085
+mergeGenres 62391 23271 166444
+mergeGenres 33937 21109 455390
+mergeGenres 76632 99808 955167
+addGenre 34407
+addGenre 71960
+getNumberOfGenreChanges 351590
+addSong 986519 42323
+addSong 647723 76900
+getSongGenre 630425
+getNumberOfGenreChanges 986519
+getSongGenre 804331
+getSongGenre 974312
+addGenre 6781
+getSongGenre 687001
+getNumberOfSongsByGenre 7120
+mergeGenres 97864 662817 622199
+getSongGenre 18853
+addSong 289750 467917
+addGenre 19795
+addSong 213933 655340
+mergeGenres 419900 994155 627920
+getNumberOfSongsByGenre 55712
+mergeGenres 34407 253528 707611
+addSong 337037 71960
+getNumberOfSongsByGenre 11414
+getNumberOfSongsByGenre 32516
+getSongGenre 227469
+getNumberOfGenreChanges 734646
+getSongGenre 461831
+mergeGenres 901142 636126 947770
+getSongGenre 992074
+getNumberOfSongsByGenre 96727
+addGenre 59635
+mergeGenres 59635 30531 418093
+getNumberOfSongsByGenre 76900
+getNumberOfSongsByGenre 91646
+getNumberOfGenreChanges 651437
+addSong 489819 23853
+addSong 316568 870666
+getSongGenre 15274
+getNumberOfSongsByGenre 7120
+getNumberOfSongsByGenre 76900
+getNumberOfSongsByGenre 844546
+getSongGenre 945449
+getSongGenre 529905
+addSong 465566 91646
+mergeGenres 42323 794449 961941
+getNumberOfSongsByGenre 49160
+addSong 975617 45304
+addSong 61052 844546
+mergeGenres 11414 566560 335609
+mergeGenres 831933 48475 690068
+addGenre 53101
+getNumberOfGenreChanges 702300
+getNumberOfGenreChanges 192487
+getNumberOfGenreChanges 131085
+getSongGenre 194618
+mergeGenres 53101 15950 275772
+getNumberOfGenreChanges 356393
+addSong 588631 707611
+getSongGenre 535939
+getSongGenre 362892
+addGenre 73222
+getNumberOfSongsByGenre 192844
+getNumberOfSongsByGenre 96727
+getNumberOfSongsByGenre 94891
+addGenre 43702
+mergeGenres 275772 721394 580320
+getSongGenre 61052
+getNumberOfSongsByGenre 34225
+getSongGenre 584560
+addGenre 53373
+mergeGenres 68088 55712 717181
+mergeGenres 27647 36415 764880
+addSong 614840 106035
+getSongGenre 478170
+addGenre 91459
+addSong 481347 844546
+mergeGenres 690068 455390 292215
+addSong 57097 69811
+addGenre 60748
+addSong 790836 45304
+addGenre 92266
+getSongGenre 76952
+getSongGenre 751988
+getNumberOfSongsByGenre 335609
+addGenre 23181
+mergeGenres 71960 49160 621261
+getNumberOfSongsByGenre 6781
+getNumberOfSongsByGenre 23181
+addSong 386792 717181
+addGenre 35937
+getNumberOfGenreChanges 709922
+getSongGenre 746048
+addGenre 93116
+mergeGenres 94891 69811 274352
+getSongGenre 704238
+addSong 888603 17022
+addSong 597065 166444
+getSongGenre 765785
+addSong 410880 93116
+getNumberOfGenreChanges 364521
+addSong 618372 392153
+getNumberOfSongsByGenre 467917
+getSongGenre 977597
+getNumberOfGenreChanges 362309
+addSong 247030 903085
+addGenre 55458
+addSong 149203 955167
+mergeGenres 6781 91459 812655
+addGenre 49381
+mergeGenres 53297 192844 284521
+mergeGenres 53373 67494 150904
+getSongGenre 425033
+getNumberOfGenreChanges 277812
+addSong 480984 45304
+getNumberOfGenreChanges 913531
+getNumberOfSongsByGenre 19795
+getSongGenre 212123
+mergeGenres 73222 844546 975109
+addGenre 66250
+getSongGenre 841379
+mergeGenres 75534 292215 825381
+getNumberOfGenreChanges 198079
+addGenre 23117
+addGenre 20585
+getSongGenre 163218
+mergeGenres 623198 627920 390974
+addGenre 8647
+addSong 999946 7644
+addGenre 26515
+addGenre 76792
+getSongGenre 297727
+getSongGenre 717248
+getSongGenre 617451
+addSong 731116 19795
+getNumberOfSongsByGenre 622199
+getSongGenre 681756
+addSong 220586 23181
+addGenre 62807
+getSongGenre 702300
+addGenre 77962
+getSongGenre 738019
+addGenre 462
+getNumberOfSongsByGenre 60748
+getNumberOfGenreChanges 239936
+getNumberOfSongsByGenre 17022
+mergeGenres 45304 19795 717195
+getNumberOfGenreChanges 378877
+mergeGenres 825381 717181 243127
+getNumberOfSongsByGenre 66250
+addSong 378063 7120
+addSong 831942 188889
+addSong 592457 8647
+addGenre 56971
+getNumberOfGenreChanges 991640
+addSong 42934 91646
+mergeGenres 188889 418093 515305
+mergeGenres 106035 23181 862205
+getNumberOfGenreChanges 255668
+addGenre 91425
+addSong 826401 274352
+getNumberOfGenreChanges 748228
+getNumberOfGenreChanges 582743
+mergeGenres 34225 915292 171575
+getNumberOfSongsByGenre 955167
+getNumberOfGenreChanges 58741
+mergeGenres 5929 93116 328498
+getSongGenre 308321
+mergeGenres 903085 615181 360380
+mergeGenres 390974 862205 673425
+getSongGenre 681732
+mergeGenres 580320 91646 860711
+addGenre 92565
+getNumberOfGenreChanges 978533
+getNumberOfGenreChanges 178859
+getNumberOfSongsByGenre 764880
+getNumberOfGenreChanges 739645
+getNumberOfSongsByGenre 166444
+getSongGenre 505685
+getNumberOfGenreChanges 648783
+addSong 803445 870666
+getNumberOfSongsByGenre 707611
+getNumberOfGenreChanges 391272
+addGenre 14609
+addSong 88281 870666
+addGenre 40763
+addSong 807178 62807
+getNumberOfGenreChanges 430808
+mergeGenres 35937 707611 376894
+getNumberOfGenreChanges 198330
+getNumberOfSongsByGenre 7644
+getNumberOfSongsByGenre 655340
+getNumberOfSongsByGenre 77962
+getSongGenre 356668
+getNumberOfGenreChanges 750054
+mergeGenres 171575 17022 383751
+mergeGenres 14609 947770 552350
+getNumberOfSongsByGenre 462
+getSongGenre 633514
+addSong 897401 7644
+addGenre 86662
+addGenre 43248
+getNumberOfSongsByGenre 376894
+getNumberOfSongsByGenre 86662
+mergeGenres 860711 76900 418669
+addSong 79189 655340
+addGenre 84006
+mergeGenres 26515 274352 827708
+getNumberOfGenreChanges 717248
+getNumberOfGenreChanges 505685
+addGenre 3323
+mergeGenres 418669 56480 510257
+getSongGenre 978751
+getNumberOfSongsByGenre 23117
+getNumberOfSongsByGenre 8647
+addGenre 62706
+addGenre 66089
+getNumberOfSongsByGenre 376894
+addSong 260401 150904
+addGenre 95373
+addGenre 22044
+addSong 421304 92565
+addSong 112625 23117
+getNumberOfSongsByGenre 383751
+getNumberOfGenreChanges 848720
+addSong 557681 7120
+getSongGenre 803054
+mergeGenres 66250 376894 647695
+getNumberOfSongsByGenre 673425
+getNumberOfSongsByGenre 84006
+addGenre 28400
+getSongGenre 508695
+addSong 951396 62807
+addGenre 89017
+getNumberOfSongsByGenre 392153
+getNumberOfSongsByGenre 4243
+addGenre 16569
+getSongGenre 803255
+getNumberOfSongsByGenre 975109
+addSong 428124 95373
+getNumberOfGenreChanges 495674
+addGenre 95377
+getSongGenre 884232
+getNumberOfSongsByGenre 975109
+addSong 364168 328498
+addGenre 32491
+addSong 697975 89017
+getSongGenre 919428
+getNumberOfGenreChanges 416580
+addGenre 23832
+addGenre 51643
+mergeGenres 621261 515305 187015
+getNumberOfGenreChanges 284078
+getNumberOfSongsByGenre 467917
+getNumberOfSongsByGenre 328498
+mergeGenres 23832 4243 126616
+addSong 918136 62706
+getNumberOfSongsByGenre 32491
+getNumberOfSongsByGenre 51643
+getSongGenre 535939
+addGenre 1551
+getNumberOfSongsByGenre 955167
+getNumberOfGenreChanges 748228
+getNumberOfGenreChanges 743680
+getNumberOfGenreChanges 982367
+addSong 531211 717195
+addGenre 5836
+addGenre 8425
+getSongGenre 701593
+getNumberOfGenreChanges 707390
+addGenre 62560
+getNumberOfGenreChanges 825603
+getNumberOfGenreChanges 498048
+getNumberOfSongsByGenre 510257
+getNumberOfSongsByGenre 28400
+addGenre 80664
+mergeGenres 673425 335609 623857
+getNumberOfSongsByGenre 812655
+getNumberOfGenreChanges 647723
+addGenre 93952
+getNumberOfGenreChanges 769312
+mergeGenres 62807 62706 763940
+getSongGenre 422756
+getNumberOfSongsByGenre 510257
+getNumberOfGenreChanges 751112
+mergeGenres 243127 955167 430538
+getNumberOfSongsByGenre 16569
+getSongGenre 823196
+getNumberOfGenreChanges 356668
+getSongGenre 75648
+getNumberOfGenreChanges 774402
+getNumberOfGenreChanges 367198
+addSong 269909 735787
+getNumberOfGenreChanges 769312
+getNumberOfSongsByGenre 622199
+getNumberOfGenreChanges 12071
+mergeGenres 7644 383751 455740
+getSongGenre 541678
+getSongGenre 709922
+getNumberOfGenreChanges 437649
+mergeGenres 43702 622199 408503
+addSong 84112 60748
+mergeGenres 92565 467917 353904
+addGenre 56159
+getNumberOfSongsByGenre 353904
+addGenre 21296
+mergeGenres 20585 32516 874543
+addGenre 64331
+getNumberOfSongsByGenre 462
+getNumberOfSongsByGenre 763940
+getNumberOfGenreChanges 746048
+mergeGenres 961941 23853 780985
+mergeGenres 80664 28400 692490
+addSong 871537 8425
+addGenre 48831
+getSongGenre 894025
+addGenre 78832
+getSongGenre 346617
+addGenre 11965
+getSongGenre 24941
+getNumberOfSongsByGenre 7034
+addSong 643739 692490
+getNumberOfGenreChanges 286679
+getSongGenre 597065
+getSongGenre 985746
+getSongGenre 707390
+addSong 332322 8425
+addSong 451556 975109
+addSong 774202 89017
+getNumberOfGenreChanges 112625
+addGenre 38584
+mergeGenres 22044 717195 306606
+getNumberOfGenreChanges 323799
+mergeGenres 21296 86662 553495
+getSongGenre 656342
+addSong 340310 8647
+getNumberOfGenreChanges 167935
+addSong 515066 870666
+getNumberOfGenreChanges 102994
+getSongGenre 122716
+mergeGenres 353904 98017 994224
+addSong 414770 455740
+getNumberOfGenreChanges 300309
+getNumberOfGenreChanges 697975
+getNumberOfSongsByGenre 95377
+mergeGenres 84006 66089 574951
+getNumberOfGenreChanges 774402
+mergeGenres 552350 16569 602367
+getNumberOfSongsByGenre 48831
+addGenre 99012
+addGenre 25663
+getSongGenre 496026
+getNumberOfGenreChanges 318541
+getNumberOfSongsByGenre 11965
+getNumberOfGenreChanges 149203
+getNumberOfGenreChanges 247030
+mergeGenres 553495 692490 105486
+getNumberOfGenreChanges 198163
+getNumberOfGenreChanges 992074
+getNumberOfGenreChanges 337037
+getSongGenre 58741
+getNumberOfSongsByGenre 25663
+getSongGenre 638161
+getSongGenre 29972
+addGenre 94178
+getNumberOfSongsByGenre 38584
+getNumberOfSongsByGenre 23117
+addGenre 52066
+getNumberOfSongsByGenre 187015
+getSongGenre 70917
+addSong 45016 96727
+getNumberOfSongsByGenre 994224
+addSong 443908 7034
+mergeGenres 77962 62560 635430
+mergeGenres 7034 812655 289873
+getNumberOfSongsByGenre 56159
+mergeGenres 874543 574951 627738
+mergeGenres 51643 647695 620698
+getNumberOfSongsByGenre 3323
+getNumberOfSongsByGenre 55458
+addGenre 78019
+getNumberOfGenreChanges 918874
+addSong 959763 43248
+mergeGenres 780985 7120 126659
+addSong 452094 360380
+getNumberOfGenreChanges 826401
+getSongGenre 123114
+addGenre 16649
+addGenre 76036
+mergeGenres 94178 78832 501571
+addGenre 25059
+mergeGenres 975109 92266 529214
+mergeGenres 60748 635430 606744
+mergeGenres 627738 735787 425384
+addSong 74694 25663
+getSongGenre 341840
+mergeGenres 306606 392153 796157
+mergeGenres 105486 166444 579924
+addGenre 72402
+addGenre 23047
+getNumberOfSongsByGenre 91425
+mergeGenres 95373 56971 614234
+getNumberOfGenreChanges 390564
+getSongGenre 391506
+addGenre 91374
+addSong 151418 614234
+mergeGenres 284521 579924 696365
+addSong 358775 78019
+mergeGenres 360380 25059 580628
+getNumberOfSongsByGenre 501571
+addSong 244369 796157
+getSongGenre 795277
+getSongGenre 756108
+addSong 879091 510257
+getNumberOfSongsByGenre 48831
+mergeGenres 150904 5836 731856
+addGenre 49197
+getSongGenre 643667
+addSong 189956 606744
+getSongGenre 521920
+addGenre 18984
+addSong 740442 40763
+addGenre 11582
+mergeGenres 763940 57523 849970
+addSong 48455 796157
+mergeGenres 731856 187015 806132
+getNumberOfSongsByGenre 52066
+getSongGenre 428124
+addSong 194064 408503
+getNumberOfGenreChanges 269909
+mergeGenres 696365 328498 260273
+addSong 147480 455740
+addGenre 12506
+getNumberOfGenreChanges 300309
+getNumberOfGenreChanges 891768
+getNumberOfSongsByGenre 580628
+addGenre 3560
+mergeGenres 510257 43248 897505
+addGenre 62704
+getSongGenre 643667
+getSongGenre 277812
+addGenre 93093
+addGenre 46165
+addGenre 95651
+addGenre 6116
+mergeGenres 91374 994224 521476
+mergeGenres 529214 95651 565631
+getNumberOfSongsByGenre 38584
+mergeGenres 55458 62704 752915
+addSong 37349 89017
+addGenre 16070
+getNumberOfGenreChanges 68079
+getSongGenre 999946
+getSongGenre 697975
+addSong 560550 260273
+addGenre 33233
+mergeGenres 91425 8425 948374
+getSongGenre 827732
+getNumberOfGenreChanges 481347
+getNumberOfGenreChanges 183431
+getNumberOfSongsByGenre 580628
+getNumberOfSongsByGenre 72402
+addSong 218231 827708
+getNumberOfGenreChanges 560550
+getNumberOfSongsByGenre 18984
+addSong 75859 408503
+mergeGenres 3323 455740 574002
+addGenre 12104
+addGenre 50353
+getSongGenre 638161
+mergeGenres 796157 38584 717506
+addGenre 11945
+getNumberOfGenreChanges 811988
+getNumberOfSongsByGenre 126659
+addSong 833131 948374
+getSongGenre 430808
+getNumberOfGenreChanges 391506
+addSong 535211 614234
+getNumberOfSongsByGenre 11965
+getNumberOfGenreChanges 290800
+getNumberOfSongsByGenre 11965
+mergeGenres 23047 260273 975215
+getSongGenre 45016
+getNumberOfGenreChanges 57097
+mergeGenres 614234 126659 781437
+getNumberOfSongsByGenre 620698
+getSongGenre 366144
+getSongGenre 286679
+addSong 78403 11945
+addGenre 28592
+addGenre 11547
+getSongGenre 691711
+getSongGenre 12071
+getNumberOfGenreChanges 828607
+addGenre 23452
+getNumberOfSongsByGenre 16649
+mergeGenres 870666 12506 394649
+getSongGenre 387173
+addSong 407148 289873
+addSong 285971 49197
+getNumberOfGenreChanges 803445
+getSongGenre 701593
+getSongGenre 115417
+mergeGenres 23117 623857 730161
+getNumberOfSongsByGenre 948374
+addGenre 17445
+addGenre 40627
+getNumberOfSongsByGenre 501571
+addSong 283704 948374
+getNumberOfSongsByGenre 580628
+getSongGenre 633514
+addSong 640060 897505
+addSong 769481 11945
+addSong 378943 462
+addSong 281364 32491
+getNumberOfGenreChanges 76952
+getNumberOfSongsByGenre 501571
+getSongGenre 290800
+addSong 385939 17445
+mergeGenres 655340 606744 669443
+addGenre 99125
+mergeGenres 76792 11945 521693
+getNumberOfGenreChanges 353829
+getNumberOfSongsByGenre 56159
+addGenre 11552
+getSongGenre 356668
+mergeGenres 16649 717506 689573
+addSong 990752 408503
+getNumberOfGenreChanges 891768
+addSong 993385 49197
+getNumberOfSongsByGenre 25663
+addSong 413778 1551
+addGenre 66872
+addGenre 37280
+addSong 636585 565631
+getNumberOfGenreChanges 697975
+mergeGenres 50353 25663 514558
+addSong 454241 975215
+getSongGenre 855790
+getNumberOfGenreChanges 470340
+mergeGenres 16070 99012 289048
+getSongGenre 999946
+getSongGenre 656342
+getSongGenre 52989
+getNumberOfGenreChanges 781466
+addGenre 52082
+addSong 111708 669443
+getNumberOfGenreChanges 111985
+addGenre 29524
+getNumberOfGenreChanges 260401
+addSong 606129 514558
+getNumberOfSongsByGenre 11547
+getSongGenre 795277
+addGenre 19742
+mergeGenres 764880 32491 590331
+getSongGenre 454241
+getNumberOfGenreChanges 557681
+getSongGenre 449806
+getSongGenre 678807
+addGenre 72416
+addGenre 21102
+getNumberOfSongsByGenre 580628
+getNumberOfGenreChanges 145891
+getNumberOfSongsByGenre 806132
+getSongGenre 364521
+getNumberOfSongsByGenre 21102
+mergeGenres 96727 93952 754019
+getNumberOfSongsByGenre 33233
+mergeGenres 95377 462 946073
+addSong 579520 565631
+addGenre 79884
+addGenre 26367
+getNumberOfGenreChanges 122716
+addSong 811709 11552
+getNumberOfSongsByGenre 11547
+mergeGenres 827708 11965 755626
+addSong 140679 52082
+getSongGenre 229697
+mergeGenres 754019 8647 819362
+mergeGenres 580628 21102 858983
+getNumberOfSongsByGenre 394649
+getNumberOfSongsByGenre 79884
+mergeGenres 19742 23452 883059
+getNumberOfGenreChanges 539544
+getSongGenre 356668
+addGenre 53329
+getNumberOfGenreChanges 495674
+addSong 785671 620698
+getNumberOfGenreChanges 879091
+mergeGenres 394649 89017 712749
+mergeGenres 620698 1551 447735
+getSongGenre 662741
+getNumberOfGenreChanges 111053
+mergeGenres 40627 3560 716071
+mergeGenres 78019 11582 573455
+addSong 959568 79884
+mergeGenres 17445 590331 705069
+mergeGenres 705069 883059 611322
+mergeGenres 28592 93093 172987
+mergeGenres 76036 669443 385174
+getNumberOfSongsByGenre 49381
+addSong 199395 897505
+getNumberOfSongsByGenre 26367
+addSong 469415 897505
+getSongGenre 316568
+getNumberOfGenreChanges 959763
+getSongGenre 891768
+addGenre 71383
+getNumberOfSongsByGenre 689573
+getNumberOfSongsByGenre 806132
+mergeGenres 52066 565631 215587
+mergeGenres 858983 48831 189450
+getNumberOfSongsByGenre 289048
+getNumberOfSongsByGenre 430538
+addSong 968663 755626
+mergeGenres 46165 514558 780692
+addGenre 79691
+addSong 335257 56159
+getNumberOfGenreChanges 889506
+addGenre 44795
+getNumberOfSongsByGenre 289873
+getNumberOfGenreChanges 416580
+getSongGenre 495674
+addSong 686511 52082
+getNumberOfSongsByGenre 53329
+getNumberOfGenreChanges 437649
+getNumberOfSongsByGenre 689573
+getSongGenre 535939
+addSong 9968 712749
+getSongGenre 52989
+addGenre 34762
+getNumberOfGenreChanges 823196
+getNumberOfGenreChanges 535939
+addSong 286242 781437
+addGenre 85327
+mergeGenres 33233 12104 532317
+getNumberOfGenreChanges 131110
+addGenre 14100
+getNumberOfGenreChanges 678807
+mergeGenres 44795 780692 241153
+getSongGenre 472384
+addSong 386711 29524
+addGenre 66064
+mergeGenres 14100 172987 898777
+getNumberOfSongsByGenre 6116
+mergeGenres 99125 49197 878853
+getNumberOfGenreChanges 465352
+mergeGenres 53329 716071 479420
+mergeGenres 898777 781437 779631
+addSong 889539 71383
+addSong 15350 289048
+addGenre 13383
+getSongGenre 884232
+addGenre 19085
+addSong 566902 6116
+addGenre 30170
+getNumberOfGenreChanges 660569
+getNumberOfSongsByGenre 289873
+addSong 888511 946073
+addGenre 45341
+addGenre 47885
+getNumberOfSongsByGenre 64331
+addGenre 62918
+mergeGenres 64331 71383 300056
+getNumberOfSongsByGenre 40763
+mergeGenres 11547 56159 862968
+addGenre 32875
+mergeGenres 862968 19085 677685
+addSong 501792 430538
+addSong 965 755626
+addSong 987670 819362
+addSong 991351 85327
+mergeGenres 11552 425384 649292
+getSongGenre 999946
+getSongGenre 765785
+mergeGenres 712749 408503 836770
+getSongGenre 989043
+getSongGenre 422756
+addGenre 15037
+getSongGenre 131741
+getNumberOfSongsByGenre 689573
+getNumberOfSongsByGenre 15037
+getSongGenre 397590
+getNumberOfGenreChanges 501792
+getSongGenre 79189
+getSongGenre 633813
+getSongGenre 813274
+mergeGenres 532317 447735 916326
+getNumberOfSongsByGenre 215587
+getNumberOfGenreChanges 681756
+getNumberOfSongsByGenre 677685
+getNumberOfSongsByGenre 62918
+getNumberOfGenreChanges 894025
+getSongGenre 180758
+mergeGenres 501571 836770 141829
+addGenre 33112
+addSong 579807 289873
+addSong 589392 37280
+getNumberOfSongsByGenre 62918
+getNumberOfSongsByGenre 33112
+getSongGenre 75859
+getSongGenre 367198
+getSongGenre 425033
+getNumberOfGenreChanges 879091
+getNumberOfGenreChanges 994254
+addGenre 5835
+getNumberOfSongsByGenre 5835
+addSong 414431 15037
+addSong 643680 289048
+mergeGenres 573455 85327 142669
+getNumberOfSongsByGenre 430538
+getNumberOfSongsByGenre 32875
+mergeGenres 946073 574002 326392
+mergeGenres 47885 878853 987382
+addSong 118183 126616
+getNumberOfSongsByGenre 37280
+mergeGenres 18984 987382 164603
+addSong 400159 752915
+addSong 692281 15037
+addSong 739640 730161
+getNumberOfSongsByGenre 40763
+mergeGenres 37280 755626 258779
+getSongGenre 743680
+addSong 655570 602367
+addSong 911857 897505
+getNumberOfSongsByGenre 752915
+addGenre 38895
+getNumberOfGenreChanges 149203
+getSongGenre 409092
+mergeGenres 849970 126616 921107
+getNumberOfGenreChanges 280352
+addSong 750097 430538
+mergeGenres 72416 45341 436998
+getNumberOfSongsByGenre 689573
+getNumberOfSongsByGenre 521476
+addGenre 20886
+addSong 182516 430538
+getSongGenre 353829
+getSongGenre 187801
+getNumberOfGenreChanges 76952
+getSongGenre 991351
+addGenre 24471
+getSongGenre 413778
+getNumberOfSongsByGenre 521476
+getNumberOfGenreChanges 978751
+getNumberOfSongsByGenre 66064
+getNumberOfGenreChanges 743140
+getNumberOfSongsByGenre 32875
+getNumberOfGenreChanges 648783
+getNumberOfSongsByGenre 79691
+addSong 339486 34762
+getSongGenre 811988
+getSongGenre 769481
+addGenre 20903
+addSong 464801 436998
+mergeGenres 479420 33112 151084
+getNumberOfGenreChanges 813334
+addSong 273731 66872
+mergeGenres 34762 66872 971927
+addSong 787327 326392
+addSong 551418 677685
+getSongGenre 529279
+getSongGenre 978615
+getNumberOfGenreChanges 179063
+getSongGenre 178859
+getNumberOfGenreChanges 444621
+addGenre 49165
+addSong 346427 30170
+addGenre 90968
+mergeGenres 430538 164603 357420
+getNumberOfGenreChanges 12071
+addGenre 2617
+getNumberOfSongsByGenre 79884
+addSong 674898 29524
+getNumberOfSongsByGenre 897505
+addGenre 7494
+addSong 114574 806132
+mergeGenres 90968 385174 272798
+addGenre 70336
+addSong 46226 730161
+addSong 150135 29524
+getSongGenre 436812
+mergeGenres 357420 436998 233373
+getSongGenre 422756
+addSong 690987 752915
+addGenre 92446
+addSong 721029 272798
+addGenre 65932
+getSongGenre 919428
+mergeGenres 79884 40763 548546
+getSongGenre 638161
+addGenre 28541
+getNumberOfGenreChanges 788197
+getNumberOfSongsByGenre 921107
+getSongGenre 788197
+getNumberOfSongsByGenre 300056
+getNumberOfGenreChanges 285545
+getNumberOfGenreChanges 244369
+getSongGenre 400159
+getNumberOfGenreChanges 955714
+addSong 371269 521693
+mergeGenres 24471 32875 593961
+getNumberOfGenreChanges 724314
+getSongGenre 579807
+getNumberOfGenreChanges 596661
+mergeGenres 233373 258779 692060
+getSongGenre 112625
+getNumberOfSongsByGenre 26367
+addSong 415644 5835
+mergeGenres 730161 689573 128485
+getSongGenre 70917
+addGenre 45858
+getNumberOfGenreChanges 29972
+addSong 675698 128485
+getNumberOfSongsByGenre 975215
+getNumberOfGenreChanges 707394
+getNumberOfGenreChanges 935147
+getNumberOfSongsByGenre 521476
+getNumberOfGenreChanges 592457
+getSongGenre 79189
+getNumberOfSongsByGenre 649292
+getNumberOfSongsByGenre 215587
+addSong 842052 548546
+getNumberOfSongsByGenre 26367
+mergeGenres 611322 142669 995564
+getNumberOfSongsByGenre 326392
+getNumberOfSongsByGenre 241153
+getNumberOfGenreChanges 833131
+getNumberOfSongsByGenre 272798
+getNumberOfSongsByGenre 300056
+mergeGenres 70336 66064 682505
+addSong 898025 682505
+addGenre 25630
+getSongGenre 557681
+getNumberOfSongsByGenre 916326
+addSong 633219 189450
+addGenre 49804
+getNumberOfGenreChanges 935147
+getNumberOfGenreChanges 118183
+getNumberOfGenreChanges 42934
+getNumberOfGenreChanges 167935
+addGenre 69595
+getNumberOfSongsByGenre 26367
+getSongGenre 643739
+getNumberOfSongsByGenre 682505
+addGenre 9827
+getNumberOfSongsByGenre 593961
+getNumberOfSongsByGenre 92446
+addGenre 20387
+addSong 47236 326392
+getNumberOfSongsByGenre 92446
+mergeGenres 300056 189450 639078
+getNumberOfSongsByGenre 128485
+addGenre 40356
+mergeGenres 289873 79691 596599
+getNumberOfGenreChanges 506480
+addGenre 96288
+mergeGenres 779631 921107 328307
+getSongGenre 848720
+getNumberOfGenreChanges 589392
+mergeGenres 9827 20903 532294
+getNumberOfGenreChanges 579807
+addGenre 27905
+addSong 12229 20886
+addGenre 23394
+addGenre 30321
+getNumberOfGenreChanges 316568
+addSong 198932 5835
+mergeGenres 948374 38895 602731
+getNumberOfSongsByGenre 49381
+getSongGenre 813274
+getNumberOfSongsByGenre 25630
+addGenre 50530
+mergeGenres 49165 15037 403522
+getNumberOfSongsByGenre 20387
+getNumberOfSongsByGenre 69595
+getSongGenre 652545
+mergeGenres 403522 62918 881770
+getSongGenre 975617
+getSongGenre 284078
+addSong 855664 13383
+addSong 621234 995564
+getNumberOfSongsByGenre 45858
+addGenre 98629
+addGenre 72302
+addGenre 92994
+getNumberOfGenreChanges 855664
+getSongGenre 807178
+mergeGenres 72402 692060 685571
+getNumberOfGenreChanges 151418
+getNumberOfSongsByGenre 7494
+mergeGenres 596599 52082 432723
+getNumberOfSongsByGenre 23394
+getNumberOfSongsByGenre 7494
+addSong 365209 916326
+getNumberOfSongsByGenre 7494
+mergeGenres 98629 49381 976078
+mergeGenres 96288 521693 441278
+addSong 839798 897505
+getNumberOfSongsByGenre 677685
+mergeGenres 151084 532294 255928
+addGenre 32301
+addSong 853257 916326
+addGenre 40487
+addSong 550379 272798
+mergeGenres 7494 682505 379742
+getSongGenre 464801
+addSong 457786 40487
+getNumberOfGenreChanges 111708
+getNumberOfSongsByGenre 45858
+mergeGenres 521476 40487 376826
+getNumberOfSongsByGenre 13383
+getSongGenre 918874
+getNumberOfGenreChanges 697975
+mergeGenres 975215 881770 373234
+getSongGenre 65038
+addGenre 52085
+addGenre 69085
+getSongGenre 9968
+getSongGenre 102994
+getNumberOfSongsByGenre 128485
+getSongGenre 210896
+mergeGenres 272798 65932 709295
+getNumberOfGenreChanges 889506
+getSongGenre 478170
+getNumberOfGenreChanges 913531
+addSong 89438 23394
+addSong 149449 709295
+addSong 265771 23394
+addGenre 24376
+getNumberOfSongsByGenre 20886
+addSong 794649 752915
+getNumberOfGenreChanges 831942
+getSongGenre 47236
+getNumberOfSongsByGenre 69595
+addSong 797155 602731
+getNumberOfGenreChanges 495674
+addSong 671279 976078
+addSong 874651 639078
+getNumberOfGenreChanges 199352
+getSongGenre 112625
+getNumberOfSongsByGenre 752915
+getNumberOfSongsByGenre 49804
+getNumberOfSongsByGenre 709295
+getNumberOfSongsByGenre 255928
+getNumberOfSongsByGenre 23394
+getNumberOfGenreChanges 414431
+getSongGenre 993385
+getSongGenre 179063
+addGenre 15344
+getSongGenre 46226
+addSong 437525 29524
+getSongGenre 387173
+addSong 366790 32301
+getNumberOfGenreChanges 276705
+getSongGenre 149449
+mergeGenres 215587 289048 139268
+getSongGenre 660569
+getNumberOfGenreChanges 247030
+getNumberOfSongsByGenre 976078
+addGenre 36927
+addGenre 44927
+mergeGenres 373234 32301 889562
+addSong 669564 69085
+addSong 993079 819362
+addSong 180049 5835
+addSong 11240 92446
+addGenre 93794
+addGenre 66177
+getSongGenre 470340
+addSong 540217 6116
+addSong 756604 69085
+mergeGenres 141829 255928 986651
+addSong 951123 24376
+addSong 162001 379742
+addGenre 13682
+getNumberOfSongsByGenre 13682
+addGenre 69618
+getNumberOfSongsByGenre 29524
+getNumberOfSongsByGenre 50530
+mergeGenres 709295 13383 916694
+addSong 148208 139268
+addSong 247689 897505
+addGenre 13402
+getNumberOfSongsByGenre 69618
+getNumberOfSongsByGenre 50530
+getNumberOfSongsByGenre 52085
+addGenre 83364
+mergeGenres 29524 819362 118608
+getNumberOfGenreChanges 70917
+getNumberOfSongsByGenre 548546
+addGenre 1482
+getNumberOfGenreChanges 423406
+addGenre 92316
+getSongGenre 188046
+getNumberOfGenreChanges 551418
+getNumberOfGenreChanges 709922
+getNumberOfSongsByGenre 685571
+addSong 605824 976078
+mergeGenres 13402 897505 451019
+getSongGenre 501792
+getNumberOfGenreChanges 611524
+addSong 95843 5835
+addGenre 47492
+mergeGenres 639078 889562 769574
+addGenre 49729
+getNumberOfGenreChanges 227469
+addGenre 74117
+addGenre 22088
+mergeGenres 6116 69595 139652
+getNumberOfSongsByGenre 986651
+addGenre 97782
+getSongGenre 897069
+getNumberOfGenreChanges 409092
+getNumberOfGenreChanges 734646
+addSong 967249 806132
+getNumberOfGenreChanges 785671
+addSong 913276 995564
+mergeGenres 28541 376826 482009
+getNumberOfGenreChanges 878879
+getNumberOfSongsByGenre 49804
+addGenre 80103
+mergeGenres 22088 2617 755172
+getNumberOfGenreChanges 65038
+addGenre 6800
+getNumberOfGenreChanges 687001
+mergeGenres 649292 118608 844375
+getNumberOfGenreChanges 286679
+mergeGenres 92446 806132 736564
+getSongGenre 48455
+addGenre 24581
+addGenre 41895
+getSongGenre 848720
+addGenre 79787
+getNumberOfSongsByGenre 97782
+addGenre 2353
+addSong 64287 139652
+getSongGenre 878879
+addSong 70682 432723
+addGenre 51810
+getNumberOfGenreChanges 64287
+getNumberOfSongsByGenre 916694
+addSong 197494 52085
+addGenre 46340
+getNumberOfSongsByGenre 139652
+getSongGenre 918136
+getSongGenre 648783
+addSong 459617 139268
+getNumberOfSongsByGenre 844375
+getNumberOfSongsByGenre 92994
+getNumberOfGenreChanges 131110
+getSongGenre 84112
+addGenre 99539
+getSongGenre 437649
+addGenre 63204
+addGenre 66187
+addSong 666247 36927
+getSongGenre 588631
+getSongGenre 472384
+addGenre 29053
+addGenre 89330
+getNumberOfGenreChanges 597065
+getNumberOfSongsByGenre 49804
+getNumberOfSongsByGenre 27905
+addGenre 33212
+getNumberOfGenreChanges 746048
+getSongGenre 803255
+addSong 631145 2353
+getSongGenre 29972
+getNumberOfGenreChanges 390564
+getNumberOfSongsByGenre 25630
+getSongGenre 529279
+getSongGenre 64287
+addGenre 46713
+getNumberOfGenreChanges 255668
+addSong 922357 74117
+addGenre 6025
+getNumberOfSongsByGenre 986651
+mergeGenres 69085 15344 382604
+mergeGenres 40356 25630 255805
+getNumberOfSongsByGenre 916326
+getNumberOfSongsByGenre 72302
+getNumberOfGenreChanges 867141
+addSong 807197 27905
+mergeGenres 593961 49804 904008
+getNumberOfSongsByGenre 844375
+addGenre 16950
+mergeGenres 482009 66177 568264
+getNumberOfSongsByGenre 995564
+addSong 215553 66187
+getSongGenre 584560
+mergeGenres 50530 24376 454616
+getNumberOfGenreChanges 366144
+getNumberOfSongsByGenre 74117
+addSong 291121 916694
+mergeGenres 66187 5835 116953
+getNumberOfGenreChanges 580227
+addSong 635746 20387
+getSongGenre 46226
+getNumberOfGenreChanges 151418
+getSongGenre 681732
+addGenre 7614
+addSong 183454 92994
+mergeGenres 769574 685571 713425
+getSongGenre 227469
+getNumberOfGenreChanges 990752
+getNumberOfGenreChanges 100131
+addGenre 986
+addSong 406161 47492
+addGenre 52296
+getNumberOfGenreChanges 346427
+getNumberOfGenreChanges 75518
+getSongGenre 671279
+getSongGenre 660950
+addSong 836489 27905
+getNumberOfSongsByGenre 45858
+getNumberOfSongsByGenre 33212
+addSong 985020 255805
+getSongGenre 213933
+getSongGenre 978751
+addSong 910743 971927
+mergeGenres 255805 6800 964640
+getSongGenre 391506
+getNumberOfSongsByGenre 713425
+getNumberOfGenreChanges 443908
+mergeGenres 93794 904008 621088
+mergeGenres 30321 46340 874313
+mergeGenres 548546 432723 355825
+addGenre 98940
+addSong 891340 752915
+getNumberOfGenreChanges 192487
+addSong 590104 379742
+getSongGenre 867141
+addSong 288307 99539
+getSongGenre 260776
+getSongGenre 75859
+getNumberOfSongsByGenre 30170
+getNumberOfGenreChanges 605824
+getSongGenre 76952
+getNumberOfSongsByGenre 976078
+addSong 195754 976078
+addGenre 48292
+getNumberOfSongsByGenre 736564
+addGenre 60652
+getSongGenre 785671
+getSongGenre 285545
+addSong 806453 326392
+getNumberOfSongsByGenre 326392
+mergeGenres 20886 46713 631153
+getSongGenre 341840
+getSongGenre 413778
+getNumberOfSongsByGenre 752915
+getNumberOfSongsByGenre 52296
+mergeGenres 52085 844375 122182
+getNumberOfGenreChanges 377653
+addSong 475141 128485
+addSong 72560 355825
+getNumberOfSongsByGenre 713425
+getNumberOfSongsByGenre 379742
+addGenre 35036
+mergeGenres 752915 20387 315150
+getNumberOfGenreChanges 655570
+getNumberOfSongsByGenre 454616
+addGenre 89912
+addGenre 80904
+addGenre 11459
+addSong 294982 80904
+getSongGenre 11240
+getNumberOfGenreChanges 813274
+mergeGenres 7614 971927 760709
+getNumberOfGenreChanges 123114
+getSongGenre 136731
+getNumberOfSongsByGenre 755172
+getNumberOfGenreChanges 788197
+getNumberOfGenreChanges 888511
+getSongGenre 643739
+addGenre 42138
+getNumberOfSongsByGenre 139268
+getNumberOfSongsByGenre 89330
+getNumberOfSongsByGenre 602731
+addGenre 51204
+getNumberOfGenreChanges 286242
+mergeGenres 79787 60652 495825
+addGenre 23942
+getSongGenre 541678
+addGenre 26916
+addGenre 28823
+getNumberOfSongsByGenre 1482
+mergeGenres 92994 986651 655468
+addSong 432884 29053
+getNumberOfSongsByGenre 33212
+addGenre 66834
+addSong 456692 72302
+mergeGenres 976078 45858 857523
+getNumberOfGenreChanges 12229
+mergeGenres 63204 69618 815970
+addGenre 50988
+mergeGenres 602367 89330 665354
+getNumberOfSongsByGenre 760709
+getSongGenre 37349
+getNumberOfSongsByGenre 857523
+getSongGenre 362892
+getSongGenre 867141
+mergeGenres 451019 677685 860341
+mergeGenres 50988 122182 892828
+addGenre 72689
+getSongGenre 707394
+getSongGenre 436812
+getNumberOfGenreChanges 456692
+getSongGenre 751112
+addSong 736793 892828
+getNumberOfSongsByGenre 128485
+getSongGenre 24574
+getNumberOfGenreChanges 37349
+getNumberOfSongsByGenre 97782
+addSong 379915 382604
+mergeGenres 857523 128485 159743
+addGenre 13043
+addSong 905774 755172
+mergeGenres 382604 379742 333396
+getSongGenre 149203
+addSong 617822 736564
+mergeGenres 568264 495825 515445
+addGenre 19848
+addGenre 10190
+getSongGenre 986519
+addSong 924098 6025
+addSong 206845 48292
+addSong 379278 1482
+addGenre 25221
+mergeGenres 713425 72302 183002
+getNumberOfGenreChanges 839798
+mergeGenres 333396 44927 765582
+addSong 606718 116953
+mergeGenres 66834 6025 189156
+getNumberOfGenreChanges 696323
+addGenre 56882
+getNumberOfGenreChanges 194064
+getNumberOfGenreChanges 648783
+getNumberOfGenreChanges 807197
+getNumberOfSongsByGenre 35036
+getSongGenre 678807
+addGenre 12934
+mergeGenres 326392 35036 379399
+addSong 596731 183002
+getNumberOfGenreChanges 582743
+addSong 746128 72689
+mergeGenres 25221 874313 422210
+getSongGenre 518490
+addGenre 48683
+getNumberOfSongsByGenre 916326
+addGenre 92293
+getSongGenre 951396
+getNumberOfSongsByGenre 48292
+getNumberOfGenreChanges 731116
+addSong 494058 89912
+addSong 795312 665354
+getSongGenre 182516
+addSong 577731 24581
+getNumberOfSongsByGenre 995564
+mergeGenres 23394 72689 309111
+addGenre 71137
+addSong 714602 760709
+getSongGenre 131741
+addGenre 45518
+getSongGenre 414431
+addGenre 78730
+getSongGenre 215553
+getSongGenre 987670
+getNumberOfSongsByGenre 765582
+mergeGenres 665354 13682 404855
+getNumberOfSongsByGenre 92316
+getSongGenre 910743
+getNumberOfSongsByGenre 13043
+getNumberOfGenreChanges 617451
+addSong 676491 355825
+mergeGenres 139268 159743 412734
+addSong 800517 97782
+getSongGenre 125095
+addGenre 24541
+getSongGenre 803255
+getNumberOfGenreChanges 449806
+getNumberOfGenreChanges 9968
+mergeGenres 760709 422210 676121
+addSong 190200 404855
+addGenre 9593
+mergeGenres 309111 52296 243987
+getNumberOfSongsByGenre 41895
+getNumberOfGenreChanges 965
+addSong 731019 51204
+addSong 798704 48683
+getNumberOfSongsByGenre 49729
+getNumberOfGenreChanges 454241
+getSongGenre 346352
+mergeGenres 189156 29053 409817
+getNumberOfSongsByGenre 139652
+getNumberOfGenreChanges 131110
+addGenre 11667
+mergeGenres 676121 11459 569227
+getNumberOfSongsByGenre 33212
+getNumberOfGenreChanges 89438
+mergeGenres 412734 51810 156666
+getNumberOfSongsByGenre 116953
+mergeGenres 80103 964640 393192
+addGenre 84158
+getNumberOfSongsByGenre 83364
+addSong 525215 765582
+addSong 30996 41895
+getNumberOfSongsByGenre 45518
+addGenre 59340
+addGenre 32329
+mergeGenres 241153 139652 344706
+getSongGenre 377653
+getNumberOfSongsByGenre 98940
+addSong 299977 355825
+getNumberOfGenreChanges 972828
+getSongGenre 597065
+mergeGenres 355825 13043 837641
+mergeGenres 48683 97782 618044
+getNumberOfSongsByGenre 23942
+addGenre 93970
+getSongGenre 352794
+addSong 10042 80904
+addGenre 67721
+mergeGenres 48292 99539 678191
+getSongGenre 589392
+getNumberOfGenreChanges 862959
+getNumberOfSongsByGenre 24541
+addSong 492407 24541
+getNumberOfGenreChanges 797155
+mergeGenres 860341 80904 204787
+getSongGenre 833131
+getNumberOfSongsByGenre 441278
+addSong 958549 24541
+addGenre 78534
+addSong 523489 569227
+addSong 701330 12934
+mergeGenres 986 49729 826500
+getNumberOfGenreChanges 830785
+getSongGenre 582743
+addGenre 55856
+getNumberOfSongsByGenre 67721
+getNumberOfSongsByGenre 24581
+addSong 848744 51204
+mergeGenres 98940 678191 960878
+addSong 353943 12934
+getNumberOfGenreChanges 833131
+addGenre 33869
+mergeGenres 19848 78730 846894
+addGenre 37252
+addGenre 14286
+addSong 153886 32329
+addSong 436968 24581
+mergeGenres 32329 569227 844042
+addSong 463278 30170
+getNumberOfGenreChanges 874651
+getSongGenre 109488
+addGenre 19797
+mergeGenres 916694 11667 738357
+getNumberOfGenreChanges 78403
+getNumberOfSongsByGenre 328307
+addGenre 65323
+getNumberOfGenreChanges 465566
+mergeGenres 183002 826500 157896
+getNumberOfGenreChanges 697975
+getNumberOfGenreChanges 244369
+mergeGenres 23942 515445 249510
+getSongGenre 89438
+getSongGenre 64287
+getNumberOfSongsByGenre 1482
+mergeGenres 27905 846894 354226
+getNumberOfGenreChanges 478170
+getSongGenre 151418
+addGenre 80249
+getSongGenre 145891
+getSongGenre 454241
+getNumberOfSongsByGenre 12934
+addGenre 88320
+getNumberOfSongsByGenre 621088
+getNumberOfSongsByGenre 28823
+getSongGenre 945449
+getNumberOfSongsByGenre 1482
+getNumberOfSongsByGenre 26367
+addSong 501723 30170
+getSongGenre 982367
+addGenre 97255
+addGenre 96654
+getNumberOfGenreChanges 378877
+getNumberOfSongsByGenre 26367
+mergeGenres 78534 815970 581679
+getNumberOfSongsByGenre 621088
+getNumberOfGenreChanges 647723
+addSong 678690 602731
+getNumberOfSongsByGenre 837641
+getNumberOfSongsByGenre 19797
+addGenre 83285
+getNumberOfSongsByGenre 37252
+getNumberOfGenreChanges 199352
+addSong 351903 93970
+getNumberOfGenreChanges 178859
+getNumberOfGenreChanges 794649
+getNumberOfSongsByGenre 37252
+getSongGenre 611524
+getNumberOfSongsByGenre 844042
+addSong 416035 354226
+addGenre 58963
+mergeGenres 96654 24541 630058
+getNumberOfGenreChanges 531211
+addGenre 5562
+getSongGenre 850497
+mergeGenres 10190 960878 899711
+addSong 626367 243987
+addGenre 44930
+getNumberOfGenreChanges 806453
+getSongGenre 194618
+addGenre 61350
+getNumberOfSongsByGenre 156666
+mergeGenres 249510 92293 636656
+addGenre 26886
+getSongGenre 750097
+getNumberOfGenreChanges 769481
+addGenre 86721
+getNumberOfGenreChanges 289750
+getNumberOfSongsByGenre 636656
+getNumberOfSongsByGenre 28823
+mergeGenres 16950 19797 855964
+getNumberOfSongsByGenre 12934
+mergeGenres 441278 581679 512323
+getSongGenre 432884
+addSong 794613 655468
+addGenre 46763
+getSongGenre 862959
+addGenre 44671
+addGenre 32102
+getNumberOfGenreChanges 359641
+mergeGenres 204787 755172 919199
+addGenre 37717
+getNumberOfSongsByGenre 9593
+getNumberOfGenreChanges 501723
+getNumberOfGenreChanges 701593
+getSongGenre 557681
+getNumberOfGenreChanges 721029
+addSong 874403 602731
+addSong 670590 26367
+getSongGenre 633514
+addGenre 77666
+addGenre 91717
+getNumberOfSongsByGenre 74117
+getNumberOfGenreChanges 247030
+getNumberOfGenreChanges 740442
+mergeGenres 1482 157896 457813
+mergeGenres 602731 393192 617134
+mergeGenres 354226 844042 686221
+getNumberOfGenreChanges 76952
+mergeGenres 26367 919199 498702
+getSongGenre 449806
+getNumberOfSongsByGenre 32102
+getNumberOfGenreChanges 273116
+mergeGenres 512323 409817 306044
+getNumberOfGenreChanges 180049
+getSongGenre 922357
+getNumberOfSongsByGenre 243987
+addSong 520508 9593
+addGenre 97111
+mergeGenres 47492 33212 738264
+getNumberOfGenreChanges 992074
+getNumberOfGenreChanges 957294
+mergeGenres 156666 24581 408422
+getNumberOfGenreChanges 149203
+getNumberOfSongsByGenre 97111
+getNumberOfGenreChanges 878879
+addSong 572879 9593
+addGenre 96691
+addGenre 29628
+addSong 245518 738357
+addGenre 2759
+getNumberOfGenreChanges 827732
+getNumberOfGenreChanges 539544
+addSong 35533 65323
+getNumberOfSongsByGenre 899711
+addSong 374724 916326
+getNumberOfGenreChanges 724314
+getNumberOfSongsByGenre 618044
+getNumberOfSongsByGenre 46763
+addSong 40515 84158
+addGenre 56931
+addGenre 2735
+getSongGenre 198932
+getNumberOfSongsByGenre 71137
+mergeGenres 71137 315150 410566
+addSong 107370 44930
+getSongGenre 12071
+addGenre 6565
+getNumberOfGenreChanges 366790
+addGenre 42702
+mergeGenres 454616 44671 431304
+addSong 39416 92316
+getNumberOfSongsByGenre 42702
+getNumberOfGenreChanges 987670
+mergeGenres 12934 37717 737315
+addSong 111595 631153
+addSong 292833 618044
+mergeGenres 636656 9593 934473
+getSongGenre 751112
+getSongGenre 910743
+mergeGenres 67721 621088 133759
+addGenre 84999
+addGenre 35848
+mergeGenres 84999 738357 923437
+addGenre 46377
+addSong 801769 46377
+addGenre 87211
+getSongGenre 701330
+getNumberOfGenreChanges 932707
+addGenre 31843
+getNumberOfGenreChanges 198932
+mergeGenres 655468 32102 316625
+addSong 561362 46377
+addGenre 13016
+getSongGenre 642149
+getNumberOfGenreChanges 365209
+getNumberOfGenreChanges 655570
+getNumberOfGenreChanges 15350
+addGenre 23319
+getSongGenre 428124
+addSong 540439 934473
+addSong 888989 618044
+mergeGenres 91717 37252 435881
+getSongGenre 935147
+getNumberOfGenreChanges 247030
+getNumberOfSongsByGenre 765582
+addGenre 48790
+addGenre 90992
+getNumberOfSongsByGenre 13016
+getNumberOfGenreChanges 918874
+mergeGenres 630058 33869 626954
+getNumberOfSongsByGenre 74117
+getNumberOfSongsByGenre 28823
+getSongGenre 734646
+getNumberOfGenreChanges 662741
+addGenre 99781
+getSongGenre 70682
+getNumberOfGenreChanges 867141
+getNumberOfGenreChanges 220586
+getNumberOfGenreChanges 957294
+addSong 592902 328307
+getNumberOfGenreChanges 656342
+getNumberOfSongsByGenre 995564
+getSongGenre 414770
+getNumberOfGenreChanges 795312
+addGenre 57046
+getNumberOfGenreChanges 122601
+mergeGenres 96691 617134 547976
+mergeGenres 59340 84158 145179
+getNumberOfGenreChanges 955714
+getNumberOfGenreChanges 421304
+getSongGenre 246818
+getNumberOfGenreChanges 378063
+mergeGenres 855964 133759 375372
+getNumberOfSongsByGenre 56931
+getSongGenre 804331
+addSong 82964 77666
+mergeGenres 97255 410566 414194
+getNumberOfGenreChanges 366144
+addGenre 99206
+getNumberOfSongsByGenre 45518
+addGenre 78173
+getSongGenre 356668
+getNumberOfSongsByGenre 995564
+getNumberOfGenreChanges 199352
+getNumberOfSongsByGenre 99781
+addGenre 92465
+getNumberOfSongsByGenre 404855
+getNumberOfSongsByGenre 414194
+addGenre 82852
+getNumberOfSongsByGenre 46763
+addGenre 55783
+getNumberOfSongsByGenre 58963
+getNumberOfGenreChanges 291121
+getNumberOfGenreChanges 190200
+addSong 180860 408422
+addSong 680426 306044
+addGenre 71289
+getNumberOfSongsByGenre 736564
+getNumberOfSongsByGenre 77666
+getNumberOfGenreChanges 807446
+addSong 111003 26886
+getNumberOfSongsByGenre 88320
+getNumberOfSongsByGenre 71289
+getNumberOfGenreChanges 131741
+getNumberOfSongsByGenre 88320
+mergeGenres 431304 328307 325549
+getNumberOfSongsByGenre 618044
+getNumberOfGenreChanges 31694
+mergeGenres 5562 74117 198355
+mergeGenres 55856 765582 220653
+getSongGenre 774402
+addSong 949968 89912
+addSong 36401 408422
+addGenre 73329
+getNumberOfGenreChanges 579520
+getSongGenre 475141
+addGenre 81621
+addGenre 83454
+getNumberOfGenreChanges 422689
+addGenre 98920
+mergeGenres 83454 408422 754602
+mergeGenres 26916 375372 812909
+mergeGenres 78173 2735 372565
+addGenre 72713
+getSongGenre 797155
+getNumberOfSongsByGenre 13016
+getSongGenre 425033
+getSongGenre 285971
+getNumberOfSongsByGenre 916326
+getNumberOfGenreChanges 79189
+mergeGenres 344706 618044 207355
+getNumberOfSongsByGenre 42138
+getNumberOfSongsByGenre 46377
+mergeGenres 26886 737315 197365
+getNumberOfSongsByGenre 145179
+getNumberOfGenreChanges 496026
+getSongGenre 244369
+getNumberOfSongsByGenre 995564
+mergeGenres 220653 83364 375080
+mergeGenres 99206 55783 937525
+getSongGenre 879091
+getNumberOfGenreChanges 833131
+mergeGenres 207355 80249 170268
+getSongGenre 346352
+getNumberOfSongsByGenre 414194
+getSongGenre 910743
+addSong 958359 738264
+addGenre 77258
+getSongGenre 12229
+mergeGenres 92316 899711 137456
+addGenre 96348
+getNumberOfGenreChanges 589840
+addSong 136421 41895
+mergeGenres 65323 197365 342338
+getNumberOfGenreChanges 849245
+mergeGenres 77666 28823 697393
+mergeGenres 89912 58963 774462
+getNumberOfSongsByGenre 44930
+addSong 315201 98920
+getNumberOfSongsByGenre 145179
+addSong 60077 90992
+addSong 733987 57046
+getNumberOfGenreChanges 379278
+getSongGenre 102994
+addSong 23702 51204
+getSongGenre 413778
+getNumberOfGenreChanges 39416
+addSong 302517 6565
+addSong 255740 30170
+getNumberOfSongsByGenre 916326
+getNumberOfGenreChanges 371269
+getSongGenre 831942
+getNumberOfSongsByGenre 98920
+addGenre 3016
+getNumberOfSongsByGenre 457813
+getNumberOfGenreChanges 803054
+getNumberOfSongsByGenre 116953
+addGenre 37325
+getNumberOfSongsByGenre 56882
+getNumberOfSongsByGenre 56931
+getNumberOfSongsByGenre 44930
+addSong 961429 71289
+mergeGenres 342338 56931 248481
+getSongGenre 21531
+getNumberOfGenreChanges 751988
+addGenre 26670
+getNumberOfGenreChanges 148208
+mergeGenres 937525 198355 162592
+addGenre 86813
+mergeGenres 46763 31843 796891
+addSong 561347 26670
+getNumberOfSongsByGenre 41895
+addGenre 75644
+addSong 155964 45518
+mergeGenres 93970 48790 568061
+addSong 500291 82852
+addSong 85576 568061
+addGenre 75796
+mergeGenres 6565 916326 824421
+addGenre 20762
+getNumberOfSongsByGenre 72713
+getSongGenre 853257
+mergeGenres 75796 738264 380822
+addGenre 91890
+mergeGenres 87211 404855 143625
+getSongGenre 260776
+addSong 891906 796891
+addSong 904938 162592
+getNumberOfSongsByGenre 41895
+addGenre 31627
+addSong 955286 498702
+getSongGenre 430808
+mergeGenres 923437 97111 957116
+getNumberOfSongsByGenre 325549
+mergeGenres 568061 306044 621250
+getNumberOfGenreChanges 100131
+addSong 61064 380822
+addSong 565879 2759
+mergeGenres 86721 812909 829083
+addGenre 89895
+getNumberOfSongsByGenre 686221
+getNumberOfSongsByGenre 23319
+addGenre 38260
+getNumberOfGenreChanges 850497
+getSongGenre 922357
+getNumberOfGenreChanges 535728
+mergeGenres 457813 61350 652169
+addSong 391641 92465
+mergeGenres 137456 380822 393287
+getNumberOfGenreChanges 884232
+getSongGenre 260401
+addGenre 91840
+getSongGenre 611524
+getNumberOfGenreChanges 738019
+mergeGenres 77258 13016 146271
+mergeGenres 652169 26670 560361
+getNumberOfGenreChanges 229697
+getNumberOfSongsByGenre 3016
+getSongGenre 362892
+getNumberOfSongsByGenre 45518
+mergeGenres 796891 146271 800275
+addGenre 72562
+mergeGenres 162592 824421 178315
+addGenre 13330
+mergeGenres 143625 36927 530597
+mergeGenres 98920 46377 499641
+addSong 550899 72562
+getNumberOfGenreChanges 584560
+getSongGenre 506480
+mergeGenres 379399 88320 804716
+getSongGenre 592902
+addGenre 98080
+addSong 882632 498702
+addSong 622369 829083
+getNumberOfGenreChanges 788197
+getNumberOfGenreChanges 633813
+getSongGenre 750054
+mergeGenres 45518 96348 127226
+getNumberOfGenreChanges 790836
+mergeGenres 170268 35848 242595
+addGenre 50091
+getNumberOfGenreChanges 681756
+mergeGenres 38260 13330 149570
+addSong 461550 14286
+getSongGenre 387173
+getNumberOfGenreChanges 633514
+addGenre 65085
+addSong 230709 393287
+addSong 257666 800275
+getNumberOfGenreChanges 449806
+getSongGenre 550379
+getNumberOfGenreChanges 257666
+addGenre 10147
+getNumberOfGenreChanges 457786
+addSong 980527 99781
+addSong 589383 51204
+mergeGenres 372565 57046 186051
+getNumberOfGenreChanges 247030
+getSongGenre 826401
+getNumberOfGenreChanges 790836
+getSongGenre 769312
+getSongGenre 505685
+getNumberOfGenreChanges 353829
+addGenre 21759
+mergeGenres 547976 621250 271571
+addSong 570847 91890
+mergeGenres 248481 186051 882267
+getNumberOfGenreChanges 999946
+addSong 190103 2759
+mergeGenres 626954 31627 251577
+mergeGenres 499641 86813 843012
+getSongGenre 12229
+addGenre 29836
+mergeGenres 72562 149570 828486
+addGenre 78779
+getSongGenre 413778
+getNumberOfSongsByGenre 375080
+getSongGenre 257666
+getNumberOfGenreChanges 42594
+addSong 605360 41895
+addGenre 97012
+getSongGenre 47236
+getSongGenre 367198
+getNumberOfSongsByGenre 530597
+addSong 695616 686221
+getSongGenre 45016
+getNumberOfGenreChanges 741017
+getSongGenre 151418
+addGenre 87227
+addSong 202768 530597
+mergeGenres 20762 934473 463762
+mergeGenres 91840 631153 644096
+getNumberOfGenreChanges 145891
+getNumberOfSongsByGenre 697393
+getSongGenre 975617
+mergeGenres 29628 65085 144353
+addGenre 90928
+getSongGenre 431334
+getNumberOfSongsByGenre 42702
+mergeGenres 51204 414194 967703
+getNumberOfGenreChanges 813274
+getNumberOfGenreChanges 897401
+getSongGenre 746048
+getSongGenre 942996
+addSong 5992 697393
+addGenre 62291
+addGenre 41765
+getSongGenre 913531
+mergeGenres 243987 463762 507092
+getSongGenre 198163
+getNumberOfSongsByGenre 144353
+addSong 427123 995564
+addGenre 22328
+mergeGenres 882267 56882 414578
+getSongGenre 674898
+getNumberOfSongsByGenre 828486
+getNumberOfGenreChanges 891340
+mergeGenres 843012 44930 645818
+getNumberOfSongsByGenre 98080
+addGenre 80828
+addGenre 76355
+getSongGenre 416580
+getNumberOfSongsByGenre 498702
+addSong 254150 2759
+addGenre 52969
+getSongGenre 265771
+addGenre 50064
+addGenre 76278
+mergeGenres 50091 62291 770450
+addGenre 99077
+mergeGenres 30170 97012 301097
+addSong 626944 393287
+addGenre 67168
+addGenre 4962
+getSongGenre 496026
+getSongGenre 24574
+addSong 184770 2353
+getSongGenre 842052
+mergeGenres 90928 770450 600064
+addGenre 16037
+getNumberOfSongsByGenre 99781
+addGenre 75538
+getNumberOfSongsByGenre 73329
+mergeGenres 50064 560361 810837
+addSong 795447 41895
+getSongGenre 422756
+getNumberOfGenreChanges 187801
+addGenre 44625
+getNumberOfGenreChanges 618372
+getNumberOfGenreChanges 337037
+getSongGenre 811988
+addSong 33640 736564
+getNumberOfSongsByGenre 435881
+addSong 219317 52969
+addSong 878512 89895
+getSongGenre 425033
+getSongGenre 924098
+getNumberOfGenreChanges 100131
+addSong 397476 99781
+addSong 844125 697393
+getNumberOfGenreChanges 390564
+addSong 730403 16037
+addSong 268616 837641
+addGenre 91184
+getNumberOfSongsByGenre 73329
+addSong 432759 44625
+getSongGenre 540217
+getNumberOfGenreChanges 893163
+getSongGenre 614840
+getNumberOfSongsByGenre 90992
+getNumberOfGenreChanges 803445
+getNumberOfSongsByGenre 22328
+getNumberOfSongsByGenre 75644
+addSong 950330 828486
+mergeGenres 116953 83285 439107
+getNumberOfSongsByGenre 645818
+addGenre 96522
+getNumberOfSongsByGenre 145179
+getNumberOfSongsByGenre 507092
+getNumberOfGenreChanges 674898
+addGenre 23233
+getNumberOfGenreChanges 199352
+getNumberOfSongsByGenre 75644
+addSong 399572 145179
+addSong 75877 72713
+getNumberOfSongsByGenre 2759
+addGenre 47874
+addSong 60823 2759
+getNumberOfSongsByGenre 75538
+mergeGenres 316625 686221 173799
+getSongGenre 678807
+getNumberOfGenreChanges 21531
+getNumberOfGenreChanges 385939
+addSong 844935 10147
+addGenre 89290
+addSong 61762 87227
+getNumberOfSongsByGenre 37325
+addSong 911362 42138
+addSong 730265 736564
+getSongGenre 702300
+getSongGenre 219317
+addGenre 73929
+addSong 563537 37325
+getNumberOfSongsByGenre 301097
+addGenre 1965
+addSong 183455 41765
+addSong 718003 80828
+getNumberOfSongsByGenre 37325
+addSong 136280 14286
+getNumberOfSongsByGenre 41895
+addSong 970888 144353
+addSong 714541 89895
+getSongGenre 855664
+addSong 228549 393287
+getSongGenre 118183
+addGenre 16306
+getNumberOfGenreChanges 268464
+getSongGenre 525215
+addGenre 90088
+mergeGenres 644096 75644 793769
+addGenre 12950
+getNumberOfGenreChanges 572879
+getNumberOfGenreChanges 889539
+addSong 86764 325549
+addGenre 52112
+getNumberOfSongsByGenre 145179
+getNumberOfSongsByGenre 12950
+addSong 667423 73929
+getNumberOfSongsByGenre 12950
+getSongGenre 687001
+getNumberOfSongsByGenre 251577
+addSong 693250 44625
+addGenre 84589
+getNumberOfGenreChanges 924061
+getSongGenre 187801
+mergeGenres 810837 22328 305479
+getNumberOfGenreChanges 40515
+getNumberOfSongsByGenre 127226
+getSongGenre 580227
+mergeGenres 645818 375080 666808
+addGenre 62391
+mergeGenres 84589 600064 248971
+addGenre 26378
+getNumberOfSongsByGenre 91890
+mergeGenres 967703 957116 356158
+getNumberOfGenreChanges 188046
+getNumberOfSongsByGenre 12950
+getSongGenre 662741
+addSong 375690 800275
+getNumberOfGenreChanges 831942
+getSongGenre 959568
+getSongGenre 702300
+addSong 620641 3016
+getNumberOfSongsByGenre 393287
+addSong 441266 91184
+mergeGenres 3016 356158 730569
+addSong 773552 62391
+addGenre 1478
+addGenre 25370
+getNumberOfSongsByGenre 14286
+getSongGenre 712324
+getSongGenre 584560
+getNumberOfGenreChanges 974312
+getNumberOfSongsByGenre 754602
+mergeGenres 91184 507092 286265
+getSongGenre 318541
+getSongGenre 833131
+getSongGenre 335257
+addGenre 3351
+addSong 512171 301097
+getSongGenre 667423
+addSong 307958 37325
+getNumberOfSongsByGenre 96522
+mergeGenres 325549 251577 376234
+getSongGenre 427123
+getSongGenre 198330
+getNumberOfGenreChanges 918874
+getSongGenre 958359
+addGenre 67232
+addGenre 76555
+addSong 517644 286265
+mergeGenres 12950 73929 437143
+mergeGenres 23233 96522 724978
+mergeGenres 89290 242595 469386
+getNumberOfSongsByGenre 724978
+mergeGenres 173799 29836 859791
+getNumberOfSongsByGenre 78779
+mergeGenres 414578 4962 894030
+getNumberOfGenreChanges 678690
+addGenre 41899
+getNumberOfSongsByGenre 469386
+getSongGenre 277812
+getNumberOfSongsByGenre 393287
+mergeGenres 37325 859791 815795
+mergeGenres 815795 80828 727017
+addSong 17945 145179
+getNumberOfGenreChanges 409092
+getNumberOfSongsByGenre 376234
+getNumberOfSongsByGenre 305479
+getNumberOfSongsByGenre 71289
+getSongGenre 561347
+addGenre 98382
+getNumberOfGenreChanges 107370
+mergeGenres 736564 76555 609863
+getNumberOfGenreChanges 674898
+mergeGenres 697393 1478 378073
+addSong 993302 99077
+addSong 961369 41895
+getNumberOfGenreChanges 813334
+getSongGenre 107370
+mergeGenres 75538 828486 114213
+getNumberOfGenreChanges 183454
+getSongGenre 9968
+addSong 951022 67232
+getNumberOfGenreChanges 769481
+getNumberOfGenreChanges 958359
+addSong 582038 41895
+addSong 975462 91890
+getNumberOfSongsByGenre 837641
+addGenre 19394
+getSongGenre 853257
+getSongGenre 697975
+getSongGenre 78403
+addGenre 35556
+mergeGenres 114213 67168 841015
+addGenre 77931
+mergeGenres 92465 3351 624811
+mergeGenres 829083 800275 305218
+getNumberOfSongsByGenre 894030
+addSong 301425 99781
+getSongGenre 730265
+addSong 117163 44625
+getSongGenre 385939
+addSong 728125 76278
+mergeGenres 78779 62391 132110
+addGenre 70838
+mergeGenres 76355 469386 633068
+getNumberOfSongsByGenre 894030
+mergeGenres 437143 892828 731372
+getNumberOfSongsByGenre 127226
+getNumberOfSongsByGenre 81621
+getNumberOfSongsByGenre 91890
+mergeGenres 52112 666808 423530
+addSong 298349 609863
+getNumberOfSongsByGenre 72713
+getSongGenre 199352
+addGenre 8825
+getNumberOfGenreChanges 422756
+getSongGenre 753084
+mergeGenres 724978 305479 647577
+mergeGenres 132110 498702 851992
+mergeGenres 76278 44625 626895
+getSongGenre 48455
+addGenre 385
+getNumberOfSongsByGenre 23319
+addSong 540074 439107
+getNumberOfSongsByGenre 376234
+getSongGenre 337037
+getNumberOfSongsByGenre 16037
+addGenre 95404
+mergeGenres 73329 894030 791213
+getSongGenre 844125
+addGenre 33420
+addSong 982687 804716
+addSong 163715 8825
+getSongGenre 66859
+getNumberOfGenreChanges 681756
+mergeGenres 70838 178315 714155
+getNumberOfGenreChanges 803255
+getNumberOfSongsByGenre 731372
+getNumberOfGenreChanges 430808
+getNumberOfSongsByGenre 624811
+addSong 923293 71289
+mergeGenres 791213 90992 631657
+getNumberOfGenreChanges 117163
+mergeGenres 42138 626895 917637
+addSong 802745 14286
+addSong 706465 995564
+getSongGenre 505685
+getSongGenre 921930
+addSong 447368 42702
+mergeGenres 87227 2353 255716
+addGenre 19314
+addGenre 81377
+mergeGenres 41899 41895 846772
+addSong 172350 71289
+addGenre 75881
+mergeGenres 731372 67232 618247
+addSong 132291 837641
+addSong 680129 82852
+getNumberOfGenreChanges 687001
+addGenre 54497
+getSongGenre 228549
+addGenre 65475
+getSongGenre 117163
+getSongGenre 75877
+getNumberOfGenreChanges 845984
+addSong 664680 23319
+getNumberOfSongsByGenre 65475
+addSong 634897 727017
+addSong 458839 423530
+getNumberOfGenreChanges 680426
+getNumberOfSongsByGenre 42702
+addSong 851506 385
+addGenre 59809
+getNumberOfSongsByGenre 271571
+addSong 938296 98382
+getNumberOfGenreChanges 123114
+getNumberOfGenreChanges 247689
+getSongGenre 182516
+mergeGenres 376234 82852 120070
+mergeGenres 14286 2759 771523
+getNumberOfGenreChanges 475141
+getSongGenre 848720
+getNumberOfSongsByGenre 10147
+mergeGenres 631657 127226 567570
+mergeGenres 90088 19314 434605
+mergeGenres 23319 59809 516825
+addSong 356523 804716
+addSong 508864 47874
+mergeGenres 52969 530597 563698
+getSongGenre 337037
+mergeGenres 714155 21759 247774
+getNumberOfSongsByGenre 19394
+getNumberOfGenreChanges 660950
+mergeGenres 41765 77931 108167
+addSong 573585 81621
+addGenre 98320
+getNumberOfGenreChanges 803255
+getNumberOfGenreChanges 397590
+addSong 966846 271571
+addGenre 8421
+getSongGenre 118183
+mergeGenres 81621 25370 616174
+addSong 841116 774462
+getNumberOfGenreChanges 422756
+getSongGenre 561362
+mergeGenres 378073 434605 143992
+getNumberOfSongsByGenre 54497
+getSongGenre 66859
+getNumberOfSongsByGenre 120070
+getSongGenre 79189
+addSong 552453 435881
+mergeGenres 633068 143992 282898
+getNumberOfSongsByGenre 793769
+mergeGenres 271571 793769 811200
+mergeGenres 730569 851992 225224
+getNumberOfGenreChanges 586432
+getNumberOfGenreChanges 397590
+addSong 581995 247774
+addSong 762314 71289
+getNumberOfGenreChanges 64287
+mergeGenres 248971 95404 889343
+mergeGenres 804716 8421 109612
+getNumberOfGenreChanges 501723
+addGenre 439
+addGenre 46806
+getNumberOfSongsByGenre 108167
+getSongGenre 844935
+getNumberOfGenreChanges 386792
+mergeGenres 98382 255716 185646
+getNumberOfSongsByGenre 98080
+addSong 853108 771523
+addSong 861250 89895
+mergeGenres 99781 846772 117831
+getSongGenre 276705
+getNumberOfSongsByGenre 435881
+mergeGenres 108167 75881 230802
+addSong 72908 16037
+addGenre 7485
+getNumberOfGenreChanges 501723
+addSong 929279 439
+addSong 45404 385
+addGenre 48004
+getSongGenre 501723
+getNumberOfGenreChanges 539164
+addSong 986956 889343
+getSongGenre 346617
+getNumberOfSongsByGenre 567570
+getNumberOfGenreChanges 739640
+addSong 510208 26378
+addGenre 14615
+addGenre 16265
+getSongGenre 781466
+addSong 86595 771523
+getSongGenre 686511
+mergeGenres 19394 48004 863923
+mergeGenres 1965 995564 540015
+mergeGenres 439107 144353 915281
+getNumberOfSongsByGenre 393287
+getNumberOfSongsByGenre 145179
+addSong 12491 435881
+mergeGenres 915281 727017 636316
+addSong 653942 616174
+getNumberOfGenreChanges 432759
+mergeGenres 89895 439 814815
+mergeGenres 616174 16306 993631
+getNumberOfGenreChanges 421304
+getNumberOfSongsByGenre 54497
+addSong 121983 117831
+getNumberOfSongsByGenre 435881
+mergeGenres 393287 636316 825277
+mergeGenres 47874 282898 259213
+getSongGenre 74694
+getNumberOfSongsByGenre 837641
+getNumberOfSongsByGenre 33420
+getNumberOfGenreChanges 918874
+getNumberOfSongsByGenre 8825
+getSongGenre 89438
+addGenre 48596
+addSong 141542 109612
+addGenre 32987
+addGenre 53312
+addSong 386183 8825
+mergeGenres 35556 563698 812935
+addGenre 80165
+mergeGenres 54497 811200 729628
+addGenre 58862
+getNumberOfGenreChanges 260401
+addGenre 36005
+getSongGenre 308321
+getNumberOfSongsByGenre 80165
+getSongGenre 773552
+getNumberOfGenreChanges 790836
+addGenre 95401
+addGenre 80817
+addGenre 56782
+addSong 321133 774462
+mergeGenres 95401 7485 267609
+addSong 933184 98080
+addSong 639661 729628
+addSong 592028 71289
+mergeGenres 863923 46806 735754
+getNumberOfSongsByGenre 26378
+addGenre 48230
+addSong 290153 109612
+addSong 264444 56782
+addGenre 52518
+addSong 917189 889343
+getNumberOfSongsByGenre 435881
+mergeGenres 814815 267609 440175
+addSong 485352 81377
+getSongGenre 950330
+mergeGenres 567570 32987 578715
+mergeGenres 917637 624811 519281
+getSongGenre 714541
+getSongGenre 23702
+mergeGenres 774462 117831 320680
+getSongGenre 299977
+getNumberOfGenreChanges 655570
+getNumberOfGenreChanges 323799
+getSongGenre 987670
+getNumberOfSongsByGenre 305218
+getSongGenre 378943
+mergeGenres 812935 58862 465829
+addSong 588854 516825
+getSongGenre 687418
+mergeGenres 465829 320680 535113
+getNumberOfGenreChanges 180049
+getNumberOfGenreChanges 190200
+addSong 234265 516825
+addGenre 90561
+addGenre 70075
+getNumberOfGenreChanges 691711
+addGenre 63179
+addGenre 5698
+getNumberOfSongsByGenre 225224
+addSong 550084 540015
+addSong 651837 647577
+mergeGenres 519281 98320 844531
+addSong 926729 120070
+getNumberOfGenreChanges 894025
+getNumberOfGenreChanges 949968
+addGenre 3244
+getNumberOfSongsByGenre 230802
+getNumberOfSongsByGenre 120070
+getNumberOfGenreChanges 874651
+addGenre 31607
+getSongGenre 993385
+getNumberOfGenreChanges 399572
+addGenre 18299
+getNumberOfSongsByGenre 993631
+getNumberOfSongsByGenre 31607
+mergeGenres 56782 516825 120096
+addSong 553061 225224
+mergeGenres 771523 71289 904253
+getNumberOfSongsByGenre 837641
+getNumberOfSongsByGenre 90561
+getNumberOfGenreChanges 743140
+addGenre 37568
+addGenre 34339
+mergeGenres 80817 31607 275775
+mergeGenres 578715 16265 643355
+addSong 533279 81377
+getNumberOfSongsByGenre 98080
+mergeGenres 109612 286265 420277
+getSongGenre 512171
+addGenre 22400
+getNumberOfSongsByGenre 535113
+getSongGenre 955286
+getSongGenre 423406
+getSongGenre 921930
+mergeGenres 70075 42702 721625
+mergeGenres 729628 647577 699064
+mergeGenres 540015 98080 585397
+addGenre 89182
+getNumberOfGenreChanges 889539
+mergeGenres 37568 535113 570956
+getNumberOfGenreChanges 748228
+getSongGenre 61762
+mergeGenres 18299 301097 369110
+getSongGenre 955286
+getSongGenre 485352
+addSong 368641 3244
+getNumberOfGenreChanges 739640
+getNumberOfGenreChanges 286679
+mergeGenres 699064 5698 873591
+getNumberOfGenreChanges 111985
+addSong 595355 259213
+mergeGenres 275775 873591 666166
+getNumberOfGenreChanges 738019
+addSong 259993 48230
+addGenre 38002
+getNumberOfSongsByGenre 90561
+addSong 379753 80165
+addSong 963873 52518
+getNumberOfGenreChanges 596661
+addSong 937212 52518
+getSongGenre 867141
+mergeGenres 837641 225224 851514
+getNumberOfGenreChanges 721029
+addSong 37864 65475
+mergeGenres 825277 385 691675
+getNumberOfSongsByGenre 48230
+mergeGenres 851514 609863 443528
+addGenre 99046
+addGenre 74629
+getNumberOfSongsByGenre 585397
+addGenre 68556
+mergeGenres 3244 99046 543968
+addGenre 27187
+addSong 271173 38002
+addGenre 77602
+getNumberOfSongsByGenre 185646
+addGenre 44860
+getNumberOfGenreChanges 102994
+getSongGenre 704238
+addSong 447521 259213
+addSong 793667 16037
+addSong 937717 89182
+getNumberOfSongsByGenre 754602
+addSong 149992 420277
+getNumberOfGenreChanges 751112
+getSongGenre 184770
+addSong 694363 68556
+mergeGenres 120096 14615 773996
+addGenre 39644
+addGenre 6760
+addSong 855550 16037
+getNumberOfSongsByGenre 259213
+getNumberOfSongsByGenre 423530
+getNumberOfGenreChanges 163715
+getNumberOfGenreChanges 352794
+mergeGenres 38002 844531 425310
+getNumberOfSongsByGenre 425310
+mergeGenres 721625 230802 694861
+addGenre 83295
+mergeGenres 90561 904253 522750
+mergeGenres 120070 80165 164686
+getSongGenre 444621
+getNumberOfGenreChanges 198163
+getNumberOfSongsByGenre 36005
+addSong 93297 435881
+getSongGenre 968663
+mergeGenres 369110 63179 363890
+mergeGenres 89182 74629 568545
+getSongGenre 180758
+addSong 655727 16037
+addSong 280229 81377
+mergeGenres 16037 52518 701910
+mergeGenres 36005 423530 794670
+addGenre 8017
+getNumberOfSongsByGenre 440175
+getNumberOfGenreChanges 40026
+mergeGenres 259213 993631 775545
+getNumberOfSongsByGenre 773996
+mergeGenres 68556 522750 930135
+addGenre 97995
+addGenre 85146
+mergeGenres 22400 694861 804561
+addSong 398233 701910
+addGenre 89397
+addGenre 66529
+addSong 689442 773996
+mergeGenres 568545 8017 291063
+getNumberOfGenreChanges 423406
+mergeGenres 425310 83295 883485
+addSong 658845 841015
+getNumberOfSongsByGenre 145179
+addGenre 91629
+addGenre 903
+addSong 313016 643355
+addGenre 41552
+mergeGenres 701910 41552 214721
+getSongGenre 721506
+getNumberOfGenreChanges 561347
+getNumberOfSongsByGenre 185646
+addSong 816754 435881
+getNumberOfSongsByGenre 841015
+addGenre 91256
+getNumberOfSongsByGenre 6760
+mergeGenres 77602 53312 936953
+addGenre 68648
+mergeGenres 570956 214721 366031
+getNumberOfGenreChanges 687001
+addGenre 11926
+getNumberOfSongsByGenre 643355
+addGenre 51947
+getNumberOfGenreChanges 197494
+getNumberOfSongsByGenre 48596
+mergeGenres 841015 305218 393370
+mergeGenres 247774 930135 879367
+mergeGenres 666166 164686 851979
+addSong 329324 440175
+addSong 417149 903
+getNumberOfGenreChanges 678690
+addSong 634274 936953
+addSong 706255 91629
+getSongGenre 743680
+addGenre 69173
+getNumberOfSongsByGenre 99077
+mergeGenres 585397 39644 947321
+getNumberOfGenreChanges 505685
+getNumberOfGenreChanges 816200
+getSongGenre 422756
+addSong 9420 883485
+getNumberOfSongsByGenre 794670
+mergeGenres 44860 794670 245860
+getSongGenre 882632
+addSong 495188 91890
+getSongGenre 634897
+getSongGenre 286242
+addGenre 81324
+addGenre 28898
+addGenre 59733
+getNumberOfSongsByGenre 889343
+getNumberOfSongsByGenre 65475
+addGenre 36405
+getNumberOfGenreChanges 356668
+addSong 100069 81377
+getSongGenre 39416
+mergeGenres 91629 543968 426458
+getNumberOfGenreChanges 695616
+addSong 363600 10147
+addSong 227934 420277
+getSongGenre 731019
+addGenre 44547
+mergeGenres 291063 91256 360107
+addSong 968980 69173
+getNumberOfSongsByGenre 426458
+getNumberOfSongsByGenre 754602
+getNumberOfGenreChanges 695616
+mergeGenres 360107 89397 354111
+getNumberOfSongsByGenre 36405
+addSong 362876 6760
+getSongGenre 363600
+getNumberOfGenreChanges 60823
+getNumberOfGenreChanges 730403
+addGenre 665
+mergeGenres 245860 435881 253105
+getNumberOfGenreChanges 391641
+mergeGenres 65475 354111 406810
+mergeGenres 426458 69173 742669
+getSongGenre 655570
+mergeGenres 742669 393370 607977
+addSong 616609 34339
+getNumberOfGenreChanges 340310
+mergeGenres 643355 607977 500683
+addGenre 79616
+addGenre 23051
+addSong 437503 735754
+addSong 976754 665
+getSongGenre 508864
+mergeGenres 68648 883485 319028
+addGenre 30336
+getSongGenre 882632
+getNumberOfGenreChanges 655570
+addGenre 15707
+addGenre 92788
+getNumberOfSongsByGenre 36405
+addSong 810095 319028
+getNumberOfGenreChanges 187176
+getNumberOfSongsByGenre 947321
+addSong 985758 28898
+mergeGenres 804561 691675 202684
+mergeGenres 91890 23051 829049
+addSong 60629 48596
+addGenre 91255
+addSong 138383 10147
+mergeGenres 665 947321 792873
+mergeGenres 91255 36405 685397
+mergeGenres 851979 26378 270853
+addGenre 61183
+getNumberOfGenreChanges 561362
+getNumberOfSongsByGenre 48596
+addSong 693151 61183
+getNumberOfGenreChanges 470340
+getSongGenre 972828
+addGenre 70644
+getSongGenre 11240
+addGenre 66409
+getNumberOfSongsByGenre 61183
+getNumberOfSongsByGenre 500683
+addGenre 41339
+getSongGenre 24574
+getNumberOfGenreChanges 678690
+addGenre 14730
+addGenre 40416
+mergeGenres 420277 66529 785411
+getSongGenre 459617
+addGenre 31441
+addGenre 81821
+addSong 489929 319028
+addGenre 46375
+mergeGenres 618247 936953 124462
+addGenre 12261
+mergeGenres 30336 31441 618762
+addSong 5776 735754
+addGenre 35049
+addSong 289271 618762
+mergeGenres 366031 81821 147473
+mergeGenres 124462 443528 102345
+getNumberOfSongsByGenre 406810
+mergeGenres 879367 99077 600400
+getSongGenre 707394
+addGenre 42138
+addGenre 76931
+mergeGenres 34339 889343 238197
+getNumberOfSongsByGenre 59733
+getNumberOfGenreChanges 889539
+mergeGenres 72713 500683 744880
+mergeGenres 48596 35049 895777
+addSong 486825 440175
+mergeGenres 8825 685397 318452
+getSongGenre 228549
+mergeGenres 97995 14730 823365
+addSong 461310 27187
+getNumberOfGenreChanges 118183
+getSongGenre 606718
+getNumberOfSongsByGenre 46375
+getNumberOfSongsByGenre 33420
+addGenre 9509
+getNumberOfSongsByGenre 754602
+getSongGenre 882632
+mergeGenres 903 318452 470398
+addGenre 18764
+getNumberOfSongsByGenre 18764
+getNumberOfSongsByGenre 775545
+getSongGenre 579807
+getSongGenre 642149
+addSong 580763 600400
+getNumberOfSongsByGenre 735754
+getNumberOfGenreChanges 623906
+getNumberOfGenreChanges 39416
+mergeGenres 51947 440175 217393
+addSong 522236 10147
+getSongGenre 517848
+addGenre 91230
+getNumberOfSongsByGenre 470398
+mergeGenres 41339 12261 568135
+addGenre 32278
+mergeGenres 618762 319028 514147
+getSongGenre 967249
+getSongGenre 989043
+addSong 665658 363890
+addGenre 5326
+getNumberOfSongsByGenre 32278
+addSong 759008 91230
+getNumberOfSongsByGenre 48230
+mergeGenres 238197 11926 533671
+addSong 265048 217393
+addSong 571715 792873
+mergeGenres 10147 145179 235787
+getNumberOfSongsByGenre 792873
+getNumberOfSongsByGenre 18764
+addGenre 63896
+getNumberOfSongsByGenre 76931
+getNumberOfGenreChanges 86764
+getSongGenre 147480
+addSong 219747 33420
+mergeGenres 85146 18764 988664
+addGenre 65065
+addSong 592208 61183
+addSong 306279 270853
+getNumberOfGenreChanges 816200
+addSong 461275 147473
+addGenre 67652
+addGenre 30564
+getNumberOfSongsByGenre 792873
+getNumberOfSongsByGenre 61183
+mergeGenres 406810 270853 906124
+getNumberOfSongsByGenre 40416
+addSong 866936 823365
+addGenre 84711
+getNumberOfSongsByGenre 773996
+getNumberOfSongsByGenre 823365
+getNumberOfSongsByGenre 533671
+addSong 996283 76931
+getSongGenre 111003
+addGenre 92722
+getNumberOfSongsByGenre 202684
+getNumberOfSongsByGenre 59733
+addGenre 10767
+getNumberOfSongsByGenre 46375
+addGenre 7660
+getNumberOfSongsByGenre 754602
+getNumberOfGenreChanges 923293
+getNumberOfGenreChanges 397590
+getNumberOfSongsByGenre 102345
+addGenre 12162
+getSongGenre 136731
+getNumberOfSongsByGenre 988664
+addSong 508719 185646
+getSongGenre 461550
+addGenre 48553
+mergeGenres 61183 48553 811667
+getNumberOfSongsByGenre 906124
+getNumberOfGenreChanges 978751
+addSong 464095 102345
+getSongGenre 300309
+mergeGenres 895777 533671 112817
+getNumberOfGenreChanges 86595
+getSongGenre 341840
+getNumberOfGenreChanges 114574
+addGenre 89199
+getNumberOfGenreChanges 807446
+addGenre 42652
+getNumberOfGenreChanges 397590
+mergeGenres 754602 66409 962690
+getNumberOfSongsByGenre 811667
+getSongGenre 52989
+getNumberOfSongsByGenre 76931
+addGenre 69622
+addGenre 75336
+addSong 473418 44547
+addSong 10170 79616
+getSongGenre 665658
+mergeGenres 92722 773996 278312
+addGenre 65808
+mergeGenres 10767 600400 582157
+addSong 137563 185646
+addGenre 74836
+addSong 909397 582157
+getNumberOfSongsByGenre 363890
+getNumberOfSongsByGenre 102345
+addSong 551260 63896
+addSong 129343 988664
+getNumberOfGenreChanges 848744
+mergeGenres 5326 27187 950280
+getNumberOfSongsByGenre 829049
+addSong 439753 59733
+getNumberOfSongsByGenre 278312
+addGenre 83279
+addGenre 55017
+addGenre 94434
+addGenre 41432
+getNumberOfGenreChanges 750054
+getSongGenre 364168
+getNumberOfSongsByGenre 42652
+getNumberOfGenreChanges 660569
+getNumberOfSongsByGenre 42138
+mergeGenres 582157 6760 909303
+getNumberOfGenreChanges 190200
+addGenre 90558
+addSong 841149 59733
+addGenre 81468
+getNumberOfSongsByGenre 70644
+getNumberOfSongsByGenre 988664
+getNumberOfGenreChanges 785671
+getNumberOfSongsByGenre 32278
+getNumberOfGenreChanges 551418
+getSongGenre 756108
+addSong 257169 55017
+getNumberOfSongsByGenre 89199
+addSong 956614 46375
+getSongGenre 235763
+addSong 716964 70644
+addSong 540418 28898
+getNumberOfSongsByGenre 829049
+addGenre 86785
+mergeGenres 67652 75336 508474
+mergeGenres 950280 278312 251399
+getSongGenre 203304
+addSong 669783 217393
+getNumberOfSongsByGenre 7660
+addSong 273908 9509
+getNumberOfGenreChanges 198163
+getNumberOfGenreChanges 970216
+mergeGenres 909303 32278 141494
+addSong 904404 81468
+getNumberOfSongsByGenre 59733
+addGenre 6541
+getNumberOfSongsByGenre 59733
+getNumberOfGenreChanges 980527
+getSongGenre 642149
+getNumberOfGenreChanges 109488
+getNumberOfSongsByGenre 59733
+getSongGenre 669783
+addGenre 99935
+addGenre 24798
+getNumberOfSongsByGenre 42138
+getSongGenre 696323
+getNumberOfSongsByGenre 24798
+mergeGenres 74836 76931 613305
+addGenre 6491
+addGenre 42472
+addSong 935540 28898
+mergeGenres 65065 55017 501291
+getSongGenre 260776
+getNumberOfSongsByGenre 41432
+addSong 576428 86785
+addSong 923948 44547
+getNumberOfGenreChanges 966846
+mergeGenres 829049 735754 868161
+addGenre 49180
+getNumberOfGenreChanges 9420
+getSongGenre 363600
+getSongGenre 397476
+getNumberOfSongsByGenre 59733
+getNumberOfSongsByGenre 7660
+getNumberOfSongsByGenre 91230
+getSongGenre 315201
+addSong 852190 99935
+mergeGenres 514147 568135 794683
+getNumberOfSongsByGenre 59733
+getSongGenre 109488
+mergeGenres 69622 185646 882155
+getSongGenre 541678
+getNumberOfSongsByGenre 42652
+getNumberOfGenreChanges 918136
+addSong 53644 6541
+addSong 913909 251399
+addGenre 59101
+addGenre 97865
+getSongGenre 506480
+getNumberOfSongsByGenre 868161
+getNumberOfSongsByGenre 775545
+addSong 188727 253105
+addSong 786450 89199
+addGenre 92423
+getSongGenre 496026
+getNumberOfSongsByGenre 501291
+mergeGenres 785411 141494 241897
+mergeGenres 94434 86785 346149
+getNumberOfGenreChanges 150135
+mergeGenres 92423 89199 250604
+getNumberOfSongsByGenre 91230
+mergeGenres 147473 48230 604673
+getNumberOfSongsByGenre 792873
+getSongGenre 508719
+getNumberOfGenreChanges 841379
+getNumberOfSongsByGenre 613305
+mergeGenres 81468 42652 605894
+getSongGenre 795312
+mergeGenres 250604 65808 391409
+getNumberOfSongsByGenre 112817
+mergeGenres 42138 49180 947919
+getNumberOfGenreChanges 751988
+getSongGenre 359641
+getSongGenre 65038
+getSongGenre 64287
+getNumberOfSongsByGenre 40416
+addSong 304265 99935
+getNumberOfSongsByGenre 363890
+addSong 131976 9509
+mergeGenres 470398 253105 692424
+getSongGenre 656342
+addGenre 23599
+getNumberOfGenreChanges 525215
+mergeGenres 346149 12162 216829
+getNumberOfSongsByGenre 792873
+getNumberOfSongsByGenre 811667
+addSong 686740 251399
+addSong 575127 44547
+addGenre 79273
+getNumberOfGenreChanges 259993
+addSong 816925 794683
+addGenre 53780
+getSongGenre 141542
+mergeGenres 6491 962690 349659
+mergeGenres 42472 811667 720835
+getSongGenre 61064
+getSongGenre 188727
+addGenre 36924
+getSongGenre 280770
+mergeGenres 792873 501291 616783
+addGenre 84644
+addSong 315226 988664
+getSongGenre 638161
+getSongGenre 172350
+addGenre 84402
+getNumberOfGenreChanges 923948
+getNumberOfSongsByGenre 9509
+mergeGenres 692424 97865 104774
+getNumberOfGenreChanges 712324
+addSong 342019 202684
+getSongGenre 576385
+addGenre 59577
+getSongGenre 813334
+getNumberOfSongsByGenre 112817
+getNumberOfGenreChanges 823196
+getSongGenre 622369
+getSongGenre 53644
+addGenre 39083
+addGenre 67019
+mergeGenres 391409 63896 332837
+mergeGenres 15707 33420 263989
+getSongGenre 70682
+getNumberOfGenreChanges 970216
+getSongGenre 131741
+getSongGenre 215553
+mergeGenres 83279 823365 329332
+getNumberOfGenreChanges 68079
+addGenre 12850
+mergeGenres 616783 720835 252687
+getSongGenre 841116
+getSongGenre 118534
+getNumberOfSongsByGenre 605894
+addSong 935054 99935
+getSongGenre 498048
+getSongGenre 550084
+getNumberOfGenreChanges 183454
+getSongGenre 891906
+addSong 945795 202684
+getNumberOfSongsByGenre 241897
+addGenre 33363
+getNumberOfGenreChanges 75648
+addSong 262886 46375
+getNumberOfGenreChanges 557681
+getSongGenre 855550
+getNumberOfGenreChanges 316568
+getNumberOfGenreChanges 179063
+getSongGenre 647723
+getSongGenre 189956
+mergeGenres 81377 7660 148010
+getNumberOfSongsByGenre 67019
+getSongGenre 605360
+getSongGenre 743140
+addGenre 95385
+getNumberOfSongsByGenre 363890
+getSongGenre 623906
+addSong 380155 794683
+getSongGenre 431334
+getNumberOfGenreChanges 922357
+getNumberOfSongsByGenre 613305
+getSongGenre 76952
+getNumberOfGenreChanges 976754
+addGenre 23545
+addGenre 8786
+mergeGenres 235787 744880 933769
+getNumberOfGenreChanges 736793
+addSong 248948 90558
+getNumberOfSongsByGenre 605894
+mergeGenres 8786 202684 661486
+getSongGenre 284078
+addSong 692844 9509
+getNumberOfGenreChanges 304265
+getNumberOfSongsByGenre 95385
+getSongGenre 430808
+getNumberOfGenreChanges 299977
+addGenre 25945
+addGenre 7453
+getNumberOfSongsByGenre 252687
+addSong 381887 9509
+getNumberOfSongsByGenre 882155
+addGenre 34501
+addSong 260882 263989
+mergeGenres 84711 46375 363852
+getSongGenre 733987
+getNumberOfGenreChanges 905567
+getNumberOfSongsByGenre 36924
+addGenre 66644
+getSongGenre 849245
+getNumberOfSongsByGenre 251399
+addSong 17409 252687
+mergeGenres 775545 59733 596119
+mergeGenres 251399 24798 644549
+mergeGenres 84644 363890 967028
+getNumberOfGenreChanges 335257
+addGenre 96106
+getSongGenre 153886
+mergeGenres 868161 81324 135875
+getNumberOfSongsByGenre 967028
+getSongGenre 506480
+getSongGenre 53644
+getNumberOfSongsByGenre 96106
+getSongGenre 816200
+addGenre 86826
+mergeGenres 148010 23545 776522
+addGenre 60896
+getNumberOfGenreChanges 945795
+getNumberOfSongsByGenre 363852
+getSongGenre 138383
+getNumberOfGenreChanges 387173
+getNumberOfSongsByGenre 135875
+getSongGenre 922357
+getNumberOfGenreChanges 959568
+mergeGenres 604673 882155 669264
+getNumberOfSongsByGenre 967028
+getNumberOfGenreChanges 978751
+getNumberOfGenreChanges 451556
+getSongGenre 391272
+getNumberOfGenreChanges 189956
+getNumberOfGenreChanges 905567
+getNumberOfSongsByGenre 86826
+getNumberOfGenreChanges 702300
+addSong 44254 988664
+addSong 74092 44547
+mergeGenres 66644 596119 996646
+mergeGenres 7453 613305 916112
+mergeGenres 508474 30564 874073
+getNumberOfSongsByGenre 40416
+mergeGenres 33363 79273 111568
+addSong 678811 90558
+getSongGenre 218231
+addSong 799070 79616
+mergeGenres 41432 644549 380959
+mergeGenres 96106 67019 407716
+getNumberOfGenreChanges 985746
+addGenre 6814
+getNumberOfSongsByGenre 112817
+getNumberOfGenreChanges 76952
+getNumberOfGenreChanges 472384
+getSongGenre 561362
+getSongGenre 571715
+addGenre 3412
+mergeGenres 988664 874073 248106
+mergeGenres 605894 104774 381012
+getNumberOfGenreChanges 481347
+getSongGenre 976754
+getNumberOfGenreChanges 371269
+mergeGenres 102345 248106 304264
+addSong 473996 44547
+addGenre 52888
+mergeGenres 381012 86826 866701
+addSong 754319 661486
+getNumberOfSongsByGenre 9509
+addSong 416242 23599
+mergeGenres 60896 3412 243707
+addSong 205951 112817
+getSongGenre 265771
+addSong 130419 70644
+getNumberOfGenreChanges 192487
+mergeGenres 866701 263989 638885
+addGenre 96186
+addGenre 76018
+getSongGenre 486133
+mergeGenres 349659 36924 322998
+getNumberOfSongsByGenre 59101
+mergeGenres 59101 661486 762503
+getSongGenre 955286
+getNumberOfGenreChanges 363600
+addGenre 31880
+getNumberOfSongsByGenre 332837
+getNumberOfGenreChanges 60077
+getNumberOfSongsByGenre 322998
+addGenre 4218
+addGenre 27391
+getNumberOfGenreChanges 495674
+getSongGenre 816925
+getSongGenre 273116
+mergeGenres 90558 59577 189407
+mergeGenres 933769 70644 581823
+addSong 705917 762503
+getNumberOfGenreChanges 190103
+getSongGenre 623906
+addGenre 85113
+getNumberOfGenreChanges 427123
+mergeGenres 252687 39083 120390
+getNumberOfGenreChanges 643680
+mergeGenres 947919 9509 777600
+getSongGenre 484276
+getNumberOfGenreChanges 78403
+getSongGenre 965
+addSong 746351 23599
+getNumberOfSongsByGenre 407716
+addGenre 64728
+getSongGenre 284078
+getNumberOfGenreChanges 632604
+addGenre 71195
+mergeGenres 64728 777600 758576
+mergeGenres 329332 85113 892563
+getNumberOfGenreChanges 262886
+mergeGenres 638885 44547 842259
+getNumberOfSongsByGenre 84402
+mergeGenres 794683 23599 149394
+addSong 184632 4218
+getSongGenre 459617
+addSong 211728 53780
+getNumberOfGenreChanges 39416
+getNumberOfSongsByGenre 906124
+addGenre 31625
+getNumberOfGenreChanges 788197
+getSongGenre 974312
+mergeGenres 581823 906124 429089
+getNumberOfSongsByGenre 407716
+getNumberOfGenreChanges 978751
+getNumberOfGenreChanges 301425
+addGenre 70635
+getNumberOfGenreChanges 966846
+getNumberOfGenreChanges 400159
+mergeGenres 71195 6814 934885
+getNumberOfGenreChanges 756108
+getNumberOfGenreChanges 386183
+getNumberOfGenreChanges 406161
+mergeGenres 189407 967028 976030
+addSong 38721 429089
+getNumberOfGenreChanges 893246
+addSong 786366 12850
+mergeGenres 216829 40416 346583
+getNumberOfGenreChanges 210896
+mergeGenres 120390 149394 439740
+mergeGenres 934885 31880 172487
+getNumberOfSongsByGenre 776522
+getNumberOfSongsByGenre 70635
+getSongGenre 874651
+getNumberOfGenreChanges 290800
+getSongGenre 458839
+getNumberOfSongsByGenre 31625
+getNumberOfGenreChanges 935540
+getNumberOfSongsByGenre 243707
+getSongGenre 485352
+mergeGenres 12850 758576 140632
+getNumberOfGenreChanges 582038
+addGenre 36817
+addSong 629603 140632
+getNumberOfSongsByGenre 241897
+mergeGenres 31625 172487 298500
+addGenre 77384
+getNumberOfSongsByGenre 135875
+getSongGenre 458839
+mergeGenres 669264 79616 133531
+addSong 485210 135875
+mergeGenres 96186 52888 249312
+addSong 449850 76018
+addSong 40956 346583
+getSongGenre 447521
+mergeGenres 6541 95385 790675
+addSong 875969 28898
+addSong 137200 135875
+mergeGenres 916112 133531 127260
+mergeGenres 112817 790675 538220
+mergeGenres 996646 25945 609621
+getNumberOfSongsByGenre 243707
+getNumberOfSongsByGenre 249312
+mergeGenres 363852 538220 499573
+getNumberOfSongsByGenre 127260
+addSong 514206 976030
+getSongGenre 871537
+getNumberOfSongsByGenre 111568
+getNumberOfSongsByGenre 53780
+getNumberOfSongsByGenre 36817
+getNumberOfGenreChanges 64287
+getNumberOfSongsByGenre 304264
+getNumberOfGenreChanges 299977
+addSong 330534 243707
+getNumberOfGenreChanges 356523
+mergeGenres 76018 99935 986106
+getNumberOfSongsByGenre 842259
+getNumberOfSongsByGenre 499573
+mergeGenres 986106 243707 346627
+addGenre 50897
+getNumberOfGenreChanges 212017
+addGenre 83005
+mergeGenres 70635 776522 546104
+getSongGenre 46226
+addSong 45887 762503
+mergeGenres 380959 332837 290428
+mergeGenres 50897 92788 316465
+getNumberOfGenreChanges 179063
+addGenre 43105
+getSongGenre 235763
+addSong 955747 43105
+mergeGenres 91230 27391 508572
+addSong 473451 322998
+addSong 105015 508572
+getSongGenre 696323
+getNumberOfSongsByGenre 290428
+mergeGenres 976030 429089 616701
+addSong 608362 249312
+addGenre 48713
+getSongGenre 33640
+addSong 265257 36817
+getNumberOfSongsByGenre 249312
+getNumberOfSongsByGenre 439740
+getNumberOfSongsByGenre 298500
+getNumberOfGenreChanges 268464
+getNumberOfSongsByGenre 83005
+addSong 24319 508572
+getNumberOfGenreChanges 605824
+getSongGenre 596661
+getNumberOfGenreChanges 61762
+getSongGenre 210896
+mergeGenres 762503 43105 600305
+getSongGenre 281364
+addSong 579359 34501
+addGenre 22964
+getNumberOfSongsByGenre 304264
+getNumberOfGenreChanges 475141
+getNumberOfGenreChanges 827732
+addSong 947020 77384
+getNumberOfGenreChanges 461550
+getSongGenre 788197
+getNumberOfSongsByGenre 22964
+getNumberOfSongsByGenre 892563
+getNumberOfGenreChanges 746351
+getNumberOfSongsByGenre 508572
+addSong 275064 48713
+getSongGenre 956528
+getSongGenre 891906
+getNumberOfGenreChanges 60629
+mergeGenres 346627 842259 605474
+addGenre 69474
+getSongGenre 227469
+mergeGenres 304264 241897 418029
+getSongGenre 496026
+addGenre 72341
+mergeGenres 36817 346583 733111
+addGenre 43942
+getNumberOfSongsByGenre 217393
+addGenre 66191
+getSongGenre 463278
+addGenre 26698
+addSong 294257 407716
+addGenre 4378
+getNumberOfSongsByGenre 4378
+getNumberOfGenreChanges 301425
+getSongGenre 522236
+getSongGenre 592457
+addSong 31915 316465
+getNumberOfSongsByGenre 407716
+getNumberOfGenreChanges 774402
+getSongGenre 378063
+addSong 951705 605474
+addSong 759276 733111
+getNumberOfSongsByGenre 26698
+mergeGenres 4378 26698 409765
+mergeGenres 48713 316465 938746
+getNumberOfGenreChanges 728125
+addGenre 6252
+getNumberOfSongsByGenre 439740
+getSongGenre 461831
+getNumberOfGenreChanges 421304
+mergeGenres 546104 84402 585858
+addGenre 26945
+addGenre 22484
+getNumberOfSongsByGenre 111568
+getSongGenre 45016
+addSong 17642 616701
+getNumberOfGenreChanges 286242
+addGenre 52922
+addGenre 71521
+mergeGenres 22964 6252 506378
+getNumberOfSongsByGenre 249312
+addSong 704049 938746
+addSong 990911 499573
+addGenre 66163
+mergeGenres 298500 135875 330676
+addGenre 65477
+getNumberOfGenreChanges 970888
+getNumberOfGenreChanges 831942
+addGenre 41750
+mergeGenres 407716 69474 972849
+addGenre 95113
+getNumberOfGenreChanges 514206
+getNumberOfSongsByGenre 330676
+mergeGenres 249312 71521 393819
+getNumberOfGenreChanges 874651
+addSong 816018 605474
+getNumberOfGenreChanges 795312
+getNumberOfSongsByGenre 585858
+mergeGenres 609621 506378 250988
+addSong 101027 66163
+mergeGenres 393819 290428 557049
+getSongGenre 714602
+getNumberOfSongsByGenre 53780
+getNumberOfGenreChanges 230709
+mergeGenres 409765 972849 199566
+addGenre 11720
+getNumberOfGenreChanges 676491
+getNumberOfGenreChanges 573585
+addSong 732204 127260
+addGenre 60956
+addSong 840021 43942
+getNumberOfGenreChanges 40515
+addSong 90710 52922
+addSong 4459 53780
+mergeGenres 616701 41750 548862
+getSongGenre 111708
+addGenre 71000
+addGenre 16521
+getNumberOfGenreChanges 302517
+getNumberOfGenreChanges 909397
+mergeGenres 60956 557049 217240
+getNumberOfSongsByGenre 217240
+addGenre 38859
+addGenre 99898
+mergeGenres 585858 53780 766632
+mergeGenres 4218 439740 140608
+getNumberOfGenreChanges 918874
+addGenre 93833
+getSongGenre 202768
+addSong 678750 605474
+addSong 269092 93833
+addGenre 83159
+getNumberOfSongsByGenre 600305
+addGenre 61067
+getSongGenre 976754
+getNumberOfGenreChanges 539544
+getSongGenre 192487
+mergeGenres 499573 938746 772225
+mergeGenres 140608 71000 307728
+getSongGenre 485210
+getSongGenre 512171
+addSong 482342 766632
+addGenre 51608
+getNumberOfSongsByGenre 605474
+getSongGenre 958359
+mergeGenres 83159 111568 683605
+addSong 398960 217393
+addGenre 67575
+getSongGenre 989043
+addGenre 92847
+getNumberOfGenreChanges 400159
+addGenre 44296
+addSong 106309 330676
+getSongGenre 955747
+getNumberOfGenreChanges 515066
+getSongGenre 687418
+mergeGenres 66191 61067 558333
+getNumberOfGenreChanges 163218
+getNumberOfSongsByGenre 51608
+getNumberOfSongsByGenre 72341
+getSongGenre 774202
+addGenre 21091
+mergeGenres 892563 217240 324430
+getNumberOfSongsByGenre 558333
+addGenre 48717
+mergeGenres 217393 72341 686426
+mergeGenres 83005 322998 306118
+getSongGenre 660950
+addGenre 54444
+getNumberOfGenreChanges 535939
+addGenre 27113
+addGenre 54044
+mergeGenres 92847 600305 792962
+getNumberOfSongsByGenre 67575
+addGenre 82703
+getNumberOfGenreChanges 730265
+getNumberOfSongsByGenre 67575
+addGenre 69038
+addGenre 21655
+addSong 620609 69038
+addGenre 11076
+getSongGenre 291121
+addSong 410610 54044
+mergeGenres 82703 21655 587346
+mergeGenres 34501 418029 173806
+getNumberOfSongsByGenre 766632
+getSongGenre 901319
+addGenre 55656
+addGenre 35195
+mergeGenres 11076 67575 789618
+mergeGenres 16521 330676 288294
+addSong 368684 558333
+addGenre 31129
+mergeGenres 93833 11720 985939
+getNumberOfGenreChanges 167935
+addSong 36507 985939
+addSong 976636 65477
+getNumberOfGenreChanges 921930
+getSongGenre 302517
+addGenre 65506
+getNumberOfGenreChanges 298349
+getNumberOfSongsByGenre 35195
+getSongGenre 831942
+addGenre 83609
+getNumberOfSongsByGenre 199566
+getNumberOfSongsByGenre 31129
+addSong 104111 22484
+addGenre 59116
+mergeGenres 65477 587346 529733
+addGenre 63519
+getNumberOfSongsByGenre 48717
+addSong 737274 22484
+getNumberOfSongsByGenre 43942
+addSong 509325 69038
+mergeGenres 35195 605474 572428
+getNumberOfGenreChanges 111985
+addGenre 60733
+addSong 626047 683605
+getSongGenre 485352
+mergeGenres 173806 572428 438138
+getNumberOfSongsByGenre 548862
+getSongGenre 386183
+getNumberOfSongsByGenre 51608
+addGenre 42643
+addSong 766221 985939
+getNumberOfSongsByGenre 140632
+addGenre 27663
+addSong 892538 21091
+getNumberOfSongsByGenre 65506
+getNumberOfGenreChanges 230709
+mergeGenres 733111 27663 252485
+getNumberOfSongsByGenre 55656
+getNumberOfSongsByGenre 529733
+getNumberOfGenreChanges 432884
+mergeGenres 69038 38859 988267
+mergeGenres 95113 250988 962793
+getNumberOfSongsByGenre 529733
+addGenre 86360
+addGenre 38431
+addSong 993667 789618
+mergeGenres 438138 324430 619862
+getSongGenre 773552
+mergeGenres 199566 42643 375391
+getNumberOfSongsByGenre 375391
+addSong 249045 792962
+getNumberOfSongsByGenre 127260
+mergeGenres 22484 66163 712792
+addGenre 26639
+addGenre 32845
+addGenre 94757
+getNumberOfGenreChanges 999946
+mergeGenres 686426 683605 395108
+getSongGenre 378877
+getSongGenre 292833
+mergeGenres 252485 772225 375794
+addGenre 59999
+addGenre 22860
+addGenre 15151
+mergeGenres 712792 55656 345457
+addSong 395515 395108
+addSong 222647 52922
+addSong 316989 38431
+getNumberOfGenreChanges 136421
+getNumberOfSongsByGenre 52922
+addGenre 32521
+getNumberOfSongsByGenre 59999
+addSong 528549 395108
+getSongGenre 465566
+mergeGenres 548862 59116 689936
+addSong 403118 65506
+addSong 24344 94757
+getSongGenre 540074
+getNumberOfSongsByGenre 38431
+getSongGenre 301425
+addSong 743529 22860
+getNumberOfGenreChanges 891768
+addGenre 6851
+getNumberOfGenreChanges 692281
+addGenre 28434
+addSong 667463 127260
+getSongGenre 891768
+getSongGenre 478170
+addSong 972081 83609
+addGenre 33766
+getNumberOfGenreChanges 658845
+addGenre 77278
+getNumberOfGenreChanges 23702
+getSongGenre 531211
+getNumberOfSongsByGenre 789618
+addSong 610009 31129
+addGenre 678
+mergeGenres 26639 44296 206336
+getNumberOfGenreChanges 913909
+getNumberOfSongsByGenre 140632
+getNumberOfSongsByGenre 77384
+addGenre 91480
+addSong 46660 140632
+getNumberOfSongsByGenre 127260
+getSongGenre 656342
+mergeGenres 52922 689936 195567
+getNumberOfGenreChanges 985746
+addGenre 76394
+getNumberOfGenreChanges 416242
+getSongGenre 584560
+getNumberOfSongsByGenre 60733
+getSongGenre 611953
+getSongGenre 443908
+addGenre 40431
+mergeGenres 59999 140632 899427
+getNumberOfGenreChanges 70682
+mergeGenres 789618 43942 581091
+getSongGenre 461310
+addGenre 45488
+getSongGenre 275064
+addGenre 96649
+getNumberOfGenreChanges 712324
+getNumberOfSongsByGenre 28434
+getSongGenre 950330

@@ -1,0 +1,14 @@
+==213691== Memcheck, a memory error detector
+==213691== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==213691== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==213691== Command: ./main.out
+==213691== 
+==213691== 
+==213691== HEAP SUMMARY:
+==213691==     in use at exit: 0 bytes in 0 blocks
+==213691==   total heap usage: 14,194 allocs, 14,194 frees, 811,087 bytes allocated
+==213691== 
+==213691== All heap blocks were freed -- no leaks are possible
+==213691== 
+==213691== For lists of detected and suppressed errors, rerun with: -s
+==213691== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
